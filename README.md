@@ -30,14 +30,14 @@ This project is organized by fans of the "Dead Rabbit Radio" podcast and members
 
 ## Dead Rabbit Radio Social Media and Contact Information
 
-Logo Art By Ash Black
-Opening Song: "Atlantis Attacks"
-Closing Song: "Bella Royale"
-Music By Simple Hood River
-http://www.DeadRabbit.com
-Email: DeadRabbitRadio@gmail.com
-Twitter: [@DeadRabbitRadio](https://twitter.com/deadrabbitradio)
-Facebook: [www.Facebook.com/DeadRabbitRadio](https://www.facebook.com/deadrabbitradio)
-TikTok: [https://www.tiktok.com/@deadrabbitradio](https://www.tiktok.com/@deadrabbitradio)
-Pinterest: [https://www.pinterest.com/basque5150/jason-carpenter-hood-river/](https://www.pinterest.com/basque5150/jason-carpenter-hood-river/)
-Paranormal, Conspiracy, and True Crime news as it happens! Jason Carpenter breaks the stories they'll be talking about tomorrow, assuming the world doesn't end today.
+- Logo Art By Ash Black
+- Opening Song: "Atlantis Attacks"
+- Closing Song: "Bella Royale"
+- Music By Simple Hood River
+- http://www.DeadRabbit.com
+- Email: DeadRabbitRadio@gmail.com
+- Twitter: [@DeadRabbitRadio](https://twitter.com/deadrabbitradio)
+- Facebook: [www.Facebook.com/DeadRabbitRadio](https://www.facebook.com/deadrabbitradio)
+- TikTok: [https://www.tiktok.com/@deadrabbitradio](https://www.tiktok.com/@deadrabbitradio)
+- Pinterest: [https://www.pinterest.com/basque5150/jason-carpenter-hood-river/](https://www.pinterest.com/basque5150/jason-carpenter-hood-river/) 
+- Paranormal, Conspiracy, and True Crime news as it happens! Jason Carpenter breaks the stories they'll be talking about tomorrow, assuming the world doesn't end today.
