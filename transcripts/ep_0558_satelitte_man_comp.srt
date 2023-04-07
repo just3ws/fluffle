@@ -1,0 +1,2800 @@
+1
+00:00:00,000 --> 00:00:04,560
+ A bizarre series of reviews appear on the internet movie database.
+
+2
+00:00:04,560 --> 00:00:07,360
+ Are they the rantteens of a lunatic?
+
+3
+00:00:07,360 --> 00:00:09,560
+ Or the ravings of a madman?
+
+4
+00:00:09,560 --> 00:00:15,080
+ And then we blast off and join the astronaut John Smith in outer space.
+
+5
+00:00:15,080 --> 00:00:17,600
+ Some people say he never existed.
+
+6
+00:00:17,600 --> 00:00:20,720
+ Some people say there's two of him.
+
+7
+00:00:20,720 --> 00:00:22,160
+ Today on Dead Rabbit Radio.
+
+8
+00:00:22,160 --> 00:00:30,000
+ [Music]
+
+9
+00:00:30,000 --> 00:00:32,880
+ Hey everyone, welcome back to another episode of Dead Rabbit Radio.
+
+10
+00:00:32,880 --> 00:00:33,880
+ I'm your host Jason Garbender.
+
+11
+00:00:33,880 --> 00:00:34,880
+ I'm having a great day.
+
+12
+00:00:34,880 --> 00:00:36,080
+ Hope you guys are having a great day too.
+
+13
+00:00:36,080 --> 00:00:39,840
+ I hope you guys have some awesome plans for this weekend.
+
+14
+00:00:39,840 --> 00:00:44,680
+ First off, I want to give a shout out to our newest Patreon supporter, Lawrence Herbert.
+
+15
+00:00:44,680 --> 00:00:45,880
+ Everyone give a round of applause.
+
+16
+00:00:45,880 --> 00:00:46,880
+ He's walking in.
+
+17
+00:00:46,880 --> 00:00:47,880
+ Fireworks are going off.
+
+18
+00:00:47,880 --> 00:00:48,880
+ He didn't expect that.
+
+19
+00:00:48,880 --> 00:00:49,880
+ It's kind of scaring him.
+
+20
+00:00:49,880 --> 00:00:50,880
+ But it's okay.
+
+21
+00:00:50,880 --> 00:00:51,880
+ He remains his composure.
+
+22
+00:00:51,880 --> 00:00:54,960
+ Lawrence, you're going to be our captain, our pilot this episode.
+
+23
+00:00:54,960 --> 00:00:57,400
+ If you can't deploy the Patreon, that's fine too.
+
+24
+00:00:57,400 --> 00:00:58,960
+ Just help get the word out about the show.
+
+25
+00:00:58,960 --> 00:01:01,000
+ That also really helps out a lot.
+
+26
+00:01:01,000 --> 00:01:04,600
+ Also today is the first time we are doing Fan Art Friday.
+
+27
+00:01:04,600 --> 00:01:09,800
+ Today's Fan Art was provided by Paulie Heikilla.
+
+28
+00:01:09,800 --> 00:01:12,120
+ Paulie Heikilla from Finland.
+
+29
+00:01:12,120 --> 00:01:14,600
+ So everyone, tip of your hat.
+
+30
+00:01:14,600 --> 00:01:16,400
+ Or what else do you do?
+
+31
+00:01:16,400 --> 00:01:17,400
+ Kicking your shoes?
+
+32
+00:01:17,400 --> 00:01:19,600
+ To Paulie, thank you so much for providing this artwork.
+
+33
+00:01:19,600 --> 00:01:20,600
+ It's kind of spooky.
+
+34
+00:01:20,600 --> 00:01:22,200
+ It looks a little punk rock.
+
+35
+00:01:22,200 --> 00:01:23,200
+ I love it.
+
+36
+00:01:23,200 --> 00:01:27,640
+ If you want to have your artwork sent in for Fan Art Friday, just go ahead and email it
+
+37
+00:01:27,640 --> 00:01:29,600
+ to me or post it on Instagram or whatever.
+
+38
+00:01:29,600 --> 00:01:32,320
+ However, you get in contact with me, Weegeeboard.
+
+39
+00:01:32,320 --> 00:01:33,840
+ You send spirits after me.
+
+40
+00:01:33,840 --> 00:01:38,080
+ And just say I have permission to use your artwork and I will go ahead and get it posted
+
+41
+00:01:38,080 --> 00:01:39,760
+ for Fan Art Friday.
+
+42
+00:01:39,760 --> 00:01:44,080
+ So Lawrence, I'm actually going to give you the keys to a new vehicle.
+
+43
+00:01:44,080 --> 00:01:45,760
+ We're using this for the first time.
+
+44
+00:01:45,760 --> 00:01:47,560
+ The Dead Rabbit Data Disk.
+
+45
+00:01:47,560 --> 00:01:50,800
+ Actually, I guess it's more like one of those Frisbees from Tron.
+
+46
+00:01:50,800 --> 00:01:52,560
+ So all of a sudden Lawrence is wearing a Tron suit.
+
+47
+00:01:52,560 --> 00:01:54,760
+ He's like, "Oh, man, I paid too much for those other clothes.
+
+48
+00:01:54,760 --> 00:01:55,760
+ Am I going to get them back?"
+
+49
+00:01:55,760 --> 00:01:56,760
+ I'm like, "No.
+
+50
+00:01:56,760 --> 00:01:59,120
+ They've been digitized and they're gone forever.
+
+51
+00:01:59,120 --> 00:02:01,040
+ Now you look like Tron."
+
+52
+00:02:01,040 --> 00:02:08,600
+ And he pulls the Frisbee off of his back and he beams us into the internet.
+
+53
+00:02:08,600 --> 00:02:09,600
+ We're flying.
+
+54
+00:02:09,600 --> 00:02:12,200
+ A bunch of graphics or a bunch of clip art.
+
+55
+00:02:12,200 --> 00:02:13,600
+ We're flying through a tunnel of clip art.
+
+56
+00:02:13,600 --> 00:02:16,020
+ We see like a little cat dancing.
+
+57
+00:02:16,020 --> 00:02:22,480
+ He takes us into the internet and then finally we land in the internet movie database.
+
+58
+00:02:22,480 --> 00:02:27,520
+ It's just hundreds of thousands of films all playing at the same time and we're just kind
+
+59
+00:02:27,520 --> 00:02:30,360
+ of walking through the void watching them.
+
+60
+00:02:30,360 --> 00:02:34,120
+ We start to see a movie review pop up on 171 different films.
+
+61
+00:02:34,120 --> 00:02:40,000
+ They're all the same review, regardless of the film, regardless of the genre, horror,
+
+62
+00:02:40,000 --> 00:02:41,680
+ sci-fi, action.
+
+63
+00:02:41,680 --> 00:02:43,680
+ They're all exactly the same.
+
+64
+00:02:43,680 --> 00:02:48,820
+ They're all posted by a guy named Bob Piano Snailcat Dog, a Gave ant bat.
+
+65
+00:02:48,820 --> 00:02:52,260
+ So that should kind of show you his mental state.
+
+66
+00:02:52,260 --> 00:02:53,740
+ That's the name he prefers to go by.
+
+67
+00:02:53,740 --> 00:02:56,020
+ "Oh, but you can call me ant bat."
+
+68
+00:02:56,020 --> 00:02:58,380
+ He says he pops out of the void.
+
+69
+00:02:58,380 --> 00:03:00,620
+ We didn't know he had a data disk as well.
+
+70
+00:03:00,620 --> 00:03:06,260
+ And so he's standing there now, a little ant bat, a little tiny ant sized bat, and he
+
+71
+00:03:06,260 --> 00:03:09,860
+ begins to tell us the reviews of his movies.
+
+72
+00:03:09,860 --> 00:03:12,980
+ Here they all are exactly the same.
+
+73
+00:03:12,980 --> 00:03:16,520
+ They're like, "How can you review 171 different movies with the exact same--?"
+
+74
+00:03:16,520 --> 00:03:18,600
+ Because they're not reviews.
+
+75
+00:03:18,600 --> 00:03:21,240
+ They're a diatribe, a rant, really.
+
+76
+00:03:21,240 --> 00:03:25,320
+ Imagine you're looking at the movie Troll's World Tour.
+
+77
+00:03:25,320 --> 00:03:26,560
+ This is one of the reviews you see.
+
+78
+00:03:26,560 --> 00:03:28,760
+ Four out of ten stars, by the way.
+
+79
+00:03:28,760 --> 00:03:36,960
+ Any contact with females is the dystopian road to babies, guys.
+
+80
+00:03:36,960 --> 00:03:41,360
+ I'm gonna say there's no grammar in this, so technically he's saying it's the road
+
+81
+00:03:41,360 --> 00:03:44,700
+ to baby guys, which is kind of adorable.
+
+82
+00:03:44,700 --> 00:03:51,480
+ But he's trying to warn us guys that women are the road to babies, which I think anyone
+
+83
+00:03:51,480 --> 00:03:53,900
+ over the age of 12 knows.
+
+84
+00:03:53,900 --> 00:03:56,820
+ But anyways, I will disagree, right?
+
+85
+00:03:56,820 --> 00:03:59,780
+ I mean, yeah, you can have babies with women.
+
+86
+00:03:59,780 --> 00:04:05,200
+ But any contact, like a fly lands on me and then a fly takes a little bit of my DNA and
+
+87
+00:04:05,200 --> 00:04:07,660
+ lands on a woman and then babies are made.
+
+88
+00:04:07,660 --> 00:04:10,460
+ And if so, I got a lot of kids out there.
+
+89
+00:04:10,460 --> 00:04:11,960
+ But what does this have to do with movies?
+
+90
+00:04:11,960 --> 00:04:12,960
+ Well, I'm not finished.
+
+91
+00:04:12,960 --> 00:04:15,160
+ That's not the whole review.
+
+92
+00:04:15,160 --> 00:04:20,680
+ He's trying to warn us, see, that women are the road to babies, guys.
+
+93
+00:04:20,680 --> 00:04:22,400
+ So what does this have to do with movies?
+
+94
+00:04:22,400 --> 00:04:29,720
+ Movies actually have subliminal messages in them to make us want to get with women.
+
+95
+00:04:29,720 --> 00:04:35,120
+ So if you had never seen a movie or a television show before, you would never want baby guys.
+
+96
+00:04:35,120 --> 00:04:38,920
+ But then, like a true maniac, he shifts gears, right?
+
+97
+00:04:38,920 --> 00:04:41,180
+ And we're like, okay, he's one of those guys.
+
+98
+00:04:41,180 --> 00:04:42,680
+ He shifts gears.
+
+99
+00:04:42,680 --> 00:04:47,220
+ Andrew Jackson was the greatest president behind Lincoln?
+
+100
+00:04:47,220 --> 00:04:48,220
+ Question mark.
+
+101
+00:04:48,220 --> 00:04:49,620
+ So even he's unsure about this.
+
+102
+00:04:49,620 --> 00:04:54,140
+ I don't know much about the legacy of Andrew Jackson, but President Lincoln's kind of hard
+
+103
+00:04:54,140 --> 00:04:55,140
+ to top.
+
+104
+00:04:55,140 --> 00:04:59,100
+ Andrew Jackson was the greatest president behind Lincoln.
+
+105
+00:04:59,100 --> 00:05:03,740
+ The only one, I'm really fixing, really fixing the grammar on this.
+
+106
+00:05:03,740 --> 00:05:09,160
+ The only one to return banks from shadowy organizations to American hands?
+
+107
+00:05:09,160 --> 00:05:10,160
+ Question mark.
+
+108
+00:05:10,160 --> 00:05:12,080
+ So either he did it or he didn't.
+
+109
+00:05:12,080 --> 00:05:13,080
+ I don't know.
+
+110
+00:05:13,080 --> 00:05:14,080
+ Right?
+
+111
+00:05:14,080 --> 00:05:15,080
+ Maybe he did.
+
+112
+00:05:15,080 --> 00:05:16,440
+ Maybe that's why he's on the $20 bill.
+
+113
+00:05:16,440 --> 00:05:19,720
+ Andrew Jackson was the greatest president behind Lincoln.
+
+114
+00:05:19,720 --> 00:05:24,720
+ Only one to return banks from shadowy organizations to American hands?
+
+115
+00:05:24,720 --> 00:05:25,720
+ Next sentence.
+
+116
+00:05:25,720 --> 00:05:27,320
+ Literally the next sentence.
+
+117
+00:05:27,320 --> 00:05:29,240
+ Mystery Science Theater 3000.
+
+118
+00:05:29,240 --> 00:05:30,920
+ New Seasons released.
+
+119
+00:05:30,920 --> 00:05:35,780
+ Truly extraordinary my moon rakers of this achievement of men.
+
+120
+00:05:35,780 --> 00:05:41,220
+ Listen, man, I know guys who are Migtow, Tupac was always MOB.
+
+121
+00:05:41,220 --> 00:05:44,540
+ That was always his catchphrase, which is basically the same thing as Migtow, except
+
+122
+00:05:44,540 --> 00:05:47,140
+ he expressed it as "money over bitches."
+
+123
+00:05:47,140 --> 00:05:51,020
+ But it's this idea of, and I know there's offshoots of it and you get into incel-cool,
+
+124
+00:05:51,020 --> 00:05:54,980
+ churn things like that, but basically this idea of focus on yourself.
+
+125
+00:05:54,980 --> 00:05:57,740
+ I think that's probably where it started, Migtow.
+
+126
+00:05:57,740 --> 00:06:03,240
+ Focus on internal development before you focus on women or don't focus on women at
+
+127
+00:06:03,240 --> 00:06:04,240
+ all.
+
+128
+00:06:04,240 --> 00:06:05,240
+ Like, whatever.
+
+129
+00:06:05,240 --> 00:06:07,960
+ However you want to put it, or you could just be like Tupac and say "money over bitches,"
+
+130
+00:06:07,960 --> 00:06:11,720
+ but what does Andrew Jackson have to do with any of this?
+
+131
+00:06:11,720 --> 00:06:14,200
+ Or Mystery Science Theater 3000.
+
+132
+00:06:14,200 --> 00:06:19,960
+ But apparently it does, because while he's still formulating his thesis that any contact
+
+133
+00:06:19,960 --> 00:06:23,740
+ with women is the road to baby guys, all of a sudden this pops in here.
+
+134
+00:06:23,740 --> 00:06:27,680
+ But then, I think, probably he got hit in the head with a football.
+
+135
+00:06:27,680 --> 00:06:31,720
+ While he was typing this out and he goes "oh, oh, thanks for jarring back my insane stream
+
+136
+00:06:31,720 --> 00:06:33,560
+ of consciousness football."
+
+137
+00:06:33,560 --> 00:06:34,560
+ He goes back into it.
+
+138
+00:06:34,560 --> 00:06:41,240
+ He explains that creativity and comedy is something that only men can do.
+
+139
+00:06:41,240 --> 00:06:45,160
+ And women suck the energy away from men.
+
+140
+00:06:45,160 --> 00:06:49,120
+ So when you have sex with a woman, let me state this, in case you didn't get to this
+
+141
+00:06:49,120 --> 00:06:50,960
+ already, I don't believe in this.
+
+142
+00:06:50,960 --> 00:06:52,920
+ I don't believe in this.
+
+143
+00:06:52,920 --> 00:06:57,580
+ But when a man has sex with a woman, because a man is so creative he can make these movies.
+
+144
+00:06:57,580 --> 00:06:59,540
+ See women can't make movies.
+
+145
+00:06:59,540 --> 00:07:02,540
+ All women can do is make babies.
+
+146
+00:07:02,540 --> 00:07:06,180
+ So a woman is jealous of the man's creativity.
+
+147
+00:07:06,180 --> 00:07:11,020
+ She's looking at Quentin Tarantino and she's like "ah no, no, he has ugly feet too so
+
+148
+00:07:11,020 --> 00:07:13,140
+ she'll never be in a Quentin Tarantino movie."
+
+149
+00:07:13,140 --> 00:07:16,460
+ And she's like "no, I must destroy Quentin Tarantino."
+
+150
+00:07:16,460 --> 00:07:20,020
+ So she knows she can't make a better movie than him.
+
+151
+00:07:20,020 --> 00:07:21,180
+ Maybe better than Jackie Brown.
+
+152
+00:07:21,180 --> 00:07:24,160
+ But she knows she can't make a movie better than him.
+
+153
+00:07:24,160 --> 00:07:25,160
+ Probably a better actor.
+
+154
+00:07:25,160 --> 00:07:27,800
+ But she knows she can't make a movie better than him.
+
+155
+00:07:27,800 --> 00:07:32,840
+ So she tries to suck his energy out by getting impregnated by him.
+
+156
+00:07:32,840 --> 00:07:34,920
+ Could you imagine having Quentin Tarantino as a dad?
+
+157
+00:07:34,920 --> 00:07:40,040
+ That would be the most horrifying experience ever.
+
+158
+00:07:40,040 --> 00:07:41,800
+ Eli Roth is your godfather.
+
+159
+00:07:41,800 --> 00:07:44,040
+ Oh my god, that would be horrible.
+
+160
+00:07:44,040 --> 00:07:45,680
+ Just fake blood everywhere.
+
+161
+00:07:45,680 --> 00:07:47,880
+ Or real blood, probably.
+
+162
+00:07:47,880 --> 00:07:51,380
+ But why is he posting this on the movie website now?
+
+163
+00:07:51,380 --> 00:07:57,180
+ Because he's saying that even though we all know these facts, that Andrew Jackson was
+
+164
+00:07:57,180 --> 00:08:02,340
+ the greatest president, maybe behind Abraham Lincoln, we know that Mr. Science Theater
+
+165
+00:08:02,340 --> 00:08:04,740
+ 3000 is doing some sort of re-release.
+
+166
+00:08:04,740 --> 00:08:07,820
+ We know that women are second to creativity out of men.
+
+167
+00:08:07,820 --> 00:08:10,500
+ And the movies are the reason, guys.
+
+168
+00:08:10,500 --> 00:08:12,980
+ The movies are the reason.
+
+169
+00:08:12,980 --> 00:08:18,560
+ This is his quote, "Movies with humans have the hero and the girl trying to get with each
+
+170
+00:08:18,560 --> 00:08:19,800
+ other."
+
+171
+00:08:19,800 --> 00:08:24,000
+ They even include animals, which is a totally different movie.
+
+172
+00:08:24,000 --> 00:08:26,320
+ Those movies come out of Sweden.
+
+173
+00:08:26,320 --> 00:08:29,360
+ Movies with humans have the hero and girl trying to get with each other.
+
+174
+00:08:29,360 --> 00:08:35,080
+ They even include animals assuming human characteristics of that man-woman nonsense.
+
+175
+00:08:35,080 --> 00:08:39,720
+ So you see, the only reason why you're attracted, only reason you're interested in women is
+
+176
+00:08:39,720 --> 00:08:43,060
+ because you watched The Smurfs.
+
+177
+00:08:43,060 --> 00:08:45,980
+ Or The Smurfs 2, Lost in Manhattan.
+
+178
+00:08:45,980 --> 00:08:46,980
+ Any movie.
+
+179
+00:08:46,980 --> 00:08:48,180
+ There's only two movies that ever came out.
+
+180
+00:08:48,180 --> 00:08:54,420
+ I don't know how he figures out what happened before 1910.
+
+181
+00:08:54,420 --> 00:08:56,460
+ Before movies existed.
+
+182
+00:08:56,460 --> 00:08:57,460
+ We wrap it up.
+
+183
+00:08:57,460 --> 00:08:59,260
+ It should be fair.
+
+184
+00:08:59,260 --> 00:09:01,020
+ This guy has jumped all over the place.
+
+185
+00:09:01,020 --> 00:09:03,220
+ He starts going off on Spider-Man Far From Home.
+
+186
+00:09:03,220 --> 00:09:08,300
+ Again, these reviews are on The Queen or Troll's World Tour.
+
+187
+00:09:08,300 --> 00:09:09,720
+ These are all sorts of movies.
+
+188
+00:09:09,720 --> 00:09:14,880
+ But he says, "Even Spider-Man Far From Home had this romantic subplot which didn't really."
+
+189
+00:09:14,880 --> 00:09:18,880
+ I mean, there were women in it, but I guess that's enough for him.
+
+190
+00:09:18,880 --> 00:09:24,680
+ They did have the phallic imagery of Spider-Man crawling up the obelisk.
+
+191
+00:09:24,680 --> 00:09:25,680
+ What's that called?
+
+192
+00:09:25,680 --> 00:09:26,680
+ That's not the Lincoln Memorial.
+
+193
+00:09:26,680 --> 00:09:27,680
+ It's the Washington Monument.
+
+194
+00:09:27,680 --> 00:09:28,680
+ I'm such a bad American.
+
+195
+00:09:28,680 --> 00:09:32,320
+ You know, the giant penis looking thing in the middle of Washington, D.C.
+
+196
+00:09:32,320 --> 00:09:37,840
+ You did have Spider-Man clinging onto that and saving a woman inside, though I believe
+
+197
+00:09:37,840 --> 00:09:39,260
+ it's the Washington Monument.
+
+198
+00:09:39,260 --> 00:09:40,980
+ So I don't know, maybe that's phallic.
+
+199
+00:09:40,980 --> 00:09:47,180
+ Maybe the people in the elevator are supposed to represent the repressed semen.
+
+200
+00:09:47,180 --> 00:09:50,340
+ And Spider-Man was supposed to represent Mystery Science Theater 3000.
+
+201
+00:09:50,340 --> 00:09:55,540
+ And he's trying to pull those rereleases out, give them relief.
+
+202
+00:09:55,540 --> 00:09:58,220
+ But he says all this insane stuff, but he does wrap it up.
+
+203
+00:09:58,220 --> 00:09:59,220
+ He does.
+
+204
+00:09:59,220 --> 00:10:02,020
+ He is able to make a concise statement at the end.
+
+205
+00:10:02,020 --> 00:10:03,020
+ Here we go.
+
+206
+00:10:03,020 --> 00:10:07,820
+ "They," which I'm assuming is women in this case, "they want to grumble."
+
+207
+00:10:07,820 --> 00:10:10,360
+ "They want to grind up men, but it is I."
+
+208
+00:10:10,360 --> 00:10:12,720
+ This is also where it gets creepy, by the way.
+
+209
+00:10:12,720 --> 00:10:18,000
+ Like at first, you're just like this guy's a lunatic, but now you can imagine him sitting
+
+210
+00:10:18,000 --> 00:10:21,000
+ in his bunker.
+
+211
+00:10:21,000 --> 00:10:22,320
+ Watch, cut.
+
+212
+00:10:22,320 --> 00:10:24,480
+ But now he gets a little more sinister.
+
+213
+00:10:24,480 --> 00:10:29,880
+ So they want to grind up men, but it is I who grind them into fine dust.
+
+214
+00:10:29,880 --> 00:10:33,160
+ Wear pink to take their power away.
+
+215
+00:10:33,160 --> 00:10:34,160
+ Question mark?
+
+216
+00:10:34,160 --> 00:10:36,160
+ Okay, anyways.
+
+217
+00:10:36,160 --> 00:10:38,140
+ Also, he's not done.
+
+218
+00:10:38,140 --> 00:10:43,220
+ He ends it like this, so now we know that he's a budding serial killer.
+
+219
+00:10:43,220 --> 00:10:45,100
+ His weapon of choice is a grindstone.
+
+220
+00:10:45,100 --> 00:10:47,100
+ He's just pushing around this giant stone.
+
+221
+00:10:47,100 --> 00:10:48,180
+ He's like, "Come here, ladies!"
+
+222
+00:10:48,180 --> 00:10:49,180
+ He's rolling down the street.
+
+223
+00:10:49,180 --> 00:10:53,180
+ Because the police are very slowly catching him, because they don't have to speed up.
+
+224
+00:10:53,180 --> 00:10:56,940
+ And he's wearing all pink, so that makes him very, very easy to catch.
+
+225
+00:10:56,940 --> 00:11:01,180
+ But he wraps it up with one of the most immortal sentences I think you could come across in
+
+226
+00:11:01,180 --> 00:11:07,400
+ a diatribe where he threatens to wear pink, grind women to dust while watching Mystery
+
+227
+00:11:07,400 --> 00:11:09,920
+ Science Theater 3000.
+
+228
+00:11:09,920 --> 00:11:13,080
+ Nintendo Mother Earthbound textbook to be released.
+
+229
+00:11:13,080 --> 00:11:17,120
+ Weeeeee, Bop piano.
+
+230
+00:11:17,120 --> 00:11:18,120
+ It's like on the one hand.
+
+231
+00:11:18,120 --> 00:11:20,960
+ On the one hand.
+
+232
+00:11:20,960 --> 00:11:26,600
+ I find it fascinating that this thought process exists.
+
+233
+00:11:26,600 --> 00:11:28,560
+ It doesn't actually shock me.
+
+234
+00:11:28,560 --> 00:11:34,140
+ Like I said, I know people who are not male supremacists, but I know people who are just
+
+235
+00:11:34,140 --> 00:11:35,740
+ like, "I don't like to date women."
+
+236
+00:11:35,740 --> 00:11:38,900
+ Like I'm not gay, I'm not bi, I just don't like to date women.
+
+237
+00:11:38,900 --> 00:11:41,340
+ I know people who don't like women.
+
+238
+00:11:41,340 --> 00:11:43,820
+ They just don't want to be around them at all.
+
+239
+00:11:43,820 --> 00:11:45,260
+ That's a little odd to me.
+
+240
+00:11:45,260 --> 00:11:47,540
+ And someone says, "Hey, I don't want to date.
+
+241
+00:11:47,540 --> 00:11:48,660
+ I want to focus on myself."
+
+242
+00:11:48,660 --> 00:11:49,820
+ I'm like, "Hey, that's totally fine."
+
+243
+00:11:49,820 --> 00:11:53,300
+ I actually suggest people, especially when they've gotten out of long relationships.
+
+244
+00:11:53,300 --> 00:11:56,780
+ I go, "Don't date anyone for like a year or two."
+
+245
+00:11:56,780 --> 00:11:57,780
+ No dates at all.
+
+246
+00:11:57,780 --> 00:12:00,760
+ They really use this time to focus and find out who you are.
+
+247
+00:12:00,760 --> 00:12:04,240
+ When you're a pair, you don't really figure out who you are.
+
+248
+00:12:04,240 --> 00:12:09,400
+ When you're part of a couple, you don't get to figure out who the single is.
+
+249
+00:12:09,400 --> 00:12:10,400
+ So I think that's important.
+
+250
+00:12:10,400 --> 00:12:13,400
+ And then there are some people who just expand that throughout their life and they go, "I
+
+251
+00:12:13,400 --> 00:12:15,320
+ just never had an interest."
+
+252
+00:12:15,320 --> 00:12:17,440
+ They may classify themselves as asexual.
+
+253
+00:12:17,440 --> 00:12:23,000
+ They just don't have an interest in any sexual relations with anybody.
+
+254
+00:12:23,000 --> 00:12:27,740
+ But they don't normally or ever really threaten to grind women up and to find
+
+255
+00:12:27,740 --> 00:12:29,060
+ dust.
+
+256
+00:12:29,060 --> 00:12:31,480
+ So that in and of itself is odd.
+
+257
+00:12:31,480 --> 00:12:33,500
+ But I mean, it's not shocking.
+
+258
+00:12:33,500 --> 00:12:39,080
+ The fact that he's posting these things on an internet movie database, I find interesting.
+
+259
+00:12:39,080 --> 00:12:42,020
+ And on the one hand, they've all been deleted at this point.
+
+260
+00:12:42,020 --> 00:12:47,180
+ I think I'm the only one who, me and Bob Piano are the only ones who have copies of this
+
+261
+00:12:47,180 --> 00:12:48,740
+ at this point.
+
+262
+00:12:48,740 --> 00:12:53,940
+ But I find it fascinating that he thought that this would be a good venue for it.
+
+263
+00:12:53,940 --> 00:12:58,060
+ Someone else is like, "Oh, I wonder if Mystery Science Theater 1000 ever did that re-release."
+
+264
+00:12:58,060 --> 00:13:00,860
+ They Google it and they're like, "Whoa, man.
+
+265
+00:13:00,860 --> 00:13:01,980
+ I totally agree with this stuff.
+
+266
+00:13:01,980 --> 00:13:03,460
+ I'd love to subscribe to your newsletter."
+
+267
+00:13:03,460 --> 00:13:07,740
+ I find that interesting that he thinks that this is like a legit argument.
+
+268
+00:13:07,740 --> 00:13:11,260
+ But let's put on our conspiracy caps for a moment, because this isn't just me reading
+
+269
+00:13:11,260 --> 00:13:13,620
+ the ramblings of a madman.
+
+270
+00:13:13,620 --> 00:13:16,300
+ This might be a coded message.
+
+271
+00:13:16,300 --> 00:13:17,660
+ And we've talked about this before.
+
+272
+00:13:17,660 --> 00:13:19,500
+ I've talked about this several times on the show.
+
+273
+00:13:19,500 --> 00:13:21,540
+ Let me explain how this would work.
+
+274
+00:13:21,540 --> 00:13:23,500
+ You have all of this nonsense.
+
+275
+00:13:23,500 --> 00:13:26,140
+ You have all of this stuff that's completely meaningless.
+
+276
+00:13:26,140 --> 00:13:32,020
+ You would have maybe three or four sentences that actually contain the code.
+
+277
+00:13:32,020 --> 00:13:34,660
+ Nintendo Mother Earthbound textbook to be released.
+
+278
+00:13:34,660 --> 00:13:35,660
+ Whee!
+
+279
+00:13:35,660 --> 00:13:37,260
+ Bob Piano.
+
+280
+00:13:37,260 --> 00:13:38,620
+ That could be part of the code.
+
+281
+00:13:38,620 --> 00:13:42,780
+ And then we have Mystery Science Theater 3000, New Seasons Released.
+
+282
+00:13:42,780 --> 00:13:46,660
+ Truly extraordinary, my moon rakers of this achievement of men.
+
+283
+00:13:46,660 --> 00:13:52,220
+ What's interesting is those phrases are so poorly written.
+
+284
+00:13:52,220 --> 00:13:58,060
+ And everything else, as insane as it is, is fairly grammatically correct.
+
+285
+00:13:58,060 --> 00:14:00,220
+ I'd say 90% grammatically correct.
+
+286
+00:14:00,220 --> 00:14:02,420
+ Those two sentences are meaningless.
+
+287
+00:14:02,420 --> 00:14:07,020
+ If you just put those two sentences in an internet movie database post, it's most likely
+
+288
+00:14:07,020 --> 00:14:11,500
+ just going to get flagged as spam and instantly deleted.
+
+289
+00:14:11,500 --> 00:14:16,260
+ He posted all of these reviews to 171 reviews over the matter of about two days.
+
+290
+00:14:16,260 --> 00:14:19,420
+ It was in August of this year, and they're gone now.
+
+291
+00:14:19,420 --> 00:14:21,620
+ But it'd be the perfect way to send a message to someone.
+
+292
+00:14:21,620 --> 00:14:27,100
+ So if you're a CIA agent in Istanbul, I always use Istanbul for a point of reference.
+
+293
+00:14:27,100 --> 00:14:30,300
+ I don't know why, but if you're a CIA agent in Istanbul, you're trying to communicate
+
+294
+00:14:30,300 --> 00:14:33,060
+ with someone else, Slovakia.
+
+295
+00:14:33,060 --> 00:14:36,500
+ And you know that person's a huge fan of the English patient.
+
+296
+00:14:36,500 --> 00:14:38,100
+ Throw this review on there.
+
+297
+00:14:38,100 --> 00:14:39,980
+ It seems like a coded message.
+
+298
+00:14:39,980 --> 00:14:45,660
+ So the perfect place to hide codes is in the ramblings of a madman, because they look like
+
+299
+00:14:45,660 --> 00:14:47,660
+ the ramblings of a madman.
+
+300
+00:14:47,660 --> 00:14:51,500
+ But if you know what the code is, it totally makes sense.
+
+301
+00:14:51,500 --> 00:14:54,180
+ So Lawrence, take us out of the digital world.
+
+302
+00:14:54,180 --> 00:14:55,180
+ We're leaving behind Bopianos.
+
+303
+00:14:55,180 --> 00:14:58,020
+ We're leaving these hot digital chicks walking up to him.
+
+304
+00:14:58,020 --> 00:15:00,500
+ He's like, no, no, can't resist the temptation.
+
+305
+00:15:00,500 --> 00:15:01,500
+ A bunch of babies appear.
+
+306
+00:15:01,500 --> 00:15:02,980
+ And we're like, oh no, he was right.
+
+307
+00:15:02,980 --> 00:15:05,500
+ The babies are forming a giant mountain to try to get us.
+
+308
+00:15:05,500 --> 00:15:07,260
+ We are back in the world of reality.
+
+309
+00:15:07,260 --> 00:15:09,700
+ Lawrence, call in that carboner copter.
+
+310
+00:15:09,700 --> 00:15:16,940
+ We're headed out to a secret NASA facility.
+
+311
+00:15:16,940 --> 00:15:19,260
+ Helicopters flying over the landscape.
+
+312
+00:15:19,260 --> 00:15:20,260
+ Lawrence is looking.
+
+313
+00:15:20,260 --> 00:15:24,260
+ He's like, oh no, I don't know if I'm going to be able to find it if it's secret.
+
+314
+00:15:24,260 --> 00:15:27,380
+ But he's keeping his doubts to himself.
+
+315
+00:15:27,380 --> 00:15:28,860
+ He just keeps giving us a thumbs up.
+
+316
+00:15:28,860 --> 00:15:29,860
+ We're almost there.
+
+317
+00:15:29,860 --> 00:15:31,820
+ And I'm like, all right, awesome.
+
+318
+00:15:31,820 --> 00:15:37,260
+ As he's flying us out, I bring up an old film projector.
+
+319
+00:15:37,260 --> 00:15:39,460
+ I'm showing you this old film strip.
+
+320
+00:15:39,460 --> 00:15:45,540
+ In October 1973, NASA wanted to steady orbital space.
+
+321
+00:15:45,540 --> 00:15:49,220
+ It was old, old timey special effects.
+
+322
+00:15:49,220 --> 00:15:52,380
+ It was just like a little moon held by a string.
+
+323
+00:15:52,380 --> 00:15:57,100
+ They decided to put astronaut John Smith inside a satellite.
+
+324
+00:15:57,100 --> 00:15:59,300
+ And everyone's like, look inside the satellite.
+
+325
+00:15:59,300 --> 00:16:00,620
+ And they're like, wait, what?
+
+326
+00:16:00,620 --> 00:16:02,580
+ Aren't satellites built to stay up there for a long time?
+
+327
+00:16:02,580 --> 00:16:05,580
+ I'm like, class, hold your questions till the end.
+
+328
+00:16:05,580 --> 00:16:08,040
+ NASA wanted a steady orbital space.
+
+329
+00:16:08,040 --> 00:16:12,860
+ So they wanted to put astronaut John Smith inside a satellite.
+
+330
+00:16:12,860 --> 00:16:18,260
+ Now it was actually a spaceship disguised as a satellite.
+
+331
+00:16:18,260 --> 00:16:25,260
+ The idea was to have John Smith pretend he was a satellite and just kind of float around
+
+332
+00:16:25,260 --> 00:16:29,780
+ for a while with a notebook writing down stuff about space.
+
+333
+00:16:29,780 --> 00:16:34,700
+ And the film strip, the film strip ends and you're like, I'm even more confused than you
+
+334
+00:16:34,700 --> 00:16:37,260
+ were before you started the film strip.
+
+335
+00:16:37,260 --> 00:16:38,260
+ I know.
+
+336
+00:16:38,260 --> 00:16:40,700
+ There's this conspiracy theory.
+
+337
+00:16:40,700 --> 00:16:45,100
+ It's from the website which has been a gold mine recently.
+
+338
+00:16:45,100 --> 00:16:48,420
+ It's called howanwise.com.
+
+339
+00:16:48,420 --> 00:16:56,860
+ What's interesting about this website is it looks like a legit nerd news science website.
+
+340
+00:16:56,860 --> 00:17:02,420
+ It looks like it's laid out to look like space.com or I never would have thought that.com or
+
+341
+00:17:02,420 --> 00:17:05,140
+ whatever those types of websites are.
+
+342
+00:17:05,140 --> 00:17:13,940
+ So they'll have articles like could a dinosaur breathe oxygen today or how much does something
+
+343
+00:17:13,940 --> 00:17:16,580
+ weigh when put on Mars or whatever.
+
+344
+00:17:16,580 --> 00:17:19,940
+ It's like science stuff that you would read while you're drinking your coffee so you could
+
+345
+00:17:19,940 --> 00:17:23,420
+ go to work and be like, hey, did you know a dinosaur couldn't breathe today?
+
+346
+00:17:23,420 --> 00:17:25,700
+ What are you talking about?
+
+347
+00:17:25,700 --> 00:17:27,020
+ That was a weird topic to bring up.
+
+348
+00:17:27,020 --> 00:17:29,540
+ It's one of those types of websites.
+
+349
+00:17:29,540 --> 00:17:33,780
+ Half of it, maybe one third of it is quirky fun facts.
+
+350
+00:17:33,780 --> 00:17:35,260
+ The dinosaur one wasn't one of them.
+
+351
+00:17:35,260 --> 00:17:39,220
+ Now that I'm thinking about it, now I'm thinking about it.
+
+352
+00:17:39,220 --> 00:17:44,820
+ If you took a dinosaur, it's totally become a different episode, if you took a T-Rex,
+
+353
+00:17:44,820 --> 00:17:47,500
+ because you know the carbon dioxide levels were different, that's why the plants were
+
+354
+00:17:47,500 --> 00:17:48,620
+ so big.
+
+355
+00:17:48,620 --> 00:17:53,740
+ If you took a T-Rex from the past and put him in the middle of Manhattan today, would
+
+356
+00:17:53,740 --> 00:17:55,140
+ he just have a heart attack?
+
+357
+00:17:55,140 --> 00:17:59,500
+ Everyone around him would have a heart attack because they didn't expect a T-Rex to just
+
+358
+00:17:59,500 --> 00:18:00,500
+ appear.
+
+359
+00:18:00,500 --> 00:18:05,260
+ But if you took a dinosaur and you dropped him into today's times, would he be able to
+
+360
+00:18:05,260 --> 00:18:06,260
+ breathe the oxygen?
+
+361
+00:18:06,260 --> 00:18:07,660
+ Jamie, look that up.
+
+362
+00:18:07,660 --> 00:18:08,660
+ Look that up.
+
+363
+00:18:08,660 --> 00:18:11,140
+ But while he's looking that up, and I'm sure you guys are going to look that up now, I'll
+
+364
+00:18:11,140 --> 00:18:13,060
+ check it out after the episode.
+
+365
+00:18:13,060 --> 00:18:14,420
+ But it has stuff like that.
+
+366
+00:18:14,420 --> 00:18:16,460
+ It has interesting science facts.
+
+367
+00:18:16,460 --> 00:18:27,660
+ But then a huge chunk of it is stories of, from saying in a play way, a dubious nature,
+
+368
+00:18:27,660 --> 00:18:29,020
+ unsourced stuff.
+
+369
+00:18:29,020 --> 00:18:33,860
+ Now actually, the story I did recently about the boy being reincarnated from Mars, I got
+
+370
+00:18:33,860 --> 00:18:34,860
+ from this website.
+
+371
+00:18:34,860 --> 00:18:37,980
+ So not all of it is nonsense.
+
+372
+00:18:37,980 --> 00:18:39,860
+ That one I was able to find other articles on.
+
+373
+00:18:39,860 --> 00:18:43,020
+ But I'm just giving you a little bit of a setup here.
+
+374
+00:18:43,020 --> 00:18:48,660
+ We may have found a new backpacker verse in howandwise.com, but the verdict is still out
+
+375
+00:18:48,660 --> 00:18:49,660
+ on that.
+
+376
+00:18:49,660 --> 00:18:54,900
+ But anyways, so they tell this story about astronaut John Smith being put into a spaceship
+
+377
+00:18:54,900 --> 00:19:03,180
+ or rocket disguised as a satellite to run a scientific study on low orbit space.
+
+378
+00:19:03,180 --> 00:19:07,020
+ So just that part doesn't really make sense.
+
+379
+00:19:07,020 --> 00:19:10,380
+ Why doesn't he just fly around in a rocket ship or whatever is going on.
+
+380
+00:19:10,380 --> 00:19:14,380
+ But anyways, they put him in a satellite, I guess so he could maintain orbit for a while.
+
+381
+00:19:14,380 --> 00:19:19,220
+ But the problem is, is that he's up in that satellite and he's radio down to Earth.
+
+382
+00:19:19,220 --> 00:19:21,220
+ He's like, "Okay guys, this is awesome.
+
+383
+00:19:21,220 --> 00:19:22,220
+ I'm in the satellite.
+
+384
+00:19:22,220 --> 00:19:23,220
+ The mission was a success.
+
+385
+00:19:23,220 --> 00:19:24,220
+ I should have brought a coat."
+
+386
+00:19:24,220 --> 00:19:28,180
+ See, we're cold over here, but everything seems to be going A-okay.
+
+387
+00:19:28,180 --> 00:19:31,980
+ Let me just turn the ship a little bit to the left here.
+
+388
+00:19:31,980 --> 00:19:39,180
+ Hey guys, hey, did you guys test this thing out before you launched it, me and it?
+
+389
+00:19:39,180 --> 00:19:41,180
+ Before you launched me in this space coffin?
+
+390
+00:19:41,180 --> 00:19:44,540
+ And they go, "Yeah, yeah, we tested it out.
+
+391
+00:19:44,540 --> 00:19:45,540
+ Why what's going on?"
+
+392
+00:19:45,540 --> 00:19:46,540
+ He can't control it.
+
+393
+00:19:46,540 --> 00:19:47,540
+ He's like, "Oh no."
+
+394
+00:19:47,540 --> 00:19:50,100
+ He probably said a little more than that.
+
+395
+00:19:50,100 --> 00:19:51,820
+ He wasn't like, "Aw shucks.
+
+396
+00:19:51,820 --> 00:19:54,820
+ I want to starve to death in deep space."
+
+397
+00:19:54,820 --> 00:19:59,820
+ But the point is, is that they basically put him in a metal sphere to pretend he was a
+
+398
+00:19:59,820 --> 00:20:03,100
+ satellite and it didn't work.
+
+399
+00:20:03,100 --> 00:20:06,820
+ So he's just floating up there and NASA all of a sudden calls an emergency meeting and
+
+400
+00:20:06,820 --> 00:20:08,620
+ they're looking at everything.
+
+401
+00:20:08,620 --> 00:20:12,020
+ In 1973 technology, I guess you couldn't just fly around in a rocket.
+
+402
+00:20:12,020 --> 00:20:14,020
+ I mean, it's not Flash Gordon.
+
+403
+00:20:14,020 --> 00:20:16,020
+ It's not like you could be like, "Wee!"
+
+404
+00:20:16,020 --> 00:20:18,980
+ It's like if you wanted to stay up there for any amount of time, they didn't have a
+
+405
+00:20:18,980 --> 00:20:20,460
+ space shuttle, they didn't have a space station.
+
+406
+00:20:20,460 --> 00:20:25,420
+ You wouldn't need to put someone in a satellite or you know just the satellite without a dude
+
+407
+00:20:25,420 --> 00:20:27,300
+ in it.
+
+408
+00:20:27,300 --> 00:20:30,060
+ But they realize there's no way we can rescue him.
+
+409
+00:20:30,060 --> 00:20:34,940
+ If the controls aren't working, we don't have a plan B. Probably should have, but we
+
+410
+00:20:34,940 --> 00:20:35,940
+ don't.
+
+411
+00:20:35,940 --> 00:20:38,980
+ So he's just floating around in a little satellite and NASA goes, "There's nothing we
+
+412
+00:20:38,980 --> 00:20:39,980
+ can do for you, bro."
+
+413
+00:20:39,980 --> 00:20:45,020
+ And they shut off the radio because they don't want to listen to that Debbie Downer complaining
+
+414
+00:20:45,020 --> 00:20:46,740
+ about freezing to death.
+
+415
+00:20:46,740 --> 00:20:51,340
+ And he gets lost amongst all the satellites up in space.
+
+416
+00:20:51,340 --> 00:20:52,340
+ Late 2000.
+
+417
+00:20:52,340 --> 00:20:54,660
+ Okay, so now we're in the year 2000.
+
+418
+00:20:54,660 --> 00:20:56,860
+ It's the fall of 2000.
+
+419
+00:20:56,860 --> 00:21:00,340
+ There's an amateur astronomer in Fiji and he's looking through his telescope and he's
+
+420
+00:21:00,340 --> 00:21:03,220
+ like, "Hmm, yes.
+
+421
+00:21:03,220 --> 00:21:05,220
+ Hmm, interesting.
+
+422
+00:21:05,220 --> 00:21:06,220
+ Hmm."
+
+423
+00:21:06,220 --> 00:21:10,660
+ And then he stops flying on a sexy neighbor and he's like, "Oh yeah, I forgot.
+
+424
+00:21:10,660 --> 00:21:13,260
+ I'm an amateur astronomer, not just this stalker."
+
+425
+00:21:13,260 --> 00:21:16,380
+ Then he points it up in the sky and he's looking and he's like, "Hmm, that's a little less
+
+426
+00:21:16,380 --> 00:21:18,940
+ interesting than what I was looking at."
+
+427
+00:21:18,940 --> 00:21:20,900
+ But that's not supposed to be there.
+
+428
+00:21:20,900 --> 00:21:25,340
+ And he ends up calling up NASA and he goes, "Hey guys, I'm picking up something.
+
+429
+00:21:25,340 --> 00:21:27,900
+ You guys should be an amateur astronomer from Fiji."
+
+430
+00:21:27,900 --> 00:21:29,540
+ They're like, "Hey, what's up, Barry?"
+
+431
+00:21:29,540 --> 00:21:30,900
+ He's like, "Yeah, yeah.
+
+432
+00:21:30,900 --> 00:21:33,980
+ So I think I detected something that shouldn't be up there."
+
+433
+00:21:33,980 --> 00:21:40,420
+ NASA verifies the claims and realizes this is John Smith's satellite ship.
+
+434
+00:21:40,420 --> 00:21:45,420
+ Because they can't figure out what else it could be and it's getting closer into Earth
+
+435
+00:21:45,420 --> 00:21:46,260
+ orbit.
+
+436
+00:21:46,260 --> 00:21:50,620
+ So in the year 2000, we had the technology to rescue John Smith.
+
+437
+00:21:50,620 --> 00:21:53,460
+ We have the technology to rescue John Smith, but it takes him a year.
+
+438
+00:21:53,460 --> 00:21:55,460
+ It takes him till 2001.
+
+439
+00:21:55,460 --> 00:21:57,940
+ They're able to retrieve the satellite.
+
+440
+00:21:57,940 --> 00:21:59,140
+ They bring it down.
+
+441
+00:21:59,140 --> 00:22:01,180
+ They open it up.
+
+442
+00:22:01,180 --> 00:22:04,340
+ John Smith is dead.
+
+443
+00:22:04,340 --> 00:22:09,300
+ He froze to death, which is what you would imagine would happen to somebody who's left
+
+444
+00:22:09,300 --> 00:22:10,300
+ in space.
+
+445
+00:22:10,300 --> 00:22:13,700
+ I think that's kind of the one thing you know is going to happen.
+
+446
+00:22:13,700 --> 00:22:17,780
+ But then, "Sir, sir, he's not dead.
+
+447
+00:22:17,780 --> 00:22:20,220
+ He's just breathing super slowly.
+
+448
+00:22:20,220 --> 00:22:22,940
+ He's all icy and stuff.
+
+449
+00:22:22,940 --> 00:22:26,540
+ But if we start brushing away the ice and we put this stethoscope to his heart, which
+
+450
+00:22:26,540 --> 00:22:38,860
+ we probably should have done before we said he was dead, boom, boom, boom."
+
+451
+00:22:38,860 --> 00:22:40,540
+ That's a super slow heartbeat.
+
+452
+00:22:40,540 --> 00:22:43,860
+ In a way to just waste more time in this already long episode.
+
+453
+00:22:43,860 --> 00:22:45,140
+ John Smith is alive.
+
+454
+00:22:45,140 --> 00:22:46,140
+ He was frozen.
+
+455
+00:22:46,140 --> 00:22:49,340
+ He's cryogenically frozen in this satellite.
+
+456
+00:22:49,340 --> 00:22:51,020
+ So they unfreeze him.
+
+457
+00:22:51,020 --> 00:22:55,340
+ They slowly warm his body temperature up and then they flip him over.
+
+458
+00:22:55,340 --> 00:22:59,620
+ They use a giant wooden paddle and they put him in an oven and then they flip him over.
+
+459
+00:22:59,620 --> 00:23:01,860
+ Bring him out and he's all crispy and new.
+
+460
+00:23:01,860 --> 00:23:03,660
+ So he's alive.
+
+461
+00:23:03,660 --> 00:23:04,820
+ He's alive.
+
+462
+00:23:04,820 --> 00:23:05,980
+ He was cryogenically frozen.
+
+463
+00:23:05,980 --> 00:23:09,780
+ The aging process had stopped and he's totally fine.
+
+464
+00:23:09,780 --> 00:23:13,140
+ And as they begin to run medical experiments on him though, because that's what you would
+
+465
+00:23:13,140 --> 00:23:14,140
+ do, right?
+
+466
+00:23:14,140 --> 00:23:16,740
+ A man's been up in space for almost 30 years.
+
+467
+00:23:16,740 --> 00:23:19,100
+ You'd want to know if anything happened.
+
+468
+00:23:19,100 --> 00:23:21,860
+ Any side effects have been freezing to death.
+
+469
+00:23:21,860 --> 00:23:23,460
+ They're like, "Hmm, that's the first side effect."
+
+470
+00:23:23,460 --> 00:23:25,220
+ He's like, "Yeah, thanks a lot, Jerks.
+
+471
+00:23:25,220 --> 00:23:29,140
+ Maybe next time build a satellite ship that I can actually fly."
+
+472
+00:23:29,140 --> 00:23:30,380
+ So they sit him down.
+
+473
+00:23:30,380 --> 00:23:34,180
+ They're running tests on him and they go, "So they go, John, we've completed all your
+
+474
+00:23:34,180 --> 00:23:35,180
+ tests.
+
+475
+00:23:35,180 --> 00:23:36,180
+ We have a couple of questions for you."
+
+476
+00:23:36,180 --> 00:23:38,220
+ And he's like, "Yeah, sure anything."
+
+477
+00:23:38,220 --> 00:23:41,300
+ When you left Earth, you were alive.
+
+478
+00:23:41,300 --> 00:23:44,340
+ He's like, "Yes, I was alive when I left Earth."
+
+479
+00:23:44,340 --> 00:23:47,780
+ And they're like, "Okay, that solves the first three questions."
+
+480
+00:23:47,780 --> 00:23:48,780
+ Okay.
+
+481
+00:23:48,780 --> 00:23:51,100
+ When you were a kid, you broke one of your ribs, right?
+
+482
+00:23:51,100 --> 00:23:52,780
+ And he's like, "Yeah, yeah, it was horrible.
+
+483
+00:23:52,780 --> 00:23:54,020
+ I remember it breaking."
+
+484
+00:23:54,020 --> 00:23:59,940
+ And they go, "Well, that's weird because we did a couple x-rays on you and we see that
+
+485
+00:23:59,940 --> 00:24:03,500
+ you don't have a broken rib."
+
+486
+00:24:03,500 --> 00:24:04,500
+ Like it was never broken.
+
+487
+00:24:04,500 --> 00:24:06,900
+ There was no fracture at any point and they're showing them x-rays.
+
+488
+00:24:06,900 --> 00:24:08,460
+ And he's like, "Hmm, that is interesting.
+
+489
+00:24:08,460 --> 00:24:10,780
+ I do remember breaking my rib."
+
+490
+00:24:10,780 --> 00:24:15,540
+ And scientists are like, "And they're like, "That is very, very curious."
+
+491
+00:24:15,540 --> 00:24:19,460
+ We also contacted some people you knew growing up.
+
+492
+00:24:19,460 --> 00:24:20,860
+ And he's like, "What is kind of weird?"
+
+493
+00:24:20,860 --> 00:24:22,300
+ It was a medical exam.
+
+494
+00:24:22,300 --> 00:24:24,020
+ And they go, "We've noticed something.
+
+495
+00:24:24,020 --> 00:24:29,100
+ Since you've been in this lab, you've been really good at math because we noticed like
+
+496
+00:24:29,100 --> 00:24:31,980
+ when you're not hanging out with us, when you're not hooked up to all these diodes because
+
+497
+00:24:31,980 --> 00:24:35,420
+ you are a space mutant, you're always doing math problems.
+
+498
+00:24:35,420 --> 00:24:39,740
+ Now, John, we called up some people you used to hang out with when you were a kid and they
+
+499
+00:24:39,740 --> 00:24:42,460
+ said you didn't know anything about math.
+
+500
+00:24:42,460 --> 00:24:44,300
+ You were really, really bad at math.
+
+501
+00:24:44,300 --> 00:24:50,060
+ But now you can do all sorts of like quadratic equations and stuff like that.
+
+502
+00:24:50,060 --> 00:24:51,060
+ How is that possible?"
+
+503
+00:24:51,060 --> 00:24:54,300
+ And John Smith goes, "Hmm, I don't remember.
+
+504
+00:24:54,300 --> 00:25:00,060
+ I just know that I am really good at that thing you said that it's shockingly you pronounced
+
+505
+00:25:00,060 --> 00:25:02,300
+ correctly on your first try."
+
+506
+00:25:02,300 --> 00:25:04,780
+ Scientists is like, "It is a hard word to pronounce."
+
+507
+00:25:04,780 --> 00:25:09,500
+ And then the scientists are looking at their sheet and they're like, "Hmm, that's really
+
+508
+00:25:09,500 --> 00:25:10,500
+ interesting."
+
+509
+00:25:10,500 --> 00:25:15,340
+ Now, the way that this article was laid out about John Smith was exactly this order.
+
+510
+00:25:15,340 --> 00:25:19,620
+ They said, "John Smith had a broken rib, but now his rib is healed."
+
+511
+00:25:19,620 --> 00:25:24,380
+ And then it also said that he used to be really bad at math, but now he can do high level
+
+512
+00:25:24,380 --> 00:25:26,260
+ math, which I'll tell you right now.
+
+513
+00:25:26,260 --> 00:25:31,300
+ You're not an astronaut if you can't do high level math.
+
+514
+00:25:31,300 --> 00:25:37,100
+ Some of the smartest people you will ever meet in your life, and I've met a few of them,
+
+515
+00:25:37,100 --> 00:25:39,260
+ are fighter pilots.
+
+516
+00:25:39,260 --> 00:25:44,620
+ And you can't be an astronaut, especially if you're putting you in a satellite unless
+
+517
+00:25:44,620 --> 00:25:47,340
+ you can fly an F-15.
+
+518
+00:25:47,340 --> 00:25:52,780
+ They do have astronauts that aren't Air Force pilots, but if you're going to pilot the vehicle,
+
+519
+00:25:52,780 --> 00:25:56,140
+ you are almost always a fighter pilot.
+
+520
+00:25:56,140 --> 00:26:00,900
+ And again, I've had the pleasure of knowing some fighter pilots, some that you may know
+
+521
+00:26:00,900 --> 00:26:01,900
+ actually.
+
+522
+00:26:01,900 --> 00:26:06,300
+ And there's a little bit of flex on you guys, but it's top secret.
+
+523
+00:26:06,300 --> 00:26:09,980
+ I can't tell you their names.
+
+524
+00:26:09,980 --> 00:26:13,380
+ They're geniuses, right?
+
+525
+00:26:13,380 --> 00:26:18,100
+ If you can't do high level math, you're most likely not piloting experimental.
+
+526
+00:26:18,100 --> 00:26:20,420
+ Maybe that's why it wasn't working.
+
+527
+00:26:20,420 --> 00:26:25,500
+ They're like, "Sir, the equipment works just fine, but you have to do basic algebra to
+
+528
+00:26:25,500 --> 00:26:27,300
+ be able to figure out where to go."
+
+529
+00:26:27,300 --> 00:26:28,300
+ And he's like, "Gulp."
+
+530
+00:26:28,300 --> 00:26:32,060
+ Anyways, the article says he had a broken rib, it was now healed.
+
+531
+00:26:32,060 --> 00:26:37,740
+ The article says some people, some acquaintances from the old neighborhood, from the Bronx,
+
+532
+00:26:37,740 --> 00:26:41,580
+ happened to also be walking through 111 Nasa Court that day.
+
+533
+00:26:41,580 --> 00:26:44,420
+ And someone's like, "Hey, you know John Smith, how good was he in math?"
+
+534
+00:26:44,420 --> 00:26:46,780
+ And they're like, "He sucked."
+
+535
+00:26:46,780 --> 00:26:48,420
+ And so it turns out he can do good math.
+
+536
+00:26:48,420 --> 00:26:51,180
+ So this is the way this article is laying this stuff out.
+
+537
+00:26:51,180 --> 00:26:55,660
+ The first thing I have to just hammer this out, the first example, healed rib.
+
+538
+00:26:55,660 --> 00:26:58,140
+ Second example, good at math.
+
+539
+00:26:58,140 --> 00:27:04,740
+ Third example of why he may not be the same John Smith as he went into space.
+
+540
+00:27:04,740 --> 00:27:09,140
+ His heart is in a different location in his body.
+
+541
+00:27:09,140 --> 00:27:13,060
+ So that should have been your first giveaway.
+
+542
+00:27:13,060 --> 00:27:18,020
+ If you ever send a guy to the liquor store and he comes back and he's like, "That's
+
+543
+00:27:18,020 --> 00:27:19,020
+ weird.
+
+544
+00:27:19,020 --> 00:27:21,460
+ My heart is in a different location in my body."
+
+545
+00:27:21,460 --> 00:27:24,700
+ You're not going to be like, "So what are your elementary school friends say about your
+
+546
+00:27:24,700 --> 00:27:26,060
+ math skills?"
+
+547
+00:27:26,060 --> 00:27:30,060
+ That should have been the number one and really the only piece of evidence.
+
+548
+00:27:30,060 --> 00:27:35,580
+ Man goes up into space, he comes back down, his heart has moved inside of his body.
+
+549
+00:27:35,580 --> 00:27:39,060
+ The scientists aren't going to be like, "Hmm, that's interesting, but let's take a look
+
+550
+00:27:39,060 --> 00:27:41,140
+ at his ribs again."
+
+551
+00:27:41,140 --> 00:27:46,780
+ So here's a man who went to space, was up there for almost 30 years.
+
+552
+00:27:46,780 --> 00:27:49,260
+ Froze came back to life.
+
+553
+00:27:49,260 --> 00:27:51,820
+ His heart was in a different location in his body.
+
+554
+00:27:51,820 --> 00:27:57,020
+ He moved from the left side of his body to the right side of his body and then other
+
+555
+00:27:57,020 --> 00:27:58,700
+ things were different.
+
+556
+00:27:58,700 --> 00:27:59,700
+ That's weird.
+
+557
+00:27:59,700 --> 00:28:00,700
+ His shoes are different.
+
+558
+00:28:00,700 --> 00:28:02,300
+ He was wearing different shoes this morning.
+
+559
+00:28:02,300 --> 00:28:04,740
+ Let's run another test on that.
+
+560
+00:28:04,740 --> 00:28:10,300
+ So the scientists are saying this isn't John Smith.
+
+561
+00:28:10,300 --> 00:28:16,820
+ I mean, technically it is on a cellular level it is, but so much stuff has changed.
+
+562
+00:28:16,820 --> 00:28:18,300
+ He's better at math.
+
+563
+00:28:18,300 --> 00:28:19,300
+ He's much better at math.
+
+564
+00:28:19,300 --> 00:28:22,140
+ No one ever gets better at math as they get older.
+
+565
+00:28:22,140 --> 00:28:25,820
+ He's better at math, his rib fixed, and his heart's in different locations.
+
+566
+00:28:25,820 --> 00:28:27,900
+ And the general's like, "I'm sorry, who was that last one?"
+
+567
+00:28:27,900 --> 00:28:32,300
+ And they're like, "Oh, oh, his heart is in a different location in his body, so we don't
+
+568
+00:28:32,300 --> 00:28:34,060
+ think this is John Smith."
+
+569
+00:28:34,060 --> 00:28:37,580
+ But then they go, "Let's go talk to this man.
+
+570
+00:28:37,580 --> 00:28:40,620
+ Let's go talk to John Smith and find out exactly what's going on."
+
+571
+00:28:40,620 --> 00:28:44,620
+ If he has been up to no good, he's been fiddling around with his own chest cavity moving his
+
+572
+00:28:44,620 --> 00:28:45,740
+ heart.
+
+573
+00:28:45,740 --> 00:28:50,900
+ When they go into the room to talk to Mr. Smith, he's gone.
+
+574
+00:28:50,900 --> 00:28:53,660
+ Some say that the story's completely made up.
+
+575
+00:28:53,660 --> 00:28:56,060
+ Some people say that the story never existed.
+
+576
+00:28:56,060 --> 00:29:01,620
+ I actually couldn't find proof of this story outside of howandwise.com, so they could have
+
+577
+00:29:01,620 --> 00:29:03,500
+ completely made it up.
+
+578
+00:29:03,500 --> 00:29:07,300
+ But again, there are other stories we'll be covering in the coming weeks where I was
+
+579
+00:29:07,300 --> 00:29:09,180
+ able to find other information.
+
+580
+00:29:09,180 --> 00:29:10,860
+ So it's possible they made it up.
+
+581
+00:29:10,860 --> 00:29:11,980
+ It's possible.
+
+582
+00:29:11,980 --> 00:29:15,260
+ With a name like John Smith, it's really hard to pull up.
+
+583
+00:29:15,260 --> 00:29:21,340
+ I actually did find two astronauts that was close to that name, and that actually opened
+
+584
+00:29:21,340 --> 00:29:23,580
+ up a whole other weird conspiracy.
+
+585
+00:29:23,580 --> 00:29:24,740
+ We'll get into that in a second.
+
+586
+00:29:24,740 --> 00:29:27,980
+ But some people say, "The story never existed."
+
+587
+00:29:27,980 --> 00:29:30,260
+ I might be one of those people.
+
+588
+00:29:30,260 --> 00:29:34,940
+ Other people say that he escaped from the lab.
+
+589
+00:29:34,940 --> 00:29:38,740
+ Like he basically is like, "Uh-oh, they found out my heart's in the wrong location.
+
+590
+00:29:38,740 --> 00:29:40,060
+ This disguise didn't work.
+
+591
+00:29:40,060 --> 00:29:41,460
+ That it really wasn't John Smith.
+
+592
+00:29:41,460 --> 00:29:44,500
+ It was some sort of alien interloper or intruder."
+
+593
+00:29:44,500 --> 00:29:45,740
+ He escaped.
+
+594
+00:29:45,740 --> 00:29:48,220
+ Some people say that he didn't escape.
+
+595
+00:29:48,220 --> 00:29:49,720
+ He did disappear.
+
+596
+00:29:49,720 --> 00:29:54,660
+ The military came back into the room and they said, "Hey, would you like a tour of our secret
+
+597
+00:29:54,660 --> 00:29:59,140
+ facility that's underneath this secret facility to where we keep all the cool kids?"
+
+598
+00:29:59,140 --> 00:30:00,620
+ And John Smith is like, "Yeah, awesome."
+
+599
+00:30:00,620 --> 00:30:04,940
+ And he's in some sort of holding area where they're doing tests on him.
+
+600
+00:30:04,940 --> 00:30:09,340
+ Because if the story's true and he went up to space and came down and it's an intruder,
+
+601
+00:30:09,340 --> 00:30:10,860
+ you'd want to keep him under observation.
+
+602
+00:30:10,860 --> 00:30:13,460
+ But he has some sort of bizarre healing factor.
+
+603
+00:30:13,460 --> 00:30:14,460
+ You'd want to steady him.
+
+604
+00:30:14,460 --> 00:30:15,460
+ Is he a clone?
+
+605
+00:30:15,460 --> 00:30:18,580
+ We don't know any of this stuff.
+
+606
+00:30:18,580 --> 00:30:21,940
+ They did also, I should add this detail too, apparently, because he was up there taking
+
+607
+00:30:21,940 --> 00:30:22,940
+ notes.
+
+608
+00:30:22,940 --> 00:30:24,780
+ They didn't have like a laptop.
+
+609
+00:30:24,780 --> 00:30:28,180
+ So we basically went up there with a notepad when I was making jokes about that.
+
+610
+00:30:28,180 --> 00:30:31,420
+ They gave him a hundred page notepad, which I think they'd want to give him a couple of
+
+611
+00:30:31,420 --> 00:30:32,420
+ those.
+
+612
+00:30:32,420 --> 00:30:37,100
+ You can get a spiral notebook with more than a hundred pages in it, but 50 of those pages
+
+613
+00:30:37,100 --> 00:30:40,140
+ were filled up with weird glyphs, weird images.
+
+614
+00:30:40,140 --> 00:30:42,780
+ And they said, "Some of those were never seen on Earth.
+
+615
+00:30:42,780 --> 00:30:47,020
+ I can scribble out stuff you've never seen before either, but I'm not an astronaut in
+
+616
+00:30:47,020 --> 00:30:48,020
+ deep space.
+
+617
+00:30:48,020 --> 00:30:49,020
+ I don't know why I'm trying to flex on that dude."
+
+618
+00:30:49,020 --> 00:30:52,620
+ But you know, just to add in that detail, so there is that alien thing where did he
+
+619
+00:30:52,620 --> 00:30:56,980
+ start to go crazy, which you would expect as you were freezing to death in space with
+
+620
+00:30:56,980 --> 00:30:58,500
+ no hope of rescue.
+
+621
+00:30:58,500 --> 00:31:02,300
+ But anyway, so that's kind of where we stand with that story now.
+
+622
+00:31:02,300 --> 00:31:06,980
+ Clone, alien, healing factor, we don't know.
+
+623
+00:31:06,980 --> 00:31:09,140
+ We'll say the story's real just for entertainment value.
+
+624
+00:31:09,140 --> 00:31:10,620
+ It could be totally fake.
+
+625
+00:31:10,620 --> 00:31:11,620
+ Could be real.
+
+626
+00:31:11,620 --> 00:31:13,860
+ We've never been able to find much else on it.
+
+627
+00:31:13,860 --> 00:31:18,460
+ Escaped on his own to live his life among us as an alien intruder, or maybe he realized
+
+628
+00:31:18,460 --> 00:31:20,780
+ he is John Smith, but they were going to do experiments on him.
+
+629
+00:31:20,780 --> 00:31:24,580
+ Or is he in a secret laboratory to this day being experimented on?
+
+630
+00:31:24,580 --> 00:31:25,580
+ Nobody knows.
+
+631
+00:31:25,580 --> 00:31:28,300
+ But here's an interesting twist to this story.
+
+632
+00:31:28,300 --> 00:31:34,020
+ When I was looking for John Smith astronaut, I found two.
+
+633
+00:31:34,020 --> 00:31:35,020
+ Kind of.
+
+634
+00:31:35,020 --> 00:31:37,700
+ You had John Michael Smith.
+
+635
+00:31:37,700 --> 00:31:39,020
+ He was a NASA technician.
+
+636
+00:31:39,020 --> 00:31:41,060
+ He was born in 1938.
+
+637
+00:31:41,060 --> 00:31:43,620
+ He's actually still alive today.
+
+638
+00:31:43,620 --> 00:31:45,300
+ Very, very long-lived man.
+
+639
+00:31:45,300 --> 00:31:46,300
+ That's awesome.
+
+640
+00:31:46,300 --> 00:31:48,140
+ John Michael Smith was born in 1938.
+
+641
+00:31:48,140 --> 00:31:49,620
+ He was a NASA technician.
+
+642
+00:31:49,620 --> 00:31:52,300
+ Then we have Michael J. Smith.
+
+643
+00:31:52,300 --> 00:31:53,300
+ Weird.
+
+644
+00:31:53,300 --> 00:31:57,340
+ I mean, yeah, people can have multiple initials and stuff like that.
+
+645
+00:31:57,340 --> 00:32:01,260
+ You have John Michael Smith, and then you have Michael J. Smith.
+
+646
+00:32:01,260 --> 00:32:04,140
+ He was an astronaut, a pilot.
+
+647
+00:32:04,140 --> 00:32:06,460
+ He died on January 20th, 1986.
+
+648
+00:32:06,460 --> 00:32:08,820
+ He was the pilot of the Challenger.
+
+649
+00:32:08,820 --> 00:32:14,500
+ I know there's that big conspiracy theory going around that the people in the shuttle,
+
+650
+00:32:14,500 --> 00:32:17,900
+ the Challenger shuttle didn't actually die, and they'll show a photo of this guy, and
+
+651
+00:32:17,900 --> 00:32:23,140
+ then they'll show a photo of another guy, and they have the same skin tone, and the
+
+652
+00:32:23,140 --> 00:32:27,060
+ same nose, and half the ears the same, but something's different.
+
+653
+00:32:27,060 --> 00:32:30,020
+ So they're trying to say the Challenger shuttle didn't really blow up.
+
+654
+00:32:30,020 --> 00:32:32,140
+ I see that conspiracy pop up.
+
+655
+00:32:32,140 --> 00:32:34,140
+ That's one of those conspiracy theories always ago.
+
+656
+00:32:34,140 --> 00:32:36,420
+ What's the end game with that, though?
+
+657
+00:32:36,420 --> 00:32:43,180
+ Okay, if they faked it, and what was the point?
+
+658
+00:32:43,180 --> 00:32:47,380
+ Why was faking it so important?
+
+659
+00:32:47,380 --> 00:32:48,380
+ People do look similar.
+
+660
+00:32:48,380 --> 00:32:51,740
+ I've run into a couple people that are identical to me.
+
+661
+00:32:51,740 --> 00:32:53,180
+ I've ran into them in real life.
+
+662
+00:32:53,180 --> 00:32:54,820
+ They look identical to me.
+
+663
+00:32:54,820 --> 00:32:58,580
+ So people will look alike, especially when you're looking all over the internet.
+
+664
+00:32:58,580 --> 00:33:04,300
+ But that conspiracy theory aside, I'm going to introduce a new one, John Michael Smith
+
+665
+00:33:04,300 --> 00:33:13,460
+ and Michael J. Smith, and then we have a guy who was possibly a clone alien named John Smith.
+
+666
+00:33:13,460 --> 00:33:14,660
+ Very very generic name.
+
+667
+00:33:14,660 --> 00:33:18,500
+ It's quite possible that these three people all had the exact same name.
+
+668
+00:33:18,500 --> 00:33:24,420
+ I do find it a little coincidental that we have two people named kind of the same.
+
+669
+00:33:24,420 --> 00:33:25,980
+ I guess I'm really stretching.
+
+670
+00:33:25,980 --> 00:33:28,780
+ Two people named kind of the same.
+
+671
+00:33:28,780 --> 00:33:31,780
+ One of them is dead.
+
+672
+00:33:31,780 --> 00:33:32,780
+ Never mind.
+
+673
+00:33:32,780 --> 00:33:37,140
+ I might as well say Michael W. Smith, Christian singer, as part of this conspiracy theory
+
+674
+00:33:37,140 --> 00:33:38,140
+ as well.
+
+675
+00:33:38,140 --> 00:33:41,380
+ He actually came from outer space before he wrote "Go West, Young Man."
+
+676
+00:33:41,380 --> 00:33:42,780
+ "Go Space, Young Man."
+
+677
+00:33:42,780 --> 00:33:43,780
+ I don't know.
+
+678
+00:33:43,780 --> 00:33:48,620
+ I'm realizing that this is a Friday episode, and I'm just reaching now.
+
+679
+00:33:48,620 --> 00:33:51,820
+ However, let's wrap it up like this.
+
+680
+00:33:51,820 --> 00:33:56,180
+ Somewhere out there right now, there may be a man walking amongst us.
+
+681
+00:33:56,180 --> 00:34:04,900
+ He spent 30 years off planet in a tomb built by his coworkers.
+
+682
+00:34:04,900 --> 00:34:08,780
+ And when they finally retrieved him, he never forgave them.
+
+683
+00:34:08,780 --> 00:34:15,340
+ He is still walking amongst our civilization, waiting to take revenge against NASA.
+
+684
+00:34:15,340 --> 00:34:16,500
+ No.
+
+685
+00:34:16,500 --> 00:34:18,620
+ Against all of us.
+
+686
+00:34:18,620 --> 00:34:23,180
+ He's out there watching, waiting for his moment.
+
+687
+00:34:23,180 --> 00:34:24,180
+ Waiting.
+
+688
+00:34:24,180 --> 00:34:28,260
+ Doing high level math until the numbers fit.
+
+689
+00:34:28,260 --> 00:34:34,900
+ Because once he comes up with a perfect plan, he will enact it, and he will destroy us all.
+
+690
+00:34:34,900 --> 00:34:40,260
+ It doesn't matter what side of the chest your heart is on, if the blood it's pumping is
+
+691
+00:34:40,260 --> 00:34:44,540
+ full of ice cold vengeance.
+
+692
+00:34:44,540 --> 00:34:50,780
+ DeadRabberRadio.com is going to be our email address.
+
+693
+00:34:50,780 --> 00:34:53,940
+ You can also hit us up at facebook.com/deadrabberradio.
+
+694
+00:34:53,940 --> 00:34:55,340
+ Twitter is @deadrabberradio.
+
+695
+00:34:55,340 --> 00:34:59,860
+ DeadRabberRadio is the daily paranormal conspiracy and true crime podcast.
+
+696
+00:34:59,860 --> 00:35:02,980
+ You don't have to listen to it every day, but I'm glad you listen to it today.
+
+697
+00:35:02,980 --> 00:35:04,420
+ Have a great weekend, guys.
+
+698
+00:35:04,420 --> 00:35:05,420
+ Bye.
+
+699
+00:35:05,420 --> 00:35:27,420
+ [Music]
+
+700
+00:35:27,420 --> 00:35:37,420
+ [MUSIC]
+
