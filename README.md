@@ -14,7 +14,7 @@ The transcriptions included in this project are licensed under the Creative Comm
 
 - NoDerivatives: If you remix, transform, or build upon these transcriptions, you may not distribute the modified material.
 
-Please refer to the [LICENSE.md] file for the full text of the CC BY-NC-ND 4.0 license.
+Please refer to the [LICENSE.md](LICENSE.md) file for the full text of the CC BY-NC-ND 4.0 license.
 
 This project is not affiliated with, endorsed by, or sponsored by the "Dead Rabbit Radio" podcast or Jason Carpenter. We respect Mr. Carpenter's ownership of the podcast and its contents, and we are open to collaborating with him on this transcript project should he wish to do so.
 
@@ -22,7 +22,7 @@ This project is not affiliated with, endorsed by, or sponsored by the "Dead Rabb
 
 The Fluffle Transcribes Dead Rabbit Radio is an open-source project that aims to create accurate transcripts of all episodes of the "Dead Rabbit Radio" podcast. Our goal is to provide a resource for listeners who want to read along with the podcast or who prefer to read the content rather than listen to it. We believe that creating accessible and accurate transcripts of podcasts is important, and we hope that this project will be a useful resource for the podcast community.
 
-To contribute to the project, please see the [CONTRIBUTING.md] file for instructions on how to submit a transcript or make edits to an existing one.
+To contribute to the project, please see the [CONTRIBUTING.md](CONTRIBUTING.md) file for instructions on how to submit a transcript or make edits to an existing one.
 
 If you have any questions or concerns about the project, please submit an issue on the GitHub repository.
 
