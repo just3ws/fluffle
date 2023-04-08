@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+# vim: set filetype=bash:
+
+mkdir -p ~/podcasts/dead-rabbit-radio/episodes
+
+for file in ~/podcasts/dead-rabbit-radio/episodes/*.mp3 ; do
+  tput clear
+
+  cd ~/podcasts/dead-rabbit-radio/episodes || exit
+
+  episode="$(basename "$file" .mp3)"
+
+  if [ ! -f "${episode}.wav" ]; then
+    time ffmpeg -i "${file}" -ar 16000 -ac 1 -c:a pcm_s16le "${episode}.wav"
+  fi
+done
+
