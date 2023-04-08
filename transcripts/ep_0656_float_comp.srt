@@ -1,0 +1,2524 @@
+1
+00:00:00,000 --> 00:00:05,500
+ Is Russia planning on building an army of the dead?
+
+2
+00:00:05,500 --> 00:00:10,400
+ And then we travel to Old Timey America to take a look at the story of a young man who
+
+3
+00:00:10,400 --> 00:00:12,920
+ gains the ability to fly.
+
+4
+00:00:12,920 --> 00:00:14,600
+ Sounds awesome, doesn't it?
+
+5
+00:00:14,600 --> 00:00:19,800
+ It turns out it would actually suck today on Dead Rabbit Radio.
+
+6
+00:00:19,800 --> 00:00:29,800
+ Hey everyone, welcome back to another episode of Dead Rabbit Radio.
+
+7
+00:00:29,800 --> 00:00:32,400
+ I'm your host Jason Carpenter and I'm having a great day.
+
+8
+00:00:32,400 --> 00:00:33,880
+ Hope you guys are having a great day too.
+
+9
+00:00:33,880 --> 00:00:35,440
+ We got so much stuff to cover.
+
+10
+00:00:35,440 --> 00:00:36,940
+ I just won't go from a nap.
+
+11
+00:00:36,940 --> 00:00:40,720
+ That's what you guys want, a podcast produced by a slightly sleepy man.
+
+12
+00:00:40,720 --> 00:00:41,720
+ It was a night nap.
+
+13
+00:00:41,720 --> 00:00:42,720
+ It's 8.30pm.
+
+14
+00:00:42,720 --> 00:00:44,720
+ I like to take late naps.
+
+15
+00:00:44,720 --> 00:00:48,400
+ First off, we gotta give a shout out to our Fan Art Friday submission.
+
+16
+00:00:48,400 --> 00:00:50,000
+ Look at this drawing from Dropshot.
+
+17
+00:00:50,000 --> 00:00:51,680
+ It's the picture of a rabbit.
+
+18
+00:00:51,680 --> 00:00:53,080
+ He looks slightly terrified.
+
+19
+00:00:53,080 --> 00:00:56,400
+ He looks like he's wondering why he's in the black void, but he has some nice books
+
+20
+00:00:56,400 --> 00:00:58,800
+ in front of him so he'll be okay.
+
+21
+00:00:58,800 --> 00:01:00,840
+ Dropshot, thank you so much for sending this over.
+
+22
+00:01:00,840 --> 00:01:01,840
+ Really appreciate it.
+
+23
+00:01:01,840 --> 00:01:06,040
+ Then we gotta give a shout out to our newest Patreon supporter, writing into Dead Rabbit
+
+24
+00:01:06,040 --> 00:01:09,640
+ Command on the back of 10,000 Stallions.
+
+25
+00:01:09,640 --> 00:01:13,680
+ That should be the name of a band.
+
+26
+00:01:13,680 --> 00:01:15,480
+ We hear the Stallions coming in.
+
+27
+00:01:15,480 --> 00:01:16,480
+ It's in Valid ID.
+
+28
+00:01:16,480 --> 00:01:19,000
+ They're on the back of every Stallion at the same time.
+
+29
+00:01:19,000 --> 00:01:21,080
+ It's Quantum Patreon supporters.
+
+30
+00:01:21,080 --> 00:01:23,320
+ Valid ID, you're gonna be our captain, our pilot this episode.
+
+31
+00:01:23,320 --> 00:01:27,160
+ If you guys can't swear to Patreon or if you only exist in one place at one time, that's
+
+32
+00:01:27,160 --> 00:01:28,160
+ fine too.
+
+33
+00:01:28,160 --> 00:01:29,680
+ I just read the word about the show.
+
+34
+00:01:29,680 --> 00:01:31,160
+ Really, really helps out a lot.
+
+35
+00:01:31,160 --> 00:01:33,960
+ In Valid ID, I'm not gonna toss you the keys to any vehicles just yet.
+
+36
+00:01:33,960 --> 00:01:35,400
+ I wanna talk about this.
+
+37
+00:01:35,400 --> 00:01:36,400
+ It's Friday.
+
+38
+00:01:36,400 --> 00:01:37,800
+ Gonna be a kind of a laid back episode.
+
+39
+00:01:37,800 --> 00:01:39,400
+ Got some good stories for you.
+
+40
+00:01:39,400 --> 00:01:42,160
+ We're coming up to the end of the 90 days to a better you.
+
+41
+00:01:42,160 --> 00:01:44,720
+ And I want you guys to really focus on that.
+
+42
+00:01:44,720 --> 00:01:47,000
+ I wanted to give a shout out to one of our listeners, Yuri.
+
+43
+00:01:47,000 --> 00:01:49,240
+ It's just to show a good example of this.
+
+44
+00:01:49,240 --> 00:01:55,240
+ Yuri, when we did the first 90 days to a better you, they decided to re-pick up their hobby
+
+45
+00:01:55,240 --> 00:01:56,680
+ of doing 3D modeling.
+
+46
+00:01:56,680 --> 00:02:01,520
+ And they actually sent me some car model parts they were working on.
+
+47
+00:02:01,520 --> 00:02:04,600
+ And now they're doing the second 90 days challenge.
+
+48
+00:02:04,600 --> 00:02:07,880
+ They're trying to get a job in the 3D modeling industry.
+
+49
+00:02:07,880 --> 00:02:13,520
+ So far Yuri's sent out 30 applications trying to find their dream job.
+
+50
+00:02:13,520 --> 00:02:15,480
+ That's what the 90 day challenge can do for you.
+
+51
+00:02:15,480 --> 00:02:18,360
+ And this isn't, you don't have to buy a book.
+
+52
+00:02:18,360 --> 00:02:19,960
+ You don't have to subscribe to anything.
+
+53
+00:02:19,960 --> 00:02:24,200
+ This is me hoping to encourage you to be better.
+
+54
+00:02:24,200 --> 00:02:29,960
+ And to tell you what guys, if you guys miss this 90 day deadline, it's okay.
+
+55
+00:02:29,960 --> 00:02:32,160
+ Just make the next 90 days.
+
+56
+00:02:32,160 --> 00:02:34,080
+ The best 90 days.
+
+57
+00:02:34,080 --> 00:02:37,280
+ The best steps forward for the rest of your life.
+
+58
+00:02:37,280 --> 00:02:39,760
+ Invalid ID, hop on off all of those stallions.
+
+59
+00:02:39,760 --> 00:02:43,320
+ I'm going to toss you the keys to the hair hang glider.
+
+60
+00:02:43,320 --> 00:02:47,240
+ It doesn't need keys, but it's just a souvenir.
+
+61
+00:02:47,240 --> 00:02:48,920
+ Go ahead and grab on to the hair hang glider.
+
+62
+00:02:48,920 --> 00:02:50,920
+ We're going to hang on to your ankles and run.
+
+63
+00:02:50,920 --> 00:02:51,920
+ Jump off that cliff.
+
+64
+00:02:51,920 --> 00:02:53,760
+ We are leaving behind Dead Rabbit Command.
+
+65
+00:02:53,760 --> 00:03:03,160
+ We are headed out to Siberia.
+
+66
+00:03:03,160 --> 00:03:05,960
+ As we're going back, hit that little button there.
+
+67
+00:03:05,960 --> 00:03:06,960
+ I hope you can reach it.
+
+68
+00:03:06,960 --> 00:03:09,120
+ I hope you can reach it before the design hang glider.
+
+69
+00:03:09,120 --> 00:03:10,800
+ We're going back in time as well.
+
+70
+00:03:10,800 --> 00:03:15,440
+ We're going back to the 5th century BC.
+
+71
+00:03:15,440 --> 00:03:17,480
+ You thought we were doing that whole AD thing.
+
+72
+00:03:17,480 --> 00:03:18,480
+ Nope.
+
+73
+00:03:18,480 --> 00:03:19,480
+ BC.
+
+74
+00:03:19,480 --> 00:03:23,120
+ We're going to the Valley of the Kings.
+
+75
+00:03:23,120 --> 00:03:25,800
+ It's in Tuva in Siberia.
+
+76
+00:03:25,800 --> 00:03:31,040
+ Back in 5th century BC, there was a man sitting there writing a book.
+
+77
+00:03:31,040 --> 00:03:34,120
+ He's writing out his name and he goes, "My name is Hero."
+
+78
+00:03:34,120 --> 00:03:36,840
+ Everyone's like, "Oh dude, this guy must be super awesome.
+
+79
+00:03:36,840 --> 00:03:38,880
+ His first name is Hero, Dotus."
+
+80
+00:03:38,880 --> 00:03:41,800
+ And they're like, "Oh man."
+
+81
+00:03:41,800 --> 00:03:43,120
+ That's a callback joke.
+
+82
+00:03:43,120 --> 00:03:47,680
+ Hero Dotus, the great Greek historian, is writing about the Skythians.
+
+83
+00:03:47,680 --> 00:03:51,200
+ He puts a question mark because I don't know if I'm pronouncing that right either.
+
+84
+00:03:51,200 --> 00:03:56,520
+ The Skythians were a race or like a subculture.
+
+85
+00:03:56,520 --> 00:04:02,800
+ From Iran, they were nomads who took their horses, took their swords and traveled around
+
+86
+00:04:02,800 --> 00:04:05,200
+ the continent.
+
+87
+00:04:05,200 --> 00:04:08,720
+ I don't know exactly what that had to do with it because I don't know if they were like
+
+88
+00:04:08,720 --> 00:04:10,640
+ ruthless bandits.
+
+89
+00:04:10,640 --> 00:04:15,760
+ I don't know if they were like helping old ladies out of like ditches and stuff like
+
+90
+00:04:15,760 --> 00:04:16,760
+ that.
+
+91
+00:04:16,760 --> 00:04:18,160
+ That was a real big problem back in 5th century BC.
+
+92
+00:04:18,160 --> 00:04:20,200
+ A lot of ditches, a lot of old ladies.
+
+93
+00:04:20,200 --> 00:04:24,200
+ I don't really know how the culture was, but I do know that they were very famed in combat.
+
+94
+00:04:24,200 --> 00:04:26,000
+ Actually, I do know how their culture was.
+
+95
+00:04:26,000 --> 00:04:30,760
+ Before, I don't know why I blanked on this detail, there's an old lady in a trench and
+
+96
+00:04:30,760 --> 00:04:32,640
+ she's like, "Not again!"
+
+97
+00:04:32,640 --> 00:04:37,600
+ And a Skythian warrior rides up and she's like, "Oh young fella, you'll help me out."
+
+98
+00:04:37,600 --> 00:04:40,320
+ I don't know, I can't say how their politics were.
+
+99
+00:04:40,320 --> 00:04:41,880
+ I can't say who they'd vote for.
+
+100
+00:04:41,880 --> 00:04:46,680
+ But the Skythians were known to drink out of human skulls.
+
+101
+00:04:46,680 --> 00:04:51,800
+ That should kind of tell you what their D&D alignment would be.
+
+102
+00:04:51,800 --> 00:04:54,200
+ They drink out of human skulls.
+
+103
+00:04:54,200 --> 00:05:03,160
+ This part, Herodotus, he has stated that supposedly, this sounds a little like made up to me.
+
+104
+00:05:03,160 --> 00:05:06,720
+ This sounds like another tribe trying to give him a bad name.
+
+105
+00:05:06,720 --> 00:05:16,880
+ They drink out of human skulls and they have capes made out of human scalps.
+
+106
+00:05:16,880 --> 00:05:19,120
+ Come on, that's impossible.
+
+107
+00:05:19,120 --> 00:05:21,640
+ You know how many people you'd have to scalp?
+
+108
+00:05:21,640 --> 00:05:23,360
+ I've tried it, I've tried it.
+
+109
+00:05:23,360 --> 00:05:25,200
+ It takes more than seven.
+
+110
+00:05:25,200 --> 00:05:29,160
+ You know how many people you'd have to scalp to make, maybe like a baby cape, maybe like
+
+111
+00:05:29,160 --> 00:05:32,880
+ a cape for your son and then they'd grow out of it and you'd be like, "Oh, you can pass
+
+112
+00:05:32,880 --> 00:05:34,320
+ it along to your little brother."
+
+113
+00:05:34,320 --> 00:05:42,000
+ Think about how much skin you have on your scalp and then imagine peeling it off and
+
+114
+00:05:42,000 --> 00:05:46,520
+ then how many you heads would it take to make like a cape?
+
+115
+00:05:46,520 --> 00:05:51,760
+ I don't know if they necessarily had like Phantom of the Opera cloaks.
+
+116
+00:05:51,760 --> 00:05:54,080
+ They're like all satiny smooth.
+
+117
+00:05:54,080 --> 00:05:56,840
+ They're only killing people with the smoothest skin.
+
+118
+00:05:56,840 --> 00:06:02,520
+ But still, a cape, like a five foot, six foot long cape, made of human, seriously made
+
+119
+00:06:02,520 --> 00:06:04,120
+ of human scalps.
+
+120
+00:06:04,120 --> 00:06:09,640
+ It sounds a little ridiculous to me, but the Skythians, they drank out of human skulls,
+
+121
+00:06:09,640 --> 00:06:12,040
+ they might have made capes made out of human scalps.
+
+122
+00:06:12,040 --> 00:06:13,040
+ Plus it's so cold.
+
+123
+00:06:13,040 --> 00:06:16,040
+ Like, what if you haven't scalped enough people that winter?
+
+124
+00:06:16,040 --> 00:06:17,360
+ You're like, "Oh, I'm so cold.
+
+125
+00:06:17,360 --> 00:06:18,760
+ Can I just get, you know, some cloth?"
+
+126
+00:06:18,760 --> 00:06:21,000
+ And they're like, "No, we have a reputation up hold.
+
+127
+00:06:21,000 --> 00:06:24,400
+ I can't just like take some like camel hair and pretend it's a human."
+
+128
+00:06:24,400 --> 00:06:26,360
+ No, as you're freezing to death.
+
+129
+00:06:26,360 --> 00:06:28,760
+ Anyways, the Skythians roamed the area.
+
+130
+00:06:28,760 --> 00:06:34,680
+ Herodotus wrote all Herodotus, some say, but speaking of fake news, Herodotus is writing
+
+131
+00:06:34,680 --> 00:06:36,560
+ of these guys' adventures.
+
+132
+00:06:36,560 --> 00:06:42,800
+ The year now is 2017, and we're still in the Valley of the Kings in Tuva, Siberia.
+
+133
+00:06:42,800 --> 00:06:45,840
+ And they've found the burial site of these ancient warriors.
+
+134
+00:06:45,840 --> 00:06:47,840
+ So they actually knew where the burial site was.
+
+135
+00:06:47,840 --> 00:06:49,120
+ It was called Valley of the Kings.
+
+136
+00:06:49,120 --> 00:06:51,080
+ They're not like, "I wonder what's buried there."
+
+137
+00:06:51,080 --> 00:06:58,120
+ But in 2017, Russia's defense minister Sergei Shoigu had an idea.
+
+138
+00:06:58,120 --> 00:07:01,240
+ An archaeological idea.
+
+139
+00:07:01,240 --> 00:07:03,960
+ He goes, "Let's get a bunch of resources.
+
+140
+00:07:03,960 --> 00:07:06,680
+ Let's get a bunch of egghead scientists to come on out here.
+
+141
+00:07:06,680 --> 00:07:09,160
+ Let's excavate the Valley of the Kings.
+
+142
+00:07:09,160 --> 00:07:12,160
+ Let's find some bones, ladies and gentlemen."
+
+143
+00:07:12,160 --> 00:07:13,360
+ Weird, right?
+
+144
+00:07:13,360 --> 00:07:17,080
+ I'm not saying that if you're the minister of defense, all you can ever think about is
+
+145
+00:07:17,080 --> 00:07:18,080
+ defense.
+
+146
+00:07:18,080 --> 00:07:19,600
+ I mean, they're allowed to have hobbies too.
+
+147
+00:07:19,600 --> 00:07:23,680
+ But it's weird to spearhead this expedition with all these bones.
+
+148
+00:07:23,680 --> 00:07:24,960
+ You are the minister of defense after all.
+
+149
+00:07:24,960 --> 00:07:25,960
+ But anyways, he does it.
+
+150
+00:07:25,960 --> 00:07:30,120
+ I'm not saying he stood there and took a site like Indiana Jones, but it was a personal
+
+151
+00:07:30,120 --> 00:07:31,720
+ project of his.
+
+152
+00:07:31,720 --> 00:07:36,160
+ Fast forward now to April 14th, 2021.
+
+153
+00:07:36,160 --> 00:07:40,520
+ Sergei's holding this meeting with the Russian Geographical Society.
+
+154
+00:07:40,520 --> 00:07:42,120
+ Vladimir Putin is there as well.
+
+155
+00:07:42,120 --> 00:07:43,840
+ Sergei and Putin are buddies.
+
+156
+00:07:43,840 --> 00:07:46,240
+ Which I think would make sense if you were the defense minister.
+
+157
+00:07:46,240 --> 00:07:47,600
+ You wouldn't want to have a defense minister.
+
+158
+00:07:47,600 --> 00:07:49,120
+ He didn't like you.
+
+159
+00:07:49,120 --> 00:07:54,120
+ Sergei is given this speech to the Russian Geographical Society and he announces their
+
+160
+00:07:54,120 --> 00:07:55,880
+ true intentions.
+
+161
+00:07:55,880 --> 00:07:58,120
+ This is 100% true.
+
+162
+00:07:58,120 --> 00:08:03,600
+ They're announcing their true intentions with this burial site.
+
+163
+00:08:03,600 --> 00:08:06,840
+ When I said 100% true, I went back and looked away at sources.
+
+164
+00:08:06,840 --> 00:08:12,160
+ They're the daily male mysterious universe in the Siberian times.
+
+165
+00:08:12,160 --> 00:08:15,280
+ But even if the first two can be a little iffy.
+
+166
+00:08:15,280 --> 00:08:17,240
+ Siberian times, that sounds legit.
+
+167
+00:08:17,240 --> 00:08:22,760
+ Sergei gives this speech and he says, "What we're looking at doing, ladies and gentlemen,
+
+168
+00:08:22,760 --> 00:08:26,680
+ if we're not just digging up any old bones, those are everywhere.
+
+169
+00:08:26,680 --> 00:08:29,680
+ My dog can do that."
+
+170
+00:08:29,680 --> 00:08:32,640
+ He gets on his notes, waits for laughter and everyone's just super quiet.
+
+171
+00:08:32,640 --> 00:08:35,080
+ He's like, "Okay, that joke bombed.
+
+172
+00:08:35,080 --> 00:08:36,720
+ But we're not just looking for any bones.
+
+173
+00:08:36,720 --> 00:08:41,240
+ We're looking for quote, organic material."
+
+174
+00:08:41,240 --> 00:08:46,080
+ When talking about organic material, he says quote, "I believe you understand what would
+
+175
+00:08:46,080 --> 00:08:47,080
+ follow that."
+
+176
+00:08:47,080 --> 00:08:48,080
+ Unquote.
+
+177
+00:08:48,080 --> 00:08:51,680
+ Everyone is kind of looking at each other.
+
+178
+00:08:51,680 --> 00:08:52,680
+ They're like, "Not really.
+
+179
+00:08:52,680 --> 00:08:53,680
+ What does that mean?"
+
+180
+00:08:53,680 --> 00:08:58,400
+ And then he goes on to specify something that they could do something maybe like dolly the
+
+181
+00:08:58,400 --> 00:08:59,760
+ sheep.
+
+182
+00:08:59,760 --> 00:09:02,440
+ So he's talking about cloning.
+
+183
+00:09:02,440 --> 00:09:08,120
+ He wants to make clones of these ancient nomads.
+
+184
+00:09:08,120 --> 00:09:11,480
+ This is, so this flabbergast me.
+
+185
+00:09:11,480 --> 00:09:16,120
+ Because we have the world of science and then we have the world of the paranormal.
+
+186
+00:09:16,120 --> 00:09:20,320
+ And very rarely do they meet unless the world of the paranormal invites scientists.
+
+187
+00:09:20,320 --> 00:09:22,360
+ Being like, "Hey, can you prove these ghosts exist?"
+
+188
+00:09:22,360 --> 00:09:24,720
+ As the scientists are all possessed floating in the room.
+
+189
+00:09:24,720 --> 00:09:26,320
+ They're like, "No, ghosts are fake."
+
+190
+00:09:26,320 --> 00:09:27,760
+ And they're like, "Oh, dang it.
+
+191
+00:09:27,760 --> 00:09:28,920
+ Not again."
+
+192
+00:09:28,920 --> 00:09:30,920
+ But usually that's how it works.
+
+193
+00:09:30,920 --> 00:09:32,400
+ Scientists usually don't show up.
+
+194
+00:09:32,400 --> 00:09:36,400
+ Scientists probably don't usually call up the mystery machine and be like, "Oh, we
+
+195
+00:09:36,400 --> 00:09:38,680
+ think our labs, Hampton."
+
+196
+00:09:38,680 --> 00:09:44,200
+ These archaeologists, these trained scientists, invited a shaman down to the burial site before
+
+197
+00:09:44,200 --> 00:09:49,560
+ they even got started excavating these bones to bless the area.
+
+198
+00:09:49,560 --> 00:09:55,520
+ They were so terrified that these spirits would curse them, would kill them.
+
+199
+00:09:55,520 --> 00:09:57,560
+ Ghosts can watch, and Jones too, right?
+
+200
+00:09:57,560 --> 00:10:00,800
+ Ghosts can know what happens at cursed archaeological sites as well.
+
+201
+00:10:00,800 --> 00:10:02,160
+ Then they brought a shaman out.
+
+202
+00:10:02,160 --> 00:10:04,360
+ I found that so odd.
+
+203
+00:10:04,360 --> 00:10:09,200
+ I've seen reports of like police working with magic users around the world or priests
+
+204
+00:10:09,200 --> 00:10:10,200
+ and things like that.
+
+205
+00:10:10,200 --> 00:10:15,520
+ But I've never seen scientists go, "You know, before we get started with all of this
+
+206
+00:10:15,520 --> 00:10:20,440
+ rational cause and effect scientific and method stuff, let's bring in a shaman.
+
+207
+00:10:20,440 --> 00:10:23,800
+ Let's bring in a shaman to make sure none of our faces melt."
+
+208
+00:10:23,800 --> 00:10:25,000
+ This is going on apparently.
+
+209
+00:10:25,000 --> 00:10:30,560
+ According to the Daily Mail, the Russian defense minister is talking about cloning
+
+210
+00:10:30,560 --> 00:10:31,560
+ these soldiers.
+
+211
+00:10:31,560 --> 00:10:33,760
+ And that's what they would be, right?
+
+212
+00:10:33,760 --> 00:10:36,400
+ You don't clone them, you don't clone them and then give them a job and then see how
+
+213
+00:10:36,400 --> 00:10:38,360
+ they work at a fro-yo shop.
+
+214
+00:10:38,360 --> 00:10:44,240
+ You would take the bone marrow from these ancient warriors and try to replicate them.
+
+215
+00:10:44,240 --> 00:10:48,840
+ It's interesting though, because you imagine the strong- this could be a bit of a rant
+
+216
+00:10:48,840 --> 00:10:53,880
+ and I could be totally wrong, but I would imagine the strongest man in the 5th century
+
+217
+00:10:53,880 --> 00:10:58,560
+ is like the average high school football player today.
+
+218
+00:10:58,560 --> 00:11:03,400
+ Just through nutrition, just through environmental factors, I would say, like you took someone
+
+219
+00:11:03,400 --> 00:11:08,400
+ from the 5th century, BC, and put them in a foot race with a high school athlete.
+
+220
+00:11:08,400 --> 00:11:11,640
+ Herodotus has a little starter pistol.
+
+221
+00:11:11,640 --> 00:11:14,040
+ I think the high school athlete would smosh them.
+
+222
+00:11:14,040 --> 00:11:18,480
+ And I'm talking about not the equivalent of just some schmo from the 5th century.
+
+223
+00:11:18,480 --> 00:11:19,760
+ How did I get here?
+
+224
+00:11:19,760 --> 00:11:21,400
+ A highly trained warrior.
+
+225
+00:11:21,400 --> 00:11:23,400
+ Now, I'm talking about a foot race.
+
+226
+00:11:23,400 --> 00:11:27,600
+ If it's some sort of brutal battle to the finish, that high school scalp is going to
+
+227
+00:11:27,600 --> 00:11:29,160
+ become part of a cape.
+
+228
+00:11:29,160 --> 00:11:32,920
+ But now we're talking if you took a cloned dude from the 5th century and put him up
+
+229
+00:11:32,920 --> 00:11:39,640
+ against spetnats, or green berets or something like that, or the Coast Guard, I don't think
+
+230
+00:11:39,640 --> 00:11:40,840
+ it would match up.
+
+231
+00:11:40,840 --> 00:11:46,600
+ So is this going to come to- are these really the best warriors humanity has to offer?
+
+232
+00:11:46,600 --> 00:11:49,160
+ You think you could probably just dig up someone more recent, right?
+
+233
+00:11:49,160 --> 00:11:51,360
+ You wouldn't have to go here.
+
+234
+00:11:51,360 --> 00:11:55,560
+ If you can clone people, why don't you just get a current dude?
+
+235
+00:11:55,560 --> 00:11:57,360
+ Like a guy who just died a couple weeks ago.
+
+236
+00:11:57,360 --> 00:11:59,360
+ Sorry, I'm just getting great.
+
+237
+00:11:59,360 --> 00:12:01,480
+ But there's war heroes born every day.
+
+238
+00:12:01,480 --> 00:12:02,480
+ I get him.
+
+239
+00:12:02,480 --> 00:12:03,480
+ And clone a bunch of him.
+
+240
+00:12:03,480 --> 00:12:07,720
+ I guess the problem, I guess the thing is, is the family would know, right?
+
+241
+00:12:07,720 --> 00:12:13,840
+ If a family unfortunately lost one of their loved ones in a battle, they died bravely.
+
+242
+00:12:13,840 --> 00:12:19,640
+ And then the next day, you're watching television, and there's like a hundred of them running
+
+243
+00:12:19,640 --> 00:12:20,640
+ down the street.
+
+244
+00:12:20,640 --> 00:12:22,600
+ You'll be like, "Um, Mr. Putin."
+
+245
+00:12:22,600 --> 00:12:25,680
+ I have a little question about my son's remains.
+
+246
+00:12:25,680 --> 00:12:29,800
+ I've noticed there's scores of him now, standing guard outside your palace.
+
+247
+00:12:29,800 --> 00:12:30,800
+ There we go.
+
+248
+00:12:30,800 --> 00:12:32,640
+ That might be going on.
+
+249
+00:12:32,640 --> 00:12:39,640
+ We may soon be facing down a fleet of warriors that used to be from the 5th century BC.
+
+250
+00:12:39,640 --> 00:12:40,760
+ But I think we could take them.
+
+251
+00:12:40,760 --> 00:12:42,600
+ I'm not too worried about it.
+
+252
+00:12:42,600 --> 00:12:43,600
+ Invalid ID.
+
+253
+00:12:43,600 --> 00:12:46,000
+ I'm going to toss you the keys of the Carpentercopter.
+
+254
+00:12:46,000 --> 00:12:48,680
+ We are leaving behind Siberia.
+
+255
+00:12:48,680 --> 00:12:56,120
+ We are headed out to Dexter, Missouri.
+
+256
+00:12:56,120 --> 00:13:01,560
+ This is one of those stories that I came across during my vacation and couldn't wait to tell
+
+257
+00:13:01,560 --> 00:13:02,560
+ you it.
+
+258
+00:13:02,560 --> 00:13:08,240
+ I thought it was so fun, fascinating, and full of frights.
+
+259
+00:13:08,240 --> 00:13:11,680
+ I was going to say terrifying, but I wanted to stay with my F theme.
+
+260
+00:13:11,680 --> 00:13:13,880
+ It's really kind of a terrifying story.
+
+261
+00:13:13,880 --> 00:13:15,400
+ Invalid ID.
+
+262
+00:13:15,400 --> 00:13:16,920
+ Let's land that Carpentercopter.
+
+263
+00:13:16,920 --> 00:13:19,440
+ It's June 1884.
+
+264
+00:13:19,440 --> 00:13:20,440
+ We're in Dexter, Missouri.
+
+265
+00:13:20,440 --> 00:13:28,000
+ Everyone put on your Missouri clothes.
+
+266
+00:13:28,000 --> 00:13:29,960
+ So everyone put on your Missouri clothes.
+
+267
+00:13:29,960 --> 00:13:31,880
+ Straw hat, straw in the mouth.
+
+268
+00:13:31,880 --> 00:13:32,880
+ Straw pants.
+
+269
+00:13:32,880 --> 00:13:34,120
+ It was a very itchy time back then.
+
+270
+00:13:34,120 --> 00:13:35,120
+ Everything was pure straw.
+
+271
+00:13:35,120 --> 00:13:38,720
+ We're walking towards the farm of the Beck family.
+
+272
+00:13:38,720 --> 00:13:46,160
+ You had Reynard Beck, 27 year old man, his brother Samuel, and their poor unnamed mother.
+
+273
+00:13:46,160 --> 00:13:48,040
+ She was unnamed from birth.
+
+274
+00:13:48,040 --> 00:13:49,920
+ Sad story.
+
+275
+00:13:49,920 --> 00:13:54,360
+ The mother, Reynard, and Samuel are all living on the Beck farm.
+
+276
+00:13:54,360 --> 00:13:55,360
+ It's a hard life.
+
+277
+00:13:55,360 --> 00:13:57,560
+ It's been a hard few seasons.
+
+278
+00:13:57,560 --> 00:14:02,480
+ They're barely growing enough stuff you can grow, enough farm stuff you can grow in Missouri
+
+279
+00:14:02,480 --> 00:14:04,000
+ to make ends meet.
+
+280
+00:14:04,000 --> 00:14:07,640
+ Reynard Beck spends long days working the fields.
+
+281
+00:14:07,640 --> 00:14:11,760
+ And then he comes home and goes to sleep.
+
+282
+00:14:11,760 --> 00:14:13,960
+ It is a back breaking existence.
+
+283
+00:14:13,960 --> 00:14:16,760
+ But one morning he wakes up.
+
+284
+00:14:16,760 --> 00:14:20,280
+ "Ooohhhhhh.
+
+285
+00:14:20,280 --> 00:14:21,360
+ Time to get to work.
+
+286
+00:14:21,360 --> 00:14:25,440
+ Time for my entire body to ache with the unending labor of man."
+
+287
+00:14:25,440 --> 00:14:26,440
+ Wait, huh?
+
+288
+00:14:26,440 --> 00:14:34,200
+ And he realizes that his painful knees, waw, waw, waw, the throbbing redness that normally
+
+289
+00:14:34,200 --> 00:14:37,240
+ greets him when he wakes up is all "Hello, Reynard!
+
+290
+00:14:37,240 --> 00:14:39,440
+ Here comes horrible pain!"
+
+291
+00:14:39,440 --> 00:14:41,240
+ And we don't know how to pronounce your name.
+
+292
+00:14:41,240 --> 00:14:42,240
+ "Waw, waw."
+
+293
+00:14:42,240 --> 00:14:46,040
+ His knees normally hurt and the first thing when he wakes up he notices his knees don't
+
+294
+00:14:46,040 --> 00:14:47,040
+ hurt.
+
+295
+00:14:47,040 --> 00:14:48,040
+ What?
+
+296
+00:14:48,040 --> 00:14:52,520
+ Then he's like "Okay, well that's weird, but surely my back will still be sore.
+
+297
+00:14:52,520 --> 00:14:55,760
+ Oh good old back, you're always tense and uncomfortable."
+
+298
+00:14:55,760 --> 00:14:59,160
+ Then he realizes his back is fully relaxed.
+
+299
+00:14:59,160 --> 00:15:00,160
+ What?
+
+300
+00:15:00,160 --> 00:15:01,160
+ What is this sensation?
+
+301
+00:15:01,160 --> 00:15:05,800
+ It feels like I've been able to relax for more than four hours.
+
+302
+00:15:05,800 --> 00:15:08,680
+ Every joint in his body is pain free.
+
+303
+00:15:08,680 --> 00:15:10,600
+ He feels so good.
+
+304
+00:15:10,600 --> 00:15:12,280
+ He has a zip in his step.
+
+305
+00:15:12,280 --> 00:15:15,040
+ He's ready to get to taste like all his pain's gone.
+
+306
+00:15:15,040 --> 00:15:17,120
+ Time to do even more work today.
+
+307
+00:15:17,120 --> 00:15:21,440
+ He jumps out of his bed, ready to ruin whatever his body has healed.
+
+308
+00:15:21,440 --> 00:15:26,800
+ And that is when he discovers his feet aren't touching the ground.
+
+309
+00:15:26,800 --> 00:15:27,800
+ Huh?
+
+310
+00:15:27,800 --> 00:15:28,800
+ What?
+
+311
+00:15:28,800 --> 00:15:35,960
+ He looks down and he can see that he's hovering off the floor of his bedroom.
+
+312
+00:15:35,960 --> 00:15:39,080
+ He gets panicked obviously by this.
+
+313
+00:15:39,080 --> 00:15:41,680
+ And he jumps back onto the bed.
+
+314
+00:15:41,680 --> 00:15:43,240
+ And he's sitting there for a second.
+
+315
+00:15:43,240 --> 00:15:44,960
+ He's like "What in the world?
+
+316
+00:15:44,960 --> 00:15:46,400
+ Maybe it was just a hallucination.
+
+317
+00:15:46,400 --> 00:15:49,240
+ Maybe this pain free existence is tricking me."
+
+318
+00:15:49,240 --> 00:15:58,040
+ He slowly steps back onto the floor and sure enough he's floating above the ground.
+
+319
+00:15:58,040 --> 00:16:02,040
+ This is an interesting story because I want you to kind of put yourselves in the shoes,
+
+320
+00:16:02,040 --> 00:16:05,200
+ in the floating shoes of Reynard.
+
+321
+00:16:05,200 --> 00:16:08,800
+ What would you do if you woke up like this?
+
+322
+00:16:08,800 --> 00:16:14,040
+ There'd be a moment of elation but then I think it would be filled with terror.
+
+323
+00:16:14,040 --> 00:16:16,600
+ Because of the implications obviously.
+
+324
+00:16:16,600 --> 00:16:21,680
+ You have this implication that you are no longer bound to one of the three laws of the
+
+325
+00:16:21,680 --> 00:16:22,680
+ universe, gravity.
+
+326
+00:16:22,680 --> 00:16:25,680
+ It would also be kind of fun.
+
+327
+00:16:25,680 --> 00:16:26,680
+ Wheeee!
+
+328
+00:16:26,680 --> 00:16:29,200
+ You're floating around but it'd still be terrifying.
+
+329
+00:16:29,200 --> 00:16:33,040
+ But Rey, we're called Rey for short because I'm having a hard time with the other name.
+
+330
+00:16:33,040 --> 00:16:36,760
+ He has that fear like we would but he also has another issue.
+
+331
+00:16:36,760 --> 00:16:42,720
+ This is 1884, Missouri and his family and the whole community is Bible Thumb in Christian
+
+332
+00:16:42,720 --> 00:16:43,720
+ Town.
+
+333
+00:16:43,720 --> 00:16:49,440
+ Anything that seems slightly out of whack is considered the work of the devil.
+
+334
+00:16:49,440 --> 00:16:51,560
+ So he's concerned about that.
+
+335
+00:16:51,560 --> 00:16:52,720
+ All of these things are going through his head.
+
+336
+00:16:52,720 --> 00:16:57,040
+ He wants to call out for help but he's afraid that the Amishka will help you, will help
+
+337
+00:16:57,040 --> 00:16:58,880
+ you into the arms of Jesus Christ.
+
+338
+00:16:58,880 --> 00:17:00,680
+ He's like "No, no, that's not what I meant."
+
+339
+00:17:00,680 --> 00:17:04,920
+ He's afraid that whatever's going on will be considered the devil's work and he'll
+
+340
+00:17:04,920 --> 00:17:06,360
+ be killed for it.
+
+341
+00:17:06,360 --> 00:17:11,080
+ He's also afraid that he's afraid of that possibility in the future.
+
+342
+00:17:11,080 --> 00:17:14,040
+ He's also afraid right now he might just float away.
+
+343
+00:17:14,040 --> 00:17:16,240
+ And that's when he hears his mom from downstairs.
+
+344
+00:17:16,240 --> 00:17:19,880
+ "Reynard, come on down, it's breakfast time."
+
+345
+00:17:19,880 --> 00:17:21,680
+ He's just floating there and he's like "Great.
+
+346
+00:17:21,680 --> 00:17:24,120
+ I hope I get my share of the waffles.
+
+347
+00:17:24,120 --> 00:17:26,440
+ I know my brother Samuel loves to eat all the waffles."
+
+348
+00:17:26,440 --> 00:17:28,880
+ And he's floating there and then he realizes something.
+
+349
+00:17:28,880 --> 00:17:34,800
+ He had some old fishing weights, like some old lead weights in some of his pants across
+
+350
+00:17:34,800 --> 00:17:39,720
+ the room so he's kind of like now swimming through the air to these pants and he grabs
+
+351
+00:17:39,720 --> 00:17:45,560
+ them, he pulls the lead weights out, attaches them to his own pants and then, doop, sinks
+
+352
+00:17:45,560 --> 00:17:47,040
+ to the ground.
+
+353
+00:17:47,040 --> 00:17:50,640
+ Reynard is a 166 pound human.
+
+354
+00:17:50,640 --> 00:17:54,680
+ And I don't think, I don't think he had a lot of weights on him but he just had a few
+
+355
+00:17:54,680 --> 00:17:59,120
+ and just enough of these little lead weights held him to the ground.
+
+356
+00:17:59,120 --> 00:18:03,520
+ He walks downstairs uneasily because he's still a little floaty but at least now his
+
+357
+00:18:03,520 --> 00:18:04,720
+ feet are touching the ground.
+
+358
+00:18:04,720 --> 00:18:10,520
+ He walks downstairs, says nothing to his family, just enjoys his waffles and tries to think
+
+359
+00:18:10,520 --> 00:18:12,960
+ what's going to come next.
+
+360
+00:18:12,960 --> 00:18:14,920
+ He has to do work.
+
+361
+00:18:14,920 --> 00:18:17,800
+ He can't not work right at his farm.
+
+362
+00:18:17,800 --> 00:18:20,920
+ That would be even more suspicious if he took the day off.
+
+363
+00:18:20,920 --> 00:18:27,480
+ This guy with these little lead weights on his pants walks outside of his house into
+
+364
+00:18:27,480 --> 00:18:32,360
+ the bright burning Missouri sunshine.
+
+365
+00:18:32,360 --> 00:18:39,320
+ He has to go about hoeing the ground and picking potatoes and watering the goat, whatever you
+
+366
+00:18:39,320 --> 00:18:41,680
+ do on a farm.
+
+367
+00:18:41,680 --> 00:18:46,440
+ The whole time knowing if he bends over too far and a couple lead weights fall out of
+
+368
+00:18:46,440 --> 00:18:50,280
+ his pants, he's just going to float away.
+
+369
+00:18:50,280 --> 00:18:53,120
+ He has to work a full day.
+
+370
+00:18:53,120 --> 00:18:57,520
+ Supper time is the best sound he ever heard when that stereotypical little bell was being
+
+371
+00:18:57,520 --> 00:19:05,320
+ rang.
+
+372
+00:19:05,320 --> 00:19:11,360
+ This goes on for a couple days and he still hasn't told anyone and when he has time to
+
+373
+00:19:11,360 --> 00:19:15,720
+ himself he practices moving without the lead weights.
+
+374
+00:19:15,720 --> 00:19:19,280
+ He'd go into his room and take the lead weights out of his pocket and he'd fly around his
+
+375
+00:19:19,280 --> 00:19:20,520
+ room.
+
+376
+00:19:20,520 --> 00:19:24,360
+ Until one day his nosey brother Samuel barges in.
+
+377
+00:19:24,360 --> 00:19:25,360
+ I don't know why.
+
+378
+00:19:25,360 --> 00:19:30,640
+ I've never barged in on another person in their room, especially when you hear him going
+
+379
+00:19:30,640 --> 00:19:31,640
+ "Weeeee!
+
+380
+00:19:31,640 --> 00:19:37,120
+ This is so much fun I've ever had and I'm all by myself.
+
+381
+00:19:37,120 --> 00:19:38,120
+ Yippee!
+
+382
+00:19:38,120 --> 00:19:39,120
+ Don't ever walk in.
+
+383
+00:19:39,120 --> 00:19:40,120
+ Don't ever walk in."
+
+384
+00:19:40,120 --> 00:19:44,440
+ Samuel walks in and sees his brother, who's now had a couple days practice with this skill,
+
+385
+00:19:44,440 --> 00:19:45,640
+ flying around the room.
+
+386
+00:19:45,640 --> 00:19:48,280
+ He's like jumping from wall to wall, having a ball.
+
+387
+00:19:48,280 --> 00:19:54,640
+ His brother immediately thinks that Rey is pulling a prank.
+
+388
+00:19:54,640 --> 00:19:56,160
+ Which is the most elaborate.
+
+389
+00:19:56,160 --> 00:19:58,040
+ I mean I'm a bit of a prankster.
+
+390
+00:19:58,040 --> 00:20:03,440
+ I've never even thought to get ropes and pulleys and make myself fly around a room.
+
+391
+00:20:03,440 --> 00:20:08,520
+ First Samuel thinks it's a prank and then of course Samuel thinks the devil is involved.
+
+392
+00:20:08,520 --> 00:20:10,520
+ And Rey knew this was do or die.
+
+393
+00:20:10,520 --> 00:20:11,880
+ Literally do or die.
+
+394
+00:20:11,880 --> 00:20:15,040
+ He had to convince Samuel that this was not the devil's work.
+
+395
+00:20:15,040 --> 00:20:16,040
+ I don't know what happened.
+
+396
+00:20:16,040 --> 00:20:18,360
+ I woke up the other day and started flying around.
+
+397
+00:20:18,360 --> 00:20:20,120
+ I can't even explain it.
+
+398
+00:20:20,120 --> 00:20:21,120
+ It's super weird.
+
+399
+00:20:21,120 --> 00:20:23,520
+ I kept it from you guys because I was afraid you guys would try to hang me.
+
+400
+00:20:23,520 --> 00:20:25,360
+ Although I started to think how do you hang a man?
+
+401
+00:20:25,360 --> 00:20:27,200
+ How do you hang a man who can float?
+
+402
+00:20:27,200 --> 00:20:31,960
+ And Samuel's just standing there, arms crossed, listening to his brother basically plead for
+
+403
+00:20:31,960 --> 00:20:33,080
+ his life.
+
+404
+00:20:33,080 --> 00:20:37,840
+ After this monologue, after this Academy Award winning monologue about how the devil was
+
+405
+00:20:37,840 --> 00:20:40,240
+ not involved, Samuel goes "Listen, I get it.
+
+406
+00:20:40,240 --> 00:20:41,240
+ I believe you.
+
+407
+00:20:41,240 --> 00:20:42,240
+ It's not a prank.
+
+408
+00:20:42,240 --> 00:20:43,240
+ Devil's not involved.
+
+409
+00:20:43,240 --> 00:20:44,240
+ I believe you."
+
+410
+00:20:44,240 --> 00:20:46,720
+ I don't know what this means.
+
+411
+00:20:46,720 --> 00:20:48,960
+ Rey's kind of sitting there, kind of floating above the bed.
+
+412
+00:20:48,960 --> 00:20:50,120
+ He's showing off now.
+
+413
+00:20:50,120 --> 00:20:51,920
+ He's just floating above the bed.
+
+414
+00:20:51,920 --> 00:20:57,840
+ Samuel goes "This means that we're going to be rich.
+
+415
+00:20:57,840 --> 00:21:02,800
+ We are going to make so much money."
+
+416
+00:21:02,800 --> 00:21:07,320
+ Samuel and Rey come up with this plan to become a freak show.
+
+417
+00:21:07,320 --> 00:21:09,280
+ Oh, one man freak show.
+
+418
+00:21:09,280 --> 00:21:12,320
+ Samuel would be the guy outside, step on up, meet the incredible levitating man.
+
+419
+00:21:12,320 --> 00:21:13,320
+ He's going to fly around your head.
+
+420
+00:21:13,320 --> 00:21:15,080
+ You're going to think it's wires, but it's not.
+
+421
+00:21:15,080 --> 00:21:16,600
+ It's not the devil either.
+
+422
+00:21:16,600 --> 00:21:17,600
+ Don't murder my brother.
+
+423
+00:21:17,600 --> 00:21:19,880
+ But watch him spin around in the room.
+
+424
+00:21:19,880 --> 00:21:25,440
+ And they start off by going to local lodges, local halls, meet the incredible levitating
+
+425
+00:21:25,440 --> 00:21:27,360
+ man Rey's, flying around the room.
+
+426
+00:21:27,360 --> 00:21:30,160
+ And people would come out and they'd be like, "Well, what an amazing thing."
+
+427
+00:21:30,160 --> 00:21:33,720
+ Now some of them thought it's just wires, it's just ropes, but you're still getting
+
+428
+00:21:33,720 --> 00:21:34,720
+ good money's worth.
+
+429
+00:21:34,720 --> 00:21:39,840
+ That nickel you paid to get in is worth watching a man on wires float around.
+
+430
+00:21:39,840 --> 00:21:42,600
+ But part of the trick was, if you don't believe it, step right up.
+
+431
+00:21:42,600 --> 00:21:43,600
+ You've got a broom.
+
+432
+00:21:43,600 --> 00:21:44,600
+ You've got a broom.
+
+433
+00:21:44,600 --> 00:21:45,600
+ You can rent it for a dime.
+
+434
+00:21:45,600 --> 00:21:46,600
+ Give me an extra dime.
+
+435
+00:21:46,600 --> 00:21:47,600
+ They'd use brooms.
+
+436
+00:21:47,600 --> 00:21:50,600
+ They'd use sticks to try to hit away where any wires or ropes would be.
+
+437
+00:21:50,600 --> 00:21:51,600
+ And there aren't any.
+
+438
+00:21:51,600 --> 00:21:53,400
+ He's still just floating around.
+
+439
+00:21:53,400 --> 00:21:54,800
+ The act began to involve.
+
+440
+00:21:54,800 --> 00:21:56,880
+ Eventually he's just not floating around.
+
+441
+00:21:56,880 --> 00:22:00,040
+ He began reading the newspaper, reading the newspaper while he's floating.
+
+442
+00:22:00,040 --> 00:22:03,960
+ Isn't that amazing folks and people looking at each other like, "I guess."
+
+443
+00:22:03,960 --> 00:22:06,040
+ I mean, it's more amazing than he's just floating.
+
+444
+00:22:06,040 --> 00:22:10,800
+ It doesn't matter what he's doing, but his act began to involve him reading the newspaper
+
+445
+00:22:10,800 --> 00:22:12,520
+ while he was floating.
+
+446
+00:22:12,520 --> 00:22:14,560
+ Drinking tea while he was floating.
+
+447
+00:22:14,560 --> 00:22:15,920
+ Again, who cares?
+
+448
+00:22:15,920 --> 00:22:16,920
+ He's floating.
+
+449
+00:22:16,920 --> 00:22:17,920
+ Who gets bored of that?
+
+450
+00:22:17,920 --> 00:22:21,360
+ He's like, "Oh, Martha, I don't want to see the man who's defying the laws of time
+
+451
+00:22:21,360 --> 00:22:22,960
+ and space again.
+
+452
+00:22:22,960 --> 00:22:24,320
+ Lame."
+
+453
+00:22:24,320 --> 00:22:26,760
+ They start, they eventually get this big tent.
+
+454
+00:22:26,760 --> 00:22:28,280
+ It's this huge event.
+
+455
+00:22:28,280 --> 00:22:30,160
+ People are now, originally they were touring.
+
+456
+00:22:30,160 --> 00:22:35,120
+ Now people are coming to see Ray fly around this tent.
+
+457
+00:22:35,120 --> 00:22:36,120
+ Scientists would come out.
+
+458
+00:22:36,120 --> 00:22:37,120
+ Skeptics would come out.
+
+459
+00:22:37,120 --> 00:22:38,120
+ They tried to disprove it.
+
+460
+00:22:38,120 --> 00:22:39,120
+ They couldn't.
+
+461
+00:22:39,120 --> 00:22:41,920
+ At one point, some skeptics were so violent.
+
+462
+00:22:41,920 --> 00:22:46,680
+ While he was flying around, they began to destroy the tent because they figured if they
+
+463
+00:22:46,680 --> 00:22:50,520
+ destroyed the tent that all the ropes and pulleys will break.
+
+464
+00:22:50,520 --> 00:22:51,520
+ But they weren't able to.
+
+465
+00:22:51,520 --> 00:22:53,000
+ They didn't destroy the whole tent.
+
+466
+00:22:53,000 --> 00:22:56,240
+ Luckily, luckily for Ray, he's like, "No, my axe's over.
+
+467
+00:22:56,240 --> 00:22:57,240
+ See you guys later.
+
+468
+00:22:57,240 --> 00:22:58,240
+ No refunds."
+
+469
+00:22:58,240 --> 00:22:59,920
+ He's floating up into the sky.
+
+470
+00:22:59,920 --> 00:23:06,720
+ They destroyed enough of the tent to basically prove that this guy is actually floating around.
+
+471
+00:23:06,720 --> 00:23:09,360
+ A huge act, a huge draw.
+
+472
+00:23:09,360 --> 00:23:15,480
+ But one day, the tent sat empty.
+
+473
+00:23:15,480 --> 00:23:21,280
+ Flap opening in the breeze.
+
+474
+00:23:21,280 --> 00:23:22,280
+ Just a cricket.
+
+475
+00:23:22,280 --> 00:23:24,840
+ A cricket who finally got a nickel.
+
+476
+00:23:24,840 --> 00:23:27,440
+ Finally somehow it got a nickel standing outside.
+
+477
+00:23:27,440 --> 00:23:28,440
+ There's no one in there.
+
+478
+00:23:28,440 --> 00:23:30,560
+ The next day, the tent is still empty.
+
+479
+00:23:30,560 --> 00:23:33,240
+ Days go by.
+
+480
+00:23:33,240 --> 00:23:35,480
+ The tent remains unused.
+
+481
+00:23:35,480 --> 00:23:37,480
+ People knew this guy locally.
+
+482
+00:23:37,480 --> 00:23:39,160
+ They knew he lived on the back form.
+
+483
+00:23:39,160 --> 00:23:42,360
+ People would show up at their house and be like, "Hey, Ray, what's up?
+
+484
+00:23:42,360 --> 00:23:43,360
+ You?"
+
+485
+00:23:43,360 --> 00:23:46,200
+ He sort of choked a thousand times.
+
+486
+00:23:46,200 --> 00:23:48,000
+ He's like, "Ah, not this one again."
+
+487
+00:23:48,000 --> 00:23:49,000
+ People are stopping by.
+
+488
+00:23:49,000 --> 00:23:50,680
+ They're like, "Hey, how come you're not doing that whole floating around thing?"
+
+489
+00:23:50,680 --> 00:23:53,160
+ I was really hoping on seeing it this weekend.
+
+490
+00:23:53,160 --> 00:23:54,320
+ And Ray was like, "I quit.
+
+491
+00:23:54,320 --> 00:23:55,920
+ I'm not doing the floating thing anymore."
+
+492
+00:23:55,920 --> 00:23:59,480
+ People were like, "How do you not do the superpower anymore?"
+
+493
+00:23:59,480 --> 00:24:01,800
+ He's like, "I'm not going to do it."
+
+494
+00:24:01,800 --> 00:24:05,680
+ People kept coming to his house and asking, "When are you doing your act again?"
+
+495
+00:24:05,680 --> 00:24:07,920
+ He wouldn't do it.
+
+496
+00:24:07,920 --> 00:24:10,240
+ He was doing this for a total of six years.
+
+497
+00:24:10,240 --> 00:24:13,080
+ It wasn't like this was a month-long thing.
+
+498
+00:24:13,080 --> 00:24:17,640
+ For six years, you could count on every weekend seeing a man read a newspaper.
+
+499
+00:24:17,640 --> 00:24:20,240
+ If he's reading it to you, you're an illiterate farmer.
+
+500
+00:24:20,240 --> 00:24:22,520
+ You're like, "I wonder what happened to the news this week.
+
+501
+00:24:22,520 --> 00:24:25,120
+ Only the flying man can deliver my news."
+
+502
+00:24:25,120 --> 00:24:28,440
+ This went on for six years, then all of a sudden, nothing.
+
+503
+00:24:28,440 --> 00:24:31,440
+ The whole thing ended.
+
+504
+00:24:31,440 --> 00:24:35,080
+ And when people would ask him, "Hey, what's going on?
+
+505
+00:24:35,080 --> 00:24:36,080
+ Journalists stopped by.
+
+506
+00:24:36,080 --> 00:24:37,080
+ Locals stopped by."
+
+507
+00:24:37,080 --> 00:24:38,960
+ They'd ask, "What's going on?"
+
+508
+00:24:38,960 --> 00:24:45,960
+ He'd always say this quote, "Once a person is in the air, he can never be the same person
+
+509
+00:24:45,960 --> 00:24:46,960
+ as before."
+
+510
+00:24:46,960 --> 00:24:53,800
+ Eventually, he stopped even answering the door.
+
+511
+00:24:53,800 --> 00:25:01,040
+ Some say that he lost his powers one day and was ashamed of it.
+
+512
+00:25:01,040 --> 00:25:06,960
+ Some say it was all a hoax to begin with and someone came too close to figuring it out.
+
+513
+00:25:06,960 --> 00:25:15,120
+ And those would be reasons why he quit, but as to why he stopped answering the door, there's
+
+514
+00:25:15,120 --> 00:25:18,040
+ another tale in the area.
+
+515
+00:25:18,040 --> 00:25:23,280
+ One day, a young man was walking across the Beck Farm to interview Ray.
+
+516
+00:25:23,280 --> 00:25:24,720
+ That's become the new pastime.
+
+517
+00:25:24,720 --> 00:25:26,680
+ Pay a nickel, you can interview Ray.
+
+518
+00:25:26,680 --> 00:25:33,960
+ As he's moving across the Beck Farm, he sees a belt of weighted fishing lures laying in
+
+519
+00:25:33,960 --> 00:25:37,560
+ the dust.
+
+520
+00:25:37,560 --> 00:25:45,600
+ The young man just looked up into the sky, hoping to catch one final glimpse of Raynard
+
+521
+00:25:45,600 --> 00:25:49,960
+ Beck.
+
+522
+00:25:49,960 --> 00:25:51,800
+ Fascinating story.
+
+523
+00:25:51,800 --> 00:25:52,920
+ I love this story.
+
+524
+00:25:52,920 --> 00:25:57,160
+ I found it during my vacation and I couldn't wait to share it with you guys.
+
+525
+00:25:57,160 --> 00:26:02,360
+ You'll find this story in several places online, like I just described to you.
+
+526
+00:26:02,360 --> 00:26:09,000
+ It's called "Alexa Vukovic of ancient origins.net, dug a little deeper."
+
+527
+00:26:09,000 --> 00:26:12,400
+ Was asking the same question, "Is this story true?"
+
+528
+00:26:12,400 --> 00:26:18,680
+ This story took place in 1884, but the earliest printed version that Alexa could find was
+
+529
+00:26:18,680 --> 00:26:22,200
+ August 31, 1972.
+
+530
+00:26:22,200 --> 00:26:27,400
+ There was a letter written to a newspaper in Kansas called the Belleville Telescope.
+
+531
+00:26:27,400 --> 00:26:30,440
+ This is a newspaper in Belleville, Kansas.
+
+532
+00:26:30,440 --> 00:26:36,160
+ It was written by a man named Dr. R. N. Van Koor.
+
+533
+00:26:36,160 --> 00:26:42,520
+ The letter is written from the point of view of a physicist studying gravity.
+
+534
+00:26:42,520 --> 00:26:47,880
+ In this letter to the editor, in this letter to the newspaper, talking about gravity, it's
+
+535
+00:26:47,880 --> 00:26:50,480
+ kind of a weird thing to write into.
+
+536
+00:26:50,480 --> 00:26:54,040
+ One day the newspaper goes, "You know the gravity of the situation in this physicist
+
+537
+00:26:54,040 --> 00:26:56,520
+ writes out a letter, speaking of gravity."
+
+538
+00:26:56,520 --> 00:26:59,440
+ In this letter, it tells the story.
+
+539
+00:26:59,440 --> 00:27:05,640
+ That one, that original letter in August 31, 1972, does have a conclusive ending.
+
+540
+00:27:05,640 --> 00:27:10,000
+ It says, "He eventually lost his powers and went around living a normal life."
+
+541
+00:27:10,000 --> 00:27:14,040
+ The original printed version that we can find has that.
+
+542
+00:27:14,040 --> 00:27:18,240
+ Now in the story proper, you notice I kept saying journalists kept showing up.
+
+543
+00:27:18,240 --> 00:27:21,440
+ There are references to news reports of this.
+
+544
+00:27:21,440 --> 00:27:23,520
+ None have ever been found.
+
+545
+00:27:23,520 --> 00:27:25,720
+ None have ever been found.
+
+546
+00:27:25,720 --> 00:27:31,000
+ There were supposedly contemporary news reports of all this, but I couldn't find them and
+
+547
+00:27:31,000 --> 00:27:32,320
+ neither could Alexa.
+
+548
+00:27:32,320 --> 00:27:35,520
+ The earliest version was August 31, 1972.
+
+549
+00:27:35,520 --> 00:27:43,440
+ This story became very popular in 1978 because issue 79 of Ripley's Believe It or Not comic
+
+550
+00:27:43,440 --> 00:27:45,880
+ books did a story on this.
+
+551
+00:27:45,880 --> 00:27:50,440
+ So there's a lot of illustrations of little man drinking tea floating around.
+
+552
+00:27:50,440 --> 00:27:51,680
+ That's when the story really took up.
+
+553
+00:27:51,680 --> 00:27:54,840
+ But the earliest version we can find is 1972.
+
+554
+00:27:54,840 --> 00:28:00,720
+ Is the story true based on almost a hundred year gap between the story happening and a
+
+555
+00:28:00,720 --> 00:28:02,520
+ written version of it?
+
+556
+00:28:02,520 --> 00:28:03,720
+ Most likely not.
+
+557
+00:28:03,720 --> 00:28:07,800
+ We've covered stories like that in the past on the show, the hotel room in Paris where
+
+558
+00:28:07,800 --> 00:28:10,120
+ the mom showed up and then disappeared.
+
+559
+00:28:10,120 --> 00:28:11,640
+ You had these massive time gaps.
+
+560
+00:28:11,640 --> 00:28:12,640
+ That's really interesting one.
+
+561
+00:28:12,640 --> 00:28:13,640
+ I'll put that on the show notes.
+
+562
+00:28:13,640 --> 00:28:14,640
+ There's little more to that mystery.
+
+563
+00:28:14,640 --> 00:28:18,680
+ But we'll see stories where there are these massive time gaps between when the story was
+
+564
+00:28:18,680 --> 00:28:24,520
+ originally told, when it was supposed to happen, and then when it was published.
+
+565
+00:28:24,520 --> 00:28:30,160
+ If there really was a flying man, there would at least be a scrap of a newspaper article
+
+566
+00:28:30,160 --> 00:28:32,360
+ from 1884.
+
+567
+00:28:32,360 --> 00:28:33,360
+ It's possible.
+
+568
+00:28:33,360 --> 00:28:39,200
+ I shouldn't say there would have to be because time can, newspapers can shut down and especially
+
+569
+00:28:39,200 --> 00:28:41,920
+ back then archives could get destroyed and things like that.
+
+570
+00:28:41,920 --> 00:28:46,920
+ But most likely the story isn't true.
+
+571
+00:28:46,920 --> 00:28:52,000
+ The real ringer for me was the fact that he could levitate unless he had a couple lead
+
+572
+00:28:52,000 --> 00:28:54,240
+ balls in his pockets.
+
+573
+00:28:54,240 --> 00:28:56,200
+ Even with his clothes on, that wasn't enough.
+
+574
+00:28:56,200 --> 00:28:59,160
+ He had to have the lead weights on him to hold him down.
+
+575
+00:28:59,160 --> 00:29:00,480
+ But I mean, again, I've never floated.
+
+576
+00:29:00,480 --> 00:29:02,920
+ I don't know what it takes.
+
+577
+00:29:02,920 --> 00:29:04,600
+ Whether or not it's true is almost secondary.
+
+578
+00:29:04,600 --> 00:29:05,760
+ Such a fascinating story.
+
+579
+00:29:05,760 --> 00:29:12,320
+ The reason why I love this story is because everyone wants to fly and this story turns
+
+580
+00:29:12,320 --> 00:29:14,320
+ it into something terrifying.
+
+581
+00:29:14,320 --> 00:29:19,960
+ I think in the old timey, hero-dotus times, they'd look up and see birds flying go, "Oh,
+
+582
+00:29:19,960 --> 00:29:20,960
+ I want to be like that.
+
+583
+00:29:20,960 --> 00:29:23,160
+ Maybe if I flap my wings and wore some feathers."
+
+584
+00:29:23,160 --> 00:29:27,600
+ I'd look fabulous and I would also be able to soar through the air.
+
+585
+00:29:27,600 --> 00:29:32,000
+ But in modern times, we watch stuff like Superman who can just fly around.
+
+586
+00:29:32,000 --> 00:29:34,720
+ I think he's the prototypical flight superhero.
+
+587
+00:29:34,720 --> 00:29:37,200
+ There's Submariner and Iron Man has rockets.
+
+588
+00:29:37,200 --> 00:29:38,200
+ That doesn't really count.
+
+589
+00:29:38,200 --> 00:29:41,680
+ But as far as just being able to stand up and float around Superman is really what we
+
+590
+00:29:41,680 --> 00:29:42,680
+ think of.
+
+591
+00:29:42,680 --> 00:29:45,560
+ And there is something alluring about flying around.
+
+592
+00:29:45,560 --> 00:29:48,080
+ But it's controlled flight.
+
+593
+00:29:48,080 --> 00:29:52,960
+ You have to have that first word in there.
+
+594
+00:29:52,960 --> 00:29:55,120
+ That's not what Rey really had.
+
+595
+00:29:55,120 --> 00:29:57,680
+ That's what's scary about it.
+
+596
+00:29:57,680 --> 00:29:59,560
+ He woke up and he was floating.
+
+597
+00:29:59,560 --> 00:30:02,800
+ Now luckily he was in his room.
+
+598
+00:30:02,800 --> 00:30:07,200
+ But was there a time like do you have to wake up to gain this power or could it just strike
+
+599
+00:30:07,200 --> 00:30:08,200
+ anytime?
+
+600
+00:30:08,200 --> 00:30:13,560
+ Could you be walking down the street tomorrow and then a sensation comes over your body?
+
+601
+00:30:13,560 --> 00:30:15,760
+ You feel free.
+
+602
+00:30:15,760 --> 00:30:17,000
+ You feel free of pain.
+
+603
+00:30:17,000 --> 00:30:18,360
+ You feel free of stiffness.
+
+604
+00:30:18,360 --> 00:30:21,320
+ You feel healthy and vibrant.
+
+605
+00:30:21,320 --> 00:30:24,840
+ You feel light.
+
+606
+00:30:24,840 --> 00:30:32,840
+ You look down and you see you're already 5, 10 feet off of the ground.
+
+607
+00:30:32,840 --> 00:30:35,720
+ Nothing could save you.
+
+608
+00:30:35,720 --> 00:30:38,360
+ Nothing could stop you at that point.
+
+609
+00:30:38,360 --> 00:30:47,720
+ As you watch the earth recede beneath your feet, you're floating up slowly.
+
+610
+00:30:47,720 --> 00:30:52,760
+ You can see the looks of the people who were previously standing next to you.
+
+611
+00:30:52,760 --> 00:30:54,240
+ Their jaws dropped.
+
+612
+00:30:54,240 --> 00:30:57,880
+ You can't believe what they're seeing.
+
+613
+00:30:57,880 --> 00:30:59,560
+ 50 feet.
+
+614
+00:30:59,560 --> 00:31:01,160
+ 100 feet.
+
+615
+00:31:01,160 --> 00:31:03,280
+ A thousand feet.
+
+616
+00:31:03,280 --> 00:31:07,960
+ You're watching the world grow small beneath you.
+
+617
+00:31:07,960 --> 00:31:14,640
+ At least if you're falling from a building or an airplane.
+
+618
+00:31:14,640 --> 00:31:19,080
+ It's fast and there's an end to it.
+
+619
+00:31:19,080 --> 00:31:25,640
+ But you just keep floating up.
+
+620
+00:31:25,640 --> 00:31:28,040
+ The atmosphere gets colder.
+
+621
+00:31:28,040 --> 00:31:30,280
+ The air grows thinner.
+
+622
+00:31:30,280 --> 00:31:32,280
+ You can't breathe.
+
+623
+00:31:32,280 --> 00:31:36,200
+ But you continue to float.
+
+624
+00:31:36,200 --> 00:31:43,480
+ As your body leaves earth and enters the cold vacuum of space.
+
+625
+00:31:43,480 --> 00:31:52,040
+ You were chosen by the universe for a unique experience.
+
+626
+00:31:52,040 --> 00:31:55,600
+ Your body will never decay.
+
+627
+00:31:55,600 --> 00:32:00,240
+ It will simply move through the darkness of the universe.
+
+628
+00:32:00,240 --> 00:32:04,240
+ Frozen and alone.
+
+629
+00:32:04,240 --> 00:32:29,520
+ You will do nothing until the end of time, but float.
+
+630
+00:32:29,520 --> 00:32:48,160
+ Thank you again.
+
+631
+00:32:48,160 --> 00:32:50,740
+ (upbeat music)
+
