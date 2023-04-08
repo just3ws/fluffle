@@ -2,7 +2,7 @@
 
 ## I'm having a great day and hope you are having a great day too.
 
-I started this project as an exercise in learning how to use tools like Whisper.cpp to transcribe some old recordings I'd made years ago. I wanted something fun to practice on so pulled down some episodes of my favorite daily listen, Dead Rabbit Radio. Turns out it is a pretty straight-forward process once you get everthing going. As I'm writing this I have 5 Raspberry Pis running transcripts and that's kind of fun. Hope that the Dead Rabbit Radio fans and Jason are able to put these to good use. Please let me know if you have any questions, concerns, or ideas. Thanks. -- Mike
+I started this project as an exercise in learning how to use tools like [Whisper.cpp](https://github.com/ggerganov/whisper.cpp) to transcribe some old recordings I'd made years ago. I wanted something fun to practice on so pulled down some episodes of my favorite daily listen, Dead Rabbit Radio. Turns out it is a pretty straight-forward process once you get everthing going. As I'm writing this I have 5 Raspberry Pis running transcripts and that's kind of fun. Hope that the Dead Rabbit Radio fans and Jason are able to put these to good use. Please let me know if you have any questions, concerns, or ideas. Thanks. -- Mike
 
 Fun fact. The transcript tool gets creative with Jason's last name. Variations have included: Garvin, Garminer, Garviner, Carmoner, Garvinder. 
 
