@@ -1,0 +1,27 @@
+#!/usr/bin/env bash
+# vim: set filetype=bash:
+
+mkdir -p ~/podcasts/dead-rabbit-radio/episodes
+
+for file in ~/podcasts/dead-rabbit-radio/episodes/*.wav ; do
+  tput clear
+
+  cd ~/podcasts/dead-rabbit-radio/episodes || exit
+
+  episode="$(basename "$file" .wav)"
+
+  echo "Considering $episode"
+
+  if [ ! -f "${episode}.log" ]; then
+    touch "${episode}.log"
+
+    time ~/whisper.cpp/main -m ~/whisper.cpp/models/ggml-small.bin -f "$file" -osrt -otxt 2>&1 | tee -ai "${episode}.log"
+
+    mv "${file}.srt" "${episode}.srt"
+    mv "${file}.txt" "${episode}.txt"
+
+    rm "${file}"
+
+    sleep 120
+  fi
+done
