@@ -4,7 +4,22 @@
 
 I started this project as an exercise in learning how to use tools like [Whisper.cpp](https://github.com/ggerganov/whisper.cpp) to transcribe some old recordings I'd made years ago. I wanted something fun to practice on so pulled down some episodes of my favorite daily listen, Dead Rabbit Radio. Turns out it is a pretty straight-forward process once you get everthing going. As I'm writing this I have 5 Raspberry Pis running transcripts and that's kind of fun. Hope that the Dead Rabbit Radio fans and Jason are able to put these to good use. Please let me know if you have any questions, concerns, or ideas. Thanks. -- Mike
 
-Fun fact. The transcript tool gets creative with Jason's last name. Variations have included: Garvin, Garminer, Garviner, Carmoner, Garvinder. 
+### Fun Fact
+
+The transcription tool gets creative with Jason's last name some times.
+
+Variations so far:
+
+- Carmoner
+- Carvin
+- Garbender
+- Garbiner
+- Garment
+- Garminer
+- Garvenor
+- Garvin
+- Garvinder
+- Garviner
 
 ## Copyright Notice
 
@@ -45,5 +60,5 @@ This project is organized by fans of the "Dead Rabbit Radio" podcast and members
 - Twitter: [@DeadRabbitRadio](https://twitter.com/deadrabbitradio)
 - Facebook: [www.Facebook.com/DeadRabbitRadio](https://www.facebook.com/deadrabbitradio)
 - TikTok: [https://www.tiktok.com/@deadrabbitradio](https://www.tiktok.com/@deadrabbitradio)
-- Pinterest: [https://www.pinterest.com/basque5150/jason-carpenter-hood-river/](https://www.pinterest.com/basque5150/jason-carpenter-hood-river/) 
+- Pinterest: [https://www.pinterest.com/basque5150/jason-carpenter-hood-river/](https://www.pinterest.com/basque5150/jason-carpenter-hood-river/)
 - Paranormal, Conspiracy, and True Crime news as it happens! Jason Carpenter breaks the stories they'll be talking about tomorrow, assuming the world doesn't end today.
