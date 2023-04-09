@@ -12,6 +12,8 @@ Variations so far:
 
 - Carmoner
 - Carvin
+- Carvinder
+- Carviner
 - Garbender
 - Garbiner
 - Garment
