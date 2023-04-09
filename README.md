@@ -11,10 +11,14 @@ The transcription tool gets creative with Jason's last name some times.
 Variations so far:
 
 - Carmoner
+- Carvener
+- Carver
 - Carvin
 - Carvinder
 - Carviner
+- Carviter
 - Garbender
+- Garbinder
 - Garbiner
 - Garment
 - Garminer
@@ -22,6 +26,8 @@ Variations so far:
 - Garvin
 - Garvinder
 - Garviner
+- Karpner
+- Krupper
 
 ## Copyright Notice
 
