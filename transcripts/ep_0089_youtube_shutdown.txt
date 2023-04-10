@@ -1,0 +1,313 @@
+ Is deep fake technology a threat to our democracy?
+ And then we look at the wild conspiracy theories about why YouTube was shut down for one hour on Tuesday night.
+ Yes, there are already conspiracy theories about that. Today on Dead Rabbit Radio.
+ [Music]
+ Hey everyone, welcome back to another episode of Dead Rabbit Radio. I'm your host Jason Carpenter.
+ I'm having a great day generally. I hope you're having a great day too. My sinus infection is getting a little bad.
+ It actually hurts to talk.
+ So I don't know how long this episode is going to be. Usually I say they're going to be short and they still end up being a little bit longer.
+ But we're only gonna do two stories.
+ And I really, I just kind of wanted to, the stories kind of flow together and keep things simple and then I'm gonna take a nap.
+ First off, after I had done
+ World War II was faked and then
+ Nuclear bombs don't exist. I was like, okay, though I can't do those type of subjects anymore.
+ I can't talk about people who don't believe something
+ happened. You can vary and say, well, I have a different interpretation of that event.
+ But to say no, those don't exist is very hard to do those episodes.
+ After I got done doing those two episodes, Mitcham sends me, I'm sitting there and I get a Facebook message from my friend Mitcham.
+ And it's just a photo of a power line with a flyer attached to it.
+ It says "Birds aren't real."
+ "Birds aren't real.com." And my soul died a little bit and I was like, are you...
+ And of course, I'm thinking this is most likely real.
+ Like it sounds like a joke, but it's most likely real. I went to their website.
+ Thankfully it is a joke.
+ It is a joke. They have a website where you can buy merch, "Birds aren't real" shirts.
+ They have quotes from famous politicians and world leaders exposing the bird plot.
+ Thankfully, you know, it's funny though, we've reached a point in conspiracy theory that you just don't know sometime.
+ If you saw a guy walking around the shirt that said, "World War II never happened."
+ You would probably think, oh yeah, there's no- nobody on earth would believe that World War II was a ten-
+ Wait, I bet you had about a ten-year act from the rise of
+ fascism and Nazi Germany to
+ drop into the bombs. It was all fake. I now know that anyone can believe anything at any given time
+ from doing those episodes. But thanks, Mitch, for the laugh.
+ And I'll have the show notes if you want to buy a shirt. Birds aren't real.
+ Okay, so let's go ahead and jump into our first story here. Let's talk about Deepfakes.
+ So Deepfakes is a slang term for technology. It's an AI-assisted technology that can
+ take- you have two sources of video. You have a source video and a target video.
+ The source video will make a facial expression or turn its head.
+ And then the target- it's really weird looking. And then the target video will make the same
+ expression and turn their head at the same time. Is it perfect? No. Will it be perfect?
+ Eventually. It will be imperceptible to tell the difference between the two.
+ This came out publicly in 2016. They said, this is technology we had. They used some footage
+ where they made George Bush and Obama do different things with their head. And you- we saw what
+ though the source guy was doing. He was like yawning or just kind of moving his head. And then
+ you'd see George Bush yawning and moving his head. And you can obviously- obviously it's not 100%.
+ But any imperfections right now that you see in it, you could attribute to film quality issues.
+ In 2017, and this is where the name Deepfake- or Deepfakes comes from, there was a Reddit user
+ named Deepfake. This technology is now consumer level. If you have a good enough computer,
+ you can actually do this yourself. Deepfake began to take high quality pornography videos and then
+ took images of famous actresses like Gal Gadot and Emma Watson and Taylor Swift, Katy Perry,
+ stuff like that. And it takes thousands and thousands and thousands of frames of your source
+ and thousands and thousands and thousands of frames of your target because you have to match it up.
+ You have to get all angles- you'd have to get like all angles of Taylor Swift's head. And then you
+ have all the angles of the porn actress moving her head. And where you start to see the imperfections
+ a lot of time is in the hair. Because- and I did watch this because it is quite odd to watch.
+ You see imperfections in the hair. If the porn actress moves her face in a way that the
+ source actress didn't, you'll see a glitch because it's trying to fill in that information. The
+ computer is trying to fill in information it doesn't have. And again, pornography is very,
+ very high quality. Generally, it's shot very high quality. So the imperfections stood out a little
+ more. But if they went with grainier stuff, like amateur stuff, it'd be very hard to tell. Not impossible,
+ but hard to tell. You know, you're basically putting people in pornography without their permission.
+ And that's true. So Deepfake was banned from Reddit. You can still- you can get this software online.
+ I think there's a- there's a couple of them out there. I have one linked in the show notes. But
+ again, you- you need a fairly beefy computer to do it, but not like top the line. And a lot of time,
+ because it has to take thou- it says one example was you had to have 20 minutes of footage for both,
+ and the footage had to be at 120 frames per second. That's how many frames you needed. Some people were
+ just taking still photographs and putting them in pornos, and it looked horrifying. You need to have
+ these things so when they turn their head, everything turns with them. There was a video that I saw
+ today, which was the same thing, but the technology's advanced to the point where it's not facial. It is-
+ you can do your whole body. So you had- what- you had two people and they were getting all the frames
+ they needed. Like, the source guy would be like, kind of moving around, turning around, and then
+ the target guy would be doing the same thing, moving around, turning around. And then the source guy
+ would begin to dance, and then the- you'd see a person who had never performed those dance moves
+ ever in their life begin to copy that same dance. It was weird. It was very- I had very uncanny
+ valley feeling, because I'm watching it, and you know this person has never done this dance, ever.
+ What you are seeing is 100% artificial, and you're like, Jason, yeah, but so is the ghost from House
+ on Haunted Hill. That's artificial, but it's different because this has a like a human head,
+ and it's a human, but it's doing these moves, it's doing something completely unnatural,
+ and because the technology isn't 100%, let's say that they had all the footage of the person
+ dancing, but the computer never had an image of him with his hand held out making a fist. He had-
+ when he held his hand out, his fingers around. It will actually digitally bend the fingers into a
+ fist, and it's just this weird blur. The computer's doing its best to create a copy of its source
+ with the information it has. It's very, very unsettling. All those videos are down below.
+ I- even though I said they're unsettling, they're really cool to watch. It's a really cool thing
+ of technology. Now, there's been two groups that have been very, very concerned about this.
+ One group is the Pearl Kletchine Media, who has announced, pretty much since this- actually,
+ pretty much since last summer, when the Deep Fakes thing came out. This is a threat to democracy.
+ No one will ever believe anything that is video again. Deep Fakes are a threat to democracy. That
+ phrase is used in so many headlines. It's a threat to democracy. And then in the conspiracy
+ theory circles, they're like, "Damn it! Now, when that Pizza Gate video gets uploaded,
+ of Hillary Clinton eating that baby, no one will believe them." It's because Deep Fake
+ technology- actually, Deep Fake technology may be fake itself. It may be a CIA cover-up. So,
+ when the footage finally gets released of Hillary Clinton eating that baby, no one will believe
+ it. The excuse will be like, "Guys, it's just Deep Fakes. That was someone else eating that baby."
+ Here's the problem with both of those things. This idea that video evidence is the end-all be-all
+ of evidence. And it is regarded quite highly. It is. But the idea that it is a threat to democracy-
+ let's tackle that one first. The idea that Deep Fake- Fake Videos is a threat to democracy,
+ that I can produce a video that is so realistic, you can't tell whether or not it's true.
+ Video evidence has been around for what? 67 years? Humanity has been around for
+ 100,000? 50,000 years? Somewhere around there? Civilization has been growing. They were able to
+ try people and end corruption and expose terrible things for millennias before video cameras came out.
+ This- I get it. New technology is very scary. And there will be an adjustment phase. But the
+ idea that someone can show if someone put up a fake video of Donald Trump kicking a baby down the
+ stairs, down the stairs of the Capitol Building, this is exactly what would happen. Half the people
+ wouldn't even watch the video. They would see the title of it and write in the comments, "I knew
+ it. I knew it." Donald Trump is an asshole. The other half of the people would watch that video
+ would say, "What was the context of the baby getting kicked down the stairs?" Or, "I think it's
+ fake." Video evidence can persuade some people, but to think that it is a threat to democracy,
+ that somehow one fake video can bring down a world leader, I don't buy it. The only way that can
+ happen is if a video was released and nobody disputed it in the media, and I'm not talking about
+ like the mainstream media, I'm talking from the daily wire to HuffPo, nobody disputed it. Everyone
+ was like, "There was multiple witnesses there." And actually, it might be a good thing because I
+ think video evidence can be used, but we'll also come down to where there are other people there.
+ So if they show Donald Trump kicking a baby down the stairs, of course, Mitch McConnell
+ standing in the background and they're going to be like, "Hey, Mitch, do you remember that?" And he's
+ like, "No, that never happened." Generally, evidence is good if it's compounded with other evidence.
+ But the idea that just this technology alone that you can get on your home computer will
+ destroy democracy is ridiculous because most people have their minds made up about issues
+ before they go in, and video evidence only reinforces the conclusions they already have.
+ Now, as far as the conspiracy theory stuff goes, first off, the idea that there's a video out
+ there with Hillary Clinton eating a baby and trust me, that's just not something I'm making up.
+ That's just not an example. I'm like, "Look how wacky they are. I hear that example quite often."
+ That doesn't exist. That video does not exist. And I'll tell you why it doesn't exist,
+ because if you ate babies, why would you record it? Well, it's because of the
+ ceremony. No, no, no, no, no, no, no, no. Why would you record it? No, no, no, because the
+ Illuminati... No, no, no. Why would you record it? With the information that you know about human
+ beings, why would you personally record that thing? I don't want to hear about anything about
+ secret rituals that you don't know about. I don't want to hear anything about secret cults that you
+ don't know about other than stuff you heard off the internet. Why would you videotape that yourself?
+ Well, I wouldn't. Yeah, exactly. That's the thing. A lot of times with these conspiracy theories,
+ they'll make some outrageous claim and then they'll go, "You know, Simpsons predicted 9/11. Why?
+ Well, because the Illuminati says they have to predict all of their disasters." According to
+ who? According to who? Well, I've read it on Henry Macau's website, Henry Macau's a lunatic for one.
+ And two, it's made up. I'm not saying the people trying to run the world is made up,
+ and I'm not saying there aren't people that eat babies. But when you make an outrageous claim,
+ you have to back it up other than someone said on the internet. Or an Illuminati defector said
+ this, "What's their name?" Well, they're going, they have an anonymous name. Then it's made up.
+ It's made up. There is no video of Hillary Clinton eating a baby. So when that video does get released,
+ it is fake. It was a deep fake. There's a photo going around right now of Obama in full costume
+ at some sort of satanic ceremony. And it's being used as proof that Obama is a Satan worshiper.
+ However, conveniently enough, the costume covers his face. What? But it's Obama, apparently. And
+ there's a guy, there's an overweight black dude in the background, and they're like,
+ "That's Eric Holder. What?" But it's so...
+ Guys, I don't deny that there are powerful people out there who do horrible, horrible things. But
+ you have to rein it in a bit. You have to rein it in a bit. If your goal is to expose Hillary
+ Clinton as a baby eating psychopath, that's not a good goal. Because there is no proof of that.
+ Now, listen, I'll admit it. I could be wrong on this, but I highly, highly doubt it. And if she is,
+ there's not a video of it. There's not a video of it. And again, I'm going to go back to my original
+ point. If a video does come out and the media is like, "That's a fake video that actually didn't
+ happen. That's deep fake technology," then you will have to make the determination whether or not you
+ think it's deep fake, whether or not when you see those blurs and those artifacts, you go, "Those
+ are blurs and artifacts that are part of the deep fake technology." Or you say, "Well, that's just
+ the problem with the film quality, or that's because of this, or that, or the other thing." But
+ again, generally, I mean, there are people on the internet who believe there's YouTube videos of
+ people moving their head and because of digital distortion, they shapeshift, their eyes turn
+ into reptiles. So, I mean, they already believe that any sort of digital problem in a video footage
+ is proof of reptilian blood. I want to say this too. The deep fakes thing is obviously up for
+ debate. If you're like, "No, we need to make sure that evidence is always 100%, feel free to leave
+ a comment, drop me an email, deadrabbitradio@gmail.com," we can discuss this. This is my personal view on
+ this. I just think that we've gone long enough without having video evidence being the most
+ important thing. I think we can do it for another 10,000, 100,000 years until they started doing
+ deep fake holograms and then we're in real deep, deep trouble. I wanted to add this in real quick
+ here. This is after I did the episode, so the audio quality might sound different. Sorry to
+ break the immersion, but I wanted to thank YouTube user Euphoria. I didn't know if I was really going
+ to do this story, but this user was interested in doing it and I want to make sure I take the time
+ out to thank the listeners who recommend stories to me. So, thanks, Euphoria. We're going to go
+ ahead and continue on with the story here. So, the next story we're going to cover is YouTube was
+ down for one hour on October 16th, 2018, and there are already three or four conspiracy theories
+ involving it. I think it's interesting because it shows what a social, social like landmark,
+ social joining place for society has become that YouTube goes down for an hour and people
+ within days are like, "What's going on? What's going on? This must have been this big thing."
+ So, I mean, it just shows like people like this is such a part of their lives that if it goes down
+ for an hour, conspiracy theories pop up. Now, if Netflix went down for an hour, people would go. It's
+ probably just some technical issue. The reason why it became more of a conspiracy when YouTube
+ shut down because all of the user uploaded content. So, people thought, "Oh my God, somebody
+ uploaded something to YouTube and the powers that be had to shut it down. They had to take it out."
+ Now, of course, people were talking about Deepfakes and stuff like that, but these were the three
+ big... There's quite a few actually. So, one of them was that there was a video of a man in
+ a military uniform saying an object is about to hit the moon and YouTube shuts down. And then
+ someone found a video of something hitting the moon and they're like, "Oh my God, look at this is a
+ reason why YouTube went down. Here's a footage of something hitting the moon and there's like this
+ huge dust cloud." I mean, that might work except everyone could have just looked up slightly and
+ seen it impact the moon. The video actually was from 2017. It was a special effects test and so
+ on and so forth. So, that theory fell to the wayside. The other one is that YouTube now has an AI,
+ which that's always the buzzword, AI. YouTube has an AI that now buzzes around YouTube looking for
+ live streams. Oh, you know, what's over here? Oh, someone talking about Fortnite. Oh, here's someone
+ else talking about Fortnite. What's this guy talking about? Fortnite. This guy's talking about
+ Fortnite. Oh, this guy's talking about some conspiracy that no one should know about. Shut the whole
+ YouTube down. Really? That seems like to be the most inefficient one. YouTube at the end of the day
+ is a business and they lost millions of dollars when they were shut down. So, if Andy Worsky is
+ saying something on his live stream that the AI doesn't like, the easiest thing to do is to just
+ nuke his channel, get him off of the channel. You don't have to shut down all of YouTube because
+ he's saying, "I hate Anita Sargeesian for the 20th time," and the website goes down. The other theory
+ was that there was a video released of a reptilian. Yes, yes, a reptilian. My favorite aliens of all
+ time. The seven foot tall reptilian shapeshifters that somehow shapeshift into a human size, but
+ the mass doesn't change. But anyways, so there was a video of them uploaded and YouTube's like,
+ "Oh my god, the CIA is calling them up. They're like, "Get this video off of here. That is proof
+ that a reptilian is on this planet." And they're like, "Yes, sir, yes, sir." You know how many videos
+ there are on YouTube of reptilians? I'm pretty sure if I searched for one, it would show up in
+ my recommended videos. I'm sure it would show up reptilian videos in my featured channel. There's
+ thousands of them. But Jason, though they're fake reptilian videos, then how would you be able to
+ tell a real reptilian video from a fake reptilian video? Because if I saw a video of a guy, you
+ just go back to the deepfakes thing, if I saw a video of a reptilian guy walking around, I would
+ immediately assume that was fake. I'd be like, "That's not real." No matter how good the special
+ effects were, I would be like, or if it was real, I'd be like, "That's weird because it looks real.
+ That has to be fake." I would almost have to watch it and be convinced that it was real.
+ Now, you could go by Jason. They know that, so that's why they shut down YouTube.
+ Let me tell you a little trick. If you want to... Okay, let's say you had video footage of alien,
+ like provable alien. You meet a real alien. You break into a laboratory, whatever.
+ You have video footage of two conformers, a reptilian, and eight grays just kind of like chilling
+ out in the lounge. And you're like, "I need to get this footage out there." First off, YouTube is
+ not the best place to do it. But YouTube has... You go, "Well, YouTube has the biggest group of
+ viewers." All you need to do is to initially get the video online and it will spread itself.
+ If you put it on YouTube, you're going to be battling 24/9 videos and like eight videos exposing
+ better help. And then you'll be somewhere on there. But anyways, here's what you do. You
+ blow the videos up. You set everything to private. You put them on all the websites. You put them
+ on LiveLeak. You put it on DailyMotion. You put it on any website where you can upload videos,
+ set everything to private. And then when you're ready to release it, you release... You put all
+ the videos from private to public. They appear simultaneously all over the place. And then,
+ at the same time, upload them to Torrent. Put them on Pirate Bay, if that's the leaving around.
+ Send it to WikiLeaks. You'd have to do a mass distribution of the information. Because that
+ way, if one of the sites gets shut down, they're not going to be able to shut them down all the
+ same time, they would literally have to like crinkle the hose of the internet to really to
+ get that information out. And I'm an idiot. And I came up with that. If I was a deep state operative,
+ if I was a CIA guy on the run or a super soldier or whatever, you could come up with something way
+ better than that. I'm an idiot. I came up with that as I was walking home today, prepping this
+ episode. I was like, that's... It's so easy to do. That's what I would do. And I'm a dork. And there's
+ a ton of people who are into this stuff way smarter than I am, and I'm sure they could figure out
+ something better. But anyway, so Reptilean Video got uploaded to YouTube. They shut it down.
+ PizzaGate was the other theory. Video got uploaded of politicians murdering a kid,
+ you know, onto YouTube. That's where if you had that footage of Tony Blair and Nancy Pelosi
+ just like straight up just like boxing this eight year old, I mean just like going at it,
+ you're going to upload that to YouTube? This is why it went down. This is the most logical
+ explanation. And I found this on 4chan and some guy just kind of threw it out there and people
+ are like, yeah, that is pretty logical. A couple weeks ago, Google announced that Google+ was a
+ bust. They just wasn't working out for them. It was a money hole. They wanted to remove it.
+ And the theory is that when they removed it, basically YouTube went down because Google+
+ and YouTube were so interconnected. They're both owned by the same people that to remove the one,
+ they had to take YouTube offline. Most likely they thought it was just going to be like a minute
+ or two and it lasted longer than they thought it was because computer code can be a little finicky.
+ They were getting everything sorted out. Why would they do that on Tuesday at five in the
+ afternoon? Well, they didn't because YouTube is a global brand. So for some users, it was the middle
+ of the night and they didn't even know it was off. For other users, it was like, oh my god,
+ the world's in that I can't get access to YouTube. And they could have also said, statistically,
+ this is our lowest viewing point. And I could be wrong on that. Someone could say, no, it's actually
+ their highest and fair enough. But they may have said, listen, for five minutes people will have a
+ problem. Videos will be running a little slow. But and I think I like because again, they lost
+ millions of dollars because of this. That's the most likely explanation. And here's the so this
+ is the thing. They announced that the Google+ they wasn't going to work. And then this happens.
+ So the idea that they had, they go listen, there's a video out there floating around of a politician
+ eating a reptilian baby on the moon. But we don't know when it's going to be released. Let's now
+ say that we're getting rid of Google+ and we're going to wait an indeterminate amount of time
+ until we detect that video getting uploaded. And then we'll shut it down. And then we'll
+ use the cover story that it was because Google+ getting shut down. Everyone's like, oh, yeah,
+ that's a great idea. That's a great idea. If the Google, I think that if the Google+ announcement
+ came out today and they said, this is why it's down Google+ sucks, we're losing a lot of money,
+ then the story would make less sense. Then it would sound like a cover story. But because they
+ announced it before, it's not like they were just going to wait until this horrible video popped up.
+ Also, lots of horrible stuff is on YouTube and it doesn't get taken down. Stuff that could hold
+ people criminally liable and it doesn't get taken down. So the idea that someone has this horrible
+ video of PizzaGate or aliens or the moon landing and that's why the moon being destroyed or whatever
+ it was, it's all nonsense. That was the reason why YouTube went down. It's backwards fairy tale
+ making. It's something happening and then people going backwards and trying to figure out why it
+ happened. That's all it is. It's a, there's two types of conspiracy theories. There's a conspiracy
+ theory that predicts something that is going to happen. There's a conspiracy theory that predicts
+ or explains why something happened or is happening. I guess there's three. There's one that explains
+ what's going to happen. Like there's a fault, going to be a false flag event during the earthquake
+ drills in California in two months. It's a conspiracy theory about what's going on right now.
+ And then Katy Perry is a member of the Illuminati and this video is about her worshiping Lucifer.
+ And then there's conspiracy theories that explain stuff that previously happened like
+ 9/11 and like this where they're like, this event happened and this is why. There's a couple
+ screenshots of some legs and some dark stains on them and people are like, that's poop, that's poop
+ and that's pizza gate proof. People are like, what? No, that's from some art project.
+ It's completely ridiculous. There's a video of a, it looks honestly, it looks like a dead body. I
+ watched the video but it looks like a dead body on a beach and people are like, look it's a reptilian
+ and it looks like she's partially decayed and it could actually be a dummy. I don't know. It's
+ on video, it can be hard to tell the difference between a completely intact dummy and a completely
+ intact corpse. Not in real life though. It's quite easy. And then with the moon things totally been
+ debunked. So we have all these videos and these screenshots. This is going to, for the next
+ a year from now, people are going to be like, why did YouTube really get brought down?
+ A couple years ago, I think, and the internet time moves really quick. So it may have just
+ been last year but a couple years ago on 4chan, the website went down briefly and the theory was
+ that somebody posted a photo of an alien walking by a tree in the desert and they took down the
+ site or at least they took down the paranormal board. I wasn't there when it happened and actually
+ I will say no one was there when it happened because it's all anecdotal. Everyone was like,
+ no, I was on that thread and I saw the picture and it was a picture of an alien walking by a tree
+ and it was so realistic. To this day, there are people still putting up photoshop of an alien
+ walking by a tree and then other people do like thermal resolution. They're like, no, you can tell
+ from the way the scales are created. That is actually a model. I saw the real picture of the
+ alien walking by the tree. I love researching conspiracy theories. I think they're really fun.
+ I think that there's a lot of entertainment value in the stories they tell us.
+ I love mysteries and that's really what's at the core of these. Why was YouTube shut down?
+ But when you're reading a mystery or when you're investigating a mystery yourself
+ and they'll tell cops this too, you can't jump to conclusions. You have to really get into it
+ and try to figure it out and you're not always going to figure it out. But the worst thing we
+ can do is something happened and then immediately jump to the idea that it's something fantastical
+ and go, "Fordchan must have went down because the alien picture. You too must have went down
+ because of the alien video." I think overall that might be exhausting. I think we can run into
+ conspiracy theories. Like when I was making fun of the whole Hillary Clinton eating the baby.
+ Like to me, if I dwelt on that and was like, no, this is absolutely true even though I have
+ absolutely no proof of it, oh no, there's holes on her tongue. That means she eats humans.
+ If I was really pushing that, I'd almost have no mental energy to investigate other conspiracy
+ theories. You get obsessed with that one particular one. Sometimes you're going to be like, no, I
+ have a hunch about this. You start looking into it and there's just nothing to it and you have to go,
+ oh, I was wrong and move on. Conspiracy theories can be really fun but we can't let them override
+ our common sense or our judgment because then it becomes, it's not no longer a fun hobby or an
+ interesting investigation or seeking out some sort of the truth. It becomes an obsession where the
+ truth doesn't matter anymore. It's all just about finding the weirdest possible thing you can think
+ of and hanging your hat on it. DeadRabbitRadio@gmail.com is going to be your email address. You can also
+ hit us up at facebook.com/DeadRabbitRadio. Twitter is @JasonOCarpenter. DeadRabbitRadio is the
+ daily paranormal conspiracy and true crime podcast. You don't have to listen to it every day.
+ But I'm glad you listened to it today. Have a great weekend guys. We will be back Monday and
+ thanks again for all your comments. It's really awesome and I will be feeling better by Monday
+ hopefully and I hope you guys are too. I'm assuming you guys are healthy. Have a great one guys.

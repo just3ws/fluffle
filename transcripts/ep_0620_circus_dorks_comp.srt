@@ -1,0 +1,2584 @@
+1
+00:00:00,000 --> 00:00:05,280
+ What is the Buddhist view on artificial intelligence?
+
+2
+00:00:05,280 --> 00:00:08,240
+ The answer will terrify you.
+
+3
+00:00:08,240 --> 00:00:12,640
+ And then we take a look at the story of a man known as Philip Taylor Cramer.
+
+4
+00:00:12,640 --> 00:00:17,880
+ He went from being a basist for the band Iron Butterfly to working on top secret missile
+
+5
+00:00:17,880 --> 00:00:20,480
+ systems for the US government.
+
+6
+00:00:20,480 --> 00:00:23,720
+ But the real mystery began when he died.
+
+7
+00:00:23,720 --> 00:00:30,680
+ Is it a tragic case of suicide or a cover-up to steal the most important invention in human
+
+8
+00:00:30,680 --> 00:00:31,680
+ history?
+
+9
+00:00:31,680 --> 00:00:33,160
+ Today on Dead Rabbit Radio.
+
+10
+00:00:33,160 --> 00:00:43,480
+ Hey everyone, welcome back to another episode of Dead Rabbit Radio.
+
+11
+00:00:43,480 --> 00:00:44,480
+ I'm your host Jason Carpenter.
+
+12
+00:00:44,480 --> 00:00:45,600
+ I'm having a great day.
+
+13
+00:00:45,600 --> 00:00:47,080
+ I hope you guys are having a great day too.
+
+14
+00:00:47,080 --> 00:00:48,080
+ We got a ton of stuff to cover.
+
+15
+00:00:48,080 --> 00:00:50,480
+ So we're going to get started right away.
+
+16
+00:00:50,480 --> 00:00:52,600
+ In comes a giant bucket of food.
+
+17
+00:00:52,600 --> 00:00:54,400
+ It's a trough.
+
+18
+00:00:54,400 --> 00:00:56,680
+ But what's in this trough is what's important.
+
+19
+00:00:56,680 --> 00:00:58,880
+ It's one of our live stream supporters.
+
+20
+00:00:58,880 --> 00:00:59,880
+ In this trough of food.
+
+21
+00:00:59,880 --> 00:01:02,760
+ This is the most unflattery introduction ever.
+
+22
+00:01:02,760 --> 00:01:03,760
+ Your slop.
+
+23
+00:01:03,760 --> 00:01:05,480
+ Your slop, I tell you.
+
+24
+00:01:05,480 --> 00:01:06,980
+ It's Chime Chili.
+
+25
+00:01:06,980 --> 00:01:09,280
+ You know, because chili is food, right?
+
+26
+00:01:09,280 --> 00:01:13,560
+ Chime Chili rises out of the trough of food and begins walking towards us.
+
+27
+00:01:13,560 --> 00:01:15,600
+ Chime, thank you so much for your live stream donation.
+
+28
+00:01:15,600 --> 00:01:18,600
+ It was actually Thanksgiving of 2019.
+
+29
+00:01:18,600 --> 00:01:20,400
+ I don't even know if you still listen to the show.
+
+30
+00:01:20,400 --> 00:01:22,080
+ Hopefully you're still alive.
+
+31
+00:01:22,080 --> 00:01:26,000
+ But Chime Chili, either way, you are our pilot, our captain this episode.
+
+32
+00:01:26,000 --> 00:01:27,640
+ Thank you so much for supporting the show.
+
+33
+00:01:27,640 --> 00:01:31,680
+ So sorry it took so long to get around to it, Chime Chili, but you are the supporter
+
+34
+00:01:31,680 --> 00:01:32,680
+ for today.
+
+35
+00:01:32,680 --> 00:01:35,800
+ So I'm going to toss you the keys to the Dead Rabbit Durgible.
+
+36
+00:01:35,800 --> 00:01:38,200
+ We're going to toss them in your chili soaked hands.
+
+37
+00:01:38,200 --> 00:01:39,880
+ We are leaving behind Dead Rabbit Command.
+
+38
+00:01:39,880 --> 00:01:44,800
+ We are headed out to Tibet.
+
+39
+00:01:44,800 --> 00:01:46,520
+ Chime Chili is flying us out to Tibet.
+
+40
+00:01:46,520 --> 00:01:49,960
+ Specifically, we're going to the home of the Dalai Lama.
+
+41
+00:01:49,960 --> 00:01:52,560
+ I found this article just today.
+
+42
+00:01:52,560 --> 00:01:54,560
+ It's really creepy.
+
+43
+00:01:54,560 --> 00:01:55,560
+ Really creepy article.
+
+44
+00:01:55,560 --> 00:01:56,560
+ I found this interview.
+
+45
+00:01:56,560 --> 00:01:58,060
+ I found it on allamut.com.
+
+46
+00:01:58,060 --> 00:02:01,640
+ The interview is actually from a book called Gentle Bridges, Conversations with the Dalai
+
+47
+00:02:01,640 --> 00:02:04,520
+ Lama on the Sciences of Mind by Jeremy Hayward.
+
+48
+00:02:04,520 --> 00:02:05,520
+ It was published in 1992.
+
+49
+00:02:05,520 --> 00:02:09,160
+ And it's just an interview with the Dalai Lama on a bunch of stuff, Sciences of the
+
+50
+00:02:09,160 --> 00:02:10,160
+ Mind.
+
+51
+00:02:10,160 --> 00:02:12,440
+ If you can believe it, the title is actually accurate.
+
+52
+00:02:12,440 --> 00:02:14,560
+ So this interview starts off, and again, it's a snippet.
+
+53
+00:02:14,560 --> 00:02:17,640
+ We don't have the full interview here.
+
+54
+00:02:17,640 --> 00:02:23,080
+ But the question that's being led into is, what is artificial intelligence?
+
+55
+00:02:23,080 --> 00:02:25,320
+ What is artificial intelligence to Buddhism?
+
+56
+00:02:25,320 --> 00:02:28,920
+ Specifically, the Buddhism idea of reincarnation.
+
+57
+00:02:28,920 --> 00:02:31,200
+ So that's kind of the setup that's going on.
+
+58
+00:02:31,200 --> 00:02:34,040
+ So the interview actually starts this snippet that we're seeing.
+
+59
+00:02:34,040 --> 00:02:36,440
+ I don't know how many times I'm going to use the word snippet.
+
+60
+00:02:36,440 --> 00:02:39,960
+ The Dalai Lama asks to clarify, he goes, "What are computers made out of?
+
+61
+00:02:39,960 --> 00:02:42,920
+ They're made out of plastic and metal and things like that, right?"
+
+62
+00:02:42,920 --> 00:02:47,000
+ And the interviewer goes, "Yes, they are made out of natural components.
+
+63
+00:02:47,000 --> 00:02:48,000
+ Electric is a natural component.
+
+64
+00:02:48,000 --> 00:02:49,000
+ It's made from petroleum."
+
+65
+00:02:49,000 --> 00:02:53,080
+ So here is the Dalai Lama's first answer when he's talking about artificial intelligence.
+
+66
+00:02:53,080 --> 00:02:54,360
+ It's very fascinating.
+
+67
+00:02:54,360 --> 00:02:59,720
+ He says, "It is very difficult to say that it's not a living being," talking about
+
+68
+00:02:59,720 --> 00:03:00,720
+ the computer.
+
+69
+00:03:00,720 --> 00:03:05,240
+ "It's very difficult to say that it's not a living being, that it doesn't have cognition,
+
+70
+00:03:05,240 --> 00:03:08,120
+ even from a Buddhist point of view.
+
+71
+00:03:08,120 --> 00:03:16,120
+ So the computer itself can in some way be considered a living thing because it can think.
+
+72
+00:03:16,120 --> 00:03:19,760
+ You can't say that it doesn't have cognition because that's what it's built to do is to
+
+73
+00:03:19,760 --> 00:03:20,760
+ think."
+
+74
+00:03:20,760 --> 00:03:24,800
+ The interviewer then says, "Well, the thing with artificial intelligence is that it's
+
+75
+00:03:24,800 --> 00:03:27,480
+ a new intelligence that's being created."
+
+76
+00:03:27,480 --> 00:03:33,560
+ So how does that work into the Buddhist philosophy that you could actually create a new intelligence?
+
+77
+00:03:33,560 --> 00:03:35,560
+ Here we have another quote from him.
+
+78
+00:03:35,560 --> 00:03:43,520
+ "There is no possibility for a new cognition, which has no relationship to a previous continuum,
+
+79
+00:03:43,520 --> 00:03:45,760
+ to arise at all."
+
+80
+00:03:45,760 --> 00:03:51,040
+ So he's saying right there, every consciousness that exists now existed at the beginning of
+
+81
+00:03:51,040 --> 00:03:52,040
+ time.
+
+82
+00:03:52,040 --> 00:03:53,540
+ They can't be obliterated.
+
+83
+00:03:53,540 --> 00:03:55,680
+ They can't be birthed.
+
+84
+00:03:55,680 --> 00:03:58,120
+ There's no such thing as a new cognition.
+
+85
+00:03:58,120 --> 00:04:02,200
+ Everything that is thinking now was thinking at the beginning of time and will think until
+
+86
+00:04:02,200 --> 00:04:04,000
+ infinity goes on.
+
+87
+00:04:04,000 --> 00:04:07,880
+ So you can't have artificial intelligence is what he's saying, but it's not that cut
+
+88
+00:04:07,880 --> 00:04:08,880
+ and dry.
+
+89
+00:04:08,880 --> 00:04:11,600
+ He's not saying quit programming, Quake 5, guys.
+
+90
+00:04:11,600 --> 00:04:17,000
+ He goes on to say, "I can't totally rule out the possibility that if all the external
+
+91
+00:04:17,000 --> 00:04:23,000
+ conditions and the karmic action were there, a stream of consciousness might actually enter
+
+92
+00:04:23,000 --> 00:04:25,000
+ into a computer."
+
+93
+00:04:25,000 --> 00:04:30,160
+ The interviewer then basically says, "So you're saying that someone could be reincarnated
+
+94
+00:04:30,160 --> 00:04:31,440
+ into a computer."
+
+95
+00:04:31,440 --> 00:04:37,280
+ If you had, the example they used, if you had a very powerful Buddhist monk who was trying
+
+96
+00:04:37,280 --> 00:04:41,760
+ to project his consciousness into a computer before he passed away, that his consciousness
+
+97
+00:04:41,760 --> 00:04:44,720
+ could enter the computer, is that possible?
+
+98
+00:04:44,720 --> 00:04:46,920
+ And the Dalai Lama said, "Yes."
+
+99
+00:04:46,920 --> 00:04:55,040
+ Basically, the Dalai Lama says, "If the computer has the physical ability to hold a human consciousness,
+
+100
+00:04:55,040 --> 00:04:57,800
+ yes, it is possible."
+
+101
+00:04:57,800 --> 00:04:58,800
+ You don't have to worry about that pocket.
+
+102
+00:04:58,800 --> 00:05:02,880
+ You don't have to worry about being trapped in a calculator, in a solar power calculator
+
+103
+00:05:02,880 --> 00:05:03,880
+ for the rest of your life.
+
+104
+00:05:03,880 --> 00:05:09,800
+ If the computer has the physical makeup, or "the ability to serve as a basis for a continuum
+
+105
+00:05:09,800 --> 00:05:13,840
+ of consciousness," yes, it is possible.
+
+106
+00:05:13,840 --> 00:05:20,800
+ He does say this is something that we will have to see what happens, but you can't program
+
+107
+00:05:20,800 --> 00:05:23,120
+ an artificial intelligence.
+
+108
+00:05:23,120 --> 00:05:28,000
+ You can program something to mimic a human, but the second it is intelligence, that is
+
+109
+00:05:28,000 --> 00:05:29,680
+ a reincarnated person.
+
+110
+00:05:29,680 --> 00:05:31,280
+ You can't create consciousness.
+
+111
+00:05:31,280 --> 00:05:33,720
+ It has existed since the beginning of time.
+
+112
+00:05:33,720 --> 00:05:36,920
+ It has been Leichen, trapped in the middle of a meteorite.
+
+113
+00:05:36,920 --> 00:05:40,600
+ It has been a sand frog of Remus 12.
+
+114
+00:05:40,600 --> 00:05:44,120
+ It has been a young boy playing T-ball.
+
+115
+00:05:44,120 --> 00:05:45,120
+ It's been you.
+
+116
+00:05:45,120 --> 00:05:47,920
+ It goes back to being the sand frog.
+
+117
+00:05:47,920 --> 00:05:52,840
+ And then just throughout reality, and then eventually when they develop that robot, and
+
+118
+00:05:52,840 --> 00:05:57,520
+ they turn it on and they spend all this time trying to replicate a human brain, and it actually
+
+119
+00:05:57,520 --> 00:06:03,120
+ has consciousness, that is a living consciousness in that system.
+
+120
+00:06:03,120 --> 00:06:05,740
+ You cannot create consciousness.
+
+121
+00:06:05,740 --> 00:06:09,400
+ Consciousness was created when the universe was created.
+
+122
+00:06:09,400 --> 00:06:10,920
+ It's a fascinating question.
+
+123
+00:06:10,920 --> 00:06:15,520
+ I could literally dive into this with so many different levels, which I'm going to because
+
+124
+00:06:15,520 --> 00:06:17,760
+ this is a podcast where we do this stuff.
+
+125
+00:06:17,760 --> 00:06:20,320
+ First off, you have to look at the time period, 1992.
+
+126
+00:06:20,320 --> 00:06:22,560
+ I don't even think sneakers came out.
+
+127
+00:06:22,560 --> 00:06:25,440
+ The shoes were real, but like the hackers movies.
+
+128
+00:06:25,440 --> 00:06:28,840
+ The average person didn't know what a computer was at that time.
+
+129
+00:06:28,840 --> 00:06:33,040
+ They knew that it was a box that people used to do work on.
+
+130
+00:06:33,040 --> 00:06:38,800
+ But as far as like the internet wasn't around, or it wasn't in popular use, it was a totally
+
+131
+00:06:38,800 --> 00:06:40,240
+ different ballgame.
+
+132
+00:06:40,240 --> 00:06:45,840
+ So if you talk to people, computers seemed more mundane and magical at the same time.
+
+133
+00:06:45,840 --> 00:06:46,840
+ What?
+
+134
+00:06:46,840 --> 00:06:50,520
+ I can hold all my spreadsheets and this one thing can hold 512 megabytes.
+
+135
+00:06:50,520 --> 00:06:52,280
+ This is amazing.
+
+136
+00:06:52,280 --> 00:06:56,000
+ But you also just used it for work and to do spreadsheets and maybe play Snake.
+
+137
+00:06:56,000 --> 00:07:01,040
+ It'd be interesting to see his point of view and AI was light years away back then.
+
+138
+00:07:01,040 --> 00:07:05,100
+ It's still pretty far away now, but it seems to be closer.
+
+139
+00:07:05,100 --> 00:07:06,100
+ So we have that.
+
+140
+00:07:06,100 --> 00:07:07,100
+ We have the technological thing.
+
+141
+00:07:07,100 --> 00:07:12,960
+ I think nowadays based on this, we cannot program AI, but I think we have computers powerful
+
+142
+00:07:12,960 --> 00:07:15,080
+ enough that could hold a human consciousness.
+
+143
+00:07:15,080 --> 00:07:18,880
+ Now you go Jason, you know the brain is like the super advanced computer and we don't have
+
+144
+00:07:18,880 --> 00:07:20,160
+ chips that are that advanced.
+
+145
+00:07:20,160 --> 00:07:25,880
+ There, you couldn't replicate a human consciousness 100%, but remember the idea of consciousness
+
+146
+00:07:25,880 --> 00:07:28,600
+ in the Buddhist tradition is a life force.
+
+147
+00:07:28,600 --> 00:07:32,800
+ It's not necessarily being able to make these decisions.
+
+148
+00:07:32,800 --> 00:07:36,960
+ The Sandfrogs of Romulus 12, you could put that on a hard drive.
+
+149
+00:07:36,960 --> 00:07:40,720
+ That creature I just made up, that's my argument.
+
+150
+00:07:40,720 --> 00:07:42,320
+ You can't argue with it because I made it up.
+
+151
+00:07:42,320 --> 00:07:45,120
+ You may not be able to use human consciousness.
+
+152
+00:07:45,120 --> 00:07:46,200
+ Maybe I shouldn't use that word.
+
+153
+00:07:46,200 --> 00:07:50,280
+ A human intelligence on a computer right now, but you could definitely, the brain, the
+
+154
+00:07:50,280 --> 00:07:56,080
+ processing power of a computer, I would argue is much more powerful than a lot of animals.
+
+155
+00:07:56,080 --> 00:07:57,920
+ Don't look that up.
+
+156
+00:07:57,920 --> 00:07:59,720
+ Don't look that up unless I'm right.
+
+157
+00:07:59,720 --> 00:08:01,240
+ And then look it up and put it in the comments.
+
+158
+00:08:01,240 --> 00:08:02,360
+ Jason was right.
+
+159
+00:08:02,360 --> 00:08:03,720
+ So you have that.
+
+160
+00:08:03,720 --> 00:08:05,640
+ So the technology is there.
+
+161
+00:08:05,640 --> 00:08:11,200
+ But what's terrifying about this is that the Dalai Lama is basically saying that yes, you
+
+162
+00:08:11,200 --> 00:08:14,040
+ can be reincarnated into a computer.
+
+163
+00:08:14,040 --> 00:08:16,600
+ But computers don't die.
+
+164
+00:08:16,600 --> 00:08:22,040
+ If you're reincarnated into a tree, you have a life cycle.
+
+165
+00:08:22,040 --> 00:08:26,720
+ If you're reincarnated into a rock, it has a life cycle.
+
+166
+00:08:26,720 --> 00:08:32,080
+ If you're reincarnated into a metal, into an ore, it has a life cycle.
+
+167
+00:08:32,080 --> 00:08:37,760
+ Even if that life cycle is it being churned out of the earth, sitting on a beach for 10,000
+
+168
+00:08:37,760 --> 00:08:44,000
+ years, and eventually as the plates of the earth shift and move, the chunk of iron falls
+
+169
+00:08:44,000 --> 00:08:49,840
+ into a chasm and is compressed and pushed and morphed and melded and it's over 10 million
+
+170
+00:08:49,840 --> 00:08:54,600
+ years makes it way back down to the earth's core and melts and becomes something different.
+
+171
+00:08:54,600 --> 00:08:58,920
+ Don't look that up either guys.
+
+172
+00:08:58,920 --> 00:09:01,440
+ This is not a science podcast for a reason.
+
+173
+00:09:01,440 --> 00:09:02,760
+ But you know what I mean?
+
+174
+00:09:02,760 --> 00:09:05,480
+ Everything has a life cycle it wears down.
+
+175
+00:09:05,480 --> 00:09:06,480
+ Computers don't.
+
+176
+00:09:06,480 --> 00:09:11,320
+ And you go Jason, if the earth can swallow up a chunk of iron, I think it can do the
+
+177
+00:09:11,320 --> 00:09:13,920
+ same thing to my Macintosh.
+
+178
+00:09:13,920 --> 00:09:19,240
+ But it's different because the iron is a single component.
+
+179
+00:09:19,240 --> 00:09:22,320
+ A computer is like it's hard drive.
+
+180
+00:09:22,320 --> 00:09:24,320
+ Which okay.
+
+181
+00:09:24,320 --> 00:09:25,720
+ Now I'm thinking about it.
+
+182
+00:09:25,720 --> 00:09:29,600
+ I would much rather be a computer hard drive than a chunk of iron.
+
+183
+00:09:29,600 --> 00:09:32,720
+ Because a chunk of iron you're going to be hanging out for a while.
+
+184
+00:09:32,720 --> 00:09:33,880
+ You're not going to be able to do anything.
+
+185
+00:09:33,880 --> 00:09:36,400
+ My point is, okay, forget the chunk of iron.
+
+186
+00:09:36,400 --> 00:09:39,000
+ That was a bad example.
+
+187
+00:09:39,000 --> 00:09:42,080
+ Edit that out in your brain because I'm too lazy to do it myself on the podcast.
+
+188
+00:09:42,080 --> 00:09:46,680
+ If you had your choice between being a mighty redwood or a computer hard drive, what would
+
+189
+00:09:46,680 --> 00:09:47,760
+ you rather be?
+
+190
+00:09:47,760 --> 00:09:51,520
+ You may want to be a computer hard drive because then you're like surfing the internet.
+
+191
+00:09:51,520 --> 00:09:54,120
+ So you're literally surfing the internet, little digital you.
+
+192
+00:09:54,120 --> 00:09:56,520
+ But the tree can watch the sunrise and the sunset.
+
+193
+00:09:56,520 --> 00:09:58,400
+ I don't even like the outdoors.
+
+194
+00:09:58,400 --> 00:10:00,120
+ But still I'd be a tree.
+
+195
+00:10:00,120 --> 00:10:04,160
+ You know owls would be hanging out on me and I'd be like dropping sap on campers and going
+
+196
+00:10:04,160 --> 00:10:05,160
+ hehehe.
+
+197
+00:10:05,160 --> 00:10:06,640
+ And they're like I'm allergic to sap.
+
+198
+00:10:06,640 --> 00:10:08,000
+ I know I'm a tree.
+
+199
+00:10:08,000 --> 00:10:09,520
+ And I am doing all this stuff.
+
+200
+00:10:09,520 --> 00:10:11,840
+ I'm doing all these high chinks.
+
+201
+00:10:11,840 --> 00:10:14,600
+ The computer hard drive is going to end up in a dump somewhere.
+
+202
+00:10:14,600 --> 00:10:16,760
+ First off it's going to get, you don't know whose hard drive you're on.
+
+203
+00:10:16,760 --> 00:10:17,760
+ You could be full of porn.
+
+204
+00:10:17,760 --> 00:10:19,760
+ It could be the worst existence ever.
+
+205
+00:10:19,760 --> 00:10:20,760
+ You're like great.
+
+206
+00:10:20,760 --> 00:10:24,560
+ Why did I have to jump into this hard drive?
+
+207
+00:10:24,560 --> 00:10:27,600
+ Or it could be some bunch of spreadsheets and things like that.
+
+208
+00:10:27,600 --> 00:10:31,880
+ And then you just get tossed in the garbage and then you're just this shut off hard drive.
+
+209
+00:10:31,880 --> 00:10:36,720
+ You're trapped in a hard drive of a voided existence and you don't die when they shut
+
+210
+00:10:36,720 --> 00:10:37,720
+ it off.
+
+211
+00:10:37,720 --> 00:10:38,720
+ You're the hard drive.
+
+212
+00:10:38,720 --> 00:10:39,720
+ You're the information on the hard drive.
+
+213
+00:10:39,720 --> 00:10:44,240
+ The hard drive would need to be obliterated for you to go into your next life.
+
+214
+00:10:44,240 --> 00:10:45,240
+ So it's horrible.
+
+215
+00:10:45,240 --> 00:10:47,640
+ No one wants to be reincarnated as a computer.
+
+216
+00:10:47,640 --> 00:10:50,960
+ I don't think a computer nerd, if they thought about it for a second, would want to become
+
+217
+00:10:50,960 --> 00:10:51,960
+ a hard drive.
+
+218
+00:10:51,960 --> 00:10:52,960
+ So that's creepy.
+
+219
+00:10:52,960 --> 00:10:54,440
+ But then we even have this creepy thing.
+
+220
+00:10:54,440 --> 00:10:59,200
+ What if you get reincarnated as NPCs in video games?
+
+221
+00:10:59,200 --> 00:11:02,600
+ Like what if all those NPCs you're running over and you're with your car in Grand Theft
+
+222
+00:11:02,600 --> 00:11:07,920
+ Auto 5 or like those chickens you're selling on Stardew Valley and things like that.
+
+223
+00:11:07,920 --> 00:11:10,800
+ What if those are actually dead people?
+
+224
+00:11:10,800 --> 00:11:16,640
+ What if those are reincarnated people as chickens in Stardew Valley and people you're running
+
+225
+00:11:16,640 --> 00:11:17,640
+ over with your car?
+
+226
+00:11:17,640 --> 00:11:18,640
+ I don't know.
+
+227
+00:11:18,640 --> 00:11:20,280
+ I don't know what to answer to these questions.
+
+228
+00:11:20,280 --> 00:11:21,280
+ Ask the Dalai Lama.
+
+229
+00:11:21,280 --> 00:11:25,120
+ I just find it really interesting and I think the way he approached it was like, "Oh yeah,
+
+230
+00:11:25,120 --> 00:11:26,600
+ you can be reincarnated as a computer."
+
+231
+00:11:26,600 --> 00:11:32,440
+ And I don't think he had any idea of how just chaotic and filthy and dark computers were
+
+232
+00:11:32,440 --> 00:11:33,440
+ going to be.
+
+233
+00:11:33,440 --> 00:11:39,000
+ I'd rather be reincarnated than a lot of stuff than some random computer sitting on a shelf
+
+234
+00:11:39,000 --> 00:11:42,280
+ at a Best Buy and just so worried.
+
+235
+00:11:42,280 --> 00:11:48,360
+ So worried every time someone came by to buy me I'm like, "No, no, not you, not you."
+
+236
+00:11:48,360 --> 00:11:51,960
+ And you just, it's just don't know where you're going to end up.
+
+237
+00:11:51,960 --> 00:11:54,320
+ I think he was actually talking about it.
+
+238
+00:11:54,320 --> 00:11:58,600
+ I think he was probably thinking more like advanced deep blue computers that are playing
+
+239
+00:11:58,600 --> 00:12:02,240
+ chess against Russians or you know like androids.
+
+240
+00:12:02,240 --> 00:12:08,520
+ But imagine if you died right now and then you blink and the next thing you know 50 years
+
+241
+00:12:08,520 --> 00:12:15,160
+ have passed and you're in some bimbo sex robot and you can't move.
+
+242
+00:12:15,160 --> 00:12:20,040
+ Well you can when the guy's moving your arms and stuff like that and you're just like propped
+
+243
+00:12:20,040 --> 00:12:25,120
+ up in this dude's apartment and your entire existence is just you propped up in this dude's
+
+244
+00:12:25,120 --> 00:12:27,760
+ apartment and he's like, he's cleaning you off.
+
+245
+00:12:27,760 --> 00:12:30,360
+ He's like, "I'm never going to get rid of you.
+
+246
+00:12:30,360 --> 00:12:32,360
+ I'm going to keep you for as long as possible."
+
+247
+00:12:32,360 --> 00:12:36,080
+ And he's doing drugs, he's doing a bunch of drugs to make himself live forever.
+
+248
+00:12:36,080 --> 00:12:37,080
+ He's taking beta blockers.
+
+249
+00:12:37,080 --> 00:12:40,560
+ He's like, "Me and you are going to have so much fun."
+
+250
+00:12:40,560 --> 00:12:41,720
+ That wouldn't be fun, right?
+
+251
+00:12:41,720 --> 00:12:46,440
+ I mean even if you're into the, even if you're into chess and that's my favorite fantasy.
+
+252
+00:12:46,440 --> 00:12:48,360
+ Still, okay, fair.
+
+253
+00:12:48,360 --> 00:12:51,320
+ But you're just sitting in the corner of a room.
+
+254
+00:12:51,320 --> 00:12:52,400
+ You don't even get to do stuff.
+
+255
+00:12:52,400 --> 00:12:53,400
+ You're just a robot.
+
+256
+00:12:53,400 --> 00:12:54,600
+ You're like, "Chase and that's my fantasy."
+
+257
+00:12:54,600 --> 00:12:55,600
+ Okay, okay.
+
+258
+00:12:55,600 --> 00:12:56,960
+ Maybe you are into that.
+
+259
+00:12:56,960 --> 00:13:01,840
+ But I think most of us wouldn't want to be reincarnated as some like sex toy sitting in
+
+260
+00:13:01,840 --> 00:13:02,840
+ an empty bucket.
+
+261
+00:13:02,840 --> 00:13:07,800
+ I don't think that Tully Lama was talking about anything electronic.
+
+262
+00:13:07,800 --> 00:13:10,120
+ But it's just this.
+
+263
+00:13:10,120 --> 00:13:16,000
+ It's just the idea from this one interview that I read, from this one thing I read on
+
+264
+00:13:16,000 --> 00:13:19,800
+ the internet today that I probably could have done more research on.
+
+265
+00:13:19,800 --> 00:13:22,000
+ I go, "Oh no, don't die guys.
+
+266
+00:13:22,000 --> 00:13:23,000
+ Don't die.
+
+267
+00:13:23,000 --> 00:13:24,440
+ You may be reincarnated as a dildo."
+
+268
+00:13:24,440 --> 00:13:25,440
+ I don't know.
+
+269
+00:13:25,440 --> 00:13:27,800
+ If it's super advanced, it may not.
+
+270
+00:13:27,800 --> 00:13:32,800
+ I'm not trying to disrespect Buddhism or Tully Lama, but if it is advanced enough, if the
+
+271
+00:13:32,800 --> 00:13:37,920
+ technology can actually hold a consciousness and there's no such thing as new consciousness,
+
+272
+00:13:37,920 --> 00:13:44,600
+ that means that what is in that AI robot is actually a human or potentially a human or
+
+273
+00:13:44,600 --> 00:13:48,800
+ was a human or all of those things combined.
+
+274
+00:13:48,800 --> 00:13:49,800
+ Super spooky.
+
+275
+00:13:49,800 --> 00:13:53,240
+ According to what I'm looking at, that went on for a long time, but I'm not just gonna
+
+276
+00:13:53,240 --> 00:13:56,400
+ do a robot sex special.
+
+277
+00:13:56,400 --> 00:13:59,480
+ I don't have time to tell the butterfly story, the Iron Butterfly story.
+
+278
+00:13:59,480 --> 00:14:00,480
+ It's really interesting.
+
+279
+00:14:00,480 --> 00:14:04,320
+ One, Tressa recommended it, but we're gonna have to save that chime.
+
+280
+00:14:04,320 --> 00:14:05,560
+ Chili.
+
+281
+00:14:05,560 --> 00:14:06,960
+ Let's hop in the Carbentercopter.
+
+282
+00:14:06,960 --> 00:14:09,760
+ I'm gonna find another story to do real quick here.
+
+283
+00:14:09,760 --> 00:14:10,760
+ Let's take a look.
+
+284
+00:14:10,760 --> 00:14:11,760
+ See what we got.
+
+285
+00:14:11,760 --> 00:14:13,560
+ Something spooky maybe.
+
+286
+00:14:13,560 --> 00:14:15,200
+ Okay, so here we go.
+
+287
+00:14:15,200 --> 00:14:20,240
+ I found one that's short and interesting and actually has some terrifying implications
+
+288
+00:14:20,240 --> 00:14:25,360
+ for us as fans of the paranormal and the world of the weird.
+
+289
+00:14:25,360 --> 00:14:28,120
+ Chime Chili, let's go ahead and hop in that Carbentercopter.
+
+290
+00:14:28,120 --> 00:14:31,240
+ We are leaving behind Tibet.
+
+291
+00:14:31,240 --> 00:14:38,520
+ We are headed out to Vladvistok, Russia.
+
+292
+00:14:38,520 --> 00:14:42,240
+ But we're not gonna be wearing our winter gear that we normally have to wear every time
+
+293
+00:14:42,240 --> 00:14:43,240
+ we go to Russia.
+
+294
+00:14:43,240 --> 00:14:45,520
+ We've been doing a lot of stories in Siberia lately.
+
+295
+00:14:45,520 --> 00:14:49,240
+ We're actually going to the beach, so I hope you guys brought your swim trunks and your
+
+296
+00:14:49,240 --> 00:14:52,640
+ little tank tops that have the black and white stripes on them.
+
+297
+00:14:52,640 --> 00:14:53,640
+ It's old-timey.
+
+298
+00:14:53,640 --> 00:14:54,640
+ It's actually not old-timey.
+
+299
+00:14:54,640 --> 00:14:55,640
+ It's 1989.
+
+300
+00:14:55,640 --> 00:14:56,800
+ But we're going retro.
+
+301
+00:14:56,800 --> 00:14:59,880
+ We all got giant mustaches and we got strongman clothes on.
+
+302
+00:14:59,880 --> 00:15:04,920
+ Chime Chili, go ahead and land us at this beach.
+
+303
+00:15:04,920 --> 00:15:05,920
+ We all get out.
+
+304
+00:15:05,920 --> 00:15:07,240
+ We're throwing a beach ball around.
+
+305
+00:15:07,240 --> 00:15:10,560
+ And while we're having fun, we should be paying attention to the story.
+
+306
+00:15:10,560 --> 00:15:13,240
+ We see another group of people there.
+
+307
+00:15:13,240 --> 00:15:14,760
+ It's a public beach, right?
+
+308
+00:15:14,760 --> 00:15:15,760
+ We're not running them off.
+
+309
+00:15:15,760 --> 00:15:16,760
+ It's fine.
+
+310
+00:15:16,760 --> 00:15:20,240
+ There's a group of people there and they see this super convoluted.
+
+311
+00:15:20,240 --> 00:15:22,840
+ Here's the story.
+
+312
+00:15:22,840 --> 00:15:24,400
+ I take the beach ball.
+
+313
+00:15:24,400 --> 00:15:26,920
+ Everyone sits down and goes, "Okay, let me just tell you the story.
+
+314
+00:15:26,920 --> 00:15:28,320
+ This episode's already running long."
+
+315
+00:15:28,320 --> 00:15:29,320
+ I think.
+
+316
+00:15:29,320 --> 00:15:30,320
+ Can't really tell.
+
+317
+00:15:30,320 --> 00:15:33,120
+ But anyways, there's a group of people on the beach.
+
+318
+00:15:33,120 --> 00:15:34,120
+ That's not us.
+
+319
+00:15:34,120 --> 00:15:35,800
+ There's a group of people on the beach.
+
+320
+00:15:35,800 --> 00:15:38,480
+ They see another group of people on the beach.
+
+321
+00:15:38,480 --> 00:15:43,600
+ That other group of people on the beach, they look like a bunch of weirdos.
+
+322
+00:15:43,600 --> 00:15:46,600
+ So there's 12 normal people on the beach.
+
+323
+00:15:46,600 --> 00:15:49,200
+ And they're looking at a group of a bunch of freaks.
+
+324
+00:15:49,200 --> 00:15:52,160
+ What they describe them as circus freak dorks.
+
+325
+00:15:52,160 --> 00:15:56,320
+ It's actually the term they use, which is pretty hilarious.
+
+326
+00:15:56,320 --> 00:15:57,440
+ Circus freak dorks.
+
+327
+00:15:57,440 --> 00:15:58,440
+ They're staring at them.
+
+328
+00:15:58,440 --> 00:15:59,960
+ They're trying to like, "What's up with those dorks?
+
+329
+00:15:59,960 --> 00:16:01,280
+ I wonder if they have lunch money."
+
+330
+00:16:01,280 --> 00:16:03,520
+ "Billy, you've been graduated from high school forever.
+
+331
+00:16:03,520 --> 00:16:05,480
+ I know, but I still want lunch money.
+
+332
+00:16:05,480 --> 00:16:06,480
+ You own a restaurant.
+
+333
+00:16:06,480 --> 00:16:07,680
+ You don't need lunch money."
+
+334
+00:16:07,680 --> 00:16:11,600
+ But still, they approach this group of circus freak dorks.
+
+335
+00:16:11,600 --> 00:16:16,400
+ And as they get closer to them, they realize neither of those three words apply.
+
+336
+00:16:16,400 --> 00:16:19,160
+ So maybe freaks.
+
+337
+00:16:19,160 --> 00:16:23,320
+ Because what they're really looking at are great aliens.
+
+338
+00:16:23,320 --> 00:16:32,080
+ What's interesting, they describe these guys not just as dorks, but as quote, "repugnant."
+
+339
+00:16:32,080 --> 00:16:37,280
+ It's an interesting word because if you saw an alien life form, we shared DNA.
+
+340
+00:16:37,280 --> 00:16:38,880
+ We nobody likes spiders.
+
+341
+00:16:38,880 --> 00:16:41,840
+ Some people do, but spiders are gross.
+
+342
+00:16:41,840 --> 00:16:43,920
+ Slugs and snails are gross.
+
+343
+00:16:43,920 --> 00:16:46,760
+ But what is a banana but a hard slug?
+
+344
+00:16:46,760 --> 00:16:48,560
+ And we eat those.
+
+345
+00:16:48,560 --> 00:16:51,760
+ And what is crackerjacks?
+
+346
+00:16:51,760 --> 00:16:54,000
+ What is crackerjacks but a brown spider?
+
+347
+00:16:54,000 --> 00:16:56,160
+ It's the size of a spider.
+
+348
+00:16:56,160 --> 00:17:00,440
+ And when you kill a spider and they curl up, and then if you painted it brown, I bet you
+
+349
+00:17:00,440 --> 00:17:05,320
+ anything, do anything, I could trick you into eating it.
+
+350
+00:17:05,320 --> 00:17:11,200
+ What I'm saying is that even the disgusting stuff on earth, we can see parallels to us.
+
+351
+00:17:11,200 --> 00:17:15,240
+ And we don't want spiders around us because we know they can hurt us.
+
+352
+00:17:15,240 --> 00:17:19,120
+ But if you saw a bunch of ants walking around, whatever, you're not going to pay them any
+
+353
+00:17:19,120 --> 00:17:20,120
+ mind.
+
+354
+00:17:20,120 --> 00:17:23,640
+ And most spiders, as long as they're far away from you, walking down the street catching
+
+355
+00:17:23,640 --> 00:17:26,080
+ a cab, you're totally fine with them.
+
+356
+00:17:26,080 --> 00:17:30,880
+ But an alien, something that actually evolved on another planet, would be disgusting to
+
+357
+00:17:30,880 --> 00:17:32,320
+ us.
+
+358
+00:17:32,320 --> 00:17:34,800
+ We would go into shock seeing them.
+
+359
+00:17:34,800 --> 00:17:36,520
+ That's just the fact of the matter.
+
+360
+00:17:36,520 --> 00:17:39,560
+ It's not like Star Trek.
+
+361
+00:17:39,560 --> 00:17:41,160
+ We wouldn't be able to process it.
+
+362
+00:17:41,160 --> 00:17:47,640
+ Human beings can barely process paranormal events from earth, like ghosts.
+
+363
+00:17:47,640 --> 00:17:50,320
+ You can look down a hallway and get a creepy sensation.
+
+364
+00:17:50,320 --> 00:17:54,280
+ You don't realize you're actually looking at a child with no eyes standing at the end
+
+365
+00:17:54,280 --> 00:17:55,400
+ of your hallway.
+
+366
+00:17:55,400 --> 00:17:57,520
+ That's what you're seeing.
+
+367
+00:17:57,520 --> 00:17:59,960
+ But your brain won't let you perceive it.
+
+368
+00:17:59,960 --> 00:18:01,680
+ So you see an empty hallway.
+
+369
+00:18:01,680 --> 00:18:04,040
+ You just get a little bit of a shiver.
+
+370
+00:18:04,040 --> 00:18:08,000
+ When you're walking up the stairs and you feel like something's at the bottom of the stairs,
+
+371
+00:18:08,000 --> 00:18:09,280
+ sometimes it's just your imagination.
+
+372
+00:18:09,280 --> 00:18:11,280
+ And sometimes there's something at the bottom of the stairs.
+
+373
+00:18:11,280 --> 00:18:14,880
+ But when you glance back down, you don't see anything there.
+
+374
+00:18:14,880 --> 00:18:17,080
+ You're relieved.
+
+375
+00:18:17,080 --> 00:18:22,160
+ Because if your brain let you see what you actually saw, which was the old man with the
+
+376
+00:18:22,160 --> 00:18:27,000
+ pitchfork, at the bottom of your stairs, you would lose your mind.
+
+377
+00:18:27,000 --> 00:18:28,000
+ Your brain...
+
+378
+00:18:28,000 --> 00:18:29,000
+ Good night, kids!
+
+379
+00:18:29,000 --> 00:18:31,160
+ I'm glad you guys enjoyed this episode.
+
+380
+00:18:31,160 --> 00:18:32,160
+ You lose your mind.
+
+381
+00:18:32,160 --> 00:18:35,360
+ So your brain actually will shut down when you're seeing stuff that you can't comprehend.
+
+382
+00:18:35,360 --> 00:18:36,960
+ We've talked about that a couple times on the show.
+
+383
+00:18:36,960 --> 00:18:39,280
+ We talked about it last week as well.
+
+384
+00:18:39,280 --> 00:18:41,160
+ With an alien, it's a physical being.
+
+385
+00:18:41,160 --> 00:18:43,320
+ You can't ignore it.
+
+386
+00:18:43,320 --> 00:18:44,320
+ Although some people do.
+
+387
+00:18:44,320 --> 00:18:48,160
+ Some people, their minds will shut off and they're like, "I don't remember what happened."
+
+388
+00:18:48,160 --> 00:18:51,720
+ But they would be absolutely disgusting to us.
+
+389
+00:18:51,720 --> 00:18:56,080
+ Now you could say like the Pleiadians, the Nordics, maybe they're like star seeds and
+
+390
+00:18:56,080 --> 00:18:57,080
+ stuff like that.
+
+391
+00:18:57,080 --> 00:18:58,080
+ Fine.
+
+392
+00:18:58,080 --> 00:19:02,560
+ But if you actually saw a reptilian, it would nauseate you.
+
+393
+00:19:02,560 --> 00:19:05,880
+ It's not a flickering image of Obama giving a speech on CNN.
+
+394
+00:19:05,880 --> 00:19:07,680
+ It's not a reptilian.
+
+395
+00:19:07,680 --> 00:19:09,080
+ It's artifacts and digital.
+
+396
+00:19:09,080 --> 00:19:13,920
+ Because if it was an actual reptilian, it's not like the show V. It's not like anything
+
+397
+00:19:13,920 --> 00:19:15,960
+ else that has reptilians in it.
+
+398
+00:19:15,960 --> 00:19:17,440
+ It's not King Koopa!
+
+399
+00:19:17,440 --> 00:19:19,000
+ It would make you sick to your stomach.
+
+400
+00:19:19,000 --> 00:19:22,040
+ So when you come across stories, again, I always like this, the outliers.
+
+401
+00:19:22,040 --> 00:19:23,040
+ The outliers.
+
+402
+00:19:23,040 --> 00:19:27,200
+ When we look at these stories, it gives it a little more flavor to it because that's
+
+403
+00:19:27,200 --> 00:19:28,200
+ what would happen.
+
+404
+00:19:28,200 --> 00:19:31,000
+ If you were sitting, if you looked up right now and you saw a great alien sitting in your
+
+405
+00:19:31,000 --> 00:19:34,040
+ kitchen, you'd get nauseous.
+
+406
+00:19:34,040 --> 00:19:38,040
+ So the fact that they say they was repugnant really makes the story more believable than
+
+407
+00:19:38,040 --> 00:19:40,240
+ a lot of stories that I've come across.
+
+408
+00:19:40,240 --> 00:19:43,160
+ Because we're going to need a little bit of believability for where we're going on
+
+409
+00:19:43,160 --> 00:19:44,280
+ this one.
+
+410
+00:19:44,280 --> 00:19:46,240
+ So that's the end of that encounter.
+
+411
+00:19:46,240 --> 00:19:47,560
+ But it's not the end of the story.
+
+412
+00:19:47,560 --> 00:19:50,840
+ There is a group known as Vafuon.
+
+413
+00:19:50,840 --> 00:19:52,040
+ I tried looking them up.
+
+414
+00:19:52,040 --> 00:19:54,120
+ It's some sort of UFO organization.
+
+415
+00:19:54,120 --> 00:19:56,360
+ I got this story from ThinkAboutItDocs.com.
+
+416
+00:19:56,360 --> 00:19:58,280
+ They've been really good to us in the past.
+
+417
+00:19:58,280 --> 00:20:01,200
+ Haven't come across anything knowingly fraudulent.
+
+418
+00:20:01,200 --> 00:20:05,400
+ And they'll actually call stuff out as fraudulent, so I really trust that website.
+
+419
+00:20:05,400 --> 00:20:10,680
+ But there was a person who worked for Vafuon, a V-A-U-F-O-N.
+
+420
+00:20:10,680 --> 00:20:16,560
+ But anyways, there was a person with that organization called Alexander Rempel.
+
+421
+00:20:16,560 --> 00:20:19,160
+ And they wanted to...
+
+422
+00:20:19,160 --> 00:20:22,840
+ Okay.
+
+423
+00:20:22,840 --> 00:20:26,360
+ And as I'm looking at my notes, they didn't describe him as dorks.
+
+424
+00:20:26,360 --> 00:20:30,280
+ I hate to break the flow here, but they didn't describe him as dorks.
+
+425
+00:20:30,280 --> 00:20:33,960
+ I don't know why I wrote that.
+
+426
+00:20:33,960 --> 00:20:38,080
+ They described him as circus freak dwarfs.
+
+427
+00:20:38,080 --> 00:20:42,000
+ Which makes more sense, right?
+
+428
+00:20:42,000 --> 00:20:47,080
+ I couldn't understand why they called him a bunch of dorks, a bunch of nerds.
+
+429
+00:20:47,080 --> 00:20:49,800
+ But they were circus freak dwarfs.
+
+430
+00:20:49,800 --> 00:20:55,400
+ And as they got closer to him, they realized they were hairless and had gray skin and
+
+431
+00:20:55,400 --> 00:20:57,320
+ lipless mouths and big eyes and things like that.
+
+432
+00:20:57,320 --> 00:20:59,920
+ So they didn't use the term gray alien.
+
+433
+00:20:59,920 --> 00:21:01,360
+ They were describing them.
+
+434
+00:21:01,360 --> 00:21:05,320
+ Because in 1989 Russia, again, that wasn't a super well known term.
+
+435
+00:21:05,320 --> 00:21:06,960
+ We've covered a lot of Russian stories.
+
+436
+00:21:06,960 --> 00:21:11,960
+ But they'll describe the features of a gray, but the word gray is not used in the original
+
+437
+00:21:11,960 --> 00:21:12,960
+ story.
+
+438
+00:21:12,960 --> 00:21:15,800
+ They also weren't dorks, okay?
+
+439
+00:21:15,800 --> 00:21:19,320
+ It wasn't casting for revenge of the nerds and nerds in space.
+
+440
+00:21:19,320 --> 00:21:20,320
+ Copyright.
+
+441
+00:21:20,320 --> 00:21:22,400
+ Don't steal my idea.
+
+442
+00:21:22,400 --> 00:21:23,480
+ Circus Freak Dwarfs.
+
+443
+00:21:23,480 --> 00:21:29,880
+ But anyways, Alexander Rempel and the Vafuon group wanted to see more about this story.
+
+444
+00:21:29,880 --> 00:21:33,440
+ They wanted to interview these 12 people who had had this encounter on the beach.
+
+445
+00:21:33,440 --> 00:21:37,000
+ It was a public setting and you had these dorks.
+
+446
+00:21:37,000 --> 00:21:38,920
+ Yeah, I'm just gonna keep calling them dorks.
+
+447
+00:21:38,920 --> 00:21:40,520
+ He had these dorks walking around.
+
+448
+00:21:40,520 --> 00:21:43,640
+ Seven years later when Vafuon was looking at these people.
+
+449
+00:21:43,640 --> 00:21:46,360
+ So now we're in the year 1996.
+
+450
+00:21:46,360 --> 00:21:47,440
+ This is what they find out.
+
+451
+00:21:47,440 --> 00:21:50,600
+ They tracked down the 12 witnesses.
+
+452
+00:21:50,600 --> 00:21:53,920
+ Three of the witnesses had been killed in car accidents.
+
+453
+00:21:53,920 --> 00:21:56,120
+ Apparently separate car accidents.
+
+454
+00:21:56,120 --> 00:21:59,200
+ Five of them had been diagnosed with brain tumors.
+
+455
+00:21:59,200 --> 00:22:02,600
+ Two of them had already had surgery for their brain tumors.
+
+456
+00:22:02,600 --> 00:22:09,640
+ Two others were located in a mental hospital and the remaining two were never found.
+
+457
+00:22:09,640 --> 00:22:13,240
+ Now it could just be that those remaining two moved on with their lives and friends
+
+458
+00:22:13,240 --> 00:22:15,880
+ separate and Soviet unions collapsing.
+
+459
+00:22:15,880 --> 00:22:20,920
+ They're not really keeping good paperwork on where people are moving to at the time.
+
+460
+00:22:20,920 --> 00:22:23,680
+ But they could have also met a bizarre end.
+
+461
+00:22:23,680 --> 00:22:25,200
+ Three are dead.
+
+462
+00:22:25,200 --> 00:22:26,680
+ Two are missing.
+
+463
+00:22:26,680 --> 00:22:29,520
+ The other seven have had a string of bad luck.
+
+464
+00:22:29,520 --> 00:22:34,360
+ Not saying that's good luck, but yeah, five people have brain tumors and two in mental hospitals.
+
+465
+00:22:34,360 --> 00:22:38,120
+ This is an interesting story because of the implications of it.
+
+466
+00:22:38,120 --> 00:22:40,720
+ Let's put on our conspiracy caps here for a second.
+
+467
+00:22:40,720 --> 00:22:45,360
+ And let's take a look at this phenomenon that we call UFOs.
+
+468
+00:22:45,360 --> 00:22:48,080
+ The question always is how come there's not more.
+
+469
+00:22:48,080 --> 00:22:51,400
+ If it's a real phenomenon, how come they're not flying over Los Angeles?
+
+470
+00:22:51,400 --> 00:22:52,880
+ How come they haven't made their presence known?
+
+471
+00:22:52,880 --> 00:22:56,000
+ How come it's always some Hick farmer in the middle of nowhere who sees them?
+
+472
+00:22:56,000 --> 00:22:57,280
+ Those are all stereotypes.
+
+473
+00:22:57,280 --> 00:22:59,600
+ There have been sightings over major cities.
+
+474
+00:22:59,600 --> 00:23:02,040
+ There's been stories of them making contact with governments.
+
+475
+00:23:02,040 --> 00:23:04,960
+ And it's definitely not always the drunk Hick driving home.
+
+476
+00:23:04,960 --> 00:23:11,480
+ We've covered literally hundreds of stories on this show that are not that trope.
+
+477
+00:23:11,480 --> 00:23:13,520
+ So that's not the case.
+
+478
+00:23:13,520 --> 00:23:16,800
+ But that's kind of the stereotype of it.
+
+479
+00:23:16,800 --> 00:23:18,400
+ It's not like telling a ghost story.
+
+480
+00:23:18,400 --> 00:23:20,560
+ People don't really laugh at you when you tell a ghost story.
+
+481
+00:23:20,560 --> 00:23:24,080
+ Some people might, but UFOs are still considered a funny topic.
+
+482
+00:23:24,080 --> 00:23:26,600
+ You go ahead, you get probed, you know?
+
+483
+00:23:26,600 --> 00:23:30,040
+ So people aren't telling the fact that they're seeing UFOs.
+
+484
+00:23:30,040 --> 00:23:34,000
+ I think a lot of people see UFOs and have more than just the light.
+
+485
+00:23:34,000 --> 00:23:35,800
+ Again, I'm not talking about lights in the sky.
+
+486
+00:23:35,800 --> 00:23:37,400
+ See that all the time.
+
+487
+00:23:37,400 --> 00:23:41,560
+ I've seen weird things in the sky, flying metal cubes and stuff like that.
+
+488
+00:23:41,560 --> 00:23:42,760
+ I don't know what it is.
+
+489
+00:23:42,760 --> 00:23:44,080
+ I don't think it's aliens.
+
+490
+00:23:44,080 --> 00:23:49,400
+ I'm talking about like closer encounters, second, third, fourth encounters.
+
+491
+00:23:49,400 --> 00:23:51,480
+ What if these are happening all the time?
+
+492
+00:23:51,480 --> 00:23:53,440
+ And people aren't talking about them.
+
+493
+00:23:53,440 --> 00:23:57,920
+ And then these people get a car accident and die.
+
+494
+00:23:57,920 --> 00:23:59,520
+ These people develop a brain tumor.
+
+495
+00:23:59,520 --> 00:24:01,440
+ Seven years later, you develop a brain tumor.
+
+496
+00:24:01,440 --> 00:24:03,120
+ You develop some sort of cancer.
+
+497
+00:24:03,120 --> 00:24:08,840
+ And you don't even think about that time that you woke up in bed, you're reading a book,
+
+498
+00:24:08,840 --> 00:24:10,680
+ and you fell asleep, and you left the light on.
+
+499
+00:24:10,680 --> 00:24:16,800
+ When you woke up, the light was off, but there was something glowing at the foot of your bed.
+
+500
+00:24:16,800 --> 00:24:20,960
+ You don't even make the connection eight, nine, ten years later when you're going to
+
+501
+00:24:20,960 --> 00:24:23,840
+ the doctor and they're like, "Yeah, we know what the lump is."
+
+502
+00:24:23,840 --> 00:24:26,880
+ You don't even make that connection.
+
+503
+00:24:26,880 --> 00:24:30,600
+ What if this happens all the time?
+
+504
+00:24:30,600 --> 00:24:34,800
+ I'm not saying everyone who developed some sort of disease or everyone gets in a car accident
+
+505
+00:24:34,800 --> 00:24:38,600
+ has been visited by aliens.
+
+506
+00:24:38,600 --> 00:24:43,640
+ But just statistically, some of them were.
+
+507
+00:24:43,640 --> 00:24:47,560
+ I think that's how statistics work, right?
+
+508
+00:24:47,560 --> 00:24:50,920
+ What if this is more common than we think?
+
+509
+00:24:50,920 --> 00:24:53,280
+ What if this is the one story?
+
+510
+00:24:53,280 --> 00:24:58,560
+ And to be fair, we've covered, again, hundreds of stories where this isn't the ending, where
+
+511
+00:24:58,560 --> 00:25:04,040
+ people have an alien visitation and then they live 20, 30, 40 years after the visitation
+
+512
+00:25:04,040 --> 00:25:06,520
+ and they're like, "Some day my space brothers will come back.
+
+513
+00:25:06,520 --> 00:25:08,360
+ We've covered stories like that before."
+
+514
+00:25:08,360 --> 00:25:10,520
+ But what if those are the outliers?
+
+515
+00:25:10,520 --> 00:25:15,440
+ And because those stories are around for so long, we're still hearing about Betty and
+
+516
+00:25:15,440 --> 00:25:20,600
+ Barney Hill and all this stuff for so long after the event, that those are the outliers.
+
+517
+00:25:20,600 --> 00:25:25,760
+ We're not thinking about Aunt June, who never told anyone that one night she was driving
+
+518
+00:25:25,760 --> 00:25:30,080
+ home, she saw a craft come over her vehicle, and the next thing she knows, she was two
+
+519
+00:25:30,080 --> 00:25:33,240
+ miles down the road and two hours had passed.
+
+520
+00:25:33,240 --> 00:25:37,200
+ And she never told anyone about that.
+
+521
+00:25:37,200 --> 00:25:40,920
+ And then 10 months later, she died suddenly.
+
+522
+00:25:40,920 --> 00:25:42,120
+ How many times is that happening?
+
+523
+00:25:42,120 --> 00:25:48,360
+ Again, I'm not saying every sudden death is accountable to UFOs or aliens, but does that
+
+524
+00:25:48,360 --> 00:25:50,040
+ happen more often than we think?
+
+525
+00:25:50,040 --> 00:25:53,880
+ Is there a correlation more often than we think?
+
+526
+00:25:53,880 --> 00:26:02,000
+ And if so, could this be the reason, conspiracy caps fully on, why aliens are not disclosed
+
+527
+00:26:02,000 --> 00:26:05,240
+ to citizens?
+
+528
+00:26:05,240 --> 00:26:07,920
+ People go, "Yeah, I believe in aliens.
+
+529
+00:26:07,920 --> 00:26:10,160
+ They're probably on other planets are so far away.
+
+530
+00:26:10,160 --> 00:26:11,360
+ It wouldn't bother me."
+
+531
+00:26:11,360 --> 00:26:16,520
+ If it turns out tomorrow that the government was detecting radio waves from other planets,
+
+532
+00:26:16,520 --> 00:26:21,800
+ people would be totally weirded out, but you'd get over it.
+
+533
+00:26:21,800 --> 00:26:25,560
+ If it turns out that for the past 50 years, the governments of the world had been talking
+
+534
+00:26:25,560 --> 00:26:29,880
+ to aliens and they'd been interfering with human affairs and they wanted us to clean
+
+535
+00:26:29,880 --> 00:26:33,280
+ up our environment and get rid of nuclear weapons, people would be more upset.
+
+536
+00:26:33,280 --> 00:26:36,640
+ They'd be upset that we weren't told the truth from the beginning.
+
+537
+00:26:36,640 --> 00:26:39,760
+ You'd have a whole group of people who would be like, "Not on my planet.
+
+538
+00:26:39,760 --> 00:26:41,800
+ I'd be one of those guys, honestly."
+
+539
+00:26:41,800 --> 00:26:44,160
+ And be setting UFOs on fire.
+
+540
+00:26:44,160 --> 00:26:47,920
+ You'd have a whole group of people who would hate that the aliens were there to interfere
+
+541
+00:26:47,920 --> 00:26:50,160
+ in human politics.
+
+542
+00:26:50,160 --> 00:26:51,640
+ Maybe we do want to pollute the planet.
+
+543
+00:26:51,640 --> 00:26:53,400
+ Maybe we do want our nuclear weapons.
+
+544
+00:26:53,400 --> 00:26:58,680
+ You'd have all that stuff, and people would be super weirded out, but you would understand
+
+545
+00:26:58,680 --> 00:26:59,680
+ it.
+
+546
+00:26:59,680 --> 00:27:00,960
+ It'd be like a new Cold War.
+
+547
+00:27:00,960 --> 00:27:04,920
+ You'd have alliances drawn up and you'd have all this stuff, but people would understand
+
+548
+00:27:04,920 --> 00:27:07,600
+ it because that mimics what we know on Earth.
+
+549
+00:27:07,600 --> 00:27:11,960
+ It would take longer because people would be upset again at the secrecy in that someone's
+
+550
+00:27:11,960 --> 00:27:13,240
+ trying to tell us what to do.
+
+551
+00:27:13,240 --> 00:27:16,080
+ But they could say, "In the future, you're going to be floating around on spaceships.
+
+552
+00:27:16,080 --> 00:27:18,200
+ You just have to do this stuff first."
+
+553
+00:27:18,200 --> 00:27:24,360
+ But if it turns out that aliens have been here for a long, long, long time, the governments
+
+554
+00:27:24,360 --> 00:27:25,360
+ have known about it.
+
+555
+00:27:25,360 --> 00:27:27,480
+ They haven't told us anything.
+
+556
+00:27:27,480 --> 00:27:29,400
+ There's 20 different alien races.
+
+557
+00:27:29,400 --> 00:27:31,420
+ They all have completely different agendas.
+
+558
+00:27:31,420 --> 00:27:33,760
+ There is no space brotherhood.
+
+559
+00:27:33,760 --> 00:27:39,080
+ They come here to look at us the same way we go to a zoo to examine animals.
+
+560
+00:27:39,080 --> 00:27:46,040
+ And not only that, but there is some bizarre mechanism that when you encounter these beings,
+
+561
+00:27:46,040 --> 00:27:49,560
+ you have, for lack of a better term, bad luck.
+
+562
+00:27:49,560 --> 00:27:55,120
+ Them being here interferes with our normal lifespan.
+
+563
+00:27:55,120 --> 00:28:01,160
+ When you encounter these guys randomly, your life will be shorter for the most part.
+
+564
+00:28:01,160 --> 00:28:03,040
+ Again, there's outliers.
+
+565
+00:28:03,040 --> 00:28:04,720
+ We can't negotiate with them.
+
+566
+00:28:04,720 --> 00:28:07,000
+ They all want different things.
+
+567
+00:28:07,000 --> 00:28:08,480
+ They view us as tiny.
+
+568
+00:28:08,480 --> 00:28:10,440
+ They don't really want us to evolve.
+
+569
+00:28:10,440 --> 00:28:15,040
+ They just like to come down and take our soil and every so often have a hybrid baby.
+
+570
+00:28:15,040 --> 00:28:21,040
+ And if you run into them, things aren't going to turn out well.
+
+571
+00:28:21,040 --> 00:28:27,120
+ There's no federation in the future.
+
+572
+00:28:27,120 --> 00:28:30,560
+ How do you think the world would respond to that?
+
+573
+00:28:30,560 --> 00:28:36,280
+ It would be seen less as an alien government and more of a natural disaster.
+
+574
+00:28:36,280 --> 00:28:39,320
+ You can't negotiate with an earthquake.
+
+575
+00:28:39,320 --> 00:28:44,240
+ You can't negotiate with cancer or COVID.
+
+576
+00:28:44,240 --> 00:28:45,920
+ Simply exists.
+
+577
+00:28:45,920 --> 00:28:49,160
+ And you hope that it doesn't come and interfere with your life, but when it does, you have
+
+578
+00:28:49,160 --> 00:28:52,120
+ to prepare yourself for it.
+
+579
+00:28:52,120 --> 00:28:55,560
+ To fight it or to accept it.
+
+580
+00:28:55,560 --> 00:28:57,160
+ I don't know what the mechanism is.
+
+581
+00:28:57,160 --> 00:29:00,600
+ I can't say it's the aliens come down and they cause some sort of radiation sickness.
+
+582
+00:29:00,600 --> 00:29:04,920
+ You could say the brain tumors for that and the two people who went insane for that.
+
+583
+00:29:04,920 --> 00:29:07,280
+ The people going missing, people dying in car accidents.
+
+584
+00:29:07,280 --> 00:29:20,920
+ What if the alien encounter is so alien to our reality, it actually throws off our fates,
+
+585
+00:29:20,920 --> 00:29:25,320
+ our timeline, where we were supposed to be.
+
+586
+00:29:25,320 --> 00:29:27,360
+ The triggers pulled a little earlier.
+
+587
+00:29:27,360 --> 00:29:30,040
+ And again, I'm not trying to, this is conspiracy cap fully on.
+
+588
+00:29:30,040 --> 00:29:35,560
+ I'm not trying to say that everyone who dies of a disease or everyone who has bad luck
+
+589
+00:29:35,560 --> 00:29:36,800
+ has encountered one of these aliens.
+
+590
+00:29:36,800 --> 00:29:38,800
+ I'm not trying to minimize that at all.
+
+591
+00:29:38,800 --> 00:29:43,560
+ I'm just saying I find it very interesting that we have this one story and I'm extrapolating
+
+592
+00:29:43,560 --> 00:29:44,560
+ from that.
+
+593
+00:29:44,560 --> 00:29:49,060
+ We have this one story where we have 12 witnesses and all of them, 100% of them suffered ill
+
+594
+00:29:49,060 --> 00:29:51,800
+ effects and extrapolating that out.
+
+595
+00:29:51,800 --> 00:29:55,880
+ We know of all the times people have told us about UFO sightings and they tend to be
+
+596
+00:29:55,880 --> 00:30:00,360
+ okay except for the people being taken aboard ships and forced hybrids and things like that
+
+597
+00:30:00,360 --> 00:30:01,760
+ which is awful.
+
+598
+00:30:01,760 --> 00:30:03,240
+ The after effects.
+
+599
+00:30:03,240 --> 00:30:06,600
+ Sometimes they're a little not right in the head because of the experience.
+
+600
+00:30:06,600 --> 00:30:12,120
+ For the most part, the stories that we hear generally have happy endings.
+
+601
+00:30:12,120 --> 00:30:13,920
+ But those are the stories we hear.
+
+602
+00:30:13,920 --> 00:30:18,120
+ What about the tens of thousands of stories that people experience?
+
+603
+00:30:18,120 --> 00:30:23,320
+ Never tell anyone because they're ashamed to tell people and they meet a tragic or unlucky
+
+604
+00:30:23,320 --> 00:30:25,200
+ end.
+
+605
+00:30:25,200 --> 00:30:27,640
+ And they don't put two and two together.
+
+606
+00:30:27,640 --> 00:30:30,320
+ No one even thinks of a two and two together because they don't know about the story in
+
+607
+00:30:30,320 --> 00:30:31,800
+ the first place.
+
+608
+00:30:31,800 --> 00:30:35,520
+ And that's the real reason why we don't know that aliens exist.
+
+609
+00:30:35,520 --> 00:30:40,000
+ Because if we knew that aliens exist and we knew what they actually were, they're harbingers
+
+610
+00:30:40,000 --> 00:30:41,840
+ of chaos.
+
+611
+00:30:41,840 --> 00:30:45,760
+ They're not an enemy fleet that we can destroy with our weapons that we can combine together
+
+612
+00:30:45,760 --> 00:30:48,880
+ with one race and destroy these alien invaders.
+
+613
+00:30:48,880 --> 00:30:54,320
+ They're not space brothers to enlighten us so we can search the stars with them.
+
+614
+00:30:54,320 --> 00:30:58,640
+ They're not even, like I described, just the alien observers who sit up there quietly and
+
+615
+00:30:58,640 --> 00:31:00,400
+ watch mankind.
+
+616
+00:31:00,400 --> 00:31:05,080
+ Just by them coming into our environment, they throw things off.
+
+617
+00:31:05,080 --> 00:31:11,760
+ Just like even the most careful observer of the tigers of Africa is stepping on ant hills.
+
+618
+00:31:11,760 --> 00:31:15,040
+ Squish in bugs when he sits down to take notes.
+
+619
+00:31:15,040 --> 00:31:17,280
+ We may not be the future allies of the aliens.
+
+620
+00:31:17,280 --> 00:31:19,620
+ We may not be the future enemies of the aliens.
+
+621
+00:31:19,620 --> 00:31:24,540
+ We may not be the future conquerors of the aliens or the slaves of the aliens.
+
+622
+00:31:24,540 --> 00:31:31,300
+ We may simply be humans in a universe of aliens.
+
+623
+00:31:31,300 --> 00:31:34,780
+ And the universe belongs to the aliens.
+
+624
+00:31:34,780 --> 00:31:36,720
+ We are the outliers.
+
+625
+00:31:36,720 --> 00:31:42,920
+ We are the thing that is wrong in the system of time and space.
+
+626
+00:31:42,920 --> 00:31:46,700
+ We are like pond scum in a pool.
+
+627
+00:31:46,700 --> 00:31:50,820
+ And when they come here it's like dropping water into that pool.
+
+628
+00:31:50,820 --> 00:31:54,860
+ Not even just water, they're dropping in pool cleaner.
+
+629
+00:31:54,860 --> 00:31:57,300
+ They may not even be doing it intentionally.
+
+630
+00:31:57,300 --> 00:32:01,020
+ These dorks were just hanging out on a beach.
+
+631
+00:32:01,020 --> 00:32:07,020
+ And these 12 people suffered tragedy simply because they saw them.
+
+632
+00:32:07,020 --> 00:32:08,460
+ I can't define the mechanism.
+
+633
+00:32:08,460 --> 00:32:10,080
+ They may not be a mechanism.
+
+634
+00:32:10,080 --> 00:32:15,100
+ This is a conspiracy podcast and we're going with the story and taking it out.
+
+635
+00:32:15,100 --> 00:32:24,780
+ This may just be a one story thing that is fun to explore the further consequences of.
+
+636
+00:32:24,780 --> 00:32:30,660
+ But if this story is in the indication of humans' relationship with aliens, the governments
+
+637
+00:32:30,660 --> 00:32:33,460
+ of the world will never admit they exist.
+
+638
+00:32:33,460 --> 00:32:39,580
+ Because to admit they exist is to admit that humans are powerless.
+
+639
+00:32:39,580 --> 00:32:45,060
+ It's one thing to know there's a bear in the woods and if the village works together
+
+640
+00:32:45,060 --> 00:32:47,020
+ they can slay the bear.
+
+641
+00:32:47,020 --> 00:32:53,860
+ It's another thing to know that there is a volcano growing underneath the village that
+
+642
+00:32:53,860 --> 00:32:59,860
+ will not only wipe out that settlement but will take out the entire continent.
+
+643
+00:32:59,860 --> 00:33:07,060
+ If you knew there was no chance of survival, would you tell the people there was the problem?
+
+644
+00:33:07,060 --> 00:33:32,780
+ Or would you just deny it until the problem swallowed you all?
+
+645
+00:33:32,780 --> 00:33:59,460
+ I'm not sure.
+
+646
+00:33:59,460 --> 00:34:02,040
+ (upbeat music)
+

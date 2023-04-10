@@ -1,0 +1,1252 @@
+1
+00:00:00,000 --> 00:00:03,800
+ Is deep fake technology a threat to our democracy?
+
+2
+00:00:03,800 --> 00:00:10,400
+ And then we look at the wild conspiracy theories about why YouTube was shut down for one hour on Tuesday night.
+
+3
+00:00:10,400 --> 00:00:16,220
+ Yes, there are already conspiracy theories about that. Today on Dead Rabbit Radio.
+
+4
+00:00:16,220 --> 00:00:24,220
+ [Music]
+
+5
+00:00:24,220 --> 00:00:27,980
+ Hey everyone, welcome back to another episode of Dead Rabbit Radio. I'm your host Jason Carpenter.
+
+6
+00:00:27,980 --> 00:00:34,280
+ I'm having a great day generally. I hope you're having a great day too. My sinus infection is getting a little bad.
+
+7
+00:00:34,280 --> 00:00:36,280
+ It actually hurts to talk.
+
+8
+00:00:36,280 --> 00:00:42,480
+ So I don't know how long this episode is going to be. Usually I say they're going to be short and they still end up being a little bit longer.
+
+9
+00:00:42,480 --> 00:00:45,880
+ But we're only gonna do two stories.
+
+10
+00:00:45,880 --> 00:00:51,080
+ And I really, I just kind of wanted to, the stories kind of flow together and keep things simple and then I'm gonna take a nap.
+
+11
+00:00:51,080 --> 00:00:53,760
+ First off, after I had done
+
+12
+00:00:53,760 --> 00:00:57,220
+ World War II was faked and then
+
+13
+00:00:57,680 --> 00:01:03,600
+ Nuclear bombs don't exist. I was like, okay, though I can't do those type of subjects anymore.
+
+14
+00:01:03,600 --> 00:01:07,360
+ I can't talk about people who don't believe something
+
+15
+00:01:07,360 --> 00:01:12,600
+ happened. You can vary and say, well, I have a different interpretation of that event.
+
+16
+00:01:12,600 --> 00:01:16,000
+ But to say no, those don't exist is very hard to do those episodes.
+
+17
+00:01:16,000 --> 00:01:22,560
+ After I got done doing those two episodes, Mitcham sends me, I'm sitting there and I get a Facebook message from my friend Mitcham.
+
+18
+00:01:22,560 --> 00:01:27,160
+ And it's just a photo of a power line with a flyer attached to it.
+
+19
+00:01:27,160 --> 00:01:29,160
+ It says "Birds aren't real."
+
+20
+00:01:29,160 --> 00:01:34,680
+ "Birds aren't real.com." And my soul died a little bit and I was like, are you...
+
+21
+00:01:34,680 --> 00:01:39,040
+ And of course, I'm thinking this is most likely real.
+
+22
+00:01:39,040 --> 00:01:43,240
+ Like it sounds like a joke, but it's most likely real. I went to their website.
+
+23
+00:01:43,240 --> 00:01:45,960
+ Thankfully it is a joke.
+
+24
+00:01:45,960 --> 00:01:50,960
+ It is a joke. They have a website where you can buy merch, "Birds aren't real" shirts.
+
+25
+00:01:50,960 --> 00:01:56,200
+ They have quotes from famous politicians and world leaders exposing the bird plot.
+
+26
+00:01:56,640 --> 00:02:02,360
+ Thankfully, you know, it's funny though, we've reached a point in conspiracy theory that you just don't know sometime.
+
+27
+00:02:02,360 --> 00:02:07,040
+ If you saw a guy walking around the shirt that said, "World War II never happened."
+
+28
+00:02:07,040 --> 00:02:13,760
+ You would probably think, oh yeah, there's no- nobody on earth would believe that World War II was a ten-
+
+29
+00:02:13,760 --> 00:02:17,120
+ Wait, I bet you had about a ten-year act from the rise of
+
+30
+00:02:17,120 --> 00:02:20,400
+ fascism and Nazi Germany to
+
+31
+00:02:21,440 --> 00:02:29,440
+ drop into the bombs. It was all fake. I now know that anyone can believe anything at any given time
+
+32
+00:02:29,440 --> 00:02:32,480
+ from doing those episodes. But thanks, Mitch, for the laugh.
+
+33
+00:02:32,480 --> 00:02:35,440
+ And I'll have the show notes if you want to buy a shirt. Birds aren't real.
+
+34
+00:02:35,440 --> 00:02:39,520
+ Okay, so let's go ahead and jump into our first story here. Let's talk about Deepfakes.
+
+35
+00:02:39,520 --> 00:02:45,280
+ So Deepfakes is a slang term for technology. It's an AI-assisted technology that can
+
+36
+00:02:45,280 --> 00:02:51,120
+ take- you have two sources of video. You have a source video and a target video.
+
+37
+00:02:51,120 --> 00:02:55,280
+ The source video will make a facial expression or turn its head.
+
+38
+00:02:55,280 --> 00:02:59,360
+ And then the target- it's really weird looking. And then the target video will make the same
+
+39
+00:02:59,360 --> 00:03:05,760
+ expression and turn their head at the same time. Is it perfect? No. Will it be perfect?
+
+40
+00:03:05,760 --> 00:03:09,760
+ Eventually. It will be imperceptible to tell the difference between the two.
+
+41
+00:03:09,760 --> 00:03:15,440
+ This came out publicly in 2016. They said, this is technology we had. They used some footage
+
+42
+00:03:15,440 --> 00:03:20,640
+ where they made George Bush and Obama do different things with their head. And you- we saw what
+
+43
+00:03:20,640 --> 00:03:24,400
+ though the source guy was doing. He was like yawning or just kind of moving his head. And then
+
+44
+00:03:24,400 --> 00:03:29,280
+ you'd see George Bush yawning and moving his head. And you can obviously- obviously it's not 100%.
+
+45
+00:03:29,280 --> 00:03:35,920
+ But any imperfections right now that you see in it, you could attribute to film quality issues.
+
+46
+00:03:35,920 --> 00:03:41,520
+ In 2017, and this is where the name Deepfake- or Deepfakes comes from, there was a Reddit user
+
+47
+00:03:41,520 --> 00:03:47,520
+ named Deepfake. This technology is now consumer level. If you have a good enough computer,
+
+48
+00:03:47,520 --> 00:03:54,320
+ you can actually do this yourself. Deepfake began to take high quality pornography videos and then
+
+49
+00:03:54,320 --> 00:04:02,160
+ took images of famous actresses like Gal Gadot and Emma Watson and Taylor Swift, Katy Perry,
+
+50
+00:04:02,160 --> 00:04:07,120
+ stuff like that. And it takes thousands and thousands and thousands of frames of your source
+
+51
+00:04:07,120 --> 00:04:10,960
+ and thousands and thousands and thousands of frames of your target because you have to match it up.
+
+52
+00:04:10,960 --> 00:04:16,800
+ You have to get all angles- you'd have to get like all angles of Taylor Swift's head. And then you
+
+53
+00:04:16,800 --> 00:04:21,600
+ have all the angles of the porn actress moving her head. And where you start to see the imperfections
+
+54
+00:04:21,600 --> 00:04:26,880
+ a lot of time is in the hair. Because- and I did watch this because it is quite odd to watch.
+
+55
+00:04:26,880 --> 00:04:32,960
+ You see imperfections in the hair. If the porn actress moves her face in a way that the
+
+56
+00:04:32,960 --> 00:04:37,200
+ source actress didn't, you'll see a glitch because it's trying to fill in that information. The
+
+57
+00:04:37,200 --> 00:04:42,000
+ computer is trying to fill in information it doesn't have. And again, pornography is very,
+
+58
+00:04:42,000 --> 00:04:48,080
+ very high quality. Generally, it's shot very high quality. So the imperfections stood out a little
+
+59
+00:04:48,080 --> 00:04:54,480
+ more. But if they went with grainier stuff, like amateur stuff, it'd be very hard to tell. Not impossible,
+
+60
+00:04:54,480 --> 00:04:59,280
+ but hard to tell. You know, you're basically putting people in pornography without their permission.
+
+61
+00:04:59,280 --> 00:05:04,640
+ And that's true. So Deepfake was banned from Reddit. You can still- you can get this software online.
+
+62
+00:05:04,640 --> 00:05:08,720
+ I think there's a- there's a couple of them out there. I have one linked in the show notes. But
+
+63
+00:05:08,720 --> 00:05:14,160
+ again, you- you need a fairly beefy computer to do it, but not like top the line. And a lot of time,
+
+64
+00:05:14,160 --> 00:05:19,520
+ because it has to take thou- it says one example was you had to have 20 minutes of footage for both,
+
+65
+00:05:19,520 --> 00:05:24,400
+ and the footage had to be at 120 frames per second. That's how many frames you needed. Some people were
+
+66
+00:05:24,400 --> 00:05:29,200
+ just taking still photographs and putting them in pornos, and it looked horrifying. You need to have
+
+67
+00:05:29,200 --> 00:05:34,160
+ these things so when they turn their head, everything turns with them. There was a video that I saw
+
+68
+00:05:34,160 --> 00:05:40,320
+ today, which was the same thing, but the technology's advanced to the point where it's not facial. It is-
+
+69
+00:05:40,320 --> 00:05:45,120
+ you can do your whole body. So you had- what- you had two people and they were getting all the frames
+
+70
+00:05:45,120 --> 00:05:50,080
+ they needed. Like, the source guy would be like, kind of moving around, turning around, and then
+
+71
+00:05:50,080 --> 00:05:55,200
+ the target guy would be doing the same thing, moving around, turning around. And then the source guy
+
+72
+00:05:55,200 --> 00:05:59,920
+ would begin to dance, and then the- you'd see a person who had never performed those dance moves
+
+73
+00:05:59,920 --> 00:06:06,080
+ ever in their life begin to copy that same dance. It was weird. It was very- I had very uncanny
+
+74
+00:06:06,080 --> 00:06:11,360
+ valley feeling, because I'm watching it, and you know this person has never done this dance, ever.
+
+75
+00:06:11,360 --> 00:06:16,800
+ What you are seeing is 100% artificial, and you're like, Jason, yeah, but so is the ghost from House
+
+76
+00:06:16,800 --> 00:06:21,440
+ on Haunted Hill. That's artificial, but it's different because this has a like a human head,
+
+77
+00:06:21,440 --> 00:06:26,000
+ and it's a human, but it's doing these moves, it's doing something completely unnatural,
+
+78
+00:06:26,000 --> 00:06:31,280
+ and because the technology isn't 100%, let's say that they had all the footage of the person
+
+79
+00:06:31,280 --> 00:06:37,600
+ dancing, but the computer never had an image of him with his hand held out making a fist. He had-
+
+80
+00:06:37,600 --> 00:06:43,600
+ when he held his hand out, his fingers around. It will actually digitally bend the fingers into a
+
+81
+00:06:43,600 --> 00:06:51,360
+ fist, and it's just this weird blur. The computer's doing its best to create a copy of its source
+
+82
+00:06:51,360 --> 00:06:55,360
+ with the information it has. It's very, very unsettling. All those videos are down below.
+
+83
+00:06:55,360 --> 00:06:58,880
+ I- even though I said they're unsettling, they're really cool to watch. It's a really cool thing
+
+84
+00:06:58,880 --> 00:07:03,920
+ of technology. Now, there's been two groups that have been very, very concerned about this.
+
+85
+00:07:03,920 --> 00:07:12,000
+ One group is the Pearl Kletchine Media, who has announced, pretty much since this- actually,
+
+86
+00:07:12,000 --> 00:07:17,600
+ pretty much since last summer, when the Deep Fakes thing came out. This is a threat to democracy.
+
+87
+00:07:17,600 --> 00:07:22,960
+ No one will ever believe anything that is video again. Deep Fakes are a threat to democracy. That
+
+88
+00:07:23,600 --> 00:07:28,960
+ phrase is used in so many headlines. It's a threat to democracy. And then in the conspiracy
+
+89
+00:07:28,960 --> 00:07:35,040
+ theory circles, they're like, "Damn it! Now, when that Pizza Gate video gets uploaded,
+
+90
+00:07:35,040 --> 00:07:40,240
+ of Hillary Clinton eating that baby, no one will believe them." It's because Deep Fake
+
+91
+00:07:40,240 --> 00:07:47,600
+ technology- actually, Deep Fake technology may be fake itself. It may be a CIA cover-up. So,
+
+92
+00:07:47,600 --> 00:07:53,200
+ when the footage finally gets released of Hillary Clinton eating that baby, no one will believe
+
+93
+00:07:53,200 --> 00:07:58,640
+ it. The excuse will be like, "Guys, it's just Deep Fakes. That was someone else eating that baby."
+
+94
+00:07:58,640 --> 00:08:05,760
+ Here's the problem with both of those things. This idea that video evidence is the end-all be-all
+
+95
+00:08:05,760 --> 00:08:12,320
+ of evidence. And it is regarded quite highly. It is. But the idea that it is a threat to democracy-
+
+96
+00:08:12,320 --> 00:08:17,440
+ let's tackle that one first. The idea that Deep Fake- Fake Videos is a threat to democracy,
+
+97
+00:08:17,440 --> 00:08:21,120
+ that I can produce a video that is so realistic, you can't tell whether or not it's true.
+
+98
+00:08:21,760 --> 00:08:29,760
+ Video evidence has been around for what? 67 years? Humanity has been around for
+
+99
+00:08:29,760 --> 00:08:37,840
+ 100,000? 50,000 years? Somewhere around there? Civilization has been growing. They were able to
+
+100
+00:08:37,840 --> 00:08:49,360
+ try people and end corruption and expose terrible things for millennias before video cameras came out.
+
+101
+00:08:50,560 --> 00:08:55,520
+ This- I get it. New technology is very scary. And there will be an adjustment phase. But the
+
+102
+00:08:55,520 --> 00:09:01,920
+ idea that someone can show if someone put up a fake video of Donald Trump kicking a baby down the
+
+103
+00:09:01,920 --> 00:09:08,080
+ stairs, down the stairs of the Capitol Building, this is exactly what would happen. Half the people
+
+104
+00:09:08,080 --> 00:09:11,840
+ wouldn't even watch the video. They would see the title of it and write in the comments, "I knew
+
+105
+00:09:11,840 --> 00:09:17,040
+ it. I knew it." Donald Trump is an asshole. The other half of the people would watch that video
+
+106
+00:09:17,040 --> 00:09:22,240
+ would say, "What was the context of the baby getting kicked down the stairs?" Or, "I think it's
+
+107
+00:09:22,240 --> 00:09:29,680
+ fake." Video evidence can persuade some people, but to think that it is a threat to democracy,
+
+108
+00:09:29,680 --> 00:09:35,680
+ that somehow one fake video can bring down a world leader, I don't buy it. The only way that can
+
+109
+00:09:35,680 --> 00:09:42,800
+ happen is if a video was released and nobody disputed it in the media, and I'm not talking about
+
+110
+00:09:42,800 --> 00:09:48,400
+ like the mainstream media, I'm talking from the daily wire to HuffPo, nobody disputed it. Everyone
+
+111
+00:09:48,400 --> 00:09:52,080
+ was like, "There was multiple witnesses there." And actually, it might be a good thing because I
+
+112
+00:09:52,080 --> 00:09:58,560
+ think video evidence can be used, but we'll also come down to where there are other people there.
+
+113
+00:09:58,560 --> 00:10:03,280
+ So if they show Donald Trump kicking a baby down the stairs, of course, Mitch McConnell
+
+114
+00:10:03,280 --> 00:10:06,240
+ standing in the background and they're going to be like, "Hey, Mitch, do you remember that?" And he's
+
+115
+00:10:06,240 --> 00:10:12,000
+ like, "No, that never happened." Generally, evidence is good if it's compounded with other evidence.
+
+116
+00:10:12,720 --> 00:10:17,120
+ But the idea that just this technology alone that you can get on your home computer will
+
+117
+00:10:17,120 --> 00:10:23,040
+ destroy democracy is ridiculous because most people have their minds made up about issues
+
+118
+00:10:23,040 --> 00:10:29,520
+ before they go in, and video evidence only reinforces the conclusions they already have.
+
+119
+00:10:29,520 --> 00:10:34,800
+ Now, as far as the conspiracy theory stuff goes, first off, the idea that there's a video out
+
+120
+00:10:34,800 --> 00:10:39,200
+ there with Hillary Clinton eating a baby and trust me, that's just not something I'm making up.
+
+121
+00:10:39,200 --> 00:10:43,840
+ That's just not an example. I'm like, "Look how wacky they are. I hear that example quite often."
+
+122
+00:10:43,840 --> 00:10:50,160
+ That doesn't exist. That video does not exist. And I'll tell you why it doesn't exist,
+
+123
+00:10:50,160 --> 00:10:55,360
+ because if you ate babies, why would you record it? Well, it's because of the
+
+124
+00:10:55,360 --> 00:10:59,440
+ ceremony. No, no, no, no, no, no, no, no. Why would you record it? No, no, no, because the
+
+125
+00:10:59,440 --> 00:11:06,800
+ Illuminati... No, no, no. Why would you record it? With the information that you know about human
+
+126
+00:11:06,800 --> 00:11:10,640
+ beings, why would you personally record that thing? I don't want to hear about anything about
+
+127
+00:11:10,640 --> 00:11:15,040
+ secret rituals that you don't know about. I don't want to hear anything about secret cults that you
+
+128
+00:11:15,040 --> 00:11:19,680
+ don't know about other than stuff you heard off the internet. Why would you videotape that yourself?
+
+129
+00:11:19,680 --> 00:11:26,000
+ Well, I wouldn't. Yeah, exactly. That's the thing. A lot of times with these conspiracy theories,
+
+130
+00:11:26,000 --> 00:11:31,520
+ they'll make some outrageous claim and then they'll go, "You know, Simpsons predicted 9/11. Why?
+
+131
+00:11:31,520 --> 00:11:36,400
+ Well, because the Illuminati says they have to predict all of their disasters." According to
+
+132
+00:11:36,400 --> 00:11:46,080
+ who? According to who? Well, I've read it on Henry Macau's website, Henry Macau's a lunatic for one.
+
+133
+00:11:46,080 --> 00:11:52,000
+ And two, it's made up. I'm not saying the people trying to run the world is made up,
+
+134
+00:11:52,000 --> 00:11:57,600
+ and I'm not saying there aren't people that eat babies. But when you make an outrageous claim,
+
+135
+00:11:57,600 --> 00:12:03,520
+ you have to back it up other than someone said on the internet. Or an Illuminati defector said
+
+136
+00:12:03,520 --> 00:12:07,680
+ this, "What's their name?" Well, they're going, they have an anonymous name. Then it's made up.
+
+137
+00:12:07,680 --> 00:12:14,560
+ It's made up. There is no video of Hillary Clinton eating a baby. So when that video does get released,
+
+138
+00:12:14,560 --> 00:12:23,360
+ it is fake. It was a deep fake. There's a photo going around right now of Obama in full costume
+
+139
+00:12:23,360 --> 00:12:29,600
+ at some sort of satanic ceremony. And it's being used as proof that Obama is a Satan worshiper.
+
+140
+00:12:29,600 --> 00:12:37,840
+ However, conveniently enough, the costume covers his face. What? But it's Obama, apparently. And
+
+141
+00:12:37,840 --> 00:12:41,520
+ there's a guy, there's an overweight black dude in the background, and they're like,
+
+142
+00:12:41,520 --> 00:12:45,760
+ "That's Eric Holder. What?" But it's so...
+
+143
+00:12:45,760 --> 00:12:54,960
+ Guys, I don't deny that there are powerful people out there who do horrible, horrible things. But
+
+144
+00:12:54,960 --> 00:13:00,640
+ you have to rein it in a bit. You have to rein it in a bit. If your goal is to expose Hillary
+
+145
+00:13:00,640 --> 00:13:06,320
+ Clinton as a baby eating psychopath, that's not a good goal. Because there is no proof of that.
+
+146
+00:13:06,320 --> 00:13:16,160
+ Now, listen, I'll admit it. I could be wrong on this, but I highly, highly doubt it. And if she is,
+
+147
+00:13:16,160 --> 00:13:22,080
+ there's not a video of it. There's not a video of it. And again, I'm going to go back to my original
+
+148
+00:13:22,080 --> 00:13:26,320
+ point. If a video does come out and the media is like, "That's a fake video that actually didn't
+
+149
+00:13:26,320 --> 00:13:32,880
+ happen. That's deep fake technology," then you will have to make the determination whether or not you
+
+150
+00:13:32,880 --> 00:13:37,680
+ think it's deep fake, whether or not when you see those blurs and those artifacts, you go, "Those
+
+151
+00:13:37,680 --> 00:13:43,200
+ are blurs and artifacts that are part of the deep fake technology." Or you say, "Well, that's just
+
+152
+00:13:43,200 --> 00:13:46,960
+ the problem with the film quality, or that's because of this, or that, or the other thing." But
+
+153
+00:13:46,960 --> 00:13:52,640
+ again, generally, I mean, there are people on the internet who believe there's YouTube videos of
+
+154
+00:13:52,640 --> 00:13:57,520
+ people moving their head and because of digital distortion, they shapeshift, their eyes turn
+
+155
+00:13:57,520 --> 00:14:05,840
+ into reptiles. So, I mean, they already believe that any sort of digital problem in a video footage
+
+156
+00:14:05,840 --> 00:14:11,680
+ is proof of reptilian blood. I want to say this too. The deep fakes thing is obviously up for
+
+157
+00:14:11,680 --> 00:14:16,640
+ debate. If you're like, "No, we need to make sure that evidence is always 100%, feel free to leave
+
+158
+00:14:16,640 --> 00:14:22,400
+ a comment, drop me an email, deadrabbitradio@gmail.com," we can discuss this. This is my personal view on
+
+159
+00:14:22,400 --> 00:14:28,960
+ this. I just think that we've gone long enough without having video evidence being the most
+
+160
+00:14:28,960 --> 00:14:33,440
+ important thing. I think we can do it for another 10,000, 100,000 years until they started doing
+
+161
+00:14:33,440 --> 00:14:39,600
+ deep fake holograms and then we're in real deep, deep trouble. I wanted to add this in real quick
+
+162
+00:14:39,600 --> 00:14:43,200
+ here. This is after I did the episode, so the audio quality might sound different. Sorry to
+
+163
+00:14:43,200 --> 00:14:47,600
+ break the immersion, but I wanted to thank YouTube user Euphoria. I didn't know if I was really going
+
+164
+00:14:47,600 --> 00:14:53,040
+ to do this story, but this user was interested in doing it and I want to make sure I take the time
+
+165
+00:14:53,040 --> 00:14:58,960
+ out to thank the listeners who recommend stories to me. So, thanks, Euphoria. We're going to go
+
+166
+00:14:58,960 --> 00:15:03,920
+ ahead and continue on with the story here. So, the next story we're going to cover is YouTube was
+
+167
+00:15:03,920 --> 00:15:12,080
+ down for one hour on October 16th, 2018, and there are already three or four conspiracy theories
+
+168
+00:15:12,720 --> 00:15:19,360
+ involving it. I think it's interesting because it shows what a social, social like landmark,
+
+169
+00:15:19,360 --> 00:15:25,040
+ social joining place for society has become that YouTube goes down for an hour and people
+
+170
+00:15:25,040 --> 00:15:29,680
+ within days are like, "What's going on? What's going on? This must have been this big thing."
+
+171
+00:15:29,680 --> 00:15:34,880
+ So, I mean, it just shows like people like this is such a part of their lives that if it goes down
+
+172
+00:15:34,880 --> 00:15:39,840
+ for an hour, conspiracy theories pop up. Now, if Netflix went down for an hour, people would go. It's
+
+173
+00:15:39,840 --> 00:15:44,400
+ probably just some technical issue. The reason why it became more of a conspiracy when YouTube
+
+174
+00:15:44,400 --> 00:15:50,560
+ shut down because all of the user uploaded content. So, people thought, "Oh my God, somebody
+
+175
+00:15:50,560 --> 00:15:57,120
+ uploaded something to YouTube and the powers that be had to shut it down. They had to take it out."
+
+176
+00:15:57,120 --> 00:16:02,800
+ Now, of course, people were talking about Deepfakes and stuff like that, but these were the three
+
+177
+00:16:03,600 --> 00:16:10,960
+ big... There's quite a few actually. So, one of them was that there was a video of a man in
+
+178
+00:16:10,960 --> 00:16:17,680
+ a military uniform saying an object is about to hit the moon and YouTube shuts down. And then
+
+179
+00:16:17,680 --> 00:16:20,800
+ someone found a video of something hitting the moon and they're like, "Oh my God, look at this is a
+
+180
+00:16:20,800 --> 00:16:24,800
+ reason why YouTube went down. Here's a footage of something hitting the moon and there's like this
+
+181
+00:16:24,800 --> 00:16:30,320
+ huge dust cloud." I mean, that might work except everyone could have just looked up slightly and
+
+182
+00:16:30,320 --> 00:16:36,320
+ seen it impact the moon. The video actually was from 2017. It was a special effects test and so
+
+183
+00:16:36,320 --> 00:16:43,040
+ on and so forth. So, that theory fell to the wayside. The other one is that YouTube now has an AI,
+
+184
+00:16:43,040 --> 00:16:49,520
+ which that's always the buzzword, AI. YouTube has an AI that now buzzes around YouTube looking for
+
+185
+00:16:49,520 --> 00:16:55,360
+ live streams. Oh, you know, what's over here? Oh, someone talking about Fortnite. Oh, here's someone
+
+186
+00:16:55,360 --> 00:16:58,160
+ else talking about Fortnite. What's this guy talking about? Fortnite. This guy's talking about
+
+187
+00:16:58,160 --> 00:17:04,160
+ Fortnite. Oh, this guy's talking about some conspiracy that no one should know about. Shut the whole
+
+188
+00:17:04,160 --> 00:17:10,080
+ YouTube down. Really? That seems like to be the most inefficient one. YouTube at the end of the day
+
+189
+00:17:10,080 --> 00:17:17,120
+ is a business and they lost millions of dollars when they were shut down. So, if Andy Worsky is
+
+190
+00:17:17,120 --> 00:17:22,320
+ saying something on his live stream that the AI doesn't like, the easiest thing to do is to just
+
+191
+00:17:22,880 --> 00:17:28,560
+ nuke his channel, get him off of the channel. You don't have to shut down all of YouTube because
+
+192
+00:17:28,560 --> 00:17:35,760
+ he's saying, "I hate Anita Sargeesian for the 20th time," and the website goes down. The other theory
+
+193
+00:17:35,760 --> 00:17:42,000
+ was that there was a video released of a reptilian. Yes, yes, a reptilian. My favorite aliens of all
+
+194
+00:17:42,000 --> 00:17:48,080
+ time. The seven foot tall reptilian shapeshifters that somehow shapeshift into a human size, but
+
+195
+00:17:48,720 --> 00:17:53,280
+ the mass doesn't change. But anyways, so there was a video of them uploaded and YouTube's like,
+
+196
+00:17:53,280 --> 00:17:57,840
+ "Oh my god, the CIA is calling them up. They're like, "Get this video off of here. That is proof
+
+197
+00:17:57,840 --> 00:18:02,800
+ that a reptilian is on this planet." And they're like, "Yes, sir, yes, sir." You know how many videos
+
+198
+00:18:02,800 --> 00:18:08,640
+ there are on YouTube of reptilians? I'm pretty sure if I searched for one, it would show up in
+
+199
+00:18:08,640 --> 00:18:13,680
+ my recommended videos. I'm sure it would show up reptilian videos in my featured channel. There's
+
+200
+00:18:13,680 --> 00:18:19,040
+ thousands of them. But Jason, though they're fake reptilian videos, then how would you be able to
+
+201
+00:18:19,040 --> 00:18:24,160
+ tell a real reptilian video from a fake reptilian video? Because if I saw a video of a guy, you
+
+202
+00:18:24,160 --> 00:18:30,320
+ just go back to the deepfakes thing, if I saw a video of a reptilian guy walking around, I would
+
+203
+00:18:30,320 --> 00:18:34,560
+ immediately assume that was fake. I'd be like, "That's not real." No matter how good the special
+
+204
+00:18:34,560 --> 00:18:39,440
+ effects were, I would be like, or if it was real, I'd be like, "That's weird because it looks real.
+
+205
+00:18:39,440 --> 00:18:44,240
+ That has to be fake." I would almost have to watch it and be convinced that it was real.
+
+206
+00:18:44,240 --> 00:18:48,560
+ Now, you could go by Jason. They know that, so that's why they shut down YouTube.
+
+207
+00:18:48,560 --> 00:18:53,440
+ Let me tell you a little trick. If you want to... Okay, let's say you had video footage of alien,
+
+208
+00:18:53,440 --> 00:18:57,760
+ like provable alien. You meet a real alien. You break into a laboratory, whatever.
+
+209
+00:18:57,760 --> 00:19:03,360
+ You have video footage of two conformers, a reptilian, and eight grays just kind of like chilling
+
+210
+00:19:03,360 --> 00:19:07,840
+ out in the lounge. And you're like, "I need to get this footage out there." First off, YouTube is
+
+211
+00:19:07,840 --> 00:19:13,680
+ not the best place to do it. But YouTube has... You go, "Well, YouTube has the biggest group of
+
+212
+00:19:13,680 --> 00:19:20,160
+ viewers." All you need to do is to initially get the video online and it will spread itself.
+
+213
+00:19:20,160 --> 00:19:26,880
+ If you put it on YouTube, you're going to be battling 24/9 videos and like eight videos exposing
+
+214
+00:19:26,880 --> 00:19:32,640
+ better help. And then you'll be somewhere on there. But anyways, here's what you do. You
+
+215
+00:19:32,640 --> 00:19:37,360
+ blow the videos up. You set everything to private. You put them on all the websites. You put them
+
+216
+00:19:37,360 --> 00:19:43,440
+ on LiveLeak. You put it on DailyMotion. You put it on any website where you can upload videos,
+
+217
+00:19:43,440 --> 00:19:49,200
+ set everything to private. And then when you're ready to release it, you release... You put all
+
+218
+00:19:49,200 --> 00:19:55,120
+ the videos from private to public. They appear simultaneously all over the place. And then,
+
+219
+00:19:55,120 --> 00:20:00,160
+ at the same time, upload them to Torrent. Put them on Pirate Bay, if that's the leaving around.
+
+220
+00:20:00,160 --> 00:20:05,360
+ Send it to WikiLeaks. You'd have to do a mass distribution of the information. Because that
+
+221
+00:20:05,360 --> 00:20:08,480
+ way, if one of the sites gets shut down, they're not going to be able to shut them down all the
+
+222
+00:20:08,480 --> 00:20:13,120
+ same time, they would literally have to like crinkle the hose of the internet to really to
+
+223
+00:20:13,120 --> 00:20:20,160
+ get that information out. And I'm an idiot. And I came up with that. If I was a deep state operative,
+
+224
+00:20:20,160 --> 00:20:26,160
+ if I was a CIA guy on the run or a super soldier or whatever, you could come up with something way
+
+225
+00:20:26,160 --> 00:20:31,520
+ better than that. I'm an idiot. I came up with that as I was walking home today, prepping this
+
+226
+00:20:31,520 --> 00:20:38,960
+ episode. I was like, that's... It's so easy to do. That's what I would do. And I'm a dork. And there's
+
+227
+00:20:38,960 --> 00:20:42,640
+ a ton of people who are into this stuff way smarter than I am, and I'm sure they could figure out
+
+228
+00:20:42,640 --> 00:20:47,040
+ something better. But anyway, so Reptilean Video got uploaded to YouTube. They shut it down.
+
+229
+00:20:47,040 --> 00:20:53,360
+ PizzaGate was the other theory. Video got uploaded of politicians murdering a kid,
+
+230
+00:20:54,160 --> 00:21:02,800
+ you know, onto YouTube. That's where if you had that footage of Tony Blair and Nancy Pelosi
+
+231
+00:21:02,800 --> 00:21:06,960
+ just like straight up just like boxing this eight year old, I mean just like going at it,
+
+232
+00:21:06,960 --> 00:21:13,520
+ you're going to upload that to YouTube? This is why it went down. This is the most logical
+
+233
+00:21:13,520 --> 00:21:17,360
+ explanation. And I found this on 4chan and some guy just kind of threw it out there and people
+
+234
+00:21:17,360 --> 00:21:22,480
+ are like, yeah, that is pretty logical. A couple weeks ago, Google announced that Google+ was a
+
+235
+00:21:22,480 --> 00:21:26,640
+ bust. They just wasn't working out for them. It was a money hole. They wanted to remove it.
+
+236
+00:21:26,640 --> 00:21:32,720
+ And the theory is that when they removed it, basically YouTube went down because Google+
+
+237
+00:21:32,720 --> 00:21:36,880
+ and YouTube were so interconnected. They're both owned by the same people that to remove the one,
+
+238
+00:21:36,880 --> 00:21:41,600
+ they had to take YouTube offline. Most likely they thought it was just going to be like a minute
+
+239
+00:21:41,600 --> 00:21:46,000
+ or two and it lasted longer than they thought it was because computer code can be a little finicky.
+
+240
+00:21:46,000 --> 00:21:52,240
+ They were getting everything sorted out. Why would they do that on Tuesday at five in the
+
+241
+00:21:52,240 --> 00:21:58,160
+ afternoon? Well, they didn't because YouTube is a global brand. So for some users, it was the middle
+
+242
+00:21:58,160 --> 00:22:02,400
+ of the night and they didn't even know it was off. For other users, it was like, oh my god,
+
+243
+00:22:02,400 --> 00:22:07,840
+ the world's in that I can't get access to YouTube. And they could have also said, statistically,
+
+244
+00:22:07,840 --> 00:22:12,400
+ this is our lowest viewing point. And I could be wrong on that. Someone could say, no, it's actually
+
+245
+00:22:12,400 --> 00:22:18,400
+ their highest and fair enough. But they may have said, listen, for five minutes people will have a
+
+246
+00:22:18,400 --> 00:22:22,160
+ problem. Videos will be running a little slow. But and I think I like because again, they lost
+
+247
+00:22:22,160 --> 00:22:27,760
+ millions of dollars because of this. That's the most likely explanation. And here's the so this
+
+248
+00:22:27,760 --> 00:22:33,280
+ is the thing. They announced that the Google+ they wasn't going to work. And then this happens.
+
+249
+00:22:33,280 --> 00:22:41,360
+ So the idea that they had, they go listen, there's a video out there floating around of a politician
+
+250
+00:22:41,360 --> 00:22:48,000
+ eating a reptilian baby on the moon. But we don't know when it's going to be released. Let's now
+
+251
+00:22:48,000 --> 00:22:52,400
+ say that we're getting rid of Google+ and we're going to wait an indeterminate amount of time
+
+252
+00:22:52,400 --> 00:22:57,200
+ until we detect that video getting uploaded. And then we'll shut it down. And then we'll
+
+253
+00:22:57,200 --> 00:23:00,560
+ use the cover story that it was because Google+ getting shut down. Everyone's like, oh, yeah,
+
+254
+00:23:00,560 --> 00:23:05,760
+ that's a great idea. That's a great idea. If the Google, I think that if the Google+ announcement
+
+255
+00:23:05,760 --> 00:23:10,480
+ came out today and they said, this is why it's down Google+ sucks, we're losing a lot of money,
+
+256
+00:23:10,480 --> 00:23:14,400
+ then the story would make less sense. Then it would sound like a cover story. But because they
+
+257
+00:23:14,400 --> 00:23:18,640
+ announced it before, it's not like they were just going to wait until this horrible video popped up.
+
+258
+00:23:18,640 --> 00:23:22,880
+ Also, lots of horrible stuff is on YouTube and it doesn't get taken down. Stuff that could hold
+
+259
+00:23:22,880 --> 00:23:28,960
+ people criminally liable and it doesn't get taken down. So the idea that someone has this horrible
+
+260
+00:23:28,960 --> 00:23:35,680
+ video of PizzaGate or aliens or the moon landing and that's why the moon being destroyed or whatever
+
+261
+00:23:35,680 --> 00:23:40,720
+ it was, it's all nonsense. That was the reason why YouTube went down. It's backwards fairy tale
+
+262
+00:23:40,720 --> 00:23:46,480
+ making. It's something happening and then people going backwards and trying to figure out why it
+
+263
+00:23:46,480 --> 00:23:52,480
+ happened. That's all it is. It's a, there's two types of conspiracy theories. There's a conspiracy
+
+264
+00:23:52,480 --> 00:23:57,200
+ theory that predicts something that is going to happen. There's a conspiracy theory that predicts
+
+265
+00:23:57,200 --> 00:24:02,880
+ or explains why something happened or is happening. I guess there's three. There's one that explains
+
+266
+00:24:02,880 --> 00:24:07,600
+ what's going to happen. Like there's a fault, going to be a false flag event during the earthquake
+
+267
+00:24:07,600 --> 00:24:12,320
+ drills in California in two months. It's a conspiracy theory about what's going on right now.
+
+268
+00:24:12,320 --> 00:24:18,720
+ And then Katy Perry is a member of the Illuminati and this video is about her worshiping Lucifer.
+
+269
+00:24:18,720 --> 00:24:22,400
+ And then there's conspiracy theories that explain stuff that previously happened like
+
+270
+00:24:22,400 --> 00:24:28,240
+ 9/11 and like this where they're like, this event happened and this is why. There's a couple
+
+271
+00:24:28,240 --> 00:24:33,360
+ screenshots of some legs and some dark stains on them and people are like, that's poop, that's poop
+
+272
+00:24:34,560 --> 00:24:38,880
+ and that's pizza gate proof. People are like, what? No, that's from some art project.
+
+273
+00:24:38,880 --> 00:24:45,440
+ It's completely ridiculous. There's a video of a, it looks honestly, it looks like a dead body. I
+
+274
+00:24:45,440 --> 00:24:50,240
+ watched the video but it looks like a dead body on a beach and people are like, look it's a reptilian
+
+275
+00:24:50,240 --> 00:24:54,320
+ and it looks like she's partially decayed and it could actually be a dummy. I don't know. It's
+
+276
+00:24:54,320 --> 00:25:01,440
+ on video, it can be hard to tell the difference between a completely intact dummy and a completely
+
+277
+00:25:01,440 --> 00:25:09,520
+ intact corpse. Not in real life though. It's quite easy. And then with the moon things totally been
+
+278
+00:25:09,520 --> 00:25:15,040
+ debunked. So we have all these videos and these screenshots. This is going to, for the next
+
+279
+00:25:15,040 --> 00:25:19,040
+ a year from now, people are going to be like, why did YouTube really get brought down?
+
+280
+00:25:19,040 --> 00:25:23,840
+ A couple years ago, I think, and the internet time moves really quick. So it may have just
+
+281
+00:25:23,840 --> 00:25:31,200
+ been last year but a couple years ago on 4chan, the website went down briefly and the theory was
+
+282
+00:25:31,600 --> 00:25:40,800
+ that somebody posted a photo of an alien walking by a tree in the desert and they took down the
+
+283
+00:25:40,800 --> 00:25:45,200
+ site or at least they took down the paranormal board. I wasn't there when it happened and actually
+
+284
+00:25:45,200 --> 00:25:50,080
+ I will say no one was there when it happened because it's all anecdotal. Everyone was like,
+
+285
+00:25:50,080 --> 00:25:55,520
+ no, I was on that thread and I saw the picture and it was a picture of an alien walking by a tree
+
+286
+00:25:55,520 --> 00:26:02,000
+ and it was so realistic. To this day, there are people still putting up photoshop of an alien
+
+287
+00:26:02,000 --> 00:26:06,800
+ walking by a tree and then other people do like thermal resolution. They're like, no, you can tell
+
+288
+00:26:06,800 --> 00:26:11,120
+ from the way the scales are created. That is actually a model. I saw the real picture of the
+
+289
+00:26:11,120 --> 00:26:18,160
+ alien walking by the tree. I love researching conspiracy theories. I think they're really fun.
+
+290
+00:26:18,160 --> 00:26:23,360
+ I think that there's a lot of entertainment value in the stories they tell us.
+
+291
+00:26:25,360 --> 00:26:29,600
+ I love mysteries and that's really what's at the core of these. Why was YouTube shut down?
+
+292
+00:26:29,600 --> 00:26:35,280
+ But when you're reading a mystery or when you're investigating a mystery yourself
+
+293
+00:26:35,280 --> 00:26:42,480
+ and they'll tell cops this too, you can't jump to conclusions. You have to really get into it
+
+294
+00:26:42,480 --> 00:26:48,000
+ and try to figure it out and you're not always going to figure it out. But the worst thing we
+
+295
+00:26:48,000 --> 00:26:54,320
+ can do is something happened and then immediately jump to the idea that it's something fantastical
+
+296
+00:26:55,040 --> 00:26:59,360
+ and go, "Fordchan must have went down because the alien picture. You too must have went down
+
+297
+00:26:59,360 --> 00:27:06,640
+ because of the alien video." I think overall that might be exhausting. I think we can run into
+
+298
+00:27:06,640 --> 00:27:12,480
+ conspiracy theories. Like when I was making fun of the whole Hillary Clinton eating the baby.
+
+299
+00:27:12,480 --> 00:27:17,760
+ Like to me, if I dwelt on that and was like, no, this is absolutely true even though I have
+
+300
+00:27:17,760 --> 00:27:23,040
+ absolutely no proof of it, oh no, there's holes on her tongue. That means she eats humans.
+
+301
+00:27:24,080 --> 00:27:28,720
+ If I was really pushing that, I'd almost have no mental energy to investigate other conspiracy
+
+302
+00:27:28,720 --> 00:27:32,960
+ theories. You get obsessed with that one particular one. Sometimes you're going to be like, no, I
+
+303
+00:27:32,960 --> 00:27:37,840
+ have a hunch about this. You start looking into it and there's just nothing to it and you have to go,
+
+304
+00:27:37,840 --> 00:27:44,160
+ oh, I was wrong and move on. Conspiracy theories can be really fun but we can't let them override
+
+305
+00:27:44,160 --> 00:27:51,920
+ our common sense or our judgment because then it becomes, it's not no longer a fun hobby or an
+
+306
+00:27:51,920 --> 00:27:58,640
+ interesting investigation or seeking out some sort of the truth. It becomes an obsession where the
+
+307
+00:27:58,640 --> 00:28:07,040
+ truth doesn't matter anymore. It's all just about finding the weirdest possible thing you can think
+
+308
+00:28:07,040 --> 00:28:14,720
+ of and hanging your hat on it. DeadRabbitRadio@gmail.com is going to be your email address. You can also
+
+309
+00:28:14,720 --> 00:28:23,040
+ hit us up at facebook.com/DeadRabbitRadio. Twitter is @JasonOCarpenter. DeadRabbitRadio is the
+
+310
+00:28:23,040 --> 00:28:26,880
+ daily paranormal conspiracy and true crime podcast. You don't have to listen to it every day.
+
+311
+00:28:26,880 --> 00:28:31,520
+ But I'm glad you listened to it today. Have a great weekend guys. We will be back Monday and
+
+312
+00:28:31,520 --> 00:28:36,400
+ thanks again for all your comments. It's really awesome and I will be feeling better by Monday
+
+313
+00:28:36,400 --> 00:28:54,880
+ hopefully and I hope you guys are too. I'm assuming you guys are healthy. Have a great one guys.
+
