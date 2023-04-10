@@ -1,0 +1,1444 @@
+1
+00:00:00,000 --> 00:00:08,000
+ Three girls walking on a country road, discover a creature, and possibly a government cover-up.
+
+2
+00:00:08,000 --> 00:00:12,800
+ And then we look at Paul Adams' greatest invention. You thought the Yon Machine was a
+
+3
+00:00:12,800 --> 00:00:18,720
+ magnificent piece of technology/therapy. Today we look at the food replicator. And
+
+4
+00:00:18,720 --> 00:00:23,200
+ you can build it yourself, today on Dead Rabbit Radio.
+
+5
+00:00:23,440 --> 00:00:35,120
+ Hey everyone, welcome back to another episode of Dead Rabbit Radio. I'm your host Jason Carpenter.
+
+6
+00:00:35,120 --> 00:00:39,120
+ I'm having a great day. I hope you are having a great day too. We've got some cool stuff to cover,
+
+7
+00:00:39,120 --> 00:00:44,240
+ some cool stories, but first I wanted to talk about this briefly. We have a Discord setup. A lot of
+
+8
+00:00:44,240 --> 00:00:48,400
+ people have been requesting to get a Discord setup. A lot of people have been requesting to get a
+
+9
+00:00:48,400 --> 00:00:54,880
+ Discord setup, and it is set up now. It was set up by Barfee Man 362 on YouTube, so I appreciate that.
+
+10
+00:00:54,880 --> 00:00:58,000
+ I'm going to stop in every once in a while. I can't promise I'll be there every day just because
+
+11
+00:00:58,000 --> 00:01:02,480
+ I'm always doing research and working my jobs and doing the show, but I will be stopping by. But it's
+
+12
+00:01:02,480 --> 00:01:07,760
+ also a good place for the fans to hang out. I know something that a lot of podcast listeners have
+
+13
+00:01:07,760 --> 00:01:12,000
+ said is said, you know, I listen to the podcast, but I have to go to YouTube to really be part of
+
+14
+00:01:12,000 --> 00:01:17,280
+ the community. So hopefully this will mitigate that. It'd be a cool place to kind of hang out,
+
+15
+00:01:17,280 --> 00:01:21,360
+ be civil towards each other. I think everyone kind of gets along with this group. And so again,
+
+16
+00:01:21,360 --> 00:01:27,440
+ thank you Barfee Man 362. And then I have a buddy, he's Earbud on Twitter. He surprised me today
+
+17
+00:01:27,440 --> 00:01:32,800
+ with a built, he built a desktop computer for me. He saw the laptop I was using because he knows me
+
+18
+00:01:32,800 --> 00:01:36,800
+ in real life. He goes, you use that laptop for everything. And I was like, yeah, this is like,
+
+19
+00:01:36,800 --> 00:01:42,080
+ this is my podcast laptop. This is my work laptop. This is laptop I watch, you know, the office on.
+
+20
+00:01:42,080 --> 00:01:47,840
+ This is kind of what I have. So he built me this super dope desktop computer. It's easily the fastest
+
+21
+00:01:47,840 --> 00:01:51,760
+ computer I've ever owned. And that's what I'm recording the podcast on right now. And it actually
+
+22
+00:01:51,760 --> 00:01:57,040
+ sounds a bit smoother. I'm still trying to fiddle with the audio, the mic volume and stuff like
+
+23
+00:01:57,040 --> 00:02:01,280
+ that. But to me, it already sounds a lot smoother just because it's a better sound card. Still got
+
+24
+00:02:01,280 --> 00:02:09,120
+ my laptop to watch the office on and to do all my research on. But thank you, Earbud. I honestly,
+
+25
+00:02:09,120 --> 00:02:14,640
+ I don't feel like I deserve it. It's this amazing gift that he just dropped off today. And but I
+
+26
+00:02:14,640 --> 00:02:20,640
+ and I told him, I said, really, this will help take the podcast to the next level. My plan now
+
+27
+00:02:20,640 --> 00:02:27,520
+ is to do and it's in the future. It's not coming up anytime soon. But I want to do a video for
+
+28
+00:02:27,520 --> 00:02:32,080
+ Friday's episode. And for the podcast listeners, I know that it sucks when you listen to a podcast
+
+29
+00:02:32,080 --> 00:02:36,560
+ and they're like, Oh, look at this cool thing we're watching in a podcast listener can't see it.
+
+30
+00:02:36,560 --> 00:02:42,240
+ I hate that. I absolutely hate that. So the Friday episode won't be any different to the podcast
+
+31
+00:02:42,240 --> 00:02:46,880
+ listener at all. I'm not going to be like, Hey, now let's watch this five minute YouTube video
+
+32
+00:02:46,880 --> 00:02:51,760
+ while I'm totally quiet. But to the YouTube users, you'll be able to see video. It will also allow
+
+33
+00:02:51,760 --> 00:02:57,280
+ me to do I've talked about doing Twitch. I want to play some scary games, find some spooky games,
+
+34
+00:02:57,280 --> 00:03:03,680
+ maybe even do like like terror readings and Ouija stuff. So I told I mean, this this computer
+
+35
+00:03:03,680 --> 00:03:08,720
+ is exactly I think what the show needed just the technology bump up is so high. So thank you,
+
+36
+00:03:08,720 --> 00:03:14,880
+ your but again, I don't feel like I deserve it. But obviously, you feel that I do and that is very
+
+37
+00:03:14,880 --> 00:03:19,120
+ humbling to me. Yeah, it's just amazing. So I think we're going to see a lot of really cool
+
+38
+00:03:19,120 --> 00:03:24,560
+ technological leaps coming for the podcast. I think it would be cool to play like some spooky
+
+39
+00:03:24,560 --> 00:03:29,760
+ games and talk to you guys on a Friday night. Because that's really my time where I'm not doing
+
+40
+00:03:29,760 --> 00:03:34,400
+ any podcast stuff and I'm not working Friday nights is kind of like from seven to three in
+
+41
+00:03:34,400 --> 00:03:40,320
+ the morning. It's totally mine. Everything else belongs to something. So let's go ahead and get
+
+42
+00:03:40,320 --> 00:03:54,320
+ started with the first story. Oh, fuck. Oh, carbonated water just exploded all over me. And
+
+43
+00:03:54,320 --> 00:04:01,120
+ it's freezing cold. I wonder why I did that. Oh, because it's a block of ice underneath. That's
+
+44
+00:04:01,120 --> 00:04:09,120
+ why it's pressure build up. I think it's going to explode. I got a hair hold on the year 1996.
+
+45
+00:04:09,120 --> 00:04:16,720
+ The country Brazil, we've actually it's funny. We've been to Brazil a lot on this show more
+
+46
+00:04:16,720 --> 00:04:20,240
+ than I would have thought. It's really, really interesting because it's something that's not
+
+47
+00:04:20,240 --> 00:04:26,080
+ normally covered in UFO or Bigfoot or Cryptid or anything allure. Tons of stuff happening down there.
+
+48
+00:04:26,080 --> 00:04:30,400
+ So we're in Brazil once again. And I have no problem with it. I think it's probably a lovely
+
+49
+00:04:30,400 --> 00:04:36,480
+ country. I've never been there. Too many aliens. So this story is actually a request from Gabriel
+
+50
+00:04:36,480 --> 00:04:41,600
+ on YouTube. He was the one who recommended the story for me. It's quite funny, quite weird,
+
+51
+00:04:41,600 --> 00:04:48,160
+ and it has a lot of odd twists and turns. The year is 1996. The countries Brazil were specifically
+
+52
+00:04:48,160 --> 00:04:55,440
+ in a region called or a city called Varghina. Varghina? Varghina. We'll call it Varghina.
+
+53
+00:04:55,440 --> 00:05:00,640
+ I already I lose Brazil listeners every time I do a Brazil episode. But anyways,
+
+54
+00:05:00,640 --> 00:05:06,320
+ we're in the country of Brazil, Varghina. Three young girls walking down the road. It's dusk.
+
+55
+00:05:06,320 --> 00:05:14,720
+ Still a little light out, but it's on that teetering between darkness and day. You guys know what dusk
+
+56
+00:05:14,720 --> 00:05:21,280
+ is. I'm setting the mood. These three young girls are walking on the road. They see something in
+
+57
+00:05:21,280 --> 00:05:27,920
+ front of them that concerns them, not someone. They think that what is walking in front of them
+
+58
+00:05:27,920 --> 00:05:33,440
+ is the devil. They later described this creature as kind of having a wobbling
+
+59
+00:05:33,440 --> 00:05:40,560
+ gate moving unsteadily in front of them alongside the dusty road. It's five feet tall, large head,
+
+60
+00:05:41,120 --> 00:05:47,200
+ very, very thin body, little limbs, little spindly limbs wobbling back and forth.
+
+61
+00:05:47,200 --> 00:05:56,400
+ Had V shaped feet, like a duck's foot. Just kind of an odd detail. Brown skin, large red eyes.
+
+62
+00:05:56,400 --> 00:06:02,880
+ Girls ran away, went and told their mother, "We saw the devil. We saw the devil."
+
+63
+00:06:02,880 --> 00:06:08,080
+ Mom's like, "It's so funny because the mom's like, 'No, you didn't.' The mom's like, 'You girls are
+
+64
+00:06:08,080 --> 00:06:12,480
+ stupid.'" These girls who were eight ranged in age between 14 and 22. Two of them were sisters,
+
+65
+00:06:12,480 --> 00:06:16,800
+ so they went back to their mom's house. They told their mom this story, and the mom's like,
+
+66
+00:06:16,800 --> 00:06:22,880
+ "No, you didn't. That's super dumb. You guys are idiots." But anyways, the daughters convinced her
+
+67
+00:06:22,880 --> 00:06:30,240
+ to just go out and check the scene. "My mom, my mom, go check the scene." So the mother goes out there,
+
+68
+00:06:30,240 --> 00:06:35,440
+ and which is kind of ballsy actually. If I had three daughters and they ran home and they said,
+
+69
+00:06:35,440 --> 00:06:40,160
+ there's a lot of hypotheticals in this one, but if I had three daughters and they ran home and
+
+70
+00:06:40,160 --> 00:06:45,280
+ told me they saw the devil, I don't think my first inclination would be to go out and be like,
+
+71
+00:06:45,280 --> 00:06:50,880
+ 'Prove it!' and then to go out into the twilight to find this creature. But anyways, she did.
+
+72
+00:06:50,880 --> 00:06:57,680
+ The mom goes there and she noticed two things. Three things. She noticed a strong smell of ammonia.
+
+73
+00:06:57,680 --> 00:07:03,840
+ She noticed some footprints, which apparently matched the V shaped feet. And there was a dog
+
+74
+00:07:03,840 --> 00:07:09,520
+ in the area. I don't know why the dog is a detail that she noticed, unless she's like,
+
+75
+00:07:09,520 --> 00:07:13,840
+ "Harry the Spy," and she's just like, picking up clues randomly. But the strong ammonia smell
+
+76
+00:07:13,840 --> 00:07:19,840
+ and the V shaped feet do make sense. What happened was that then this panic started in the town.
+
+77
+00:07:19,840 --> 00:07:25,600
+ The story spread very quickly that there was an alien or the devil in town. And I think most
+
+78
+00:07:25,600 --> 00:07:31,040
+ townspeople were like, I think most people in town were like, "Five feet, tiny little arms,
+
+79
+00:07:31,760 --> 00:07:36,560
+ weird, you know, like giant head." It was probably an alien. It probably wasn't the devil.
+
+80
+00:07:36,560 --> 00:07:40,320
+ So you started getting this rash of UFO sightings in the area. Other people were like,
+
+81
+00:07:40,320 --> 00:07:46,160
+ "I saw a UFO in this area. I saw this strange light." One farmer said,
+
+82
+00:07:46,160 --> 00:07:52,000
+ "A UFO flew over his property and hovered there over his cattle." I think this story is completely
+
+83
+00:07:52,000 --> 00:07:57,680
+ made up by the way. Not the whole story, but this particular part. This farmer says, "I came out,
+
+84
+00:07:57,680 --> 00:08:02,000
+ my cows were acting all weird. They weren't as talkative as they normally are. They were kind
+
+85
+00:08:02,000 --> 00:08:06,160
+ of like looking down at the ground. They weren't engaging with me." I noticed there was a UFO
+
+86
+00:08:06,160 --> 00:08:11,200
+ floating above them that it floated there for 40 minutes. No photos, really dude. You didn't even
+
+87
+00:08:11,200 --> 00:08:15,440
+ bring a sketch artist out to draw a picture. 40 minutes is a long time for you to not be able
+
+88
+00:08:15,440 --> 00:08:19,520
+ to go get your camera. But anyways, that story is completely ridiculous. But there were other
+
+89
+00:08:19,520 --> 00:08:29,280
+ UFO sightings in the area. Culminating in a big story where apparently an alien collapsed on the
+
+90
+00:08:29,280 --> 00:08:35,360
+ side of the road. And it was at night time. This alien is just collapsed on the road, sick or
+
+91
+00:08:35,360 --> 00:08:39,760
+ something. And that's what the original people, the original girls after they got over the devil
+
+92
+00:08:39,760 --> 00:08:44,000
+ story said. It looked like it was sick. What we saw the way it walked, it looked like it wasn't
+
+93
+00:08:44,000 --> 00:08:48,160
+ healthy. But anyways, there's this other alien sick on the side of the road. Maybe the same one.
+
+94
+00:08:48,160 --> 00:08:54,720
+ We'll find out. Three military trucks pulled up, put the body in the back, took it to a local clinic.
+
+95
+00:08:54,720 --> 00:09:00,560
+ So it didn't take it to like a Area 51 S hospital underground. They took them to a like 24 hour
+
+96
+00:09:00,560 --> 00:09:05,760
+ med clinic and dropped it off where it was treated. And you think that's ridiculous, but multiple
+
+97
+00:09:05,760 --> 00:09:12,880
+ people saw more than one alien in the clinic that night. They're like, "I know that story's stupid
+
+98
+00:09:12,880 --> 00:09:20,800
+ that the military would just drop an alien off at a 24 hour express med, but I saw an alien there.
+
+99
+00:09:20,800 --> 00:09:26,560
+ I absolutely saw an alien there." So the story spread like wildfire through the town. So the
+
+100
+00:09:26,560 --> 00:09:32,080
+ Brazilian military investigated this. Brazilian military is like, "We should look into this.
+
+101
+00:09:32,080 --> 00:09:37,920
+ Let's see what happened here." Here's the thing. This is it. They're findings for what happened
+
+102
+00:09:37,920 --> 00:09:45,760
+ over that period of time in 1996 is either absolutely true or the worst cover-up I've ever
+
+103
+00:09:45,760 --> 00:09:49,520
+ heard. Because you're not like men in black when they like scan you with that little beam in your
+
+104
+00:09:49,520 --> 00:09:54,640
+ eyeball and I know that's not real life, but you know they'd scan you with that little eyeball
+
+105
+00:09:54,640 --> 00:09:58,880
+ thing and then they'd give you a fake story. People say UFOs are swamp gas or the plan of venus
+
+106
+00:09:58,880 --> 00:10:04,800
+ or stuff like that. All of that stuff is for... This sounds like the worst cover-up ever, but it's
+
+107
+00:10:04,800 --> 00:10:10,000
+ most likely what really happened. So the military investigated and first off they said, "Listen guys,
+
+108
+00:10:10,000 --> 00:10:14,640
+ those three military trucks that were driving on the road that night, that it was a schedule drive,
+
+109
+00:10:14,640 --> 00:10:19,120
+ those trucks go through that area all the time around the same time. Like that is a normal,
+
+110
+00:10:19,120 --> 00:10:23,680
+ we didn't pick up anything on the side of the road." The people go, "Well okay, well what about
+
+111
+00:10:23,680 --> 00:10:32,640
+ the... what about the alien that the girl saw walking down the road?" So this is what the
+
+112
+00:10:32,640 --> 00:10:38,640
+ Brazilian military had to say about the original sighting. This is from an article here. "In regards
+
+113
+00:10:38,640 --> 00:10:46,560
+ to the wasteland creature, an official inquiry led by the Brazilian military authorities concluded
+
+114
+00:10:46,560 --> 00:10:52,480
+ in 2010..." So this is 14 years after the event, they really did look into this. "Concluded in 2010
+
+115
+00:10:52,480 --> 00:10:59,280
+ that the Silva sisters had actually come across..." So this is what the military concluded was walking
+
+116
+00:10:59,280 --> 00:11:06,080
+ by these girls. "...had actually come across a homeless, mentally unstable man nicknamed
+
+117
+00:11:06,080 --> 00:11:11,680
+ Mudhino, covered in mud. Can you imagine the military investigator who's been working for
+
+118
+00:11:11,680 --> 00:11:17,040
+ the government for 15 years? He thinks he's investigating a possible alien sighting and
+
+119
+00:11:17,040 --> 00:11:22,560
+ when he starts interviewing people around town he consistently sees a muddy homeless person
+
+120
+00:11:22,560 --> 00:11:29,440
+ walking around unsteadily with red bloodshot eyes because he has a drinking problem and he's
+
+121
+00:11:29,440 --> 00:11:35,040
+ probably quite skinny because he's homeless and mentally unstable and I can imagine the
+
+122
+00:11:35,040 --> 00:11:39,840
+ investigator every time he's interviewing somebody and he's like, "So you swear that you saw the
+
+123
+00:11:39,840 --> 00:11:44,480
+ Shiofo over your cows and they're like, "Yes, yes, he sees Mudhino walking in the background
+
+124
+00:11:44,480 --> 00:11:49,280
+ all unsteadying." The investigator's like, "God, man..." And then some people go, "Okay, yeah, we know
+
+125
+00:11:49,280 --> 00:11:55,200
+ Mudhino, we know him. He does have an abnormally large head, skinny little body, brown skin,
+
+126
+00:11:55,200 --> 00:12:03,840
+ which is just a mud covering him. But how do you explain the aliens that we all saw in the clinic?
+
+127
+00:12:03,840 --> 00:12:08,400
+ How do you explain that?" And at that point the military goes, "We have an answer for that as
+
+128
+00:12:08,400 --> 00:12:13,360
+ well. We came to that conclusion in 2010 as well." Apparently they traced it back. Now again, this is
+
+129
+00:12:13,360 --> 00:12:21,120
+ either a terrible cover-up or the absolute truth. But the military says we traced back the sightings
+
+130
+00:12:21,120 --> 00:12:28,000
+ to the clinic. We went to the clinic, we talked to them, we went over records. Apparently two...
+
+131
+00:12:28,000 --> 00:12:36,560
+ This is the military said, two dwarves, two little people were in there who were expecting to give
+
+132
+00:12:36,560 --> 00:12:43,120
+ birth. Not both of them at the same time, but it was either like a routine checkup or it was a
+
+133
+00:12:43,120 --> 00:12:48,640
+ like a... what are those things where they check out the baby? Prenatal visit, something like that.
+
+134
+00:12:48,640 --> 00:12:53,920
+ So you basically people who were hearing all this UFO flap and then they walk into a clinic
+
+135
+00:12:53,920 --> 00:13:00,960
+ and they saw just two short people, one with a big old belly, and that was the big alien sighting.
+
+136
+00:13:00,960 --> 00:13:05,680
+ Now it's one of those things like because of mass delusion, I could see people jump into that
+
+137
+00:13:05,680 --> 00:13:09,200
+ conclusion when they see something out of the ordinary. They see these little people and they're
+
+138
+00:13:09,200 --> 00:13:17,040
+ like "Ah aliens!" So yeah, that's the story of the alien of the town that I can barely pronounce.
+
+139
+00:13:17,040 --> 00:13:23,760
+ I have to say this though, how mentally unstable and muddy do you have to be to be confused with
+
+140
+00:13:23,760 --> 00:13:28,400
+ an interdimensional creature? I kind of want to do a story on this guy. If anyone has any
+
+141
+00:13:28,400 --> 00:13:32,720
+ information on Mudino, I'd love to hear it because that just sounds absolutely bizarre. Why is he
+
+142
+00:13:32,720 --> 00:13:37,200
+ covered in mud? Is it a decision he made or did he just fall into a mud puddle and never took a
+
+143
+00:13:37,200 --> 00:13:43,680
+ bath? Like what is the origin story of this guy? And what is up with his feet? I gotta look into this
+
+144
+00:13:43,680 --> 00:13:50,800
+ guy. I swear there are, I think a cool place to look, this might sound kind of cruel and savage,
+
+145
+00:13:50,800 --> 00:13:56,240
+ but I'm sure if you wanted to find some cryptids, hang out with the homeless. Not saying that they're
+
+146
+00:13:56,240 --> 00:14:01,680
+ cryptids, but if I was like a skinwalker, if I was some sort of like half-human hybrid,
+
+147
+00:14:01,680 --> 00:14:05,120
+ that's where I'd hang out. They got bigger problems to worry about the fact that your eyes
+
+148
+00:14:05,120 --> 00:14:09,280
+ roll back into your head when you sleep or that you have like eight tongues or you're eating the
+
+149
+00:14:09,280 --> 00:14:14,000
+ flesh of you know the living. They got bigger problems to worry about. If I was a cryptid,
+
+150
+00:14:14,000 --> 00:14:17,520
+ I would hang out with the homeless. I actually should look into that. Are cryptids feeding on
+
+151
+00:14:17,520 --> 00:14:22,240
+ the homeless or just blending in with them? Interesting. Okay, but before we get into that
+
+152
+00:14:22,240 --> 00:14:28,640
+ story I just came up with. Let's go ahead and move on to our next story. So this was the original
+
+153
+00:14:28,640 --> 00:14:33,840
+ request I got from Ramsay via email. He said, "Jason, you gotta look into this guy. He's an
+
+154
+00:14:33,840 --> 00:14:37,600
+ inventor and you gotta look at this invention." I started looking around the site and the first
+
+155
+00:14:37,600 --> 00:14:41,760
+ thing that popped up that I saw was the Yon Machine. I was like, "I want to cover him,
+
+156
+00:14:41,760 --> 00:14:46,400
+ but I'm going to break it up into two because the Yon Machine, that was the last episode of Season 3.
+
+157
+00:14:46,400 --> 00:14:52,880
+ I love that episode." And the one that Ramsay specifically wanted me to cover was the food
+
+158
+00:14:52,880 --> 00:14:59,360
+ replicator. So I've always kept it on the docket and now it's time. It is time to tell you about
+
+159
+00:14:59,360 --> 00:15:05,680
+ an invention that will change your life. It changed his. It definitely changed his.
+
+160
+00:15:05,680 --> 00:15:11,840
+ So a brief overview of Paul Allen. He's a man. He's probably like in his late 60s. Actually,
+
+161
+00:15:11,840 --> 00:15:18,720
+ actually he may not be around anymore from the look of his blog, but at this time he looked to
+
+162
+00:15:18,720 --> 00:15:25,440
+ being about his late 60s maybe. It's really hard to pin down his age. Just a couple photos of him.
+
+163
+00:15:25,440 --> 00:15:31,280
+ He invented the Yon Machine. You are the Yon Machine. By yawning you can relieve your stress.
+
+164
+00:15:31,280 --> 00:15:37,680
+ I recommend listening to that episode. He also invented something and I curse, I curse God and
+
+165
+00:15:37,680 --> 00:15:43,120
+ I curse the world that I live in that this link is not working. I'm looking at his website of
+
+166
+00:15:43,120 --> 00:15:50,320
+ all of his inventions and one of them is called Paul's Squirrel Academy. And then you just click
+
+167
+00:15:50,320 --> 00:15:57,600
+ on it and it goes to a 404 page somewhere and I was like, no, like how why was I born onto a
+
+168
+00:15:57,600 --> 00:16:05,440
+ planet where I don't have access to what Paul's Squirrel Academy is? I can only imagine the insanity
+
+169
+00:16:05,440 --> 00:16:11,920
+ that used to be behind that link, but it is no more. We will not, that phrase belongs on the
+
+170
+00:16:11,920 --> 00:16:18,480
+ conspiracy iceberg. If anything that I've covered belongs on there, that does. Paul's Squirrel Academy.
+
+171
+00:16:18,480 --> 00:16:23,200
+ What does it mean? Is it a literal academy or are there squirrels walking around with little
+
+172
+00:16:23,200 --> 00:16:29,280
+ top hats or little, what are those little graduation caps? Is it a metaphorical academy?
+
+173
+00:16:29,280 --> 00:16:34,640
+ Like how we each have a squirrel inside of us and the academy helps us. I don't know that phrase.
+
+174
+00:16:34,640 --> 00:16:41,600
+ If anyone ever edits another conspiracy iceberg image, please put Paul's Squirrel Academy on
+
+175
+00:16:41,600 --> 00:16:46,880
+ there because that is just, that is a lost conspiracy. But unfortunately I exist in the
+
+176
+00:16:46,880 --> 00:16:53,200
+ timeline where Paul's Squirrel Academy doesn't exist, but we are left with the food replicator.
+
+177
+00:16:53,200 --> 00:16:59,680
+ Now the food replicator is exactly what it sounds like. Paul Adams, is Paul Adams or Paul, it's
+
+178
+00:16:59,680 --> 00:17:05,120
+ Paul Adams. I think I called him Paul Allen earlier, but it's Paul Adams. He has invented a food
+
+179
+00:17:05,120 --> 00:17:12,320
+ replicator and it will cost you maybe eight bucks to build and just 20 years off your life,
+
+180
+00:17:12,320 --> 00:17:19,520
+ just letting you know. Very, very simple. Here it is. Two, two tin cans. So any invention that
+
+181
+00:17:19,520 --> 00:17:26,240
+ starts off with two tin cans, you know is going to be gold. You know that is an amazing invention.
+
+182
+00:17:26,240 --> 00:17:32,080
+ That's a shark, that's above shark tank. That's like DARPA level technology. Two tin cans. They
+
+183
+00:17:32,080 --> 00:17:37,760
+ have to, you should write this down. You guys are going to want to do this. They have to be food-based
+
+184
+00:17:37,760 --> 00:17:43,120
+ cans. So they have to be cans that previously held food and they have to be the same. So you
+
+185
+00:17:43,120 --> 00:17:49,360
+ can't get a can of Denison's Chili and then a can of raviolis. You have to get two cans of Denison's
+
+186
+00:17:49,360 --> 00:17:56,720
+ Chili and then give the chili to me. Y'all eat it. You then empty out the cans, you wash them down,
+
+187
+00:17:56,720 --> 00:18:02,480
+ take off the wrapper and there you go. You have the first part of your science fiction device
+
+188
+00:18:02,480 --> 00:18:08,000
+ known as the Food Replicator. This is real, by the way. This is, I should say that he's been
+
+189
+00:18:08,000 --> 00:18:13,280
+ doing this for years, eating this, eating this food. Well, again, he might be dead now, but we'll
+
+190
+00:18:13,280 --> 00:18:20,400
+ get to that. Two matching tin cans. Clean. Some circular magnets. You'll need those as well.
+
+191
+00:18:20,400 --> 00:18:26,640
+ One lead with two alligator clips. So you'll need a little wire and then two little alligator clips.
+
+192
+00:18:27,440 --> 00:18:34,880
+ And two identical plastic or glass bottles. That's all you'll need to really start making this food.
+
+193
+00:18:34,880 --> 00:18:39,520
+ You're going to take the two tin cans, you clean them out. You're going to take the magnet. He
+
+194
+00:18:39,520 --> 00:18:44,960
+ spends a long time describing how magnets work and I'm thinking, who is this for? Fourth graders?
+
+195
+00:18:44,960 --> 00:18:49,920
+ Like, who doesn't know how magnets work? The reverse polarity of magnets, he goes on and on.
+
+196
+00:18:49,920 --> 00:18:56,400
+ Anyways, no duh, dude. You take the magnets and you completely cover the bottom of one can
+
+197
+00:18:57,120 --> 00:19:02,320
+ with the magnets. So you take the can and you make sure that they're all facing the same way.
+
+198
+00:19:02,320 --> 00:19:06,480
+ Which obviously, but anyways, so you take a bottom of the can, you put the little circular
+
+199
+00:19:06,480 --> 00:19:12,000
+ magnets down, you cover as much of the surface area on one can with the magnets, and do the same
+
+200
+00:19:12,000 --> 00:19:18,160
+ thing to the other can. Then you use the alligator clips and you connect them via the wire, and now
+
+201
+00:19:18,160 --> 00:19:24,000
+ you're done with the Food Replicator. That's the actual device itself. Then you are going to take
+
+202
+00:19:24,000 --> 00:19:31,120
+ your bottles and you're going to fill them up full of water. But Paul is very, very specific.
+
+203
+00:19:31,120 --> 00:19:38,000
+ It can only be tap water. No other water will work for whatever reason. You can't use any other water
+
+204
+00:19:38,000 --> 00:19:43,040
+ but tap water. Fill it full of tap water. Fill both bottles full of tap water. So now you have two
+
+205
+00:19:43,040 --> 00:19:48,800
+ bottles, your source bottle and your replica bottle. In your source bottle, put food in it.
+
+206
+00:19:48,800 --> 00:19:53,520
+ I'm almost done. I'm sure this is probably boring, but in your source bottle, you put food in the
+
+207
+00:19:53,520 --> 00:19:59,280
+ water and you swish it around and put it under one tin can. And in the replica bottle, you don't do
+
+208
+00:19:59,280 --> 00:20:04,000
+ anything to it. You put it under the other tin can. So you have to be fairly small bottles of water.
+
+209
+00:20:04,000 --> 00:20:10,640
+ Wait 10 minutes and then drink out of the replica bottle. You have just drank the food
+
+210
+00:20:10,640 --> 00:20:15,920
+ from the first bottle, from the source bottle. And you're thinking, "Okay Jason, this guy is
+
+211
+00:20:15,920 --> 00:20:20,480
+ this wacky invention. Ha ha. You told us some stupid instructions and that's the end of the
+
+212
+00:20:20,480 --> 00:20:25,360
+ episode, right? That's kind of boring." No, because I wouldn't waste your time with that. It is funny
+
+213
+00:20:25,360 --> 00:20:31,920
+ to look at this recipe for this device, but what it gets insane because so he makes this device
+
+214
+00:20:31,920 --> 00:20:40,800
+ back in 2004. And he has blog posts going for years. Now we start, this is where we start to see
+
+215
+00:20:40,800 --> 00:20:46,880
+ the insanity sink in. This is where we start to see that this guy invented this machine. I'm not
+
+216
+00:20:46,880 --> 00:20:50,960
+ necessarily calling him insane, but just the bizarre thoughts that got wrapped around this.
+
+217
+00:20:50,960 --> 00:20:55,920
+ In 2004, when he invented the machine, he was having some blood pressure problems. He was having
+
+218
+00:20:55,920 --> 00:21:02,480
+ some health issues. And he decided to invent this machine to help those health issues. He was a little
+
+219
+00:21:02,480 --> 00:21:06,880
+ overweight and his blood pressure was high. And I think it started initially that he was trying to
+
+220
+00:21:06,880 --> 00:21:14,000
+ lose weight, but you gotta eat something. His blog then goes, there's two levels of the blog.
+
+221
+00:21:14,000 --> 00:21:18,560
+ There's the interactions with himself and interactions with other people and the food
+
+222
+00:21:18,560 --> 00:21:23,600
+ replicator. The interactions with himself, every blog post, he lists his blood pressure. And you
+
+223
+00:21:23,600 --> 00:21:29,120
+ can actually watch it go up and down over the course of months. And his weight, he loses 20
+
+224
+00:21:29,120 --> 00:21:34,720
+ pounds incredibly rapidly. And he wasn't a super big guy to begin with. He was like 195 in the
+
+225
+00:21:34,720 --> 00:21:42,000
+ beginning. And then he's down to 170. So he drops 20 pounds fairly quickly, which is fine. It's good
+
+226
+00:21:42,000 --> 00:21:48,800
+ to lose weight, but you need to eat stuff. He is getting most of his meals from the food replicator.
+
+227
+00:21:48,800 --> 00:21:52,720
+ And when I say put, when I first read this, I was like, Oh, put food in a bottle of water.
+
+228
+00:21:52,720 --> 00:21:56,640
+ I was thinking, you know, put like a piece of meat in there. And then it gets transmitted
+
+229
+00:21:56,640 --> 00:22:02,400
+ to other water. He put, he's putting breath expiritos in his food replicator. He's constantly
+
+230
+00:22:02,400 --> 00:22:08,160
+ talking about taking omelets and making an omelet and only eating a part of it and sticking the
+
+231
+00:22:08,160 --> 00:22:13,520
+ rest into a bottle of water and then drinking the replicated omelet. He's like, Oh, I feel so good.
+
+232
+00:22:13,520 --> 00:22:20,400
+ I've eaten this omelet. And then the next blog post is blood pressures up. Like it's just insane.
+
+233
+00:22:20,400 --> 00:22:27,760
+ It's totally nuts. And he's doing that. And then as the year like the months go on, he starts being
+
+234
+00:22:27,760 --> 00:22:34,800
+ like, I woke up this morning and I'm not hungry, but I'm like kind of hungry. And I made toast with
+
+235
+00:22:34,800 --> 00:22:40,880
+ butter and I ate it. It was the most delicious thing I've ever eaten because he's starving himself.
+
+236
+00:22:40,880 --> 00:22:52,640
+ And then there's this weird, weird pattern emerges where he starts talking about how much he loves
+
+237
+00:22:52,640 --> 00:22:59,360
+ Panda Express. And he starts going to Panda Express and eating chow mein. And then he gets sick
+
+238
+00:22:59,360 --> 00:23:04,000
+ because he's eating a bunch of carbs and he's been starving himself through the food replicator.
+
+239
+00:23:04,000 --> 00:23:09,200
+ And he can't figure out what the problem is. So he drinks an omelet the next morning. It's
+
+240
+00:23:09,200 --> 00:23:15,040
+ absolutely bizarre. And the whole time he's watching his blood pressure go up. So here is,
+
+241
+00:23:15,040 --> 00:23:21,280
+ oh, again, this is, this is, this is, I want to read off a couple of his sample blog posts here.
+
+242
+00:23:21,280 --> 00:23:27,520
+ This is February 10th, 2004. So this is very, very recent from him building the food replicator.
+
+243
+00:23:28,080 --> 00:23:34,800
+ I had the urge to exercise today. That's good. Exercise is good. I always think exercise is good
+
+244
+00:23:34,800 --> 00:23:45,120
+ thing. So I've been bouncing. So I've been bouncing on the mini trampoline, what? For a total of a
+
+245
+00:23:45,120 --> 00:23:56,080
+ couple of hours. So now I imagine this guy just, and is on a mini trampoline for hours,
+
+246
+00:23:56,880 --> 00:24:04,480
+ for hours. I have so much energy since I drank that burrito. This is so good.
+
+247
+00:24:04,480 --> 00:24:12,000
+ This is, this is actually the same day, February 10th. All I had eaten of real food today by about
+
+248
+00:24:12,000 --> 00:24:18,800
+ 4pm was half a cup of orange juice, apart from drinking water as usual. I'd had a few squirts
+
+249
+00:24:18,800 --> 00:24:25,120
+ of yesterday's burrito and so on. So I didn't feel particularly hungry. But the idea of some toast
+
+250
+00:24:25,120 --> 00:24:32,720
+ and cheese was appealing. So again, like he's constantly like talking about eating other food.
+
+251
+00:24:32,720 --> 00:24:41,040
+ It's not working. But he swears by it. And also the phrase, "A few squirts of yesterday's burrito"
+
+252
+00:24:41,040 --> 00:24:47,600
+ is not appetizing in the least. That's what I say after I've gone to Taco Bell and I'm headed to the
+
+253
+00:24:47,600 --> 00:24:52,480
+ bathroom. Ah, I gotta drop off a couple squirts of yesterday's burrito. That's disgusting. So anyways,
+
+254
+00:24:52,480 --> 00:24:59,120
+ but he loves squirting, eating squirted burrito. So, and he then decides to share his miracle
+
+255
+00:24:59,120 --> 00:25:03,680
+ invention with the world. He puts the invention online, but he's like, "No, it's not gonna
+
+256
+00:25:03,680 --> 00:25:10,880
+ end." He starts trying to get his friends to take squirts of water into their mouth. So he has one
+
+257
+00:25:10,880 --> 00:25:16,640
+ buddy who's pretty game to it, and Paul starts giving him squirts of coffee. So it's just regular
+
+258
+00:25:16,640 --> 00:25:21,120
+ water that's been infused with coffee. And his buddy's like, "Oh yeah, fine. Probably don't,
+
+259
+00:25:21,120 --> 00:25:26,800
+ don't shoot me. Don't kill me at work, please. Don't, please, Paul. I'm on your side." And then
+
+260
+00:25:26,800 --> 00:25:31,520
+ there's this, there women pop up every once in a while in his blog post. There's this woman,
+
+261
+00:25:31,520 --> 00:25:36,960
+ a friend of his he's hanging out with, and he's like, "Here, take some of this water." Which, I mean,
+
+262
+00:25:36,960 --> 00:25:44,640
+ ma'am, you have terrible common sense. If a man goes here, take a squirt of this enhanced water,
+
+263
+00:25:44,640 --> 00:25:50,000
+ and you do it. She takes the squirt and he's like, "I wonder what she'll, I wonder if she'll taste
+
+264
+00:25:50,560 --> 00:25:57,520
+ the omelet in the, in the water." And anyway, she comes home from work and he's like, "Did you notice
+
+265
+00:25:57,520 --> 00:26:02,000
+ anything from the water?" And she's like, "Well, not really, but I did crave an omelet later." And
+
+266
+00:26:02,000 --> 00:26:08,080
+ he's like, "Success! Maybe I put the idea of cheese in her head." This is totally wrong, by the way.
+
+267
+00:26:08,080 --> 00:26:14,080
+ And then he finally tells her what his invention was. He goes, "You know that water I gave you
+
+268
+00:26:14,080 --> 00:26:19,440
+ was actually replicated omelet in a bottle of water." And he goes through the process, because
+
+269
+00:26:19,440 --> 00:26:24,400
+ he didn't tell her at first. He just said here, "Have some enhanced the water." So he tells her
+
+270
+00:26:24,400 --> 00:26:29,360
+ what it was. And then later on that night, he goes, "Would you like some more?" And she's like,
+
+271
+00:26:29,360 --> 00:26:36,320
+ "No, I don't. I don't." And even he's like, "I think I creeped her out. I think I scared her from my
+
+272
+00:26:36,320 --> 00:26:42,320
+ invention." But, so he's now trying to share it with other people. But then we talk, now he's a
+
+273
+00:26:42,320 --> 00:26:48,880
+ true scientist because he starts experimenting on himself. He has this weird post on February 15th.
+
+274
+00:26:49,280 --> 00:26:57,200
+ Where he talks about his pornography and masturbation addiction. And he's going on about how
+
+275
+00:26:57,200 --> 00:27:02,240
+ it's, okay, so this is the year 2004. He's like, "I have this huge collection of pornography and
+
+276
+00:27:02,240 --> 00:27:07,440
+ I masturbate all the time and I don't know what to do." And then he goes, "Sometimes I just want to
+
+277
+00:27:07,440 --> 00:27:12,480
+ delete my collection, but then I think, no, I can't." And he goes, "I have all these pictures and I'm
+
+278
+00:27:12,480 --> 00:27:19,200
+ thinking pictures. Pictures? How old is your computer? I get like 2004 wasn't the highest level
+
+279
+00:27:19,200 --> 00:27:24,880
+ of internet, but who has pornographic photos? Like, did people still have those back then?
+
+280
+00:27:24,880 --> 00:27:30,720
+ Am I, am I that like removed? Like, it was video, we had videos then, right? When was the last time
+
+281
+00:27:30,720 --> 00:27:35,920
+ someone looked at a pornographic photo on there, just a photo on their computer? So anyways, he has
+
+282
+00:27:35,920 --> 00:27:45,200
+ this huge collection of pornographic photos. What are you, photos? Anyways, I came. He has this huge
+
+283
+00:27:45,200 --> 00:27:51,760
+ collection of pornographic photos on his computer and he's chronic masturbator. So as a scientist
+
+284
+00:27:51,760 --> 00:27:57,920
+ would do, he thinks, "I bet you the food replicator can solve this." And he talks about a phrase he
+
+285
+00:27:57,920 --> 00:28:04,480
+ once heard, says, "If you're having a problem with something, you don't have enough of it yet."
+
+286
+00:28:05,120 --> 00:28:11,680
+ He doesn't source who said this quote. And it sounds like a terrible, terrible quote,
+
+287
+00:28:11,680 --> 00:28:15,440
+ because basically if someone has a heroin problem, you could say, "Well, technically,
+
+288
+00:28:15,440 --> 00:28:20,240
+ you don't have a heroin problem. You have a problem with not having enough heroin." And be like,
+
+289
+00:28:20,240 --> 00:28:24,640
+ "Oh, yeah, you're right. That is my problem." He repeats this phrase multiple times throughout
+
+290
+00:28:24,640 --> 00:28:28,720
+ his website. If you're having a problem with something, you don't have enough of it yet,
+
+291
+00:28:28,720 --> 00:28:34,480
+ which is quite bizarre. I could see that applying to like money and love, but anything else,
+
+292
+00:28:34,480 --> 00:28:39,120
+ masturbation. So he's thinking, "Maybe it has something to do with my semen. Like, I'm releasing
+
+293
+00:28:39,120 --> 00:28:46,400
+ all of this. This is so gross because now this guy is in his late 60s, early 70s, and he's basically
+
+294
+00:28:46,400 --> 00:28:53,120
+ just jacking off all the time. His mini trampoline is super slippery." And he goes, "I am jacking off
+
+295
+00:28:53,120 --> 00:29:02,480
+ all the time, but maybe I need more semen because I have a problem releasing semen." So he jacks
+
+296
+00:29:02,480 --> 00:29:13,840
+ off into a bottle of water and puts it in the food replicator and drinks the replicated semen water.
+
+297
+00:29:13,840 --> 00:29:30,080
+ Now, I mean, come on, dude. Come on. Like, if the invention doesn't work, it's just very,
+
+298
+00:29:30,080 --> 00:29:36,640
+ very unclean. It's unsanitary. You're jacking off in a bottle. But if the invention does work,
+
+299
+00:29:36,640 --> 00:29:44,000
+ you're drinking magical jizz. Anyway, so he begins drinking his own replicated semen
+
+300
+00:29:44,000 --> 00:29:49,120
+ for pretty much the rest of the blog. Like, I was looking through blog ratings and it'd be like,
+
+301
+00:29:49,120 --> 00:29:55,840
+ "Today I drink some semen." So his photo is on this blog. It's his real name, his address is on
+
+302
+00:29:55,840 --> 00:30:01,040
+ there. I can't imagine any business associate ever stumbling across this thing and being like,
+
+303
+00:30:01,040 --> 00:30:07,600
+ "Hey, Paul, can I see you in my office today?" You're not. You're not. The water during the
+
+304
+00:30:07,600 --> 00:30:14,320
+ work is when he's semen in it, right? He's like, "What? No, no." Fingers crossed behind his back.
+
+305
+00:30:14,320 --> 00:30:18,640
+ Salt water. But anyways, so the madness continues. So he starts doing in February. He has pretty
+
+306
+00:30:18,640 --> 00:30:25,200
+ consistent updates on his blog. But on June 28th, everything kind of takes a turn. There's only
+
+307
+00:30:25,200 --> 00:30:31,200
+ like a blog post every month or every few months after that. And the blog posts are saying, "All
+
+308
+00:30:31,200 --> 00:30:37,120
+ the blog posts say is, 'I'm still alive. I'm not dead yet. I'm still alive.'" He's just like letting
+
+309
+00:30:37,120 --> 00:30:40,960
+ us know that he's not dead yet because he started to have, he thought he had a heart attack.
+
+310
+00:30:40,960 --> 00:30:44,720
+ Like, short, like a couple months after building the food replicator because he wasn't eating enough
+
+311
+00:30:44,720 --> 00:30:51,200
+ food. And he was taking vitamins via the replicated water. So he would buy vitamins and he'd take
+
+312
+00:30:51,200 --> 00:30:56,000
+ some of them. But most of them, he would drop in water and drink the replicated vitamins.
+
+313
+00:30:56,000 --> 00:31:02,160
+ He started putting like silver in the source bottle and then spraying the replicated silver all over
+
+314
+00:31:02,160 --> 00:31:08,080
+ his body to get rid of germs, like crazy, crazy stuff. And the last update to the website was
+
+315
+00:31:08,080 --> 00:31:17,680
+ 2015. Now, in 2015, he had gone back up to his weight of 190, 195. So he did start putting weight on
+
+316
+00:31:17,680 --> 00:31:24,560
+ again, but he hasn't posted anything that I've seen since 2015. So it is possible that he has passed
+
+317
+00:31:24,560 --> 00:31:31,600
+ away at this point. Or he's built his new replicator he was talking about. On March 17th, he talks about
+
+318
+00:31:31,600 --> 00:31:37,120
+ his friend saying, "You know what? I'd really like to replicate a haughty, 20-year-old haughty."
+
+319
+00:31:37,680 --> 00:31:45,920
+ Paul's like, "Hoo hoo hoo hoo! Hmm. Let me think about that." Here's a quote in his own words,
+
+320
+00:31:45,920 --> 00:31:50,960
+ "Which gives an interesting idea." The guy was joking, by the way. The guy who said he'd like to
+
+321
+00:31:50,960 --> 00:31:56,720
+ replicate a 20-year-old haughty was joking. He didn't realize he was joking to a supervillain.
+
+322
+00:31:56,720 --> 00:32:00,720
+ He didn't realize he was joking to a supervillain on a shoestring budget.
+
+323
+00:32:01,440 --> 00:32:10,320
+ "Which gives an interesting idea. What if you got two 55-gallon steel barrels, added the magnets
+
+324
+00:32:10,320 --> 00:32:18,320
+ and a wire between in the usual manner and put a person in the input barrel?" What? So some guy's
+
+325
+00:32:18,320 --> 00:32:25,040
+ cracking a joke and Paul's like, "That actually might work. We might be able to replicate a human
+
+326
+00:32:25,040 --> 00:32:28,720
+ being." Or turn him in a water. See, that's what I know. You're just going to turn him in water.
+
+327
+00:32:29,600 --> 00:32:33,920
+ So then he goes on, "There would need to be the usual electrical connection between the
+
+328
+00:32:33,920 --> 00:32:40,800
+ cans and the person should be barefoot and touching the bottom and should probably also touch the
+
+329
+00:32:40,800 --> 00:32:48,640
+ side of the barrel with his hands." What? So now you want to replicate a dude? Like, the other guy
+
+330
+00:32:48,640 --> 00:32:56,480
+ was talking about like a chick, but you're replicating a guy now? That's a weird turn, Paul. Bizarre.
+
+331
+00:32:57,200 --> 00:33:02,560
+ Okay, but anyway, that kind of threw me off. "What would be the result?" he asks. "What would be the
+
+332
+00:33:02,560 --> 00:33:12,800
+ result of taking squirts of a replicated person?" And then he says, "I have no idea." Luckily, he does
+
+333
+00:33:12,800 --> 00:33:21,520
+ say that basically you put a person in a 55-gallon drum and then you take a giant water bottle,
+
+334
+00:33:21,520 --> 00:33:27,600
+ like an Alhambra water bottle, and you would suck some of them out and turn them in water,
+
+335
+00:33:27,600 --> 00:33:32,560
+ and then you could drink the person, drink the person's essence, and he starts to say,
+
+336
+00:33:32,560 --> 00:33:37,200
+ "Maybe I could use this like if someone's fighting with me or someone's angry with me or I don't like
+
+337
+00:33:37,200 --> 00:33:42,640
+ them. I could take their essence and drink them because," he repeats the phrase, "if you have a
+
+338
+00:33:42,640 --> 00:33:46,000
+ problem with something you don't have enough of it." He's thinking, "Maybe if I have a problem with
+
+339
+00:33:46,000 --> 00:33:51,040
+ someone because I don't have enough of them, but if I drink them they're inside me, so I have all
+
+340
+00:33:51,040 --> 00:33:56,080
+ that I need." That's his rationale. Now, he goes, "Obviously I'm not going to be able to get this
+
+341
+00:33:56,080 --> 00:34:02,880
+ person into a 55-gallon barrel, especially if it's somebody who doesn't like him. If it's somebody
+
+342
+00:34:02,880 --> 00:34:06,480
+ who doesn't like Paul, he's not going to be tricked to come in over to his murder dungeon
+
+343
+00:34:06,480 --> 00:34:12,480
+ to hide underneath a barrel." But he does have a helpful tip for that. What you can do is you can
+
+344
+00:34:12,480 --> 00:34:24,400
+ get a non-digital photograph, a lock of their hair, or some of their blood. He will drink
+
+345
+00:34:24,400 --> 00:34:30,720
+ the blood of people who he's having trouble with. He will put some of their blood into a container,
+
+346
+00:34:30,720 --> 00:34:38,240
+ replicate it, and then drink the water. This guy is, I mean, come on Paul, come on. You're already
+
+347
+00:34:38,240 --> 00:34:42,800
+ drinking your own C-A-A. I wonder why he didn't say I'll just drink their semen too, but anyways.
+
+348
+00:34:42,800 --> 00:34:48,000
+ And then, depending on your point of view, this is either a creepy way to end it or a heartbreaking
+
+349
+00:34:48,000 --> 00:34:53,360
+ way to end it. I personally think it's a little bit of both. But in his blog post where he's trying
+
+350
+00:34:53,360 --> 00:34:59,600
+ to figure out if he can replicate a human being and drink them, he says this. Another interesting
+
+351
+00:34:59,600 --> 00:35:05,840
+ experiment to be done. He says it's like he's wearing a smock covered in blood with a little
+
+352
+00:35:05,840 --> 00:35:10,640
+ doctor's mask all bloody holding a butcher knife. And he's talking specifically about taking hair or
+
+353
+00:35:10,640 --> 00:35:15,440
+ blood or photographs of people and replicating them. Another interesting experiment to be done.
+
+354
+00:35:15,440 --> 00:35:24,960
+ I'll try it with some photographs of people. I'll start with a photograph of my daughter
+
+355
+00:35:24,960 --> 00:35:32,720
+ who hasn't contacted me for four years. She doesn't like me. And I don't even know where she is.
+
+356
+00:35:34,800 --> 00:35:43,920
+ She does know my address though. So basically this guy is suggesting drinking his daughter.
+
+357
+00:35:43,920 --> 00:35:48,080
+ That's super creepy.
+
+358
+00:35:49,040 --> 00:35:53,920
+ DeadRabbitRadio.com is going to be your email address. You can also hit us up at
+
+359
+00:35:53,920 --> 00:35:58,320
+ facebook.com/deadrabbitradio. Twitter is @jasonocarpenter.
+
+360
+00:35:58,320 --> 00:36:02,720
+ DeadRabbitRadio is the daily paranormal conspiracy and true crime podcast.
+
+361
+00:36:02,720 --> 00:36:12,880
+ You don't have to listen to it every day. But I'm glad you listened to it today. Have a great one, guys.
+
