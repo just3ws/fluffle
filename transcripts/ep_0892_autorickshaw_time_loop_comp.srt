@@ -1,0 +1,1828 @@
+1
+00:00:00,000 --> 00:00:11,240
+ A performance artist so daring, so shocking, he either committed a horrifying crime or
+
+2
+00:00:11,240 --> 00:00:13,960
+ he made the whole thing up.
+
+3
+00:00:13,960 --> 00:00:18,360
+ And then we take a look at a young man who is traveling on his way to school when he
+
+4
+00:00:18,360 --> 00:00:24,980
+ finds out that he is in the middle of a glitch in reality.
+
+5
+00:00:24,980 --> 00:00:29,760
+ As he tries to navigate his way through a time loop he and his friends are caught in,
+
+6
+00:00:29,760 --> 00:00:32,160
+ we have to ask the bigger question.
+
+7
+00:00:32,160 --> 00:00:40,120
+ Are we ourselves currently trapped in a never ending cycle of beginnings and beginnings?
+
+8
+00:00:40,120 --> 00:00:42,640
+ Today on Dead Rabbit Radio.
+
+9
+00:00:42,640 --> 00:00:52,840
+ Hey everyone, welcome back to another episode of Dead Rabbit Radio.
+
+10
+00:00:52,840 --> 00:00:54,840
+ I'm your host Jason Corviner, I'm having a great day.
+
+11
+00:00:54,840 --> 00:00:58,120
+ Hope you guys are having a great day too and hope you guys have some great plans for the
+
+12
+00:00:58,120 --> 00:00:59,120
+ weekend.
+
+13
+00:00:59,120 --> 00:01:02,120
+ We got a lot of stuff to cover so we're gonna get started right away.
+
+14
+00:01:02,120 --> 00:01:06,040
+ First off, walking into Dead Rabbit Command is one of our newest Patreon supporters, I
+
+15
+00:01:06,040 --> 00:01:08,120
+ think, I'll explain that in a second.
+
+16
+00:01:08,120 --> 00:01:12,160
+ Walking into Dead Rabbit Command, everyone give a round of applause for Gregory Fader.
+
+17
+00:01:12,160 --> 00:01:14,920
+ Yeah, come on in Gregory, come on in buddy.
+
+18
+00:01:14,920 --> 00:01:18,720
+ He's like, "It's weird, I think I've been here before he thinks he's trapped in a time
+
+19
+00:01:18,720 --> 00:01:19,720
+ loop."
+
+20
+00:01:19,720 --> 00:01:24,720
+ I might have given Gregory Fader a shout out on an earlier episode, but I'm not entirely
+
+21
+00:01:24,720 --> 00:01:25,720
+ for sure.
+
+22
+00:01:25,720 --> 00:01:29,080
+ His name's still sitting here in my notes and I would rather err on the side of caution
+
+23
+00:01:29,080 --> 00:01:33,800
+ and definitely give him a shout out today than to just assume that I had done it before.
+
+24
+00:01:33,800 --> 00:01:38,280
+ But again, could be a time loop, could be a time loop, I could have done that.
+
+25
+00:01:38,280 --> 00:01:41,280
+ Gregory, you're gonna be our captain or pilot this episode if you guys can't support the
+
+26
+00:01:41,280 --> 00:01:43,720
+ Patreon, I totally get it, I really do.
+
+27
+00:01:43,720 --> 00:01:47,480
+ Just help spread the word about the show, that really really helps out a lot.
+
+28
+00:01:47,480 --> 00:01:52,000
+ And to you guys who do support the Patreon, I wanna tell you how much that means to me.
+
+29
+00:01:52,000 --> 00:01:54,700
+ That's like grocery money for me, okay?
+
+30
+00:01:54,700 --> 00:01:58,560
+ That's like rent money and keeping the lights on.
+
+31
+00:01:58,560 --> 00:02:03,280
+ It means a lot that you guys are giving me donations, like it really does.
+
+32
+00:02:03,280 --> 00:02:08,560
+ I count on this money, so to those of you who do support the Patreon, hats off to you.
+
+33
+00:02:08,560 --> 00:02:13,560
+ You guys are feeding me and keeping me comfortable, so really really appreciate that.
+
+34
+00:02:13,560 --> 00:02:18,760
+ Oh, and before we get started, take a look at this fan art we have for Fan Art Friday.
+
+35
+00:02:18,760 --> 00:02:24,100
+ This was sent to me by Mountain Man Leroy on Reddit, has a picture of the Carburetor
+
+36
+00:02:24,100 --> 00:02:29,380
+ Coptor hovering overhead and then it shows two people having a nice day on the beach.
+
+37
+00:02:29,380 --> 00:02:33,940
+ And it says, "Random people thinking nothing tragic weird is going to happen to them."
+
+38
+00:02:33,940 --> 00:02:38,300
+ So the Carburetor Coptor, when you do see that coming, you've probably been trapped
+
+39
+00:02:38,300 --> 00:02:42,700
+ in some nightmarish reality or a victim of a true crime.
+
+40
+00:02:42,700 --> 00:02:46,900
+ And hopefully that never happens to any of us, but who knows where we're currently at
+
+41
+00:02:46,900 --> 00:02:48,500
+ in the time stream.
+
+42
+00:02:48,500 --> 00:02:52,320
+ Let's go ahead and toss you the Hair Hanglider.
+
+43
+00:02:52,320 --> 00:02:54,480
+ We're going to jump off the highest point of Dead Rabbit Command.
+
+44
+00:02:54,480 --> 00:02:57,500
+ We're going to fly all the way out to Italy.
+
+45
+00:02:57,500 --> 00:03:05,320
+ Specifically, we're headed to Bologna, Italy.
+
+46
+00:03:05,320 --> 00:03:07,640
+ I think it might be pronounced "Bologna."
+
+47
+00:03:07,640 --> 00:03:08,640
+ Probably not.
+
+48
+00:03:08,640 --> 00:03:09,640
+ It looks like it.
+
+49
+00:03:09,640 --> 00:03:12,520
+ It looks like it's pronounced that way, which would actually make sense because I think
+
+50
+00:03:12,520 --> 00:03:17,760
+ this artist, allegedly, allegedly is full of it.
+
+51
+00:03:17,760 --> 00:03:18,760
+ Baloney.
+
+52
+00:03:18,760 --> 00:03:23,540
+ I don't believe that this artist is doing what they're saying.
+
+53
+00:03:23,540 --> 00:03:26,860
+ I'm putting all my cards on the table right now, but let's take a look at it.
+
+54
+00:03:26,860 --> 00:03:30,060
+ I will say this, when I started doing this podcast, I always thought we'd cover a lot
+
+55
+00:03:30,060 --> 00:03:34,260
+ of ghost stuff, a lot of UFO stuff, some Bigfoot stuff.
+
+56
+00:03:34,260 --> 00:03:38,340
+ We've covered a lot of Bigfoot stuff, not covering a lot of ghosts, because the stories
+
+57
+00:03:38,340 --> 00:03:40,180
+ are really hard to find, but I'm doing my best.
+
+58
+00:03:40,180 --> 00:03:42,100
+ We got a lot of good ghost stuff recently.
+
+59
+00:03:42,100 --> 00:03:46,700
+ One thing that I never expected to ever do, like multiple shows on, I've covered a lot
+
+60
+00:03:46,700 --> 00:03:50,400
+ of these guys over the years, performance artists.
+
+61
+00:03:50,400 --> 00:03:51,400
+ Performance artists.
+
+62
+00:03:51,400 --> 00:03:56,640
+ We covered that guy who rolled an egg through London with his nose to protest wheat prices
+
+63
+00:03:56,640 --> 00:03:57,640
+ or something like that.
+
+64
+00:03:57,640 --> 00:04:00,040
+ And we talked about Marina Abramovich.
+
+65
+00:04:00,040 --> 00:04:04,000
+ She's very popular in the conspiracy theory community and her connections to the Clinton
+
+66
+00:04:04,000 --> 00:04:08,920
+ administration and her connections to witchcraft and all of this stuff.
+
+67
+00:04:08,920 --> 00:04:09,920
+ We talked about that.
+
+68
+00:04:09,920 --> 00:04:12,000
+ We also talked about she's a crazy performance artist.
+
+69
+00:04:12,000 --> 00:04:17,140
+ Sometimes she took a car into the Metropolitan Museum of Modern Art and was doing donuts,
+
+70
+00:04:17,140 --> 00:04:19,140
+ spraying black oil everywhere.
+
+71
+00:04:19,140 --> 00:04:23,860
+ So she's definitely, she definitely has some controversy surrounding her, but her performance
+
+72
+00:04:23,860 --> 00:04:24,860
+ art is just weird.
+
+73
+00:04:24,860 --> 00:04:26,500
+ We've covered a lot of these guys.
+
+74
+00:04:26,500 --> 00:04:29,300
+ I recently came across this guy named John Duncan.
+
+75
+00:04:29,300 --> 00:04:35,220
+ That was the sound of a couple of you shutting off the podcast or finding the fast forward
+
+76
+00:04:35,220 --> 00:04:36,220
+ button.
+
+77
+00:04:36,220 --> 00:04:38,340
+ You're like, nope, I'm going to pull over in my car and just figure out where the time
+
+78
+00:04:38,340 --> 00:04:39,340
+ loop story is.
+
+79
+00:04:39,340 --> 00:04:42,720
+ Cause if you know the name John Duncan, you know exactly what the main thing we're going
+
+80
+00:04:42,720 --> 00:04:44,280
+ to talk about on this story.
+
+81
+00:04:44,280 --> 00:04:45,840
+ John Duncan.
+
+82
+00:04:45,840 --> 00:04:51,360
+ Back in the 1970s, he's in the performance art scene in Los Angeles and performance art
+
+83
+00:04:51,360 --> 00:04:54,760
+ is basically people sitting around going, I have an idea.
+
+84
+00:04:54,760 --> 00:04:56,480
+ I'm going to do something weird.
+
+85
+00:04:56,480 --> 00:05:01,560
+ And then I'm going to attribute some sort of deeper meaning to it.
+
+86
+00:05:01,560 --> 00:05:02,560
+ And one of his was this.
+
+87
+00:05:02,560 --> 00:05:05,320
+ I don't think there's really any deeper meaning to this one.
+
+88
+00:05:05,320 --> 00:05:09,660
+ One of his artworks was called scare.
+
+89
+00:05:09,660 --> 00:05:10,660
+ Scare.
+
+90
+00:05:10,660 --> 00:05:12,340
+ He wears a disguise in this one.
+
+91
+00:05:12,340 --> 00:05:14,340
+ It's not really scary if he walked into the room.
+
+92
+00:05:14,340 --> 00:05:17,780
+ It actually does turn out because the, the already does, it would make you scared if
+
+93
+00:05:17,780 --> 00:05:18,780
+ he walked into the room.
+
+94
+00:05:18,780 --> 00:05:20,860
+ If he's telling the truth again, who knows.
+
+95
+00:05:20,860 --> 00:05:22,580
+ But this one, there were witnesses to this one.
+
+96
+00:05:22,580 --> 00:05:26,940
+ He put on a disguise and he walked into an art exhibit or he walked in where all these
+
+97
+00:05:26,940 --> 00:05:27,940
+ people were.
+
+98
+00:05:27,940 --> 00:05:29,660
+ They're all sitting around there and we're John Duncan.
+
+99
+00:05:29,660 --> 00:05:31,700
+ He's supposed to scare us.
+
+100
+00:05:31,700 --> 00:05:35,020
+ And he was wearing his disguise and he jumped out with a gun.
+
+101
+00:05:35,020 --> 00:05:36,020
+ He goes, "Ahhhhh!"
+
+102
+00:05:36,020 --> 00:05:38,600
+ He's waving the gun in his fuel's faces and they're like, "Ahh!
+
+103
+00:05:38,600 --> 00:05:41,200
+ Who are you?"
+
+104
+00:05:41,200 --> 00:05:42,200
+ That was, that was it.
+
+105
+00:05:42,200 --> 00:05:45,000
+ That was the whole art exhibit that only works once.
+
+106
+00:05:45,000 --> 00:05:47,560
+ Like you can imagine the people like waiting to go visit that one.
+
+107
+00:05:47,560 --> 00:05:50,400
+ They see a guy jump out and he's waving a gun and they're like, "Uhhh."
+
+108
+00:05:50,400 --> 00:05:54,000
+ I can imagine what is going to scare me, that guy with the gun.
+
+109
+00:05:54,000 --> 00:05:56,280
+ And it's probably John Duncan.
+
+110
+00:05:56,280 --> 00:05:58,160
+ So that really happened.
+
+111
+00:05:58,160 --> 00:06:02,480
+ He also apparently was a Los Angeles city bus driver for a while.
+
+112
+00:06:02,480 --> 00:06:07,220
+ Either that or he pretended to be one of the more bus driver uniform and just gotten a
+
+113
+00:06:07,220 --> 00:06:08,380
+ bus and started driving around.
+
+114
+00:06:08,380 --> 00:06:13,740
+ Because a couple of his artworks, quote unquote artwork, has to do with driving a bus, driving
+
+115
+00:06:13,740 --> 00:06:14,820
+ a city bus.
+
+116
+00:06:14,820 --> 00:06:18,860
+ In 1976 he had one called Bus Ride.
+
+117
+00:06:18,860 --> 00:06:20,500
+ This first one's funny.
+
+118
+00:06:20,500 --> 00:06:21,500
+ This first one's pretty funny.
+
+119
+00:06:21,500 --> 00:06:24,900
+ That's the reason why I like performance artists and sometimes they're wacky.
+
+120
+00:06:24,900 --> 00:06:26,300
+ He, I don't know if he arranges.
+
+121
+00:06:26,300 --> 00:06:29,740
+ I'm assuming this was some sort of skit that was going on on a bus.
+
+122
+00:06:29,740 --> 00:06:33,520
+ But the bus would be going down the street and he would have a pregnant woman on board.
+
+123
+00:06:33,520 --> 00:06:35,240
+ I'm sure I wish she was part of this.
+
+124
+00:06:35,240 --> 00:06:36,440
+ I wish she was in on it.
+
+125
+00:06:36,440 --> 00:06:39,040
+ Otherwise, actually it's probably more hilarious if she wasn't.
+
+126
+00:06:39,040 --> 00:06:40,040
+ There's a pregnant woman on the bus.
+
+127
+00:06:40,040 --> 00:06:41,920
+ There's a bunch of random passengers.
+
+128
+00:06:41,920 --> 00:06:45,000
+ This is, nowadays we would call this a social experiment on YouTube.
+
+129
+00:06:45,000 --> 00:06:47,680
+ But back then this was high art.
+
+130
+00:06:47,680 --> 00:06:48,920
+ He would drive around a bus.
+
+131
+00:06:48,920 --> 00:06:49,920
+ He's wearing a sky suit.
+
+132
+00:06:49,920 --> 00:06:51,160
+ He's dressed up like a burglar.
+
+133
+00:06:51,160 --> 00:06:55,200
+ He has his gun ready to scare people in case he needs another artwork real quick.
+
+134
+00:06:55,200 --> 00:06:56,200
+ This one isn't paying out.
+
+135
+00:06:56,200 --> 00:06:59,780
+ There's a pregnant woman and then there's a stranger on there as well.
+
+136
+00:06:59,780 --> 00:07:00,780
+ I mean, it's a bus.
+
+137
+00:07:00,780 --> 00:07:04,740
+ Everyone's a stranger but there's a pregnant woman and not a stranger to John Duncan.
+
+138
+00:07:04,740 --> 00:07:06,640
+ Someone John Duncan knows.
+
+139
+00:07:06,640 --> 00:07:12,580
+ And this dude kicks the pregnant woman off the seat.
+
+140
+00:07:12,580 --> 00:07:16,340
+ Like they're sitting next to each other and he kicks her off and then props his feet up
+
+141
+00:07:16,340 --> 00:07:17,340
+ on the seat.
+
+142
+00:07:17,340 --> 00:07:19,420
+ So he was doing it just to have more leg room.
+
+143
+00:07:19,420 --> 00:07:21,900
+ He wasn't doing it because he needed to get there.
+
+144
+00:07:21,900 --> 00:07:25,500
+ He wasn't doing it because she was Sarah Connor and he was the terminator.
+
+145
+00:07:25,500 --> 00:07:31,280
+ He kicks her off the seat and then a fight breaks out among the other passengers and
+
+146
+00:07:31,280 --> 00:07:35,520
+ half of them take the stranger's side.
+
+147
+00:07:35,520 --> 00:07:38,120
+ Half of them go, "Hey, man, you shouldn't kick a pregnant lady off of the seat."
+
+148
+00:07:38,120 --> 00:07:41,320
+ And the other half is like, "Well, we don't know the whole story.
+
+149
+00:07:41,320 --> 00:07:42,320
+ We don't know the whole story.
+
+150
+00:07:42,320 --> 00:07:46,480
+ Maybe he's from the future and he's trying to terminate John Connor."
+
+151
+00:07:46,480 --> 00:07:47,560
+ He did that twice.
+
+152
+00:07:47,560 --> 00:07:51,800
+ He did that artwork twice, 30 days apart.
+
+153
+00:07:51,800 --> 00:07:53,920
+ And then he did this other one which I had to go.
+
+154
+00:07:53,920 --> 00:07:56,820
+ I ended up finding his website and really had to dig into some of this stuff because
+
+155
+00:07:56,820 --> 00:08:00,020
+ this made no sense, but this is a quote, this is from Wikipedia.
+
+156
+00:08:00,020 --> 00:08:07,420
+ His other version of bus ride was, "Bus ride sexually stimulated unsuspecting passengers."
+
+157
+00:08:07,420 --> 00:08:08,940
+ This would be a crime nowadays.
+
+158
+00:08:08,940 --> 00:08:14,780
+ It's a crime back then too, but "Bus ride sexually stimulated unsuspecting passengers
+
+159
+00:08:14,780 --> 00:08:21,820
+ on a city bus with a liquid poured into the ventilation system in order to observe the
+
+160
+00:08:21,820 --> 00:08:22,820
+ results."
+
+161
+00:08:22,820 --> 00:08:23,820
+ I'm like, "What?
+
+162
+00:08:23,820 --> 00:08:25,320
+ What in the possible?"
+
+163
+00:08:25,320 --> 00:08:29,680
+ Like, I can understand like if he was driving, he's driving by sexy billboards over and over
+
+164
+00:08:29,680 --> 00:08:34,440
+ and people are like, "Ooh, that sure is a sexy picture of Bo Derek or whoever was hot
+
+165
+00:08:34,440 --> 00:08:35,440
+ back in 1976."
+
+166
+00:08:35,440 --> 00:08:38,320
+ No, he put a liquid in and I was like, "What?
+
+167
+00:08:38,320 --> 00:08:39,320
+ That's not enough information.
+
+168
+00:08:39,320 --> 00:08:42,240
+ I'm not going to figure out what this liquid is."
+
+169
+00:08:42,240 --> 00:08:43,600
+ It was, this is gross.
+
+170
+00:08:43,600 --> 00:08:44,600
+ This is so gross.
+
+171
+00:08:44,600 --> 00:08:45,840
+ Who would get turned on by this?
+
+172
+00:08:45,840 --> 00:08:51,480
+ Imagine you're on a city bus in Los Angeles, the home of smog, the birthplace of smog.
+
+173
+00:08:51,480 --> 00:08:54,180
+ It didn't exist until Los Angeles was built.
+
+174
+00:08:54,180 --> 00:08:55,180
+ It's 1976.
+
+175
+00:08:55,180 --> 00:08:57,540
+ It's the smoggiest of smogs.
+
+176
+00:08:57,540 --> 00:08:59,980
+ You're driving in this hot city bus.
+
+177
+00:08:59,980 --> 00:09:02,420
+ You're like hoping you can see a rainbow and we kicked off a seat.
+
+178
+00:09:02,420 --> 00:09:05,220
+ You're like, "That's my fetish because I'm a weird sicko."
+
+179
+00:09:05,220 --> 00:09:09,140
+ But instead, instead you don't get to see that delight.
+
+180
+00:09:09,140 --> 00:09:14,380
+ Instead he dropped fish extract into the ventilation system.
+
+181
+00:09:14,380 --> 00:09:17,460
+ I mean, that's the grossest smell.
+
+182
+00:09:17,460 --> 00:09:19,740
+ Fish extract into the ventilation system.
+
+183
+00:09:19,740 --> 00:09:22,800
+ I've done that as a prank.
+
+184
+00:09:22,800 --> 00:09:25,440
+ It's actually a crime, but I've done that.
+
+185
+00:09:25,440 --> 00:09:30,680
+ I've taken fish oils or other smelly things and put it in people's ventilation systems
+
+186
+00:09:30,680 --> 00:09:31,680
+ in their cars.
+
+187
+00:09:31,680 --> 00:09:37,760
+ It was a long time ago, officers, you can't prosecute me for that, for that misdemeanor.
+
+188
+00:09:37,760 --> 00:09:42,680
+ He would put fish extract in the ventilation system of an LA bus and also the windows he
+
+189
+00:09:42,680 --> 00:09:45,000
+ made so the windows don't open up.
+
+190
+00:09:45,000 --> 00:09:46,640
+ So now it's not a social experiment.
+
+191
+00:09:46,640 --> 00:09:48,360
+ Now he's basically just the joker.
+
+192
+00:09:48,360 --> 00:09:50,780
+ He's trying to drive people mad.
+
+193
+00:09:50,780 --> 00:09:52,820
+ And that's not sexually stimulating.
+
+194
+00:09:52,820 --> 00:09:57,180
+ I've never been walking by dudes fishing and they're like checking me out.
+
+195
+00:09:57,180 --> 00:09:58,740
+ They're like, "Woohoo, woohoo!"
+
+196
+00:09:58,740 --> 00:10:00,380
+ And they're like cat calling me.
+
+197
+00:10:00,380 --> 00:10:01,580
+ Fish aren't sexy.
+
+198
+00:10:01,580 --> 00:10:07,260
+ I don't understand why he thought that he could put fish extract in a dirty city bus's
+
+199
+00:10:07,260 --> 00:10:11,580
+ ventilation system with all the other smells that are contained in that bus.
+
+200
+00:10:11,580 --> 00:10:15,700
+ Lock the windows, which I'm pretty sure is fire hazard, and just drive around in circles.
+
+201
+00:10:15,700 --> 00:10:17,000
+ We were like, "Sir, that was my stop.
+
+202
+00:10:17,000 --> 00:10:18,000
+ That was my stop."
+
+203
+00:10:18,000 --> 00:10:19,800
+ And he's like, "Do you have a boner yet?"
+
+204
+00:10:19,800 --> 00:10:21,040
+ And they're like, "No, of course not.
+
+205
+00:10:21,040 --> 00:10:22,560
+ I don't want a disgusting city bus."
+
+206
+00:10:22,560 --> 00:10:26,080
+ He's like, "We're just going to keep driving around until you do."
+
+207
+00:10:26,080 --> 00:10:29,340
+ He's most famous, though.
+
+208
+00:10:29,340 --> 00:10:31,600
+ Not for this hilarious practice.
+
+209
+00:10:31,600 --> 00:10:33,080
+ That's pretty funny, right?
+
+210
+00:10:33,080 --> 00:10:34,640
+ Both of those are kind of funny.
+
+211
+00:10:34,640 --> 00:10:36,680
+ He's not famous for those.
+
+212
+00:10:36,680 --> 00:10:44,280
+ He's famous for...and piece of art he did on May 14th, 1980.
+
+213
+00:10:44,280 --> 00:10:47,100
+ This one had no witnesses.
+
+214
+00:10:47,100 --> 00:10:51,460
+ You could argue it had one, but as far as I know, they've never come forward.
+
+215
+00:10:51,460 --> 00:10:56,700
+ This was a performance art that he did called Blind Date.
+
+216
+00:10:56,700 --> 00:10:58,380
+ And you can find it on YouTube, shockingly.
+
+217
+00:10:58,380 --> 00:11:02,580
+ Well, I mean, again, if it's fake, it's probably about as real as the Batman.
+
+218
+00:11:02,580 --> 00:11:05,140
+ You can watch a video of Robert Pattinson beating up some thug.
+
+219
+00:11:05,140 --> 00:11:06,140
+ You're not like Colin the cop.
+
+220
+00:11:06,140 --> 00:11:09,460
+ You're like, "I just saw Robert Pattinson beat up this dude."
+
+221
+00:11:09,460 --> 00:11:11,940
+ He has this audio only.
+
+222
+00:11:11,940 --> 00:11:16,160
+ There's no video footage or film footage of this at all.
+
+223
+00:11:16,160 --> 00:11:17,680
+ We have to take his word for this.
+
+224
+00:11:17,680 --> 00:11:25,760
+ And if you listen to the audio track on YouTube, it explains, "On May 14th, 1980, John Duncan
+
+225
+00:11:25,760 --> 00:11:28,320
+ had sex with a dead body."
+
+226
+00:11:28,320 --> 00:11:37,760
+ Apparently, he went to Mexico and bribed a coroner down there to have sex with a body.
+
+227
+00:11:37,760 --> 00:11:41,200
+ He walks in with a pocket full of cash and he goes, "Do you have any suggestions, good
+
+228
+00:11:41,200 --> 00:11:42,200
+ sir?
+
+229
+00:11:42,200 --> 00:11:44,620
+ Can I have your hottest corpse?"
+
+230
+00:11:44,620 --> 00:11:46,980
+ And I don't know if he cared how hot it was.
+
+231
+00:11:46,980 --> 00:11:48,500
+ It was a dead woman, right?
+
+232
+00:11:48,500 --> 00:11:49,500
+ I don't know.
+
+233
+00:11:49,500 --> 00:11:50,700
+ And here's the thing.
+
+234
+00:11:50,700 --> 00:11:52,220
+ I don't believe this.
+
+235
+00:11:52,220 --> 00:11:55,180
+ I don't believe this happened.
+
+236
+00:11:55,180 --> 00:11:58,620
+ If you guys are getting angry at me laughing, I think it's made up.
+
+237
+00:11:58,620 --> 00:12:05,060
+ But he says he went to a coroner down in Mexico and bribed one of them to have sex with a
+
+238
+00:12:05,060 --> 00:12:09,660
+ dead body and he was going to record it on audio tape.
+
+239
+00:12:09,660 --> 00:12:12,400
+ So there's no proof he did any of this.
+
+240
+00:12:12,400 --> 00:12:22,280
+ And he had sex to completion and then he went and had a vasectomy on audio tape.
+
+241
+00:12:22,280 --> 00:12:24,680
+ So he went, I don't know if they were all in the same room.
+
+242
+00:12:24,680 --> 00:12:27,200
+ I don't know if there was a doctor sitting there and he's like, "Oh, come on.
+
+243
+00:12:27,200 --> 00:12:28,200
+ Hurry up, dude.
+
+244
+00:12:28,200 --> 00:12:29,200
+ I got another appointment.
+
+245
+00:12:29,200 --> 00:12:30,920
+ I got another appointment with another sicko."
+
+246
+00:12:30,920 --> 00:12:32,000
+ It rides down.
+
+247
+00:12:32,000 --> 00:12:37,600
+ Apparently, he had sex with this corpse and recorded the audio of it and then had a vasectomy
+
+248
+00:12:37,600 --> 00:12:40,660
+ and recorded the audio of that.
+
+249
+00:12:40,660 --> 00:12:47,220
+ And the point was to have put the last of his living viable seed, his sperm, into a dead
+
+250
+00:12:47,220 --> 00:12:51,820
+ body, to a corpse that can never get pregnant.
+
+251
+00:12:51,820 --> 00:12:53,220
+ I don't believe this happened.
+
+252
+00:12:53,220 --> 00:12:56,140
+ I don't believe this happened because basically I listened to the audio track.
+
+253
+00:12:56,140 --> 00:12:57,140
+ Again, it's on YouTube.
+
+254
+00:12:57,140 --> 00:13:00,300
+ I had to go to some crazy website and I wouldn't have if I had to.
+
+255
+00:13:00,300 --> 00:13:01,860
+ I'd been like, "Ah, whatever."
+
+256
+00:13:01,860 --> 00:13:08,080
+ I went to YouTube and I listened to this and it's about, imagine what you, imagine
+
+257
+00:13:08,080 --> 00:13:14,320
+ the sounds of two people having sex but one of them can't.
+
+258
+00:13:14,320 --> 00:13:15,320
+ It's that.
+
+259
+00:13:15,320 --> 00:13:16,320
+ It's nothing.
+
+260
+00:13:16,320 --> 00:13:17,320
+ It's nothing.
+
+261
+00:13:17,320 --> 00:13:22,200
+ I mean, I don't know if I expected like Barry White music in the background and him like
+
+262
+00:13:22,200 --> 00:13:23,200
+ talking to it.
+
+263
+00:13:23,200 --> 00:13:26,320
+ This is getting really, really dark and really gross.
+
+264
+00:13:26,320 --> 00:13:29,160
+ But again, I didn't, I'm not saying that he did this.
+
+265
+00:13:29,160 --> 00:13:31,800
+ He's saying that he did this and I don't believe him.
+
+266
+00:13:31,800 --> 00:13:33,020
+ It's the sound, it's like nothing.
+
+267
+00:13:33,020 --> 00:13:38,100
+ It's like 10 minutes of like a guy unzipping his pants and then nothing.
+
+268
+00:13:38,100 --> 00:13:43,940
+ And then about 10 minutes, an unreasonably long amount of time, I don't know how long
+
+269
+00:13:43,940 --> 00:13:44,940
+ the sectomies take.
+
+270
+00:13:44,940 --> 00:13:45,940
+ I'm like, "What?
+
+271
+00:13:45,940 --> 00:13:46,940
+ Come on.
+
+272
+00:13:46,940 --> 00:13:48,980
+ I have an appointment on the other side of town.
+
+273
+00:13:48,980 --> 00:13:51,260
+ Hurry up, duck."
+
+274
+00:13:51,260 --> 00:13:54,180
+ It's the sound of two blocks of wood scraping against each other.
+
+275
+00:13:54,180 --> 00:13:55,180
+ That's really what it sounds like.
+
+276
+00:13:55,180 --> 00:13:59,140
+ I don't know if he was trying to simulate like someone sawing through his testicles to
+
+277
+00:13:59,140 --> 00:14:01,180
+ give him a, the vasectomy.
+
+278
+00:14:01,180 --> 00:14:05,120
+ I don't know what he was trying to do, but it's basically like 10 minutes of nothing.
+
+279
+00:14:05,120 --> 00:14:10,360
+ And then 10 minutes of, "Ugh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+280
+00:14:10,360 --> 00:14:11,120
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+281
+00:14:11,120 --> 00:14:12,120
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+282
+00:14:12,120 --> 00:14:13,120
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+283
+00:14:13,120 --> 00:14:13,120
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+284
+00:14:13,120 --> 00:14:37,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+285
+00:14:37,100 --> 00:14:44,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+286
+00:14:44,100 --> 00:14:51,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+287
+00:14:51,100 --> 00:15:01,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+288
+00:15:01,100 --> 00:15:11,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+289
+00:15:11,100 --> 00:15:18,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+290
+00:15:18,100 --> 00:15:27,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+291
+00:15:27,100 --> 00:15:38,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+292
+00:15:38,100 --> 00:15:45,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+293
+00:15:45,100 --> 00:15:52,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+294
+00:15:52,100 --> 00:15:59,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+295
+00:15:59,100 --> 00:16:06,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+296
+00:16:06,100 --> 00:16:13,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+297
+00:16:13,100 --> 00:16:20,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+298
+00:16:20,100 --> 00:16:27,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+299
+00:16:27,100 --> 00:16:34,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+300
+00:16:34,100 --> 00:16:41,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+301
+00:16:41,100 --> 00:16:48,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+302
+00:16:48,100 --> 00:16:55,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+303
+00:16:55,100 --> 00:17:02,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+304
+00:17:02,100 --> 00:17:09,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+305
+00:17:09,100 --> 00:17:16,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+306
+00:17:16,100 --> 00:17:23,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+307
+00:17:23,100 --> 00:17:30,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+308
+00:17:30,100 --> 00:17:37,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+309
+00:17:37,100 --> 00:17:44,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+310
+00:17:44,100 --> 00:17:51,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+311
+00:17:51,100 --> 00:17:58,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+312
+00:17:58,100 --> 00:18:05,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+313
+00:18:05,100 --> 00:18:14,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+314
+00:18:14,100 --> 00:18:21,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+315
+00:18:21,100 --> 00:18:26,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+316
+00:18:26,100 --> 00:18:33,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+317
+00:18:33,100 --> 00:18:40,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+318
+00:18:40,100 --> 00:18:47,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+319
+00:18:47,100 --> 00:18:54,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+320
+00:18:54,100 --> 00:19:01,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+321
+00:19:01,100 --> 00:19:08,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+322
+00:19:08,100 --> 00:19:15,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+323
+00:19:15,100 --> 00:19:22,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+324
+00:19:22,100 --> 00:19:29,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+325
+00:19:29,100 --> 00:19:36,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+326
+00:19:36,100 --> 00:19:43,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+327
+00:19:43,100 --> 00:19:50,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+328
+00:19:50,100 --> 00:19:57,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+329
+00:19:57,100 --> 00:20:04,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+330
+00:20:04,100 --> 00:20:11,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+331
+00:20:11,100 --> 00:20:18,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+332
+00:20:18,100 --> 00:20:25,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+333
+00:20:25,100 --> 00:20:32,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+334
+00:20:32,100 --> 00:20:39,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+335
+00:20:39,100 --> 00:20:46,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+336
+00:20:46,100 --> 00:20:53,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+337
+00:20:53,100 --> 00:21:00,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+338
+00:21:00,100 --> 00:21:07,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+339
+00:21:07,100 --> 00:21:14,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+340
+00:21:14,100 --> 00:21:19,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+341
+00:21:19,100 --> 00:21:24,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+342
+00:21:24,100 --> 00:21:29,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+343
+00:21:29,100 --> 00:21:34,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+344
+00:21:34,100 --> 00:21:39,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+345
+00:21:39,100 --> 00:21:46,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+346
+00:21:46,100 --> 00:21:53,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+347
+00:21:53,100 --> 00:22:00,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+348
+00:22:00,100 --> 00:22:07,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+349
+00:22:07,100 --> 00:22:12,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+350
+00:22:12,100 --> 00:22:17,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+351
+00:22:17,100 --> 00:22:22,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+352
+00:22:22,100 --> 00:22:27,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+353
+00:22:27,100 --> 00:22:32,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+354
+00:22:32,100 --> 00:22:39,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+355
+00:22:39,100 --> 00:22:46,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+356
+00:22:46,100 --> 00:22:53,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+357
+00:22:53,100 --> 00:23:00,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+358
+00:23:00,100 --> 00:23:07,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+359
+00:23:07,100 --> 00:23:14,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+360
+00:23:14,100 --> 00:23:21,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+361
+00:23:21,100 --> 00:23:28,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+362
+00:23:28,100 --> 00:23:35,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+363
+00:23:35,100 --> 00:23:42,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+364
+00:23:42,100 --> 00:23:49,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+365
+00:23:49,100 --> 00:23:56,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+366
+00:23:56,100 --> 00:24:03,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+367
+00:24:03,100 --> 00:24:10,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+368
+00:24:10,100 --> 00:24:17,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+369
+00:24:17,100 --> 00:24:24,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+370
+00:24:24,100 --> 00:24:31,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+371
+00:24:31,100 --> 00:24:38,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+372
+00:24:38,100 --> 00:24:45,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+373
+00:24:45,100 --> 00:24:52,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+374
+00:24:52,100 --> 00:24:59,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+375
+00:24:59,100 --> 00:25:06,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+376
+00:25:06,100 --> 00:25:13,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+377
+00:25:13,100 --> 00:25:20,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+378
+00:25:20,100 --> 00:25:27,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+379
+00:25:27,100 --> 00:25:34,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+380
+00:25:34,100 --> 00:25:41,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+381
+00:25:41,100 --> 00:25:48,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+382
+00:25:48,100 --> 00:25:55,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+383
+00:25:55,100 --> 00:26:02,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+384
+00:26:02,100 --> 00:26:09,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+385
+00:26:09,100 --> 00:26:16,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+386
+00:26:16,100 --> 00:26:23,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+387
+00:26:23,100 --> 00:26:30,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+388
+00:26:30,100 --> 00:26:37,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+389
+00:26:37,100 --> 00:26:44,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+390
+00:26:44,100 --> 00:26:51,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+391
+00:26:51,100 --> 00:26:58,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+392
+00:26:58,100 --> 00:27:05,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+393
+00:27:05,100 --> 00:27:12,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+394
+00:27:12,100 --> 00:27:19,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+395
+00:27:19,100 --> 00:27:26,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+396
+00:27:26,100 --> 00:27:33,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+397
+00:27:33,100 --> 00:27:40,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+398
+00:27:40,100 --> 00:27:47,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+399
+00:27:47,100 --> 00:27:54,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+400
+00:27:54,100 --> 00:28:01,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+401
+00:28:01,100 --> 00:28:08,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+402
+00:28:08,100 --> 00:28:15,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+403
+00:28:15,100 --> 00:28:22,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+404
+00:28:22,100 --> 00:28:29,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+405
+00:28:29,100 --> 00:28:36,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+406
+00:28:36,100 --> 00:28:43,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+407
+00:28:43,100 --> 00:28:50,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+408
+00:28:50,100 --> 00:28:57,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+409
+00:28:57,100 --> 00:29:04,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+410
+00:29:04,100 --> 00:29:11,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+411
+00:29:11,100 --> 00:29:18,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+412
+00:29:18,100 --> 00:29:25,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+413
+00:29:25,100 --> 00:29:31,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+414
+00:29:31,100 --> 00:29:38,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+415
+00:29:38,100 --> 00:29:45,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+416
+00:29:45,100 --> 00:29:52,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+417
+00:29:52,100 --> 00:29:59,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+418
+00:29:59,100 --> 00:30:06,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+419
+00:30:06,100 --> 00:30:13,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+420
+00:30:13,100 --> 00:30:20,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+421
+00:30:20,100 --> 00:30:27,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+422
+00:30:27,100 --> 00:30:34,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+423
+00:30:34,100 --> 00:30:41,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+424
+00:30:41,100 --> 00:30:48,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+425
+00:30:48,100 --> 00:30:55,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+426
+00:30:55,100 --> 00:31:02,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+427
+00:31:02,100 --> 00:31:09,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+428
+00:31:09,100 --> 00:31:16,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+429
+00:31:16,100 --> 00:31:23,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+430
+00:31:23,100 --> 00:31:30,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+431
+00:31:30,100 --> 00:31:37,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+432
+00:31:37,100 --> 00:31:44,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+433
+00:31:44,100 --> 00:31:51,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+434
+00:31:51,100 --> 00:31:58,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+435
+00:31:58,100 --> 00:32:05,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+436
+00:32:05,100 --> 00:32:12,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+437
+00:32:12,100 --> 00:32:18,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+438
+00:32:18,100 --> 00:32:25,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+439
+00:32:25,100 --> 00:32:32,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+440
+00:32:32,100 --> 00:32:39,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+441
+00:32:39,100 --> 00:32:46,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+442
+00:32:46,100 --> 00:32:53,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+443
+00:32:53,100 --> 00:33:00,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+444
+00:33:00,100 --> 00:33:07,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+445
+00:33:07,100 --> 00:33:14,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+446
+00:33:14,100 --> 00:33:21,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+447
+00:33:21,100 --> 00:33:28,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+448
+00:33:28,100 --> 00:33:35,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+449
+00:33:35,100 --> 00:33:40,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+450
+00:33:40,100 --> 00:33:47,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+451
+00:33:47,100 --> 00:33:54,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+452
+00:33:54,100 --> 00:34:01,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+453
+00:34:01,100 --> 00:34:08,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+454
+00:34:08,100 --> 00:34:15,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+455
+00:34:15,100 --> 00:34:22,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+456
+00:34:22,100 --> 00:34:29,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
+457
+00:34:29,100 --> 00:34:36,100
+ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+
