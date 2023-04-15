@@ -1,0 +1,2864 @@
+1
+00:00:00,000 --> 00:00:07,800
+ A cursed college campus claims more victims.
+
+2
+00:00:07,800 --> 00:00:14,480
+ When a professional hitman sees crimes worse than his being committed, he decides to take
+
+3
+00:00:14,480 --> 00:00:17,840
+ the law into his own hands.
+
+4
+00:00:17,840 --> 00:00:22,680
+ And then we travel into the world of AI art.
+
+5
+00:00:22,680 --> 00:00:27,480
+ It's currently taking the world by storm whether you need a book cover or you just want an
+
+6
+00:00:27,480 --> 00:00:32,240
+ image of an anime chick with huge boobs, AI art is where it's at.
+
+7
+00:00:32,240 --> 00:00:37,880
+ But when you request a brand new piece of art to be created for you, are you actually
+
+8
+00:00:37,880 --> 00:00:42,200
+ reaching into an alternate universe?
+
+9
+00:00:42,200 --> 00:00:45,080
+ Today on Dead Rabbit Radio.
+
+10
+00:00:45,080 --> 00:00:56,240
+ Hey everyone, welcome back to another episode of Dead Rabbit Radio.
+
+11
+00:00:56,240 --> 00:00:59,480
+ I'm your host Jason Carpenter, I'm having a great day, I hope you guys are having a great
+
+12
+00:00:59,480 --> 00:01:03,480
+ day too, I hope you guys are having tons of fun out there in the world.
+
+13
+00:01:03,480 --> 00:01:09,720
+ This is episode like 996, we're four episodes away from episode 1000 and I'll tell you guys
+
+14
+00:01:09,720 --> 00:01:14,400
+ right now, I got no special plans for it.
+
+15
+00:01:14,400 --> 00:01:19,480
+ It's hard enough just doing regular episodes, it's hard enough coming up with stuff regularly
+
+16
+00:01:19,480 --> 00:01:24,480
+ so it's just gonna be just a normal episode but thank you so much for being part of this
+
+17
+00:01:24,480 --> 00:01:27,280
+ journey, it's fantastic.
+
+18
+00:01:27,280 --> 00:01:32,120
+ We are doing a Christmas livestream that's going to be December 25th at 12pm pacific
+
+19
+00:01:32,120 --> 00:01:34,360
+ standard time so maybe we'll do something there.
+
+20
+00:01:34,360 --> 00:01:38,040
+ Maybe I'll eat cake on the mic and irritate everybody.
+
+21
+00:01:38,040 --> 00:01:43,320
+ But join us for the Christmas, do people eat cake at, I think people eat pie at Christmas.
+
+22
+00:01:43,320 --> 00:01:48,240
+ Jamie look that up, look up what humans do on Christmas but yeah join us, we'll be on
+
+23
+00:01:48,240 --> 00:01:52,600
+ YouTube and then I'm gonna upload it to the podcast, the audio and it's gonna be much
+
+24
+00:01:52,600 --> 00:01:54,360
+ better quality this time.
+
+25
+00:01:54,360 --> 00:01:59,480
+ The Thanksgiving one didn't turn out that well but someone who makes sure things always
+
+26
+00:01:59,480 --> 00:02:05,760
+ turn out well walking into Dead Rabbit Command right now is one of our newest Patreon supporters.
+
+27
+00:02:05,760 --> 00:02:09,560
+ Everyone get on your feet and give it up for Rex Ivan.
+
+28
+00:02:09,560 --> 00:02:14,960
+ Woohoo yeah, walk on in buddy, walk on in, you sound like a supervillain, it's a supervillain
+
+29
+00:02:14,960 --> 00:02:17,080
+ name, Rex Ivan.
+
+30
+00:02:17,080 --> 00:02:20,280
+ You're gonna be our captain or pilot this episode if you guys can't support the Patreon
+
+31
+00:02:20,280 --> 00:02:24,400
+ if you guys don't work for the forces of evil that's fine too.
+
+32
+00:02:24,400 --> 00:02:27,920
+ Just help spread the word about the show that really helps out, tell everyone you know about
+
+33
+00:02:27,920 --> 00:02:31,120
+ Dead Rabbit Radio, it helps the show grow.
+
+34
+00:02:31,120 --> 00:02:36,880
+ Rex let's go ahead and toss you the keys to the hair hovercraft.
+
+35
+00:02:36,880 --> 00:02:40,960
+ We're gonna take this one out of storage, haven't used it in a while, glide us all the
+
+36
+00:02:40,960 --> 00:02:45,040
+ way out to Irvine California.
+
+37
+00:02:45,040 --> 00:02:55,880
+ Now this is actually a follow up to an episode I did a while back but if you didn't hear
+
+38
+00:02:55,880 --> 00:03:00,920
+ that episode it's totally fine we'll do a quick review, fascinating story, fascinating
+
+39
+00:03:00,920 --> 00:03:01,920
+ update.
+
+40
+00:03:01,920 --> 00:03:08,520
+ It was episode 912, it was titled The Suicide Machine and it talked about the University
+
+41
+00:03:08,520 --> 00:03:10,960
+ of California Irvine.
+
+42
+00:03:10,960 --> 00:03:16,240
+ What happened was I was researching a ghost story about this ballerina who was really
+
+43
+00:03:16,240 --> 00:03:20,960
+ trying to get the lead part in the ballet, she's like I gotta be the one who stands on
+
+44
+00:03:20,960 --> 00:03:24,640
+ my tippy toes for 3 hours, it has to be me.
+
+45
+00:03:24,640 --> 00:03:29,560
+ But she didn't get the part, she's like aw man I guess my feet aren't gonna be bloody
+
+46
+00:03:29,560 --> 00:03:35,880
+ for weeks on end and she was depressed so she, as I'm starting to laugh, as I'm starting
+
+47
+00:03:35,880 --> 00:03:40,880
+ to laugh this story takes a tragic turn, she hangs herself, well here's the thing, so
+
+48
+00:03:40,880 --> 00:03:44,760
+ people didn't know that she didn't get the part and her neighbors would look into her
+
+49
+00:03:44,760 --> 00:03:49,920
+ dorm and they would see her practicing all day long, she was constantly spinning, she
+
+50
+00:03:49,920 --> 00:03:54,320
+ was constantly spinning around and they're like wow, she's really really hoping to get
+
+51
+00:03:54,320 --> 00:03:58,880
+ that role, that's weird though I thought auditions were 2 weeks ago but she's still practicing,
+
+52
+00:03:58,880 --> 00:04:01,400
+ maybe she's getting ready for the show.
+
+53
+00:04:01,400 --> 00:04:05,480
+ People noticed that she was practicing day and night, the only thing is she was only
+
+54
+00:04:05,480 --> 00:04:08,240
+ practicing the same move, the spinny move.
+
+55
+00:04:08,240 --> 00:04:13,640
+ Well it turns out she hung herself from her ceiling fan and what they thought she was
+
+56
+00:04:13,640 --> 00:04:17,080
+ spinning it was actually the ceiling fan going around and around.
+
+57
+00:04:17,080 --> 00:04:21,880
+ Now obviously that's an urban legend, you could obviously tell the difference between
+
+58
+00:04:21,880 --> 00:04:28,640
+ a ballerina spinning on one toe versus a body going whoo whoo whoo whoo whoo whoo, flipping
+
+59
+00:04:28,640 --> 00:04:33,720
+ around like a stooge with their tie caught in a ceiling fan, you could obviously be like
+
+60
+00:04:33,720 --> 00:04:37,800
+ wow she really has those moves down, she's defined the laws of gravity, she's been doing
+
+61
+00:04:37,800 --> 00:04:40,720
+ it for about 12 hours now.
+
+62
+00:04:40,720 --> 00:04:45,360
+ But that got me to look at, that's an urban legend that comes out of UC Irvine, but UC
+
+63
+00:04:45,360 --> 00:04:52,160
+ Irvine does actually have a serious suicide problem, which is something I discovered when
+
+64
+00:04:52,160 --> 00:04:54,480
+ I was researching this urban legend.
+
+65
+00:04:54,480 --> 00:05:01,680
+ There was an article written for the OC Weekly, there's a great article written by Charles
+
+66
+00:05:01,680 --> 00:05:12,560
+ Lamb and the article is titled "Why Do So Many Students Commit Suicide at UC Irvine's
+
+67
+00:05:12,560 --> 00:05:15,920
+ Social Science Plaza?"
+
+68
+00:05:15,920 --> 00:05:22,200
+ And Charles Lamb paints this picture so you have this campus, there was supposed to be
+
+69
+00:05:22,200 --> 00:05:28,880
+ this symbol of balance between nature and the modern world.
+
+70
+00:05:28,880 --> 00:05:36,160
+ You had this perfect balance the way everything was laid out, but in the middle of it they
+
+71
+00:05:36,160 --> 00:05:40,240
+ built the social sciences building and actually they said the buildings are in this weird
+
+72
+00:05:40,240 --> 00:05:43,120
+ clockwise formation actually.
+
+73
+00:05:43,120 --> 00:05:49,360
+ When you're walking around UC Irvine you feel everything is so open and breezy and you can
+
+74
+00:05:49,360 --> 00:05:54,320
+ sense the intent behind the architecture.
+
+75
+00:05:54,320 --> 00:05:59,040
+ So when you enter the social sciences plaza and every student has to take at least one
+
+76
+00:05:59,040 --> 00:06:03,640
+ class here, just the way the classes are laid out, it's not like the dean is like "let's
+
+77
+00:06:03,640 --> 00:06:08,440
+ see if you can survive one semester here."
+
+78
+00:06:08,440 --> 00:06:11,880
+ You walk in there and everything starts to feel very claustrophobic and not like in
+
+79
+00:06:11,880 --> 00:06:15,760
+ a spooky way, it's not like you go there and there's dark shadows walking on, although
+
+80
+00:06:15,760 --> 00:06:18,280
+ those might be there as well.
+
+81
+00:06:18,280 --> 00:06:24,280
+ They say that it's more closed off, there's something like architecturally wrong about
+
+82
+00:06:24,280 --> 00:06:28,280
+ it, it really throws off the balance of the campus.
+
+83
+00:06:28,280 --> 00:06:33,800
+ And they have so many suicides, so what happens is you have these buildings with these, there's
+
+84
+00:06:33,800 --> 00:06:41,640
+ five buildings there, these five multi-story buildings, and they have these exterior staircases.
+
+85
+00:06:41,640 --> 00:06:48,560
+ They have interior ones as well and I'm assuming elevators, but they have these exterior staircases
+
+86
+00:06:48,560 --> 00:06:53,040
+ and on each landing there's a sign that says "don't kill yourself."
+
+87
+00:06:53,040 --> 00:06:57,400
+ That's not verbatim, that's not the quote, but it's like "there's help out there, here's
+
+88
+00:06:57,400 --> 00:06:59,880
+ a phone number, don't kill yourself."
+
+89
+00:06:59,880 --> 00:07:06,880
+ And those signs are on each floor, but what happens is people keep jumping off the exterior
+
+90
+00:07:06,880 --> 00:07:11,840
+ staircases of these buildings and killing themselves during the school day.
+
+91
+00:07:11,840 --> 00:07:15,200
+ And some of these people aren't even students.
+
+92
+00:07:15,200 --> 00:07:21,760
+ Some of these people like travel here, walk up the staircase and jump off.
+
+93
+00:07:21,760 --> 00:07:23,920
+ And nobody really knows why.
+
+94
+00:07:23,920 --> 00:07:24,920
+ Nobody really knows why.
+
+95
+00:07:24,920 --> 00:07:29,240
+ It was interesting because Charles Lamb, this is obviously a paranormal podcast, I'm
+
+96
+00:07:29,240 --> 00:07:35,000
+ a paranormal researcher, so I started talking about maybe there's something here harnessing
+
+97
+00:07:35,000 --> 00:07:36,000
+ the dark energy.
+
+98
+00:07:36,000 --> 00:07:39,280
+ Like Jason, that was really tacky, now that you remind me of that.
+
+99
+00:07:39,280 --> 00:07:40,280
+ That's pretty callous.
+
+100
+00:07:40,280 --> 00:07:45,440
+ I know, I know, but I was like maybe there's something here harnessing this dark energy.
+
+101
+00:07:45,440 --> 00:07:55,920
+ You see Irvine was created when the niece of Myford Irvine killed himself.
+
+102
+00:07:55,920 --> 00:08:00,200
+ And then the entire Irvine, because Irvine was this family of very prominent real estate
+
+103
+00:08:00,200 --> 00:08:07,320
+ developers back in the day, Myford Irvine killed himself and his niece who took over
+
+104
+00:08:07,320 --> 00:08:12,940
+ everything, she was really the last living person, she donated like a thousand acres
+
+105
+00:08:12,940 --> 00:08:14,040
+ to build this.
+
+106
+00:08:14,040 --> 00:08:20,720
+ So the college itself in a way came out of a tragic suicide.
+
+107
+00:08:20,720 --> 00:08:25,600
+ I kind of went with this paranormal angle, maybe a little bit of a mad scientist angle
+
+108
+00:08:25,600 --> 00:08:26,600
+ in there.
+
+109
+00:08:26,600 --> 00:08:29,560
+ And I said, why are people killing themselves here?
+
+110
+00:08:29,560 --> 00:08:32,600
+ Charles Lamb, Charles Lamb wasn't having any of that nonsense.
+
+111
+00:08:32,600 --> 00:08:34,240
+ He didn't say that.
+
+112
+00:08:34,240 --> 00:08:38,280
+ And it's interesting because the school themselves, like the school spokespeople, they're just
+
+113
+00:08:38,280 --> 00:08:41,440
+ like they don't even like to acknowledge this stuff.
+
+114
+00:08:41,440 --> 00:08:44,440
+ They don't even like to acknowledge it.
+
+115
+00:08:44,440 --> 00:08:47,240
+ It happens.
+
+116
+00:08:47,240 --> 00:08:50,240
+ We just go on with the day.
+
+117
+00:08:50,240 --> 00:08:53,080
+ Like people will kill themselves and they'll kind of like rope it off and the ambulance
+
+118
+00:08:53,080 --> 00:08:54,080
+ shows up.
+
+119
+00:08:54,080 --> 00:08:58,360
+ But there's no like, sometimes there are, but a lot of times there's no like candlelight
+
+120
+00:08:58,360 --> 00:09:01,480
+ vigil or memorial put up or anything like that.
+
+121
+00:09:01,480 --> 00:09:03,920
+ Someone kills themselves.
+
+122
+00:09:03,920 --> 00:09:06,160
+ Everything is back to normal.
+
+123
+00:09:06,160 --> 00:09:07,680
+ Really interesting story.
+
+124
+00:09:07,680 --> 00:09:11,760
+ And I'll put it in the show notes, of course.
+
+125
+00:09:11,760 --> 00:09:16,120
+ But now we have a tragic update.
+
+126
+00:09:16,120 --> 00:09:18,300
+ This is so weird.
+
+127
+00:09:18,300 --> 00:09:19,300
+ This is so weird.
+
+128
+00:09:19,300 --> 00:09:20,720
+ I was reading my true crime.
+
+129
+00:09:20,720 --> 00:09:23,280
+ I wake up every morning and reading all these true crime websites.
+
+130
+00:09:23,280 --> 00:09:25,040
+ Let's take a look at this.
+
+131
+00:09:25,040 --> 00:09:29,520
+ December 13th, 2022.
+
+132
+00:09:29,520 --> 00:09:33,000
+ It's 4pm in the afternoon.
+
+133
+00:09:33,000 --> 00:09:39,560
+ A man named Andrew Nguyen Done, 36 years old.
+
+134
+00:09:39,560 --> 00:09:42,720
+ He was a former student of UC Irvine.
+
+135
+00:09:42,720 --> 00:09:47,240
+ Back in 2017 to 2019, he attended this campus.
+
+136
+00:09:47,240 --> 00:09:51,520
+ He shows up at the social sciences plaza.
+
+137
+00:09:51,520 --> 00:09:53,160
+ We've seen this story happen before, right?
+
+138
+00:09:53,160 --> 00:09:55,840
+ Like sometimes people have no relation to the school.
+
+139
+00:09:55,840 --> 00:09:57,160
+ Sometimes they're current students.
+
+140
+00:09:57,160 --> 00:09:59,920
+ Sometimes they're former students.
+
+141
+00:09:59,920 --> 00:10:04,360
+ Andrew shows up at the social sciences plaza.
+
+142
+00:10:04,360 --> 00:10:13,600
+ And he brings along his 77 year old mother, Tao Tai Nguyen.
+
+143
+00:10:13,600 --> 00:10:21,840
+ They both proceed to go to the top floor of one of these social sciences buildings.
+
+144
+00:10:21,840 --> 00:10:27,680
+ Once they're at the top floor, out on one of these exterior staircases, Andrew throws
+
+145
+00:10:27,680 --> 00:10:31,680
+ his mother off the building.
+
+146
+00:10:31,680 --> 00:10:36,080
+ He then jumps off himself.
+
+147
+00:10:36,080 --> 00:10:40,920
+ They both die.
+
+148
+00:10:40,920 --> 00:10:47,480
+ This is the first murder that has happened at the social sciences plaza.
+
+149
+00:10:47,480 --> 00:10:49,400
+ They have all been suicides.
+
+150
+00:10:49,400 --> 00:10:51,560
+ But just what was this?
+
+151
+00:10:51,560 --> 00:10:56,040
+ Two weeks ago, as of recording this episode, a dude threw his mom off and then jumped off
+
+152
+00:10:56,040 --> 00:10:57,040
+ himself.
+
+153
+00:10:57,040 --> 00:10:59,360
+ You have so many questions.
+
+154
+00:10:59,360 --> 00:11:03,640
+ This was a brief article on a true crime website.
+
+155
+00:11:03,640 --> 00:11:09,000
+ I'm sure UC Irvine, they know what to do.
+
+156
+00:11:09,000 --> 00:11:12,200
+ They just get the bodies out, go on with the day.
+
+157
+00:11:12,200 --> 00:11:13,720
+ This is 4pm, right?
+
+158
+00:11:13,720 --> 00:11:16,840
+ This was right in school hours.
+
+159
+00:11:16,840 --> 00:11:20,160
+ Throws a 77 year old mother off the ledge and then jumps off himself.
+
+160
+00:11:20,160 --> 00:11:21,640
+ It's absolutely insane.
+
+161
+00:11:21,640 --> 00:11:26,720
+ And speaking of that, Andrew did suffer from mental health issues.
+
+162
+00:11:26,720 --> 00:11:33,480
+ He was put in a mental hospital at one point and he sexually assaulted his roommate while
+
+163
+00:11:33,480 --> 00:11:34,880
+ they were in the mental hospital.
+
+164
+00:11:34,880 --> 00:11:37,160
+ I mean, I feel bad for that dude, right?
+
+165
+00:11:37,160 --> 00:11:38,760
+ You're already in there.
+
+166
+00:11:38,760 --> 00:11:42,320
+ You're suffering from some mental issues.
+
+167
+00:11:42,320 --> 00:11:46,240
+ And then you make some big ol' pervo and you can't leave.
+
+168
+00:11:46,240 --> 00:11:47,240
+ You can't leave.
+
+169
+00:11:47,240 --> 00:11:51,760
+ But Andrew sexually assaulted his roommate so then they took Andrew out of the mental
+
+170
+00:11:51,760 --> 00:11:54,440
+ hospital, put him in a jail.
+
+171
+00:11:54,440 --> 00:11:58,400
+ He was there for about half a year and then he got three years probation.
+
+172
+00:11:58,400 --> 00:12:03,040
+ He just got off probation in July and now he's dead.
+
+173
+00:12:03,040 --> 00:12:04,040
+ Along with his mother.
+
+174
+00:12:04,040 --> 00:12:05,040
+ He murdered his mother.
+
+175
+00:12:05,040 --> 00:12:06,040
+ This is so weird.
+
+176
+00:12:06,040 --> 00:12:11,000
+ We don't know why.
+
+177
+00:12:11,000 --> 00:12:13,000
+ We don't know how.
+
+178
+00:12:13,000 --> 00:12:14,960
+ I mean, I guess he picked her up and threw her over.
+
+179
+00:12:14,960 --> 00:12:17,240
+ Like, did they take the stairs?
+
+180
+00:12:17,240 --> 00:12:18,240
+ 77 years old.
+
+181
+00:12:18,240 --> 00:12:20,640
+ That's a lot of stairs.
+
+182
+00:12:20,640 --> 00:12:22,320
+ That's a lot of stairs to walk up.
+
+183
+00:12:22,320 --> 00:12:23,520
+ Did they take the elevator?
+
+184
+00:12:23,520 --> 00:12:24,520
+ Did she know?
+
+185
+00:12:24,520 --> 00:12:26,720
+ You're gonna chase those such minor points.
+
+186
+00:12:26,720 --> 00:12:29,320
+ You're like, did her legs cramp?
+
+187
+00:12:29,320 --> 00:12:31,560
+ Did she know?
+
+188
+00:12:31,560 --> 00:12:33,240
+ He was going to throw her off.
+
+189
+00:12:33,240 --> 00:12:37,760
+ Was it an assisted suicide and then a suicide?
+
+190
+00:12:37,760 --> 00:12:40,200
+ Like was she like, I can't take this anymore, Andrew.
+
+191
+00:12:40,200 --> 00:12:44,680
+ Take me to those stairs you've always been talking about.
+
+192
+00:12:44,680 --> 00:12:48,240
+ Absolutely creepy.
+
+193
+00:12:48,240 --> 00:12:52,720
+ And again, knowing what you see Irvine has done with so many of the suicides that have
+
+194
+00:12:52,720 --> 00:12:55,080
+ taken place there, they just brushed it off.
+
+195
+00:12:55,080 --> 00:12:59,760
+ I imagine this is also just going to get brushed off.
+
+196
+00:12:59,760 --> 00:13:02,720
+ A murder.
+
+197
+00:13:02,720 --> 00:13:06,480
+ A murder took place at the suicide machine.
+
+198
+00:13:06,480 --> 00:13:12,560
+ That's a whole new wrinkle to what craziness could be going on here.
+
+199
+00:13:12,560 --> 00:13:14,080
+ An old student.
+
+200
+00:13:14,080 --> 00:13:15,920
+ He hasn't been there for three years.
+
+201
+00:13:15,920 --> 00:13:20,120
+ He hasn't been a student for three years while he was in a mental hospital in jail.
+
+202
+00:13:20,120 --> 00:13:23,040
+ Why did he come back here out of all the places and you see Irvine?
+
+203
+00:13:23,040 --> 00:13:24,040
+ Why did he come here?
+
+204
+00:13:24,040 --> 00:13:25,040
+ Why did he bring his mom?
+
+205
+00:13:25,040 --> 00:13:27,480
+ Did his mom know what was going to happen?
+
+206
+00:13:27,480 --> 00:13:28,480
+ Who knows?
+
+207
+00:13:28,480 --> 00:13:30,840
+ A terrifying story nonetheless.
+
+208
+00:13:30,840 --> 00:13:35,560
+ Rex Ivan, let's go ahead and toss you the keys to the Jason Jalopy we're going to leave
+
+209
+00:13:35,560 --> 00:13:37,680
+ behind you see Irvine.
+
+210
+00:13:37,680 --> 00:13:44,760
+ Give us all the way out to Minneapolis.
+
+211
+00:13:44,760 --> 00:13:49,400
+ First off I want to give a shout out to Patreon supporter and active member of the Patreon
+
+212
+00:13:49,400 --> 00:13:52,600
+ Discord at Denby Jones.
+
+213
+00:13:52,600 --> 00:13:54,520
+ He's the one who sent me over this story.
+
+214
+00:13:54,520 --> 00:13:57,640
+ He goes, "Listen, I don't know if this is true.
+
+215
+00:13:57,640 --> 00:14:01,720
+ I found this online, but it's interesting.
+
+216
+00:14:01,720 --> 00:14:03,680
+ I actually do think it's true.
+
+217
+00:14:03,680 --> 00:14:05,760
+ I actually, it's definitely possible.
+
+218
+00:14:05,760 --> 00:14:08,600
+ It's 100% possible."
+
+219
+00:14:08,600 --> 00:14:16,920
+ On December 12th, 2022, a former police officer posted something online saying, "This happened
+
+220
+00:14:16,920 --> 00:14:18,520
+ a long time ago.
+
+221
+00:14:18,520 --> 00:14:20,800
+ It happened in Minneapolis.
+
+222
+00:14:20,800 --> 00:14:23,040
+ Maybe I could get in trouble for posting this, but whatever.
+
+223
+00:14:23,040 --> 00:14:24,040
+ It's been a while.
+
+224
+00:14:24,040 --> 00:14:28,240
+ I don't really care anymore."
+
+225
+00:14:28,240 --> 00:14:36,400
+ There was a string of murders in the city of Minneapolis a while back.
+
+226
+00:14:36,400 --> 00:14:39,280
+ They were all related.
+
+227
+00:14:39,280 --> 00:14:44,680
+ They were all related because we knew the victims all had something in common and the
+
+228
+00:14:44,680 --> 00:14:47,280
+ gunman used the same M.O.
+
+229
+00:14:47,280 --> 00:14:51,960
+ He actually might have been a professional hitman the way all of these things played
+
+230
+00:14:51,960 --> 00:14:54,440
+ out.
+
+231
+00:14:54,440 --> 00:15:00,440
+ The police officers in Minneapolis, they started to get these calls of these shotgun
+
+232
+00:15:00,440 --> 00:15:04,120
+ murders all over town.
+
+233
+00:15:04,120 --> 00:15:05,360
+ The police will show up.
+
+234
+00:15:05,360 --> 00:15:06,600
+ The front door is open.
+
+235
+00:15:06,600 --> 00:15:10,680
+ There's a man laying there with two shotgun blasts to the chest.
+
+236
+00:15:10,680 --> 00:15:16,360
+ No shotgun shells at the scene.
+
+237
+00:15:16,360 --> 00:15:17,600
+ Which is very important.
+
+238
+00:15:17,600 --> 00:15:23,720
+ So when you are shooting someone with a gun, say a rifle or a handgun, as the bullet, and
+
+239
+00:15:23,720 --> 00:15:28,240
+ I know there's probably the wrong terminology that I'm calling what comes out of the gun.
+
+240
+00:15:28,240 --> 00:15:30,400
+ I always get yelled at about this stuff.
+
+241
+00:15:30,400 --> 00:15:37,400
+ When you fire a bullet out of a gun, it will...there's always, no matter how you make the guns, you
+
+242
+00:15:37,400 --> 00:15:43,080
+ can actually sand down this part of it, sand down this part of the barrel, but the rifling
+
+243
+00:15:43,080 --> 00:15:48,280
+ in the barrel of the gun will actually leave groove marks on the bullet as it's spinning
+
+244
+00:15:48,280 --> 00:15:52,240
+ through to come out and go into somebody else's body.
+
+245
+00:15:52,240 --> 00:15:54,800
+ So that's why they're constantly doing these ballistic matches.
+
+246
+00:15:54,800 --> 00:16:02,160
+ It's so unique to a gun that if I find a bullet, as long as it's in reasonable shape, if it's
+
+247
+00:16:02,160 --> 00:16:07,000
+ completely flattened, I think you'd have a harder time doing the rifling.
+
+248
+00:16:07,000 --> 00:16:10,240
+ I don't think you'd get it all if it's mushroomed out like a hollow point.
+
+249
+00:16:10,240 --> 00:16:11,240
+ I could be wrong on that.
+
+250
+00:16:11,240 --> 00:16:14,000
+ But you have the bullet.
+
+251
+00:16:14,000 --> 00:16:19,040
+ You can match it to the rifling of a specific gun or rifle.
+
+252
+00:16:19,040 --> 00:16:23,400
+ So if I have a bullet and it has the grooves in it, I can then, if I can get the suspect's
+
+253
+00:16:23,400 --> 00:16:25,080
+ weapon, you guys are like, "I didn't do it.
+
+254
+00:16:25,080 --> 00:16:26,080
+ I didn't do it."
+
+255
+00:16:26,080 --> 00:16:27,080
+ And they're like, "Well, do you own a .22?"
+
+256
+00:16:27,080 --> 00:16:28,080
+ Yeah.
+
+257
+00:16:28,080 --> 00:16:31,080
+ And I'm able to match the rifling of the bullet to that .22.
+
+258
+00:16:31,080 --> 00:16:36,600
+ It's the same thing as DNA or fingerprints for a firearm.
+
+259
+00:16:36,600 --> 00:16:42,120
+ Now when you're shooting someone with a gun, you can't then take the time to pull the bullets
+
+260
+00:16:42,120 --> 00:16:43,120
+ out of them.
+
+261
+00:16:43,120 --> 00:16:46,680
+ I mean, I guess you could if you're in the middle of the woods.
+
+262
+00:16:46,680 --> 00:16:48,840
+ It's a totally isolated location.
+
+263
+00:16:48,840 --> 00:16:53,360
+ But when you shoot someone with a gun, generally you're going to leave the area.
+
+264
+00:16:53,360 --> 00:16:57,200
+ And if I can pull those bullets out and they're in good enough shape that I can test those
+
+265
+00:16:57,200 --> 00:16:59,480
+ grooves, I will get your gun in.
+
+266
+00:16:59,480 --> 00:17:02,200
+ And I will shoot bullets out of your gun.
+
+267
+00:17:02,200 --> 00:17:05,440
+ And then I will match the grooves in that bullet to the bullet that's in the body.
+
+268
+00:17:05,440 --> 00:17:07,600
+ That's how they'll catch a lot of people.
+
+269
+00:17:07,600 --> 00:17:11,560
+ Shotguns do not do this.
+
+270
+00:17:11,560 --> 00:17:18,000
+ The way a shotgun shell works is that when that shell is, once the gunpowder in the
+
+271
+00:17:18,000 --> 00:17:25,440
+ shell is ignited, a bunch of shots, small little ball bearings, basically, BBs, I know
+
+272
+00:17:25,440 --> 00:17:29,240
+ a bunch of gun, I know a bunch of gun aficionados are pulling their hair right now.
+
+273
+00:17:29,240 --> 00:17:30,800
+ They're getting their guns ready to kill me.
+
+274
+00:17:30,800 --> 00:17:38,480
+ When you fire a shotgun, all the shot comes out of the shell and there's no rifling.
+
+275
+00:17:38,480 --> 00:17:42,160
+ So you can take all the BBs in the world, you'll never be able to match them to what
+
+276
+00:17:42,160 --> 00:17:44,240
+ shotgun it came out of.
+
+277
+00:17:44,240 --> 00:17:48,960
+ However, the shells themselves, when that hammer comes down and clicks the back of the
+
+278
+00:17:48,960 --> 00:17:53,120
+ shell to ignite the gunpowder for the shot to come out, the hammer on the shotgun is
+
+279
+00:17:53,120 --> 00:17:59,680
+ unique and it can actually leave a fairly unique impression on the back of the shells.
+
+280
+00:17:59,680 --> 00:18:05,800
+ When you eject the shells out of the shotgun, if a police officer can get one of those shells
+
+281
+00:18:05,800 --> 00:18:10,240
+ and then eventually they're able to find the shotgun, they can match the hammer imprint
+
+282
+00:18:10,240 --> 00:18:13,560
+ on the back of the shell to the shotgun it's fired from.
+
+283
+00:18:13,560 --> 00:18:21,880
+ If they do not have the shells outside of you carrying around a smoking shotgun from
+
+284
+00:18:21,880 --> 00:18:27,880
+ the crime scene, they can never prove that that guy was killed with your shotgun.
+
+285
+00:18:27,880 --> 00:18:33,200
+ Obviously they can, if you have boxes of ammo of the same type of ammo that killed the guy,
+
+286
+00:18:33,200 --> 00:18:34,600
+ they'll use that in court.
+
+287
+00:18:34,600 --> 00:18:39,560
+ The fact that you had a shotgun, this person that you kept threatening with a shotgun your
+
+288
+00:18:39,560 --> 00:18:42,880
+ entire life, they got finally killed by a shotgun, they'll use that.
+
+289
+00:18:42,880 --> 00:18:48,600
+ But otherwise, like a professional hitman who's killing people at random or seemingly
+
+290
+00:18:48,600 --> 00:18:51,920
+ at random, they can't prove that's where it came from.
+
+291
+00:18:51,920 --> 00:18:56,560
+ That's a little bit of gun 101 for you from me.
+
+292
+00:18:56,560 --> 00:19:00,600
+ If you do not take this advice, you're like putting the gun down, you're like, "Oh, because
+
+293
+00:19:00,600 --> 00:19:04,320
+ I want to use shotgun for work tonight."
+
+294
+00:19:04,320 --> 00:19:07,760
+ But what happens is they're going to these houses, they're finding these people, shotgun
+
+295
+00:19:07,760 --> 00:19:09,480
+ to death, just two shots.
+
+296
+00:19:09,480 --> 00:19:13,800
+ It's a sawed off shotgun, boom, boom.
+
+297
+00:19:13,800 --> 00:19:18,000
+ The shells don't pop out, you keep it in there, you're not reloading, you turn around, you
+
+298
+00:19:18,000 --> 00:19:19,160
+ leave.
+
+299
+00:19:19,160 --> 00:19:22,160
+ The only evidence is there's a dead body full of shots.
+
+300
+00:19:22,160 --> 00:19:26,000
+ I've got all these pellets inside of them.
+
+301
+00:19:26,000 --> 00:19:30,040
+ When you're investigating a random murder, like they're really any murder, the first
+
+302
+00:19:30,040 --> 00:19:34,120
+ thing you have to do is find out, is the first thing you've got to do is find out if the
+
+303
+00:19:34,120 --> 00:19:36,280
+ murderer is still here, am I going to get killed too?
+
+304
+00:19:36,280 --> 00:19:39,720
+ But once you realize that the murderer is not there, that you're not trapped in a jigsaw
+
+305
+00:19:39,720 --> 00:19:44,000
+ movie, you go, "Who's the victim?"
+
+306
+00:19:44,000 --> 00:19:49,480
+ They find this guy, he's got two shotgun blasts to the chest, right inside of his house, middle
+
+307
+00:19:49,480 --> 00:19:51,280
+ of day.
+
+308
+00:19:51,280 --> 00:19:53,280
+ Child molester.
+
+309
+00:19:53,280 --> 00:19:57,240
+ Convicted child molester.
+
+310
+00:19:57,240 --> 00:20:01,160
+ Maybe child porn, maybe enticement of a child.
+
+311
+00:20:01,160 --> 00:20:05,320
+ I mean, you have all these other wiggle words for it or the other crimes for it.
+
+312
+00:20:05,320 --> 00:20:11,360
+ What you have is a pervert who has been found guilty by the judicial system and has now
+
+313
+00:20:11,360 --> 00:20:15,440
+ been released, but they're still on the database.
+
+314
+00:20:15,440 --> 00:20:19,480
+ In most states, I think in all states at this point, but I could be wrong, there are Megan
+
+315
+00:20:19,480 --> 00:20:24,240
+ Law type databases where you type in your zip code, and it'll give you the addresses
+
+316
+00:20:24,240 --> 00:20:32,520
+ of all of the convicted sex offenders in your area.
+
+317
+00:20:32,520 --> 00:20:38,440
+ So they go, "This guy, he's a convicted child predator of some sort."
+
+318
+00:20:38,440 --> 00:20:40,440
+ Child molester, child porn, whatever.
+
+319
+00:20:40,440 --> 00:20:41,440
+ It's usually combined.
+
+320
+00:20:41,440 --> 00:20:45,040
+ They're usually just not like, "There's no child porn for me, sir.
+
+321
+00:20:45,040 --> 00:20:46,040
+ I'm not a molester."
+
+322
+00:20:46,040 --> 00:20:50,400
+ I know people think that's the case, but I'm delusional.
+
+323
+00:20:50,400 --> 00:20:54,600
+ They find this guy, he's a child molester, he gets blasted away.
+
+324
+00:20:54,600 --> 00:21:00,840
+ Well a period of time passes and they get a report of another shotgun murder in Minneapolis.
+
+325
+00:21:00,840 --> 00:21:07,120
+ I doubt this is the only shotgun murders happening in the city of Minneapolis, but they go out,
+
+326
+00:21:07,120 --> 00:21:08,120
+ they check it out.
+
+327
+00:21:08,120 --> 00:21:12,680
+ Some guy has been shot right inside the doorway of his house.
+
+328
+00:21:12,680 --> 00:21:16,680
+ Two shotgun blasts to the chest.
+
+329
+00:21:16,680 --> 00:21:21,120
+ Then they check the victim's background, sex offender.
+
+330
+00:21:21,120 --> 00:21:22,120
+ Registered sex offender.
+
+331
+00:21:22,120 --> 00:21:27,960
+ These are high level, these are level three sex offenders.
+
+332
+00:21:27,960 --> 00:21:34,640
+ All in all, 11 registered sex offenders are killed in the city of Minneapolis over a period
+
+333
+00:21:34,640 --> 00:21:35,840
+ of time.
+
+334
+00:21:35,840 --> 00:21:39,240
+ He goes, "We did kind of figure out his MO."
+
+335
+00:21:39,240 --> 00:21:42,800
+ Apparently, and I don't know if this is from witnesses in the area, apparently, and this
+
+336
+00:21:42,800 --> 00:21:44,160
+ story could be made up.
+
+337
+00:21:44,160 --> 00:21:49,280
+ Denby Jones is right, the story could be made up.
+
+338
+00:21:49,280 --> 00:21:55,480
+ What they had gathered in this possible fictional investigation was that he was dressing up as
+
+339
+00:21:55,480 --> 00:21:58,560
+ a delivery driver.
+
+340
+00:21:58,560 --> 00:22:04,080
+ Dressing up as like a UPS driver or an Amazon driver.
+
+341
+00:22:04,080 --> 00:22:07,160
+ Amazon driver, originally I was saying the story took place in the 80s, but if it was
+
+342
+00:22:07,160 --> 00:22:11,320
+ an Amazon driver, it would be like in the past six years even.
+
+343
+00:22:11,320 --> 00:22:17,480
+ UPS, Amazon FedEx, what have you, he would dress up as a delivery driver, he would go
+
+344
+00:22:17,480 --> 00:22:21,840
+ to the house, he would ask, "Is so-and-so here?"
+
+345
+00:22:21,840 --> 00:22:25,240
+ Because he knows the name of the sex offender and when the person said, "Yeah, that's me,"
+
+346
+00:22:25,240 --> 00:22:27,400
+ he would shoot them with the shotgun.
+
+347
+00:22:27,400 --> 00:22:31,960
+ Specifically, he said what we surmised is he would hold the shotgun up and that would
+
+348
+00:22:31,960 --> 00:22:37,440
+ immediately make the soon-to-be murder victim put his hands up and walk backwards.
+
+349
+00:22:37,440 --> 00:22:43,400
+ There's not much you can do when there's a shotgun pointed at you except walk backwards.
+
+350
+00:22:43,400 --> 00:22:47,840
+ And that would allow them to both slightly walk into the house where he could shoot him
+
+351
+00:22:47,840 --> 00:22:53,600
+ twice and the sound of the shotgun would be slightly muffled, the muzzle blast of the
+
+352
+00:22:53,600 --> 00:22:58,320
+ shotgun would not be super visible unless you were like looking through a window and then
+
+353
+00:22:58,320 --> 00:23:00,040
+ he would just turn around and leave.
+
+354
+00:23:00,040 --> 00:23:02,920
+ That is what they think the MO was.
+
+355
+00:23:02,920 --> 00:23:04,640
+ So why didn't we know any of this?
+
+356
+00:23:04,640 --> 00:23:08,720
+ Like we might not know any of it because it's fake.
+
+357
+00:23:08,720 --> 00:23:13,600
+ He is saying, and this makes sense, this does make sense, he goes, "The reason why...
+
+358
+00:23:13,600 --> 00:23:19,560
+ The police actually made an active effort to cover this up."
+
+359
+00:23:19,560 --> 00:23:26,520
+ Because it's so easy to do.
+
+360
+00:23:26,520 --> 00:23:28,800
+ He said people hate pedophiles.
+
+361
+00:23:28,800 --> 00:23:35,240
+ Like it's just one of the groups of people that everybody hates.
+
+362
+00:23:35,240 --> 00:23:42,800
+ And if you knew it was so easy to get away with gunning down perverts in their house
+
+363
+00:23:42,800 --> 00:23:46,880
+ that you could walk around with an untraceable weapon, the shotguns are illegal so you don't
+
+364
+00:23:46,880 --> 00:23:47,880
+ want to be caught with one.
+
+365
+00:23:47,880 --> 00:23:52,320
+ Like if you're driving around, there's no reason, there's no logical reason why you
+
+366
+00:23:52,320 --> 00:23:56,600
+ should have a shotgun unless you wanted to conceal it and sneak up on people and blast
+
+367
+00:23:56,600 --> 00:23:57,600
+ their brains out.
+
+368
+00:23:57,600 --> 00:24:01,600
+ There's no one, there's no like, "I want to get this deer and I want to be right behind
+
+369
+00:24:01,600 --> 00:24:04,320
+ it when I blow its legs off."
+
+370
+00:24:04,320 --> 00:24:09,160
+ You have an untraceable weapon, a shot-off shotgun, it's super easy to conceal.
+
+371
+00:24:09,160 --> 00:24:13,560
+ You're going to houses of people who you don't have to worry about, well it's illegal to
+
+372
+00:24:13,560 --> 00:24:16,200
+ murder people, but they've already been tried and convicted.
+
+373
+00:24:16,200 --> 00:24:19,680
+ This isn't a thing, and done prison time and then was released.
+
+374
+00:24:19,680 --> 00:24:25,080
+ This isn't a thing where you're like, "Well, you know, he was 19 and she was 17 and who
+
+375
+00:24:25,080 --> 00:24:26,080
+ know?"
+
+376
+00:24:26,080 --> 00:24:27,080
+ No, no, no, no, no.
+
+377
+00:24:27,080 --> 00:24:32,000
+ These are people who've had their crimes documented, they've been through the system so I'm not
+
+378
+00:24:32,000 --> 00:24:34,760
+ going to be back up here, I'm not advocating people do this.
+
+379
+00:24:34,760 --> 00:24:37,320
+ I'm saying this would be the rationale.
+
+380
+00:24:37,320 --> 00:24:43,040
+ If it got out that you could type in your zip code and find the worst of the worst, these
+
+381
+00:24:43,040 --> 00:24:51,520
+ will tier 3, level 3 sex offenders, go to their houses and kill them and not get caught.
+
+382
+00:24:51,520 --> 00:24:55,960
+ 11 people have already been killed and the police are no closer to catching who this
+
+383
+00:24:55,960 --> 00:24:56,960
+ is.
+
+384
+00:24:56,960 --> 00:25:02,600
+ He goes, "It would be open season."
+
+385
+00:25:02,600 --> 00:25:03,760
+ So we covered it up.
+
+386
+00:25:03,760 --> 00:25:09,360
+ We actually, we made sure the media did not know what was going on and eventually because
+
+387
+00:25:09,360 --> 00:25:15,040
+ police beat reporters are pretty persistent, it did start to get out and reporters were
+
+388
+00:25:15,040 --> 00:25:19,240
+ going to cover it and the police had to go, "Please don't cover this because you have
+
+389
+00:25:19,240 --> 00:25:20,240
+ no way."
+
+390
+00:25:20,240 --> 00:25:27,400
+ If it gets out that it's this easy, the streets are going to be running red with blood.
+
+391
+00:25:27,400 --> 00:25:29,480
+ We're trying not to underplay this.
+
+392
+00:25:29,480 --> 00:25:33,960
+ You will create a massive vigilante spree.
+
+393
+00:25:33,960 --> 00:25:37,680
+ They said there was a Fox affiliate out there that they really had to put the thumb down
+
+394
+00:25:37,680 --> 00:25:41,920
+ and go, "Seriously, we had to bring them in and show them all this stuff and said this
+
+395
+00:25:41,920 --> 00:25:46,760
+ is what will happen if you report this story."
+
+396
+00:25:46,760 --> 00:25:49,880
+ It will cause so much damage.
+
+397
+00:25:49,880 --> 00:25:52,840
+ A lot of people will die.
+
+398
+00:25:52,840 --> 00:25:54,360
+ So eventually they relented.
+
+399
+00:25:54,360 --> 00:25:56,880
+ They did not cover it as well.
+
+400
+00:25:56,880 --> 00:25:59,600
+ It's a fascinating true crime story.
+
+401
+00:25:59,600 --> 00:26:07,000
+ If this particular series of events didn't happen, if this was just a lark, right, if
+
+402
+00:26:07,000 --> 00:26:11,400
+ this was just made up online, these do happen.
+
+403
+00:26:11,400 --> 00:26:16,520
+ And because the information is so easily accessible, I remember when Megan's law came out, I remember
+
+404
+00:26:16,520 --> 00:26:19,800
+ thinking, "It's going to be open season on these guys.
+
+405
+00:26:19,800 --> 00:26:25,280
+ All you have to do is put in a zip code and you know where everyone's at."
+
+406
+00:26:25,280 --> 00:26:27,480
+ And I'm wondering if it is open season.
+
+407
+00:26:27,480 --> 00:26:29,440
+ I'm wondering if this does happen.
+
+408
+00:26:29,440 --> 00:26:32,040
+ We see it in news articles.
+
+409
+00:26:32,040 --> 00:26:33,440
+ We see this happen from time to time.
+
+410
+00:26:33,440 --> 00:26:38,880
+ I'm wondering if it happens way more often than we think, but the police are like, "Just
+
+411
+00:26:38,880 --> 00:26:41,200
+ don't say anything."
+
+412
+00:26:41,200 --> 00:26:45,360
+ I bet it does happen a lot more than we think.
+
+413
+00:26:45,360 --> 00:26:48,800
+ Especially if you like to kill people, right?
+
+414
+00:26:48,800 --> 00:26:54,080
+ If you're a hitman, they thought this guy might be a professional hitman on the side.
+
+415
+00:26:54,080 --> 00:26:57,560
+ Maybe it's just a way for him to keep his reflexes going in between jobs.
+
+416
+00:26:57,560 --> 00:26:58,560
+ Who knows?
+
+417
+00:26:58,560 --> 00:27:03,280
+ Or maybe he's just trying to rid the world of super perverted people.
+
+418
+00:27:03,280 --> 00:27:04,920
+ I'm a fan of vigilance-yism.
+
+419
+00:27:04,920 --> 00:27:11,040
+ I'm not a huge fan of murdering people.
+
+420
+00:27:11,040 --> 00:27:12,040
+ I don't know.
+
+421
+00:27:12,040 --> 00:27:14,480
+ I don't know what else to add to the end of that.
+
+422
+00:27:14,480 --> 00:27:17,480
+ Like I do, vigilance-yism works when the system is broken.
+
+423
+00:27:17,480 --> 00:27:21,520
+ If the system works perfectly, there are no vigilantes because people go, "Oh, the police
+
+424
+00:27:21,520 --> 00:27:23,800
+ will take care of it and the justice will be served."
+
+425
+00:27:23,800 --> 00:27:26,520
+ It's when those things don't happen.
+
+426
+00:27:26,520 --> 00:27:31,720
+ When someone commits 10 horrendous crimes and then they plea it down to one horrendous crime
+
+427
+00:27:31,720 --> 00:27:38,280
+ and instead of 25 years, they get five years and then they're out in three, the system's
+
+428
+00:27:38,280 --> 00:27:39,280
+ broken.
+
+429
+00:27:39,280 --> 00:27:43,040
+ And that's when you see the vigilantes show up.
+
+430
+00:27:43,040 --> 00:27:44,560
+ I am a fan of vigilance-yism.
+
+431
+00:27:44,560 --> 00:27:46,440
+ I'm not a fan of lynch mobs.
+
+432
+00:27:46,440 --> 00:27:51,880
+ And there's a fine line between those two as well.
+
+433
+00:27:51,880 --> 00:27:55,760
+ But yeah, I'm not a fan of murdering people.
+
+434
+00:27:55,760 --> 00:28:02,640
+ I guess I wish you could just beat them up and they'd learn their lesson and they would
+
+435
+00:28:02,640 --> 00:28:04,560
+ stop being pervos.
+
+436
+00:28:04,560 --> 00:28:07,160
+ A shotgun blast to the chest.
+
+437
+00:28:07,160 --> 00:28:08,160
+ I don't know.
+
+438
+00:28:08,160 --> 00:28:09,160
+ It's a crazy story though.
+
+439
+00:28:09,160 --> 00:28:14,720
+ I'm sure it is super common, but Rex Ivan, let's go ahead and toss you the keys to the
+
+440
+00:28:14,720 --> 00:28:15,720
+ Carbenter copter.
+
+441
+00:28:15,720 --> 00:28:19,360
+ We are leaving behind Minneapolis.
+
+442
+00:28:19,360 --> 00:28:21,320
+ We're waving goodbye to that police officer.
+
+443
+00:28:21,320 --> 00:28:22,720
+ We give a lot of details.
+
+444
+00:28:22,720 --> 00:28:25,520
+ I'm thinking he might have been the guy with the shotgun, honestly.
+
+445
+00:28:25,520 --> 00:28:28,720
+ But he's waving us and he's holding a shotgun behind his back.
+
+446
+00:28:28,720 --> 00:28:31,720
+ We're like, "Okay, see you later, buddy."
+
+447
+00:28:31,720 --> 00:28:33,400
+ Rex Flyus out of Minneapolis.
+
+448
+00:28:33,400 --> 00:28:36,600
+ We are headed to Switzerland.
+
+449
+00:28:36,600 --> 00:28:46,600
+ I've been studying conspiracy theories since I was about 12.
+
+450
+00:28:46,600 --> 00:28:53,720
+ 34 years I've been in the game and one thing that I love, and I think it's what separates
+
+451
+00:28:53,720 --> 00:28:59,400
+ the successful conspiracy theories from the just the madness that some crazy guy thinks
+
+452
+00:28:59,400 --> 00:29:02,520
+ up and no one pays attention and it just disappears.
+
+453
+00:29:02,520 --> 00:29:03,520
+ Brevity.
+
+454
+00:29:03,520 --> 00:29:07,360
+ Keep it short.
+
+455
+00:29:07,360 --> 00:29:10,120
+ Keep it simple.
+
+456
+00:29:10,120 --> 00:29:11,920
+ The color orange is evil.
+
+457
+00:29:11,920 --> 00:29:15,280
+ It's a real conspiracy theory.
+
+458
+00:29:15,280 --> 00:29:17,600
+ It makes no sense.
+
+459
+00:29:17,600 --> 00:29:25,600
+ I've studied that one and even I am unsure how they get to the color orange is evil.
+
+460
+00:29:25,600 --> 00:29:30,880
+ I know it has something to do with the parts of the NASA spacecraft is made of orange.
+
+461
+00:29:30,880 --> 00:29:41,000
+ I don't know if it's related to their Tang addiction, but it doesn't make any sense.
+
+462
+00:29:41,000 --> 00:29:45,280
+ Mountains are trees.
+
+463
+00:29:45,280 --> 00:29:50,120
+ The theory is that the world used to be much bigger and when we look at a mountain we're
+
+464
+00:29:50,120 --> 00:29:54,800
+ actually looking at the stump of a tree that used to reach high into the sky.
+
+465
+00:29:54,800 --> 00:30:01,880
+ The trees we see would be bushes in the past.
+
+466
+00:30:01,880 --> 00:30:02,880
+ Brevity.
+
+467
+00:30:02,880 --> 00:30:11,120
+ You could say it all in a sense and it evokes a natural world that has been lost.
+
+468
+00:30:11,120 --> 00:30:12,400
+ A world of giants.
+
+469
+00:30:12,400 --> 00:30:17,040
+ A world of nature unbridled.
+
+470
+00:30:17,040 --> 00:30:18,840
+ Trees bigger than we could even imagine.
+
+471
+00:30:18,840 --> 00:30:29,680
+ We're just looking at the dead remains of this once truly awe inspiring world.
+
+472
+00:30:29,680 --> 00:30:31,640
+ Brevity.
+
+473
+00:30:31,640 --> 00:30:33,600
+ Monkeys don't exist.
+
+474
+00:30:33,600 --> 00:30:36,920
+ Every monkey you've ever seen is a puppet or a man in a suit.
+
+475
+00:30:36,920 --> 00:30:40,640
+ Evolution is a lie to make us not believe in God.
+
+476
+00:30:40,640 --> 00:30:41,640
+ Brevity.
+
+477
+00:30:41,640 --> 00:30:47,720
+ When you come across a conspiracy theory that can just be explained so easily and just make
+
+478
+00:30:47,720 --> 00:30:53,320
+ the mind wander in wonder, that is gold.
+
+479
+00:30:53,320 --> 00:30:56,040
+ AI art.
+
+480
+00:30:56,040 --> 00:30:58,320
+ AI art is this new thing.
+
+481
+00:30:58,320 --> 00:30:59,400
+ Everyone's using it.
+
+482
+00:30:59,400 --> 00:31:01,280
+ There's a lot of debates.
+
+483
+00:31:01,280 --> 00:31:07,520
+ You have artists, traditional artists as there will now be known as who are fighting against
+
+484
+00:31:07,520 --> 00:31:09,520
+ it.
+
+485
+00:31:09,520 --> 00:31:10,640
+ No to AI art.
+
+486
+00:31:10,640 --> 00:31:12,960
+ There's this huge movement no to AI art.
+
+487
+00:31:12,960 --> 00:31:25,320
+ To me it reminds me of when the painter saw the photographer and said that's not art.
+
+488
+00:31:25,320 --> 00:31:31,320
+ Like I'm spending hours making an impression of this mountain.
+
+489
+00:31:31,320 --> 00:31:33,720
+ You're just clicking a button.
+
+490
+00:31:33,720 --> 00:31:36,800
+ It's the same mountain sure but where's the soul?
+
+491
+00:31:36,800 --> 00:31:37,960
+ Where's the creation?
+
+492
+00:31:37,960 --> 00:31:42,160
+ Where's the interpretation of what I'm doing?
+
+493
+00:31:42,160 --> 00:31:44,720
+ Now both arts stand side by side.
+
+494
+00:31:44,720 --> 00:31:47,440
+ I think we'll see the same thing eventually with AI art.
+
+495
+00:31:47,440 --> 00:31:49,320
+ I don't think it's going to replace artists.
+
+496
+00:31:49,320 --> 00:31:53,760
+ I think it may replace some of the gig artists.
+
+497
+00:31:53,760 --> 00:31:56,240
+ People who are doing logos on Fiverr.
+
+498
+00:31:56,240 --> 00:31:59,320
+ People who are doing first sonas.
+
+499
+00:31:59,320 --> 00:32:01,520
+ That stuff will be replaced by AI art.
+
+500
+00:32:01,520 --> 00:32:03,280
+ But the artists themselves won't be replaced.
+
+501
+00:32:03,280 --> 00:32:04,760
+ They will evolve with it.
+
+502
+00:32:04,760 --> 00:32:08,880
+ I think they'll start using AI art themselves and doing touch them and everything.
+
+503
+00:32:08,880 --> 00:32:12,280
+ I don't think it's the end of art or artists or anything like that but it's fascinating
+
+504
+00:32:12,280 --> 00:32:15,720
+ to watch and it's happening so quickly.
+
+505
+00:32:15,720 --> 00:32:20,000
+ Now as a television movie buff I've been loving the things.
+
+506
+00:32:20,000 --> 00:32:24,720
+ We did a whole episode on the Chrome Lords or a whole segment on the Chrome Lords.
+
+507
+00:32:24,720 --> 00:32:33,760
+ This lost 1990s straight to video movie about man and machine fusing as one and a new religion
+
+508
+00:32:33,760 --> 00:32:35,000
+ being born out of it.
+
+509
+00:32:35,000 --> 00:32:37,000
+ Or actually that's not the plot.
+
+510
+00:32:37,000 --> 00:32:38,000
+ There's no plot.
+
+511
+00:32:38,000 --> 00:32:44,540
+ It's just a series of images that look like it's from a 1990s straight to VHS sci-fi horror
+
+512
+00:32:44,540 --> 00:32:45,540
+ movie.
+
+513
+00:32:45,540 --> 00:32:47,040
+ It looks fascinating.
+
+514
+00:32:47,040 --> 00:32:52,000
+ Recently I saw Black Star Wars.
+
+515
+00:32:52,000 --> 00:32:53,800
+ Fascinating.
+
+516
+00:32:53,800 --> 00:32:58,480
+ It's Star Wars meets the Wiz.
+
+517
+00:32:58,480 --> 00:33:00,800
+ With an all black cast.
+
+518
+00:33:00,800 --> 00:33:03,800
+ A 1970s vibe.
+
+519
+00:33:03,800 --> 00:33:05,640
+ Very discotech.
+
+520
+00:33:05,640 --> 00:33:08,680
+ The Death Star itself a huge disco ball.
+
+521
+00:33:08,680 --> 00:33:10,880
+ Jet Eyes wearing large brimmed hats.
+
+522
+00:33:10,880 --> 00:33:12,400
+ It's fascinating stuff.
+
+523
+00:33:12,400 --> 00:33:14,000
+ This is all AI generated.
+
+524
+00:33:14,000 --> 00:33:21,120
+ People are typing in these prompts and they're creating these images of movies that may have
+
+525
+00:33:21,120 --> 00:33:22,760
+ been.
+
+526
+00:33:22,760 --> 00:33:28,300
+ The Russo Brothers recently profiled The Avengers directed by Wes Anderson.
+
+527
+00:33:28,300 --> 00:33:30,760
+ So it has a very the royal Tenenbaum's vibe.
+
+528
+00:33:30,760 --> 00:33:32,160
+ The costumes look handmade.
+
+529
+00:33:32,160 --> 00:33:35,120
+ They look like they're made of leather and cloth.
+
+530
+00:33:35,120 --> 00:33:36,680
+ And all these images are going to be in the show notes.
+
+531
+00:33:36,680 --> 00:33:39,600
+ You've probably seen a lot of them yourselves.
+
+532
+00:33:39,600 --> 00:33:41,400
+ And people are getting a kick out of these.
+
+533
+00:33:41,400 --> 00:33:47,560
+ It is like what if Star Wars wasn't created by George Lucas but it was created by Melvin
+
+534
+00:33:47,560 --> 00:33:50,080
+ Van Peebles.
+
+535
+00:33:50,080 --> 00:34:01,840
+ But when I found this image in Afrocentric Star Wars it was accompanied by one sentence.
+
+536
+00:34:01,840 --> 00:34:03,520
+ This was a post on the export.
+
+537
+00:34:03,520 --> 00:34:05,360
+ One sentence.
+
+538
+00:34:05,360 --> 00:34:09,640
+ Probably one of the best conspiracy theories that I've come across recently.
+
+539
+00:34:09,640 --> 00:34:10,640
+ This is fascinating.
+
+540
+00:34:10,640 --> 00:34:11,640
+ I love this.
+
+541
+00:34:11,640 --> 00:34:15,880
+ I talk about brevity and yet I spent that whole time building up to this.
+
+542
+00:34:15,880 --> 00:34:18,480
+ Disco Funk Star Wars.
+
+543
+00:34:18,480 --> 00:34:20,640
+ One sentence.
+
+544
+00:34:20,640 --> 00:34:24,440
+ These are not images from AI.
+
+545
+00:34:24,440 --> 00:34:31,560
+ They are images from CERN.
+
+546
+00:34:31,560 --> 00:34:33,480
+ CERN needs no introduction.
+
+547
+00:34:33,480 --> 00:34:35,080
+ But I'll give a short one.
+
+548
+00:34:35,080 --> 00:34:37,760
+ Particle Physics Laboratory in Switzerland.
+
+549
+00:34:37,760 --> 00:34:45,000
+ It has long been associated with, even really before it turned on.
+
+550
+00:34:45,000 --> 00:34:46,000
+ Even when they were building it.
+
+551
+00:34:46,000 --> 00:34:48,040
+ It was going to create a black hole.
+
+552
+00:34:48,040 --> 00:34:49,840
+ When they activated it was going to destroy the planet.
+
+553
+00:34:49,840 --> 00:34:52,920
+ It was going to open gateways into other universes.
+
+554
+00:34:52,920 --> 00:34:56,720
+ That's the most common conspiracy theory right now.
+
+555
+00:34:56,720 --> 00:35:00,960
+ I went to a thrift store here in town.
+
+556
+00:35:00,960 --> 00:35:05,000
+ I made the mistake wearing an alien necklace.
+
+557
+00:35:05,000 --> 00:35:10,280
+ The shopkeeper kept telling me about how CERN had opened up a portal.
+
+558
+00:35:10,280 --> 00:35:11,880
+ You could reach in and pull stuff out.
+
+559
+00:35:11,880 --> 00:35:12,880
+ They're pulling stuff out.
+
+560
+00:35:12,880 --> 00:35:13,880
+ Don't you understand?
+
+561
+00:35:13,880 --> 00:35:16,600
+ They're pulling stuff into our reality.
+
+562
+00:35:16,600 --> 00:35:23,000
+ CERN has since its inception been connected very strongly with the world of the paranormal.
+
+563
+00:35:23,000 --> 00:35:26,000
+ The world of conspiracy theory.
+
+564
+00:35:26,000 --> 00:35:29,720
+ But it's main thing that it gets brought into in the world of conspiracy theories that it
+
+565
+00:35:29,720 --> 00:35:32,280
+ is opening portals to other worlds.
+
+566
+00:35:32,280 --> 00:35:33,960
+ And here we have it.
+
+567
+00:35:33,960 --> 00:35:35,720
+ This is so fascinating.
+
+568
+00:35:35,720 --> 00:35:42,040
+ The AI art you are seeing, you are actually not getting it the way they are telling us
+
+569
+00:35:42,040 --> 00:35:43,240
+ we are getting it.
+
+570
+00:35:43,240 --> 00:35:48,000
+ What we are told is you put in a string of words.
+
+571
+00:35:48,000 --> 00:35:52,600
+ Wes Anderson directs the Avengers courtroom scene.
+
+572
+00:35:52,600 --> 00:35:56,280
+ Captain America played by Bill Murray.
+
+573
+00:35:56,280 --> 00:35:59,360
+ Black Widow played by Anya Taylor-Joy.
+
+574
+00:35:59,360 --> 00:36:00,360
+ 1970s.
+
+575
+00:36:00,360 --> 00:36:01,360
+ CP atone.
+
+576
+00:36:01,360 --> 00:36:04,200
+ You put in all this stuff and then this picture pops out.
+
+577
+00:36:04,200 --> 00:36:05,400
+ But that's not what's happening.
+
+578
+00:36:05,400 --> 00:36:11,240
+ You're putting in these prompts and the AI is not crawling across the internet using
+
+579
+00:36:11,240 --> 00:36:14,680
+ this massive database of all existing images to build its own.
+
+580
+00:36:14,680 --> 00:36:22,560
+ What it's doing is when you type in the string of letters it is reaching through the multiverse.
+
+581
+00:36:22,560 --> 00:36:25,880
+ Which is infinite.
+
+582
+00:36:25,880 --> 00:36:30,800
+ To find one where that happened.
+
+583
+00:36:30,800 --> 00:36:37,520
+ It is not creating an image, it is receiving an image.
+
+584
+00:36:37,520 --> 00:36:40,920
+ Is it true?
+
+585
+00:36:40,920 --> 00:36:41,920
+ Probably not.
+
+586
+00:36:41,920 --> 00:36:42,920
+ Probably not.
+
+587
+00:36:42,920 --> 00:36:47,760
+ The AI is actually probably working the way that we think it is.
+
+588
+00:36:47,760 --> 00:36:55,840
+ So let's throw on our conspiracy caps and finish this out and just imagine for a moment
+
+589
+00:36:55,840 --> 00:37:01,680
+ how this would work.
+
+590
+00:37:01,680 --> 00:37:07,080
+ Because in a multiverse it would absolutely would work like this.
+
+591
+00:37:07,080 --> 00:37:14,760
+ And this AI art program is actually going into these portals that have been opened up
+
+592
+00:37:14,760 --> 00:37:22,560
+ by CERN and it is exploring the multiverse one image at a time.
+
+593
+00:37:22,560 --> 00:37:28,480
+ Or in the case of the Chrome Lords, when you're putting that in you're actually pulling screen
+
+594
+00:37:28,480 --> 00:37:37,800
+ grabs from a reality where the movie Chrome Lords was made.
+
+595
+00:37:37,800 --> 00:37:39,000
+ Pulling them into us.
+
+596
+00:37:39,000 --> 00:37:45,160
+ And this would make sense that you would have, you know how you have the Kepsha things with
+
+597
+00:37:45,160 --> 00:37:50,280
+ the images where it's like find three pictures of a car.
+
+598
+00:37:50,280 --> 00:37:55,000
+ You have to click on the three pictures of the car or the Kepsha where you have to type
+
+599
+00:37:55,000 --> 00:37:58,080
+ in what those letters actually say.
+
+600
+00:37:58,080 --> 00:38:01,920
+ That is all to assist computer learning.
+
+601
+00:38:01,920 --> 00:38:04,720
+ We just think it's an annoying thing so we can post something.
+
+602
+00:38:04,720 --> 00:38:09,600
+ So all of that information is then being fed back into computers so it has a better idea
+
+603
+00:38:09,600 --> 00:38:15,120
+ to tell what a car is, what a stoplight is, what a bird looks like because now it takes
+
+604
+00:38:15,120 --> 00:38:19,400
+ all these random images and it goes well a human identified these three as birds we're
+
+605
+00:38:19,400 --> 00:38:22,880
+ going to put these in the bird part of our brain.
+
+606
+00:38:22,880 --> 00:38:23,880
+ That's what it is.
+
+607
+00:38:23,880 --> 00:38:26,640
+ It's to assist machine learning.
+
+608
+00:38:26,640 --> 00:38:29,840
+ But it was also a way to stop bot attacks.
+
+609
+00:38:29,840 --> 00:38:33,200
+ It was a way to stop things from getting flooded.
+
+610
+00:38:33,200 --> 00:38:35,520
+ Things from spam accounts and things like that.
+
+611
+00:38:35,520 --> 00:38:36,800
+ So it did us a favor.
+
+612
+00:38:36,800 --> 00:38:42,920
+ I mean, they're pretty annoying but it does make the websites we go to more manageable.
+
+613
+00:38:42,920 --> 00:38:47,040
+ It helps the website and then it helps the machine learning tools by doing that.
+
+614
+00:38:47,040 --> 00:38:52,760
+ This would, imagine if you're sitting there at CERN and you've now opened up the multiverse.
+
+615
+00:38:52,760 --> 00:38:57,280
+ You're like, dude I gotta fill up paperwork tomorrow.
+
+616
+00:38:57,280 --> 00:39:01,560
+ I don't have time to explore the infinite depths of reality.
+
+617
+00:39:01,560 --> 00:39:05,760
+ I got that human sacrifice at 6pm tonight.
+
+618
+00:39:05,760 --> 00:39:11,160
+ So you create these programs that other people do it for you.
+
+619
+00:39:11,160 --> 00:39:15,320
+ It'll be super interesting to find out what we can't do.
+
+620
+00:39:15,320 --> 00:39:18,480
+ I know there are currently limiters on it.
+
+621
+00:39:18,480 --> 00:39:21,360
+ Like they don't allow you to create illegal material.
+
+622
+00:39:21,360 --> 00:39:23,640
+ They won't let you make child porn.
+
+623
+00:39:23,640 --> 00:39:28,880
+ If you type those prompts in a guy with shotgun shows up at your house it's the terminator.
+
+624
+00:39:28,880 --> 00:39:31,400
+ They have limiters like that built on it.
+
+625
+00:39:31,400 --> 00:39:36,280
+ But I wonder if there are going to be things that we can't find.
+
+626
+00:39:36,280 --> 00:39:41,680
+ Like you type in, I want to see a picture of Heath Ledger's Joker.
+
+627
+00:39:41,680 --> 00:39:47,360
+ But in a movie directed by Stanley Kubrick.
+
+628
+00:39:47,360 --> 00:39:50,880
+ And just won't, it won't work.
+
+629
+00:39:50,880 --> 00:39:53,760
+ That image will never pop up.
+
+630
+00:39:53,760 --> 00:39:59,680
+ It will never be the same as any other image because that for whatever reason, that movie
+
+631
+00:39:59,680 --> 00:40:02,160
+ was never made throughout the multiverse.
+
+632
+00:40:02,160 --> 00:40:06,160
+ That movie just never happened.
+
+633
+00:40:06,160 --> 00:40:08,600
+ It would be, I mean I love this conspiracy theory.
+
+634
+00:40:08,600 --> 00:40:09,600
+ I really do.
+
+635
+00:40:09,600 --> 00:40:12,960
+ And what's funny is the reason why I think I love this conspiracy theory.
+
+636
+00:40:12,960 --> 00:40:14,680
+ And I think I can speak for a lot of people.
+
+637
+00:40:14,680 --> 00:40:20,400
+ When we look at these images of these movies that were never made, it does make you go,
+
+638
+00:40:20,400 --> 00:40:22,280
+ "Oh man that would be cool.
+
+639
+00:40:22,280 --> 00:40:23,440
+ That would be really cool."
+
+640
+00:40:23,440 --> 00:40:25,960
+ But we know Wes Anderson is never going to direct The Avengers.
+
+641
+00:40:25,960 --> 00:40:29,840
+ The Avengers need to be these one and a half to two hundred million dollar movies and they
+
+642
+00:40:29,840 --> 00:40:33,800
+ have to have all of these things in them to make them commercially viable and all these
+
+643
+00:40:33,800 --> 00:40:36,880
+ license fees and they got to sell toys and that.
+
+644
+00:40:36,880 --> 00:40:42,240
+ But when you look at these nine or ten images of Wes Anderson's The Avengers movie it makes
+
+645
+00:40:42,240 --> 00:40:46,080
+ you go, "Wow, that would have been cool."
+
+646
+00:40:46,080 --> 00:40:52,920
+ Before the hype, before the phase four, before all of this stuff, they gave it to an auteur.
+
+647
+00:40:52,920 --> 00:40:57,040
+ That's what he made.
+
+648
+00:40:57,040 --> 00:40:58,880
+ Chrome Lords is the same thing.
+
+649
+00:40:58,880 --> 00:41:01,280
+ The Disco Funk Star Wars is the same thing.
+
+650
+00:41:01,280 --> 00:41:05,200
+ When you look at those images, I was like, "Dude this would have been so awesome.
+
+651
+00:41:05,200 --> 00:41:06,880
+ Would it have been a success?"
+
+652
+00:41:06,880 --> 00:41:07,880
+ No.
+
+653
+00:41:07,880 --> 00:41:12,960
+ Would it have created this massive franchise that's spanned decades?
+
+654
+00:41:12,960 --> 00:41:15,080
+ No.
+
+655
+00:41:15,080 --> 00:41:20,280
+ But if you found that movie, if you happened to find Star Wars directed by Melvin Van
+
+656
+00:41:20,280 --> 00:41:30,480
+ Peoples, sitting at a blockbuster, you rented it and you watched it, it would be an underground
+
+657
+00:41:30,480 --> 00:41:31,480
+ cult hit.
+
+658
+00:41:31,480 --> 00:41:35,320
+ It would be so weird.
+
+659
+00:41:35,320 --> 00:41:36,320
+ So good.
+
+660
+00:41:36,320 --> 00:41:42,280
+ You go, "Man, I can't believe this didn't spawn a series of sequels.
+
+661
+00:41:42,280 --> 00:41:44,480
+ This movie is dope."
+
+662
+00:41:44,480 --> 00:41:50,160
+ It does evoke that reaction in us when we see these things that might have been, but
+
+663
+00:41:50,160 --> 00:41:51,160
+ aren't.
+
+664
+00:41:51,160 --> 00:41:57,320
+ It's just a string of AI commands put into some web browser and then these images are
+
+665
+00:41:57,320 --> 00:41:58,320
+ spit out.
+
+666
+00:41:58,320 --> 00:42:01,680
+ But what if it's more than that?
+
+667
+00:42:01,680 --> 00:42:06,840
+ What if when we're looking at these images, they do exist.
+
+668
+00:42:06,840 --> 00:42:08,040
+ They do exist.
+
+669
+00:42:08,040 --> 00:42:12,960
+ And when we look at them, there is a version of us that did watch Star Wars when they picked
+
+670
+00:42:12,960 --> 00:42:18,440
+ it up at a blockbuster video in an old beat up VHS box.
+
+671
+00:42:18,440 --> 00:42:21,000
+ You could tell the movie had been sitting on the shelf for a long time, but when you
+
+672
+00:42:21,000 --> 00:42:23,440
+ picked it up, you took it home, you discovered it.
+
+673
+00:42:23,440 --> 00:42:25,280
+ You couldn't wait to tell your friends about it.
+
+674
+00:42:25,280 --> 00:42:29,680
+ There was a version of you that did watch this Wes Anderson Avengers movie in an alternate
+
+675
+00:42:29,680 --> 00:42:36,760
+ reality where there was no giant conglomerate pumping out these movies, three a year plus
+
+676
+00:42:36,760 --> 00:42:38,320
+ two television series.
+
+677
+00:42:38,320 --> 00:42:44,000
+ You got to watch just to understand the movie.
+
+678
+00:42:44,000 --> 00:42:50,480
+ There was a version of you that watched the Chrome Lords over and over and over again.
+
+679
+00:42:50,480 --> 00:42:55,440
+ And that's why when you saw those images, you go, wow, I wish I could have seen this
+
+680
+00:42:55,440 --> 00:42:56,440
+ movie.
+
+681
+00:42:56,440 --> 00:43:07,080
+ This movie looks so cool because you did and you loved it in another reality.
+
+682
+00:43:07,080 --> 00:43:10,280
+ I love this conspiracy theory.
+
+683
+00:43:10,280 --> 00:43:11,520
+ This is really cool.
+
+684
+00:43:11,520 --> 00:43:16,200
+ And I honestly, I don't know how much traction this is going to get.
+
+685
+00:43:16,200 --> 00:43:17,760
+ It was a single sentence.
+
+686
+00:43:17,760 --> 00:43:20,800
+ It was a single sentence on the X board.
+
+687
+00:43:20,800 --> 00:43:25,240
+ And then everyone else started talking about AI art, how to use it, how to, you know, where
+
+688
+00:43:25,240 --> 00:43:27,160
+ to find the stuff and different things.
+
+689
+00:43:27,160 --> 00:43:29,400
+ It was almost like an afterthought.
+
+690
+00:43:29,400 --> 00:43:36,460
+ This theory that was put forth, but this one might get big because people are having reactions
+
+691
+00:43:36,460 --> 00:43:37,460
+ to this stuff.
+
+692
+00:43:37,460 --> 00:43:39,240
+ I'm having reactions to this stuff.
+
+693
+00:43:39,240 --> 00:43:46,960
+ You see these images and you go, wow, wouldn't that be cool?
+
+694
+00:43:46,960 --> 00:43:48,920
+ Because in another universe, it was cool.
+
+695
+00:43:48,920 --> 00:43:49,920
+ We found it.
+
+696
+00:43:49,920 --> 00:43:53,520
+ We loved these things.
+
+697
+00:43:53,520 --> 00:44:00,720
+ Each time you type in one of these prompts, you are helping CERN map out the multiverse.
+
+698
+00:44:00,720 --> 00:44:09,260
+ You are exploring reality after reality after reality with just a string of words.
+
+699
+00:44:09,260 --> 00:44:11,260
+ Fascinating.
+
+700
+00:44:11,260 --> 00:44:12,860
+ I love this conspiracy theory.
+
+701
+00:44:12,860 --> 00:44:13,860
+ We'll see.
+
+702
+00:44:13,860 --> 00:44:16,220
+ We'll see if it gains any traction.
+
+703
+00:44:16,220 --> 00:44:17,660
+ I really hope it does.
+
+704
+00:44:17,660 --> 00:44:22,460
+ It's absolutely awesome.
+
+705
+00:44:22,460 --> 00:44:24,260
+ It's just one sentence.
+
+706
+00:44:24,260 --> 00:44:26,500
+ It's all it took.
+
+707
+00:44:26,500 --> 00:44:28,500
+ These are not images from AI.
+
+708
+00:44:28,500 --> 00:44:31,880
+ They are images from CERN.
+
+709
+00:44:31,880 --> 00:44:38,080
+ They aren't just pieces of random pictures pooled together.
+
+710
+00:44:38,080 --> 00:44:42,320
+ They're a window into an alternate reality.
+
+711
+00:44:42,320 --> 00:44:46,960
+ A world that never was for us.
+
+712
+00:44:46,960 --> 00:44:51,640
+ But for another us, out there somewhere.
+
+713
+00:44:51,640 --> 00:45:15,620
+ It's the only world they know.
+
+714
+00:45:15,620 --> 00:45:32,820
+ It's the only world they know.
+
+715
+00:45:32,820 --> 00:45:35,400
+ (upbeat music)
+
+716
+00:45:35,400 --> 00:45:45,400
+ [MUSIC]
+
