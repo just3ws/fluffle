@@ -3,7 +3,7 @@
 
 cd ~/podcasts/dead-rabbit-radio/episodes/
 
-for node in node{01..05}; do                                                                                                                                                                        ─╯
+for node in node{01..05}; do
   cd ~/podcasts/dead-rabbit-radio/episodes/
   /usr/local/bin/rsync -avz *.{log,srt,txt} deploy@${node}:~/podcasts/dead-rabbit-radio/episodes/ ;
   /usr/local/bin/rsync -avz deploy@${node}:~/podcasts/dead-rabbit-radio/episodes/*.{srt,txt,log} . ;
