@@ -1,0 +1,2532 @@
+1
+00:00:00,000 --> 00:00:10,840
+ When a young man sees a ghost standing in his living room, he realizes ghosts are real.
+
+2
+00:00:10,840 --> 00:00:13,740
+ I guess ghosts really do exist.
+
+3
+00:00:13,740 --> 00:00:15,820
+ But this one has a twist.
+
+4
+00:00:15,820 --> 00:00:21,880
+ And then we travel to Pennsylvania to meet a young man who is tasked with trying to complete
+
+5
+00:00:21,880 --> 00:00:27,520
+ an impossible task, set up a computer for an elderly couple, and then teach them how
+
+6
+00:00:27,520 --> 00:00:29,280
+ to use it.
+
+7
+00:00:29,280 --> 00:00:34,560
+ While this man may be braver than most of us, his courage is truly put to the test when
+
+8
+00:00:34,560 --> 00:00:41,120
+ he comes face to face with an insectoid today on Dead Rabbit Radio.
+
+9
+00:00:41,120 --> 00:00:52,320
+ Hey everyone, welcome back to another episode of Dead Rabbit Radio.
+
+10
+00:00:52,320 --> 00:00:54,560
+ I'm your host Jason Carpenter, I'm having a great day.
+
+11
+00:00:54,560 --> 00:00:56,560
+ Hope you guys are having great day too.
+
+12
+00:00:56,560 --> 00:00:59,600
+ Hope you guys are having tons of fun out there in the world.
+
+13
+00:00:59,600 --> 00:01:02,520
+ We got a lot of stuff to cover so we're gonna get started right away.
+
+14
+00:01:02,520 --> 00:01:05,560
+ First off, Slytherin on the ground of Dead Rabbit Command.
+
+15
+00:01:05,560 --> 00:01:09,880
+ Everyone give it up for our newest Patreon supporter, ExtensionCord.
+
+16
+00:01:09,880 --> 00:01:12,320
+ Woohoo, yeah, yeah, watch him slither.
+
+17
+00:01:12,320 --> 00:01:15,080
+ The more you clap, the closer he gets to the outlet.
+
+18
+00:01:15,080 --> 00:01:16,080
+ Wee!
+
+19
+00:01:16,080 --> 00:01:17,080
+ Okay, now he's in.
+
+20
+00:01:17,080 --> 00:01:21,160
+ ExtensionCord, you're gonna be our captain, our pilot, so that's a real Patreon's name.
+
+21
+00:01:21,160 --> 00:01:24,560
+ You guys are like Jason, you're clearly just making stuff up now.
+
+22
+00:01:24,560 --> 00:01:27,800
+ You just want to advertise your Patreon, you're like looking around your house, you're like
+
+23
+00:01:27,800 --> 00:01:31,000
+ "Tomorrow we'll be sponsored by Blender."
+
+24
+00:01:31,000 --> 00:01:34,360
+ ExtensionCord, you're gonna be our captain, our pilot this episode.
+
+25
+00:01:34,360 --> 00:01:37,080
+ If you guys can't support the Patreon, I totally understand it.
+
+26
+00:01:37,080 --> 00:01:38,400
+ I really do.
+
+27
+00:01:38,400 --> 00:01:42,560
+ Just help spread the word about Dead Rabbit Command, it helps out so much.
+
+28
+00:01:42,560 --> 00:01:45,560
+ Tell your friends, tell your family, talk about it online.
+
+29
+00:01:45,560 --> 00:01:49,240
+ That also helps the show grow.
+
+30
+00:01:49,240 --> 00:01:52,640
+ ExtensionCord, I'm gonna go ahead and tie you around the steering wheel of the Jason
+
+31
+00:01:52,640 --> 00:01:53,880
+ Jalopy.
+
+32
+00:01:53,880 --> 00:01:56,040
+ We are leaving behind Dead Rabbit Command.
+
+33
+00:01:56,040 --> 00:01:58,400
+ Drive us all the way out, too.
+
+34
+00:01:58,400 --> 00:02:02,680
+ A haunted house.
+
+35
+00:02:02,680 --> 00:02:09,160
+ This is one of the stories where we don't have a location, it was posted online anonymously,
+
+36
+00:02:09,160 --> 00:02:14,080
+ and it was written by a guy named Prochetto Pizza, Prochito?
+
+37
+00:02:14,080 --> 00:02:17,000
+ Prochito Pizza, we're gonna go ahead and call you Jerry.
+
+38
+00:02:17,000 --> 00:02:21,080
+ Jerry says, "This story takes place back when I was in high school.
+
+39
+00:02:21,080 --> 00:02:23,600
+ I lived in a haunted house."
+
+40
+00:02:23,600 --> 00:02:28,760
+ Not like one of those Halloween haunted houses where people jump out at you and stuff like
+
+41
+00:02:28,760 --> 00:02:29,760
+ that.
+
+42
+00:02:29,760 --> 00:02:32,280
+ It's on my bucket list to work in a haunted house.
+
+43
+00:02:32,280 --> 00:02:37,000
+ One of those, it doesn't even have to be a big haunted house, like six flags or nothing
+
+44
+00:02:37,000 --> 00:02:38,040
+ like that.
+
+45
+00:02:38,040 --> 00:02:41,560
+ Even a local regional haunted house would be super dope.
+
+46
+00:02:41,560 --> 00:02:47,760
+ You have a job for a couple weeks, and then you don't have it anymore, but for three weeks,
+
+47
+00:02:47,760 --> 00:02:48,760
+ you're giving it your all.
+
+48
+00:02:48,760 --> 00:02:53,760
+ I'm jumping out of hay bales and spraying fake blood on people.
+
+49
+00:02:53,760 --> 00:02:56,320
+ They're like, "Jason, we told you, you weren't hired.
+
+50
+00:02:56,320 --> 00:02:59,960
+ This is one of those biblical haunted houses where we talk about sins.
+
+51
+00:02:59,960 --> 00:03:00,960
+ Get out of here.
+
+52
+00:03:00,960 --> 00:03:01,960
+ I'm spraying blood at the pastor.
+
+53
+00:03:01,960 --> 00:03:02,960
+ I'll be back tomorrow night, sir."
+
+54
+00:03:02,960 --> 00:03:04,960
+ I've always wanted to do that.
+
+55
+00:03:04,960 --> 00:03:08,280
+ I think it'd be totally dope, but that's not the type of haunted house he's living in.
+
+56
+00:03:08,280 --> 00:03:11,720
+ He's living in a real haunted house.
+
+57
+00:03:11,720 --> 00:03:14,440
+ He's living in a haunted house, and he goes, "Here's the thing.
+
+58
+00:03:14,440 --> 00:03:16,960
+ We all knew it was haunted."
+
+59
+00:03:16,960 --> 00:03:19,200
+ It was the traditional things you would associate with a haunted house.
+
+60
+00:03:19,200 --> 00:03:24,440
+ He goes, "You would hear footsteps throughout the house when everyone was accounted for."
+
+61
+00:03:24,440 --> 00:03:27,320
+ Every show often something would fall off the shelf.
+
+62
+00:03:27,320 --> 00:03:30,720
+ It's interesting because a lot of people think that's incredibly common because we
+
+63
+00:03:30,720 --> 00:03:32,720
+ see it in movies all the time.
+
+64
+00:03:32,720 --> 00:03:38,840
+ When stuff's getting knocked off your shelf, that's a rarer type of ghost.
+
+65
+00:03:38,840 --> 00:03:40,520
+ Sounds are quite easy.
+
+66
+00:03:40,520 --> 00:03:44,280
+ It appears for ghosts to do.
+
+67
+00:03:44,280 --> 00:03:46,920
+ For people to go, "I just lived in an ordinary haunted house.
+
+68
+00:03:46,920 --> 00:03:48,880
+ Stuff was flying off of the shelves.
+
+69
+00:03:48,880 --> 00:03:50,840
+ It's actually quite rare."
+
+70
+00:03:50,840 --> 00:03:53,040
+ That's when you're getting into poltergeist activity.
+
+71
+00:03:53,040 --> 00:03:56,040
+ Most hauntings are just noises or smells.
+
+72
+00:03:56,040 --> 00:03:57,200
+ That was another thing he said.
+
+73
+00:03:57,200 --> 00:04:00,680
+ He goes, "Every show often you could catch the whiff of cigar smoke."
+
+74
+00:04:00,680 --> 00:04:02,720
+ I didn't really see anything.
+
+75
+00:04:02,720 --> 00:04:05,080
+ He's saying that as a book, as everyone around it said.
+
+76
+00:04:05,080 --> 00:04:06,080
+ He goes, "Oh, that's normal."
+
+77
+00:04:06,080 --> 00:04:13,200
+ But I'm talking about I never actually saw a ghost in this house until one day Jerry
+
+78
+00:04:13,200 --> 00:04:14,560
+ said that he was in the kitchen.
+
+79
+00:04:14,560 --> 00:04:18,760
+ He's standing in the kitchen and something catches his eye.
+
+80
+00:04:18,760 --> 00:04:30,720
+ He turns and he looks into the living room and he sees a translucent apparition.
+
+81
+00:04:30,720 --> 00:04:37,300
+ Even though we don't have a specific location for this haunting, he does describe this ghost
+
+82
+00:04:37,300 --> 00:04:41,520
+ as wearing colonial style clothing.
+
+83
+00:04:41,520 --> 00:04:42,520
+ Almost pilgrim-like.
+
+84
+00:04:42,520 --> 00:04:46,040
+ So we'll assume it's the East Coast of the United States.
+
+85
+00:04:46,040 --> 00:04:52,040
+ He said the reason why, what caught his eye really when he saw this ghost was two things.
+
+86
+00:04:52,040 --> 00:04:54,760
+ First off, that he's looking at a translucent person.
+
+87
+00:04:54,760 --> 00:04:58,800
+ He said the clothing looked old-fashioned.
+
+88
+00:04:58,800 --> 00:05:00,480
+ It definitely wasn't modern clothing.
+
+89
+00:05:00,480 --> 00:05:07,560
+ He said that the pants were, they appear to be tucked into the socks, which is how the
+
+90
+00:05:07,560 --> 00:05:11,400
+ pilgrims wore it.
+
+91
+00:05:11,400 --> 00:05:15,200
+ The apparition had no head.
+
+92
+00:05:15,200 --> 00:05:17,800
+ And he doesn't say that it walked away.
+
+93
+00:05:17,800 --> 00:05:20,440
+ He doesn't say that it blinked away, but at some point it looked.
+
+94
+00:05:20,440 --> 00:05:25,200
+ It's not there until the day he's like, "Yeah, I'm charging people $5 ahead to get it to
+
+95
+00:05:25,200 --> 00:05:26,720
+ come in here and look at this headless ghost."
+
+96
+00:05:26,720 --> 00:05:30,880
+ No, at some point that he vanished, the ghost vanished.
+
+97
+00:05:30,880 --> 00:05:35,160
+ And Jerry goes, "It does make sense because this house was built in the 1700s.
+
+98
+00:05:35,160 --> 00:05:41,120
+ We would definitely have, if anyone was going to show up in this house, which is haunted,
+
+99
+00:05:41,120 --> 00:05:46,160
+ that it would be the apparition of a guy in colonial clothing."
+
+100
+00:05:46,160 --> 00:05:48,320
+ It's interesting because Jerry's already lived in a haunted house.
+
+101
+00:05:48,320 --> 00:05:52,480
+ He's already heard things and smelled things and had stuff fall off shelves.
+
+102
+00:05:52,480 --> 00:05:56,440
+ He doesn't particularly say that it was hovering around him or hitting him in the face or anything
+
+103
+00:05:56,440 --> 00:05:57,440
+ funny.
+
+104
+00:05:57,440 --> 00:06:00,840
+ But he sees a, God, just imagine he's like eating an apple.
+
+105
+00:06:00,840 --> 00:06:01,840
+ Jerry's all, "Ugh."
+
+106
+00:06:01,840 --> 00:06:06,240
+ And then he looks over and he sees a translucent man with no head in colonial garb.
+
+107
+00:06:06,240 --> 00:06:09,680
+ And he's like, "I'm just going to take another bite of this apple.
+
+108
+00:06:09,680 --> 00:06:11,760
+ I'm still hungry."
+
+109
+00:06:11,760 --> 00:06:16,040
+ Well when Jerry's dad came home that day, Jerry goes, "Hey dad, you know this is nuts.
+
+110
+00:06:16,040 --> 00:06:19,040
+ I was eating an apple.
+
+111
+00:06:19,040 --> 00:06:20,040
+ I was eating an apple.
+
+112
+00:06:20,040 --> 00:06:21,840
+ He doesn't know how to tell stories."
+
+113
+00:06:21,840 --> 00:06:25,120
+ It was a warm sunny day this afternoon and I was hungry for an apple.
+
+114
+00:06:25,120 --> 00:06:28,280
+ Eventually he gets to the point and he goes, "I saw a ghost.
+
+115
+00:06:28,280 --> 00:06:30,200
+ I saw a headless ghost."
+
+116
+00:06:30,200 --> 00:06:35,440
+ And he was dressed in peculiar clothes to say the least.
+
+117
+00:06:35,440 --> 00:06:39,000
+ And the dad, as he's describing, this is such an interesting ghost story.
+
+118
+00:06:39,000 --> 00:06:40,880
+ "Hey, I know that I've kind of buried the lead.
+
+119
+00:06:40,880 --> 00:06:44,120
+ I took a long time to get to it too, but this is so interesting."
+
+120
+00:06:44,120 --> 00:06:48,640
+ As Jerry is telling his father this story, the dad's just going, "Uh-huh."
+
+121
+00:06:48,640 --> 00:06:53,640
+ He's like listening to this story and then he's like, Jerry's describing the clothing
+
+122
+00:06:53,640 --> 00:06:56,360
+ and the dad's like, "Yeah, okay."
+
+123
+00:06:56,360 --> 00:06:59,880
+ The dad goes, "Well, you know, the dad says that's very interesting.
+
+124
+00:06:59,880 --> 00:07:03,680
+ You saw proof of life after death, son.
+
+125
+00:07:03,680 --> 00:07:06,760
+ I have something to add to that story.
+
+126
+00:07:06,760 --> 00:07:10,360
+ Do you remember Uncle Mike?
+
+127
+00:07:10,360 --> 00:07:12,840
+ Uncle Mike, he died a couple months ago.
+
+128
+00:07:12,840 --> 00:07:15,760
+ Jerry's like, "Yeah, yeah, I remember Uncle Mike."
+
+129
+00:07:15,760 --> 00:07:21,880
+ He goes, "Yeah, you know, we have this urn of his ashes and I'm going to bury them in
+
+130
+00:07:21,880 --> 00:07:24,200
+ the backyard."
+
+131
+00:07:24,200 --> 00:07:29,880
+ And so I'd actually taken his ashes and I moved the urn outside in preparation that
+
+132
+00:07:29,880 --> 00:07:31,800
+ I was going to bury him later today or tomorrow.
+
+133
+00:07:31,800 --> 00:07:36,040
+ Whenever I get around to it, the raccoons are playing with it.
+
+134
+00:07:36,040 --> 00:07:40,800
+ So yeah, I think that might have had something to do with the apparition you saw in the house
+
+135
+00:07:40,800 --> 00:07:41,800
+ today.
+
+136
+00:07:41,800 --> 00:07:48,960
+ It was the fact that I moved the urn and the ashes out into the backyard.
+
+137
+00:07:48,960 --> 00:07:55,320
+ And what Jerry, this is so crazy, what Jerry realized in that moment was, because you know,
+
+138
+00:07:55,320 --> 00:08:00,000
+ he was describing it all to his dad and then once the dad mentioned Uncle Mike, Jerry's
+
+139
+00:08:00,000 --> 00:08:05,800
+ like, "Oh dude, Uncle Mike used to be big into softball.
+
+140
+00:08:05,800 --> 00:08:13,000
+ He played a lot of softball and it wasn't an old-timey colonial outfit he was wearing.
+
+141
+00:08:13,000 --> 00:08:16,880
+ It was like an old-timey softball uniform.
+
+142
+00:08:16,880 --> 00:08:20,640
+ I don't know how old I may be, but it might have been one of those lame baggy ones.
+
+143
+00:08:20,640 --> 00:08:25,880
+ But the point is, is that the pants were tucked into the socks.
+
+144
+00:08:25,880 --> 00:08:33,960
+ So through the translucent haze, the colonial clothes looked like, you're like Jason, this
+
+145
+00:08:33,960 --> 00:08:34,960
+ is not as interesting.
+
+146
+00:08:34,960 --> 00:08:40,320
+ As I'm saying it out loud, I still think it's pretty interesting.
+
+147
+00:08:40,320 --> 00:08:43,800
+ It wasn't a colonial ghost, it was an Uncle Mike ghost.
+
+148
+00:08:43,800 --> 00:08:50,200
+ It was a softball uniform that looked like he played for the Colonials, I don't know.
+
+149
+00:08:50,200 --> 00:08:51,640
+ But yeah, I mean, it would make sense.
+
+150
+00:08:51,640 --> 00:08:58,640
+ Like you're seeing this ghost and you're going, "Yeah, pants tucked into socks, colonial,
+
+151
+00:08:58,640 --> 00:08:59,640
+ right?"
+
+152
+00:08:59,640 --> 00:09:07,160
+ You immediately think of some adult softball league and Uncle Mike blew his brains out.
+
+153
+00:09:07,160 --> 00:09:11,920
+ So that's why he doesn't have a head.
+
+154
+00:09:11,920 --> 00:09:16,120
+ I don't think that Uncle Mike, he wasn't the ghost that was making the footsteps.
+
+155
+00:09:16,120 --> 00:09:17,880
+ We don't really have a timeline.
+
+156
+00:09:17,880 --> 00:09:19,760
+ We don't have a timeline here.
+
+157
+00:09:19,760 --> 00:09:22,440
+ But he doesn't connect any of the other paranormal activity.
+
+158
+00:09:22,440 --> 00:09:25,760
+ He doesn't also go, "Oh, and Uncle Mike loves smoking cigars.
+
+159
+00:09:25,760 --> 00:09:28,840
+ He loves smoking cigars and making books ever in midair."
+
+160
+00:09:28,840 --> 00:09:32,400
+ Those are his favorite hobbies of an adult softball.
+
+161
+00:09:32,400 --> 00:09:36,280
+ I think the place was haunted.
+
+162
+00:09:36,280 --> 00:09:38,960
+ The place was haunted before this family even got there.
+
+163
+00:09:38,960 --> 00:09:42,200
+ And when they brought home Uncle Mike's, and that's a, I made that name up.
+
+164
+00:09:42,200 --> 00:09:47,280
+ I don't know what his uncle's actual name is, but when they bring Uncle Mike's ashes
+
+165
+00:09:47,280 --> 00:09:52,680
+ home, his spirit joined the revelry.
+
+166
+00:09:52,680 --> 00:09:57,840
+ And it's interesting because I don't necessarily think the spirit was connected to the ashes
+
+167
+00:09:57,840 --> 00:10:01,320
+ because I don't think the physical form really has much of a connection, but it would be
+
+168
+00:10:01,320 --> 00:10:06,080
+ connected to the emotional energy of the people living in that house, the people who missed
+
+169
+00:10:06,080 --> 00:10:09,520
+ him the most, his family.
+
+170
+00:10:09,520 --> 00:10:12,920
+ This ghost tags along, but it has no form whatsoever.
+
+171
+00:10:12,920 --> 00:10:13,920
+ It has no energy.
+
+172
+00:10:13,920 --> 00:10:21,720
+ But it's now you've moved a recently deceased spirit into an actively haunted house that's
+
+173
+00:10:21,720 --> 00:10:26,000
+ going to be able to charge itself off that energy and manifest.
+
+174
+00:10:26,000 --> 00:10:28,200
+ Which is, again, one of the rarer forms of ghosts.
+
+175
+00:10:28,200 --> 00:10:31,960
+ Those are the stories you hear the most about because they're so weird and creepy, but most
+
+176
+00:10:31,960 --> 00:10:40,120
+ ghostly activity is sounds and smells and then apparitions and then moving things.
+
+177
+00:10:40,120 --> 00:10:42,040
+ So this was a super active house.
+
+178
+00:10:42,040 --> 00:10:44,080
+ I don't think Uncle Mike was the original ghost.
+
+179
+00:10:44,080 --> 00:10:49,440
+ I think that this ghost was able to manifest because this place had so much energy already
+
+180
+00:10:49,440 --> 00:10:51,480
+ in it.
+
+181
+00:10:51,480 --> 00:10:53,960
+ And when they moved the ashes out, the ghost showed.
+
+182
+00:10:53,960 --> 00:10:54,960
+ I don't know.
+
+183
+00:10:54,960 --> 00:10:59,720
+ The whole story is interesting as to why you would bury ashes in the backyard.
+
+184
+00:10:59,720 --> 00:11:03,200
+ When the ghost shows up, I guess you have to ask yourself, are you going to listen to
+
+185
+00:11:03,200 --> 00:11:04,200
+ the ghost?
+
+186
+00:11:04,200 --> 00:11:06,600
+ Was the ghost saying one last goodbye?
+
+187
+00:11:06,600 --> 00:11:09,920
+ Or was he trying to appear because he didn't want to be buried in the backyard?
+
+188
+00:11:09,920 --> 00:11:14,720
+ I mean, I'm sure eventually they did bury him back there.
+
+189
+00:11:14,720 --> 00:11:16,560
+ Is his ghost still there?
+
+190
+00:11:16,560 --> 00:11:19,000
+ Has he joined the collection of spirits?
+
+191
+00:11:19,000 --> 00:11:21,640
+ Is he there so he can spend more time with his family?
+
+192
+00:11:21,640 --> 00:11:28,840
+ Is he trapped because they brought him to a house that is just not necessarily a positive
+
+193
+00:11:28,840 --> 00:11:33,440
+ conductor of paranormal energy, but a vortex that's keeping souls trapped there?
+
+194
+00:11:33,440 --> 00:11:34,440
+ Who knows?
+
+195
+00:11:34,440 --> 00:11:37,400
+ Lots of hypothetical questions, but a very interesting story.
+
+196
+00:11:37,400 --> 00:11:40,960
+ Very interesting story about getting your clothes wrong.
+
+197
+00:11:40,960 --> 00:11:45,960
+ You thought you saw a colonial ghost, but really it was a dead relative.
+
+198
+00:11:45,960 --> 00:11:48,400
+ You died fairly recently.
+
+199
+00:11:48,400 --> 00:11:51,920
+ I've always wondered how many ghosts we see where they're like, "Oh, if you look down
+
+200
+00:11:51,920 --> 00:11:58,280
+ this hallway at 3 a.m., you'll see a ghost of a maid wearing old-timey Downton Abbey
+
+201
+00:11:58,280 --> 00:12:00,280
+ clothes."
+
+202
+00:12:00,280 --> 00:12:06,120
+ It was really like some sex-fib, some sex-fetish party, some girl dressed up as a maid, and
+
+203
+00:12:06,120 --> 00:12:10,520
+ then tripped and landed on a broken wine bottle and slid her throat open.
+
+204
+00:12:10,520 --> 00:12:12,720
+ She bled all over the floor.
+
+205
+00:12:12,720 --> 00:12:13,720
+ Then now that's her.
+
+206
+00:12:13,720 --> 00:12:14,720
+ That's her ghost.
+
+207
+00:12:14,720 --> 00:12:17,960
+ She's trapped in Downton Abbey clothes for the rest of time.
+
+208
+00:12:17,960 --> 00:12:18,960
+ Who knows?
+
+209
+00:12:18,960 --> 00:12:23,440
+ It's probably more likely some old-timey ghost, but it could be just a costume, and then you
+
+210
+00:12:23,440 --> 00:12:24,440
+ have the whole idea.
+
+211
+00:12:24,440 --> 00:12:26,720
+ This is what I'm actually doing.
+
+212
+00:12:26,720 --> 00:12:27,720
+ I'm doing that.
+
+213
+00:12:27,720 --> 00:12:29,760
+ I know it sounds like I keep promoting, and I am.
+
+214
+00:12:29,760 --> 00:12:36,560
+ I'm doing a presentation at the Oregon Ghost Conference on March 24th in Seaside, Oregon.
+
+215
+00:12:36,560 --> 00:12:38,560
+ We are going to be talking ... Is it March 24th?
+
+216
+00:12:38,560 --> 00:12:41,440
+ I better double check that that's the date here.
+
+217
+00:12:41,440 --> 00:12:42,440
+ Hold on.
+
+218
+00:12:42,440 --> 00:12:46,320
+ I'll be doing a presentation on ... Yeah, I'm doing a presentation on March 24th at
+
+219
+00:12:46,320 --> 00:12:47,320
+ the Oregon Ghost Conference.
+
+220
+00:12:47,320 --> 00:12:52,920
+ We're talking about how the spirit is or looks after death.
+
+221
+00:12:52,920 --> 00:12:56,600
+ Could you imagine not having a head as a ghost?
+
+222
+00:12:56,600 --> 00:12:57,920
+ We don't know what it's like to be a ghost.
+
+223
+00:12:57,920 --> 00:13:03,080
+ Maybe you see through your fingertips, but there's a lot of good ghost cigarshops out
+
+224
+00:13:03,080 --> 00:13:04,080
+ there.
+
+225
+00:13:04,080 --> 00:13:05,080
+ You want to smoke.
+
+226
+00:13:05,080 --> 00:13:07,040
+ I mean, what is it?
+
+227
+00:13:07,040 --> 00:13:12,840
+ You would think if it was true that the manner in which you died is the manner in which you
+
+228
+00:13:12,840 --> 00:13:15,640
+ haunt, which I don't believe.
+
+229
+00:13:15,640 --> 00:13:20,560
+ I don't believe that, but there are so many ghosts that are walking around with no heads.
+
+230
+00:13:20,560 --> 00:13:25,960
+ You figure the old rap saying, "Protect your neck" would become a philosophy.
+
+231
+00:13:25,960 --> 00:13:31,560
+ The whole idea of life would be, "Die with a perfect body, otherwise you'll be floating
+
+232
+00:13:31,560 --> 00:13:34,440
+ around in the afterlife with no head."
+
+233
+00:13:34,440 --> 00:13:38,760
+ Let me just give you a little advice.
+
+234
+00:13:38,760 --> 00:13:42,320
+ Don't let anything happen to your head anyways, whether or not ghosts are real.
+
+235
+00:13:42,320 --> 00:13:43,960
+ You're like, "I don't believe in ghosts.
+
+236
+00:13:43,960 --> 00:13:46,080
+ You're banging your head with sledgehammers."
+
+237
+00:13:46,080 --> 00:13:47,080
+ Don't do that.
+
+238
+00:13:47,080 --> 00:13:48,760
+ It's just interesting.
+
+239
+00:13:48,760 --> 00:13:52,360
+ Do we need to make sure we don't die certain deaths?
+
+240
+00:13:52,360 --> 00:13:56,600
+ Does that make a difference in how a ghost lore is divided on this?
+
+241
+00:13:56,600 --> 00:14:02,080
+ Sometimes you get a ghost with no head and they died by most likely shooting themselves
+
+242
+00:14:02,080 --> 00:14:04,640
+ in the head or they were beheaded during life.
+
+243
+00:14:04,640 --> 00:14:10,600
+ But then there are other soldiers who get blown to bits by a bomb in some Godforsaken
+
+244
+00:14:10,600 --> 00:14:13,640
+ battlefield and their ghost is fine walking around.
+
+245
+00:14:13,640 --> 00:14:17,400
+ It's an interesting question and we don't know as paranormal researchers why some ghosts
+
+246
+00:14:17,400 --> 00:14:20,160
+ are totally just like banged up.
+
+247
+00:14:20,160 --> 00:14:23,480
+ They're all covered in blood, no head, missing limbs.
+
+248
+00:14:23,480 --> 00:14:26,000
+ And then other ghosts who also died in horrible way.
+
+249
+00:14:26,000 --> 00:14:29,280
+ Most drowned ghosts aren't blue.
+
+250
+00:14:29,280 --> 00:14:33,320
+ Most drowned ghosts don't have snails crawling out of their nose or a hermit crab living
+
+251
+00:14:33,320 --> 00:14:34,320
+ in their brain.
+
+252
+00:14:34,320 --> 00:14:35,760
+ I mean, so what is it?
+
+253
+00:14:35,760 --> 00:14:36,760
+ What is it?
+
+254
+00:14:36,760 --> 00:14:38,800
+ But anyways, a fascinating question, fascinating story.
+
+255
+00:14:38,800 --> 00:14:43,800
+ A fascinating way for me to advertise Oregon Ghost Conference March 24th.
+
+256
+00:14:43,800 --> 00:14:44,800
+ Come out and see me.
+
+257
+00:14:44,800 --> 00:14:47,600
+ This will be a lot of fun.
+
+258
+00:14:47,600 --> 00:14:51,840
+ Extension cord, let's go ahead and plug you into the carpenter copter.
+
+259
+00:14:51,840 --> 00:14:56,160
+ We are leaving behind this haunted house.
+
+260
+00:14:56,160 --> 00:14:59,800
+ Take us all the way out to Pennsylvania.
+
+261
+00:14:59,800 --> 00:15:11,000
+ Specifically, we're headed out to Lackawanna County, Pennsylvania.
+
+262
+00:15:11,000 --> 00:15:16,320
+ I found this story on the amazing websites phantomsandmonsters.com.
+
+263
+00:15:16,320 --> 00:15:17,320
+ Check it out.
+
+264
+00:15:17,320 --> 00:15:21,440
+ They got new, they got like I've said before, they have more articles on that site than I
+
+265
+00:15:21,440 --> 00:15:24,760
+ could ever cover on this show so I recommend everyone check them out.
+
+266
+00:15:24,760 --> 00:15:25,760
+ It's a great website.
+
+267
+00:15:25,760 --> 00:15:32,160
+ This story was originally sent or posted by a guy named PM, just his initials.
+
+268
+00:15:32,160 --> 00:15:34,640
+ We're going to go ahead and call you Peter.
+
+269
+00:15:34,640 --> 00:15:39,160
+ This story starts off in 2002 when Peter was 14 years old.
+
+270
+00:15:39,160 --> 00:15:42,680
+ And a friend of his goes, "Hey Peter, I know you're really good with setting up computers.
+
+271
+00:15:42,680 --> 00:15:45,180
+ I know you're a whiz.
+
+272
+00:15:45,180 --> 00:15:47,840
+ You're also very handsome and looks like you're strong.
+
+273
+00:15:47,840 --> 00:15:48,840
+ Have you been working out?"
+
+274
+00:15:48,840 --> 00:15:51,040
+ And Peter goes, "Okay, what do you want me to do?
+
+275
+00:15:51,040 --> 00:15:56,000
+ So obviously you're trying to butter me up to do something that most people would find
+
+276
+00:15:56,000 --> 00:15:57,000
+ painful."
+
+277
+00:15:57,000 --> 00:15:59,400
+ And the friend goes, "Yeah, that's pretty much what I'm doing.
+
+278
+00:15:59,400 --> 00:16:06,240
+ I'm wondering if you can set up my grandparents' computer."
+
+279
+00:16:06,240 --> 00:16:07,240
+ I've done it.
+
+280
+00:16:07,240 --> 00:16:08,240
+ I've done it.
+
+281
+00:16:08,240 --> 00:16:09,240
+ Not for these.
+
+282
+00:16:09,240 --> 00:16:10,240
+ I'm not Peter.
+
+283
+00:16:10,240 --> 00:16:11,240
+ I'm admitting that I'm the only one who told this story.
+
+284
+00:16:11,240 --> 00:16:16,080
+ No, everyone, I think anyone who knows anything about computers has had to set one up for
+
+285
+00:16:16,080 --> 00:16:22,240
+ an elderly person or program their mother's phone or stop their printer from shooting
+
+286
+00:16:22,240 --> 00:16:24,480
+ out paper across the room.
+
+287
+00:16:24,480 --> 00:16:28,400
+ Anyone who knows anything about tech support has been dragged into the scenario at one
+
+288
+00:16:28,400 --> 00:16:29,400
+ point or another.
+
+289
+00:16:29,400 --> 00:16:31,800
+ And that's why I feel Peter's pain.
+
+290
+00:16:31,800 --> 00:16:34,360
+ Peter's like, "Oh man, I thought I was going to have fun tonight.
+
+291
+00:16:34,360 --> 00:16:36,780
+ Instead, I'm going to be putting these people's..."
+
+292
+00:16:36,780 --> 00:16:43,280
+ Not only does he have to assemble the computer, he then needs to load the software up, which
+
+293
+00:16:43,280 --> 00:16:49,000
+ at this point in time is probably the AOL disk they got in the mail, and then he needed
+
+294
+00:16:49,000 --> 00:16:50,000
+ to do a tutorial.
+
+295
+00:16:50,000 --> 00:16:53,080
+ It's like all the worst possible things you could do.
+
+296
+00:16:53,080 --> 00:16:57,760
+ But anyways, Peter says, "Sure, I'll do it."
+
+297
+00:16:57,760 --> 00:17:02,360
+ And he rides his bike over to his friend's grandparents' house.
+
+298
+00:17:02,360 --> 00:17:07,520
+ When Peter gets there, he finds that the only people in the house are the grandparents and
+
+299
+00:17:07,520 --> 00:17:09,520
+ their six-year-old granddaughter.
+
+300
+00:17:09,520 --> 00:17:10,520
+ She was visiting.
+
+301
+00:17:10,520 --> 00:17:14,000
+ He originally tried having her set up the computer, and she's like, "I can't even spell
+
+302
+00:17:14,000 --> 00:17:15,000
+ the word.
+
+303
+00:17:15,000 --> 00:17:16,880
+ What am I supposed to do with these cables?"
+
+304
+00:17:16,880 --> 00:17:18,800
+ So they send her to her room.
+
+305
+00:17:18,800 --> 00:17:19,800
+ She is fast asleep.
+
+306
+00:17:19,800 --> 00:17:20,800
+ Peter is there.
+
+307
+00:17:20,800 --> 00:17:26,520
+ He sets up the computer, loads up all the software, and does the tutorial.
+
+308
+00:17:26,520 --> 00:17:28,000
+ This is a mouse.
+
+309
+00:17:28,000 --> 00:17:29,560
+ This is a browser.
+
+310
+00:17:29,560 --> 00:17:30,560
+ This is your monitor.
+
+311
+00:17:30,560 --> 00:17:34,320
+ They're all like, "Whoa, whoa, whoa, whoa, slow down there, Einstein.
+
+312
+00:17:34,320 --> 00:17:35,320
+ What's going on?"
+
+313
+00:17:35,320 --> 00:17:36,960
+ The monitor is not the computer.
+
+314
+00:17:36,960 --> 00:17:39,040
+ By the way, there are two separate pieces there.
+
+315
+00:17:39,040 --> 00:17:41,400
+ Like, you're blowing my mind, man.
+
+316
+00:17:41,400 --> 00:17:45,320
+ Anyways, after everything is set up, all the software is loaded and the presentation is
+
+317
+00:17:45,320 --> 00:17:47,000
+ over, Peter is ready to go.
+
+318
+00:17:47,000 --> 00:17:48,840
+ It's time to leave.
+
+319
+00:17:48,840 --> 00:17:49,840
+ Grandparents are very thankful.
+
+320
+00:17:49,840 --> 00:17:52,960
+ Hey, we know this wasn't an easy task.
+
+321
+00:17:52,960 --> 00:17:55,360
+ Thank you so much for setting this up for us.
+
+322
+00:17:55,360 --> 00:17:58,800
+ We will email you tomorrow with a whole new list of questions.
+
+323
+00:17:58,800 --> 00:18:00,640
+ First question, how to use email.
+
+324
+00:18:00,640 --> 00:18:02,720
+ And he's like, "Uh-huh."
+
+325
+00:18:02,720 --> 00:18:04,920
+ After the presentation is done, Peter is ready to leave.
+
+326
+00:18:04,920 --> 00:18:08,160
+ The grandparents are now sitting on the couch in the living room.
+
+327
+00:18:08,160 --> 00:18:14,840
+ But before Peter can actually walk out the front door, suddenly a cold breeze sweeps through
+
+328
+00:18:14,840 --> 00:18:20,400
+ the entire room.
+
+329
+00:18:20,400 --> 00:18:28,200
+ When this happens, Peter sees both of the grandparents turn and begin staring into the kitchen.
+
+330
+00:18:28,200 --> 00:18:31,640
+ And Peter's looking at the grandparents and he's like, "What?"
+
+331
+00:18:31,640 --> 00:18:38,920
+ And he turns and he looks into the kitchen as well and he sees what they're staring
+
+332
+00:18:38,920 --> 00:18:41,520
+ at.
+
+333
+00:18:41,520 --> 00:18:47,240
+ Standing in the kitchen are two gray aliens.
+
+334
+00:18:47,240 --> 00:18:51,280
+ You know, they look like their traditional gray alien except for two details.
+
+335
+00:18:51,280 --> 00:18:56,120
+ One, their eyes seem to be a little bit farther to the sides of their heads.
+
+336
+00:18:56,120 --> 00:19:00,720
+ Gray aliens, the eyes are normally in the front of the face like a human's eyes.
+
+337
+00:19:00,720 --> 00:19:03,960
+ They also said they were wearing silver jumpsuits.
+
+338
+00:19:03,960 --> 00:19:08,960
+ They also said not only were the eyes farther apart than he had seen in drawings or in movie
+
+339
+00:19:08,960 --> 00:19:11,080
+ or television shows of aliens.
+
+340
+00:19:11,080 --> 00:19:15,160
+ He goes, "These gray aliens were taller than I had imagined gray aliens to be and their
+
+341
+00:19:15,160 --> 00:19:17,400
+ necks were thicker.
+
+342
+00:19:17,400 --> 00:19:20,280
+ They also wore silver jumpsuits."
+
+343
+00:19:20,280 --> 00:19:26,120
+ Now on any given day, two gray aliens appearing in your kitchen or somebody else's kitchen
+
+344
+00:19:26,120 --> 00:19:32,160
+ if you're visiting them would be shocking and probably the most exciting thing, at
+
+345
+00:19:32,160 --> 00:19:36,520
+ the very least the most exciting thing you've seen that day, if not ever.
+
+346
+00:19:36,520 --> 00:19:43,240
+ But there was another figure standing in this room that was running the show.
+
+347
+00:19:43,240 --> 00:19:45,320
+ This was the main attraction.
+
+348
+00:19:45,320 --> 00:19:50,840
+ Standing in between these two gray aliens was an insectoid.
+
+349
+00:19:50,840 --> 00:19:54,360
+ These giant bipedal insect creatures.
+
+350
+00:19:54,360 --> 00:19:57,440
+ They're very rare in UFO stories.
+
+351
+00:19:57,440 --> 00:19:58,440
+ I love them.
+
+352
+00:19:58,440 --> 00:19:59,440
+ I think they're super cool.
+
+353
+00:19:59,440 --> 00:20:00,440
+ I think they're super cool.
+
+354
+00:20:00,440 --> 00:20:04,480
+ I think the idea of the insectoid race is just so much you could do with it.
+
+355
+00:20:04,480 --> 00:20:07,560
+ As they're ripping me apart, I'm like, "Oh, this is so awesome, dude.
+
+356
+00:20:07,560 --> 00:20:09,120
+ Late eggs in my stomach.
+
+357
+00:20:09,120 --> 00:20:10,120
+ That's also awesome too."
+
+358
+00:20:10,120 --> 00:20:11,120
+ It's like, "What?
+
+359
+00:20:11,120 --> 00:20:12,680
+ You're enjoying this little too much?"
+
+360
+00:20:12,680 --> 00:20:14,120
+ Insectoid aliens I love.
+
+361
+00:20:14,120 --> 00:20:19,400
+ There's a giant insectoid also standing in the kitchen towering over the grays and he
+
+362
+00:20:19,400 --> 00:20:27,280
+ was wearing a black robe with a yellow stripe going down the middle.
+
+363
+00:20:27,280 --> 00:20:32,520
+ So an insectoid alien garbed in a flowing black robe and then two gray aliens flanking
+
+364
+00:20:32,520 --> 00:20:34,880
+ it with silver jumpsuits.
+
+365
+00:20:34,880 --> 00:20:43,320
+ Peter is shocked about what he's seeing, but he's also shocked by the fact that the grandparents
+
+366
+00:20:43,320 --> 00:20:49,760
+ don't seem to be particularly worried about what is going on.
+
+367
+00:20:49,760 --> 00:20:55,520
+ Peter said the insectoid and the aliens walked out of the kitchen and began to move through
+
+368
+00:20:55,520 --> 00:20:57,680
+ the house.
+
+369
+00:20:57,680 --> 00:21:03,280
+ They were gone for about a minute and then the insectoid and the gray aliens began walking
+
+370
+00:21:03,280 --> 00:21:10,560
+ back towards the kitchen, but now the insectoid is carrying the six-year-old granddaughter
+
+371
+00:21:10,560 --> 00:21:14,800
+ in its arms.
+
+372
+00:21:14,800 --> 00:21:22,520
+ The insectoid looks at Peter and Peter is looking at this praying mantis-type alien.
+
+373
+00:21:22,520 --> 00:21:29,520
+ They've locked eyes and Peter goes, "Listen, I don't know how I got this feeling.
+
+374
+00:21:29,520 --> 00:21:31,920
+ I didn't get a telepathic signal.
+
+375
+00:21:31,920 --> 00:21:37,720
+ It definitely didn't say anything to me, but somehow when this thing was staring at me,
+
+376
+00:21:37,720 --> 00:21:49,160
+ I understood that this creature knew who I was.
+
+377
+00:21:49,160 --> 00:21:53,680
+ I don't know how he knew that and I don't know how I knew that he knew that, but I knew
+
+378
+00:21:53,680 --> 00:21:54,680
+ that.
+
+379
+00:21:54,680 --> 00:22:02,000
+ When he looked at me, I could tell in some way that he knew who I was."
+
+380
+00:22:02,000 --> 00:22:05,480
+ And the whole time the grandparents are just sitting there, now they're watching what's
+
+381
+00:22:05,480 --> 00:22:06,480
+ going on.
+
+382
+00:22:06,480 --> 00:22:09,600
+ They're not like turning on the television, they're all cranking the volume up.
+
+383
+00:22:09,600 --> 00:22:10,840
+ They're like, "Ah, that insectoid.
+
+384
+00:22:10,840 --> 00:22:12,400
+ His chittering is so annoying."
+
+385
+00:22:12,400 --> 00:22:15,000
+ No, they were watching it in silence.
+
+386
+00:22:15,000 --> 00:22:18,640
+ They were watching these aliens move through the house, go to the granddaughter's room,
+
+387
+00:22:18,640 --> 00:22:21,240
+ and now they're coming out with the granddaughter.
+
+388
+00:22:21,240 --> 00:22:27,440
+ They're just not doing anything about it.
+
+389
+00:22:27,440 --> 00:22:31,320
+ And Peter's obviously, he's in shock, he's terrified, he doesn't know what to do.
+
+390
+00:22:31,320 --> 00:22:38,280
+ He's only 14 years old, but finally he realizes the grandparents aren't going to stop whatever,
+
+391
+00:22:38,280 --> 00:22:41,840
+ whatever is about to happen isn't going to be good.
+
+392
+00:22:41,840 --> 00:22:43,240
+ The grandparents aren't going to do anything about it.
+
+393
+00:22:43,240 --> 00:22:44,480
+ I have to do something about it.
+
+394
+00:22:44,480 --> 00:22:49,240
+ And Peter said, "I took one step towards these aliens.
+
+395
+00:22:49,240 --> 00:22:55,320
+ I took one step and the grandfather reached out and grabbed my arm."
+
+396
+00:22:55,320 --> 00:23:05,640
+ And he said, "They will bring her back."
+
+397
+00:23:05,640 --> 00:23:11,480
+ At that point the aliens are now in the kitchen and a light materialized around the four of
+
+398
+00:23:11,480 --> 00:23:12,480
+ them.
+
+399
+00:23:12,480 --> 00:23:15,520
+ The emantus is still holding the little girl in his arms.
+
+400
+00:23:15,520 --> 00:23:21,680
+ This light materializes and then they vanish.
+
+401
+00:23:21,680 --> 00:23:24,840
+ The three aliens and the little girl just disappear.
+
+402
+00:23:24,840 --> 00:23:30,160
+ Peter said, "It was interesting, the light appeared out of nowhere.
+
+403
+00:23:30,160 --> 00:23:35,840
+ Everyone vanished, but then there was this odd glow left behind that remains for a few
+
+404
+00:23:35,840 --> 00:23:40,280
+ seconds after whatever this was, this teleportation sequence or whatever.
+
+405
+00:23:40,280 --> 00:23:48,440
+ He goes, "You saw this glow last for a couple seconds and then slowly fade away."
+
+406
+00:23:48,440 --> 00:23:52,000
+ Peter's just standing there completely.
+
+407
+00:23:52,000 --> 00:23:53,240
+ What words would you even use?
+
+408
+00:23:53,240 --> 00:23:57,680
+ You'd basically have every human emotion, every negative human emotion going on through
+
+409
+00:23:57,680 --> 00:23:59,440
+ him right now.
+
+410
+00:23:59,440 --> 00:24:00,800
+ He doesn't know what happened.
+
+411
+00:24:00,800 --> 00:24:01,800
+ He's perplexed.
+
+412
+00:24:01,800 --> 00:24:03,600
+ He's terrified.
+
+413
+00:24:03,600 --> 00:24:09,040
+ But all of this stuff, he doesn't understand why no one did anything to stop this.
+
+414
+00:24:09,040 --> 00:24:11,840
+ So he's just standing there and he goes, "Maybe a minute past."
+
+415
+00:24:11,840 --> 00:24:13,680
+ There is just silence.
+
+416
+00:24:13,680 --> 00:24:14,680
+ I'm standing there.
+
+417
+00:24:14,680 --> 00:24:16,840
+ The grandparents are sitting on the couch.
+
+418
+00:24:16,840 --> 00:24:18,240
+ And what do you even say?
+
+419
+00:24:18,240 --> 00:24:27,320
+ I'm shocked that I saw this and then the grandpa says, "Once again, they will bring
+
+420
+00:24:27,320 --> 00:24:31,820
+ her back."
+
+421
+00:24:31,820 --> 00:24:35,320
+ Peter says about a minute passes of stunned silence.
+
+422
+00:24:35,320 --> 00:24:36,760
+ How would you react to any of this?
+
+423
+00:24:36,760 --> 00:24:44,320
+ You just saw in the most minimalist of terms, a six-year-old girl get kidnapped.
+
+424
+00:24:44,320 --> 00:24:45,720
+ But it wasn't just that, was it?
+
+425
+00:24:45,720 --> 00:24:49,200
+ There is aliens and teleportation and the fact that the grandparents, the people who
+
+426
+00:24:49,200 --> 00:24:52,160
+ should be protecting this girl, let it happen.
+
+427
+00:24:52,160 --> 00:24:56,560
+ And a minute passes of silence in this house and it is finally broken when the grandfather
+
+428
+00:24:56,560 --> 00:25:05,680
+ says, "Once again," and this is a direct quote both times, "They will bring her back."
+
+429
+00:25:05,680 --> 00:25:09,200
+ Peter got on his bike and took off.
+
+430
+00:25:09,200 --> 00:25:13,280
+ He said the whole time I was riding home, I felt like something was following me.
+
+431
+00:25:13,280 --> 00:25:16,520
+ Something was ready to snatch me right off my bike.
+
+432
+00:25:16,520 --> 00:25:18,520
+ I was petrified.
+
+433
+00:25:18,520 --> 00:25:25,960
+ But he made it home and he couldn't sleep, which is understandable, right?
+
+434
+00:25:25,960 --> 00:25:30,040
+ Again at the very least you saw a six-year-old girl get kidnapped in front of you.
+
+435
+00:25:30,040 --> 00:25:31,040
+ He couldn't sleep.
+
+436
+00:25:31,040 --> 00:25:36,840
+ The next day he asks his friend about what would possibly have happened.
+
+437
+00:25:36,840 --> 00:25:39,360
+ He goes, "Hey, remember the other night?
+
+438
+00:25:39,360 --> 00:25:41,360
+ I set up your grandparents' computer.
+
+439
+00:25:41,360 --> 00:25:43,600
+ I didn't expect this.
+
+440
+00:25:43,600 --> 00:25:49,800
+ I expected to spend a couple hours explaining to them the difference between a modem and
+
+441
+00:25:49,800 --> 00:25:50,800
+ a CD-ROM."
+
+442
+00:25:50,800 --> 00:25:57,280
+ No, three aliens showed up and kidnapped their granddaughter.
+
+443
+00:25:57,280 --> 00:25:58,280
+ What are your relatives?
+
+444
+00:25:58,280 --> 00:25:59,920
+ You guys are all part of the same family.
+
+445
+00:25:59,920 --> 00:26:00,920
+ What in the world is going on?
+
+446
+00:26:00,920 --> 00:26:02,880
+ Do you know anything about this?
+
+447
+00:26:02,880 --> 00:26:07,720
+ And Peter says his friend explained to him, "This isn't the first time that's happened.
+
+448
+00:26:07,720 --> 00:26:09,400
+ Like I'm sorry to put you in that position.
+
+449
+00:26:09,400 --> 00:26:10,400
+ I didn't know.
+
+450
+00:26:10,400 --> 00:26:14,600
+ The night you were going over was kidnapping night, but this isn't the first time that
+
+451
+00:26:14,600 --> 00:26:15,600
+ it's happened."
+
+452
+00:26:15,600 --> 00:26:21,480
+ He goes, "This has happened a lot and every time it's happened, people have tried to
+
+453
+00:26:21,480 --> 00:26:22,800
+ stop it.
+
+454
+00:26:22,800 --> 00:26:24,440
+ The grandparents have tried to stop it.
+
+455
+00:26:24,440 --> 00:26:27,840
+ Other family members who had been there when this happened tried to stop it, but they never
+
+456
+00:26:27,840 --> 00:26:29,240
+ could.
+
+457
+00:26:29,240 --> 00:26:35,520
+ They can never stop this from happening and they always brought her back."
+
+458
+00:26:35,520 --> 00:26:43,320
+ In fact, I'll tell you right now, Peter, she did come back home a couple hours after you
+
+459
+00:26:43,320 --> 00:26:44,320
+ left.
+
+460
+00:26:44,320 --> 00:26:51,000
+ They did bring her back that night because they always do.
+
+461
+00:26:51,000 --> 00:27:01,040
+ And there's no way to stop it, so you just let it happen.
+
+462
+00:27:01,040 --> 00:27:05,840
+ Peter said shortly after this event, the entire family moved out of the area.
+
+463
+00:27:05,840 --> 00:27:10,480
+ So not just the grandparents, but everybody, everyone who was a part of this family, they
+
+464
+00:27:10,480 --> 00:27:14,360
+ just moved and he lost contact with his friend and with the grandparents.
+
+465
+00:27:14,360 --> 00:27:19,840
+ He doesn't really know what happened after that one night.
+
+466
+00:27:19,840 --> 00:27:25,000
+ It's a very interesting story, what I love about it, other than having one of my favorite
+
+467
+00:27:25,000 --> 00:27:27,720
+ alien races involved in it, the Insectoid.
+
+468
+00:27:27,720 --> 00:27:29,280
+ We can really take this story apart.
+
+469
+00:27:29,280 --> 00:27:32,640
+ I'll try not to drone on too quickly, get it?
+
+470
+00:27:32,640 --> 00:27:35,040
+ No, okay, let me explain.
+
+471
+00:27:35,040 --> 00:27:38,720
+ A lot of times, great aliens are considered drones.
+
+472
+00:27:38,720 --> 00:27:43,360
+ Some UFOologists say that they are part of their own race.
+
+473
+00:27:43,360 --> 00:27:49,440
+ While there's other UFOologists who believe that the grays are actually biodrones, they're
+
+474
+00:27:49,440 --> 00:27:54,840
+ like organic material, or they're actual robots, but they're constructs.
+
+475
+00:27:54,840 --> 00:27:56,040
+ They have no feelings.
+
+476
+00:27:56,040 --> 00:27:57,440
+ They have no emotions.
+
+477
+00:27:57,440 --> 00:28:01,600
+ They're basically the same as a tractor on earth.
+
+478
+00:28:01,600 --> 00:28:05,760
+ It's a vehicle or a mechanism meant to carry out a study.
+
+479
+00:28:05,760 --> 00:28:10,520
+ What's interesting about this one is the two gray aliens, their eyes are farther off to
+
+480
+00:28:10,520 --> 00:28:13,760
+ the sides of their heads than the normal gray alien.
+
+481
+00:28:13,760 --> 00:28:15,120
+ Almost like an Insectoid.
+
+482
+00:28:15,120 --> 00:28:17,440
+ Insectoid aliens don't have the eyes right in front of their head.
+
+483
+00:28:17,440 --> 00:28:22,200
+ They're kind of offset to the sides as well, not completely on the sides, but...
+
+484
+00:28:22,200 --> 00:28:29,360
+ So it's almost like the gray aliens they were being manufactured to serve the race they
+
+485
+00:28:29,360 --> 00:28:30,680
+ were with in this story.
+
+486
+00:28:30,680 --> 00:28:32,160
+ Because there's also some...
+
+487
+00:28:32,160 --> 00:28:38,040
+ The gray aliens wearing clothes, we actually see that a lot in UFO stories, like actual
+
+488
+00:28:38,040 --> 00:28:40,320
+ peoples encounters with gray aliens.
+
+489
+00:28:40,320 --> 00:28:44,640
+ In television and movie shows, gray aliens don't wear clothes, but when you dig through
+
+490
+00:28:44,640 --> 00:28:50,200
+ the reports, gray aliens wearing clothes are very, very common.
+
+491
+00:28:50,200 --> 00:28:55,120
+ So the silver jumpsuits, that's not really a signifier of anything.
+
+492
+00:28:55,120 --> 00:28:56,200
+ That's just...
+
+493
+00:28:56,200 --> 00:29:00,360
+ They do tend to wear clothes from time to time, but the larger necks, they're actually
+
+494
+00:29:00,360 --> 00:29:04,600
+ a little bit taller than the average gray alien, or the thicker neck taller than the
+
+495
+00:29:04,600 --> 00:29:06,840
+ average gray alien and the eyes kind of offset.
+
+496
+00:29:06,840 --> 00:29:08,600
+ Makes me think these may have been...
+
+497
+00:29:08,600 --> 00:29:10,440
+ If not, if we don't go with the gray...
+
+498
+00:29:10,440 --> 00:29:12,320
+ Because I don't know if I'm sold on that.
+
+499
+00:29:12,320 --> 00:29:15,640
+ The gray aliens are just tools.
+
+500
+00:29:15,640 --> 00:29:17,160
+ They're just kind of like mindless drones.
+
+501
+00:29:17,160 --> 00:29:21,480
+ Whether or not they're mindless drones or they do have their own unique personality, their
+
+502
+00:29:21,480 --> 00:29:27,080
+ own unique race, these ones may have been genetically modified by the insectoids to
+
+503
+00:29:27,080 --> 00:29:30,200
+ appear more like them.
+
+504
+00:29:30,200 --> 00:29:34,760
+ So that's an interesting little tidbit, but Jason actually the most interesting tidbit
+
+505
+00:29:34,760 --> 00:29:36,360
+ is the six-year-old getting kidnapped.
+
+506
+00:29:36,360 --> 00:29:38,760
+ He's talking about fashion choices.
+
+507
+00:29:38,760 --> 00:29:44,920
+ This is what is so interesting to me about UFOology with ghosts.
+
+508
+00:29:44,920 --> 00:29:47,480
+ It is a very one-on-one.
+
+509
+00:29:47,480 --> 00:29:49,840
+ Ghosts don't seem to be more powerful than the average human.
+
+510
+00:29:49,840 --> 00:29:52,040
+ They don't seem uniquely strong.
+
+511
+00:29:52,040 --> 00:29:55,160
+ Sure they can float through walls and they can throw stuff at you, and like if you punch
+
+512
+00:29:55,160 --> 00:29:57,440
+ them in your hand just goes through them.
+
+513
+00:29:57,440 --> 00:30:04,120
+ But ghosts basically seem to be limited to the strength level of a human.
+
+514
+00:30:04,120 --> 00:30:09,720
+ Aliens have been nerfed a lot, again when we talk about like television shows and movies,
+
+515
+00:30:09,720 --> 00:30:18,360
+ but when you dig through the lore, aliens are incredibly powerful beings.
+
+516
+00:30:18,360 --> 00:30:23,720
+ And we see a lot of, even when you look through the reports of missing time and things like
+
+517
+00:30:23,720 --> 00:30:26,920
+ that being knocked unconscious.
+
+518
+00:30:26,920 --> 00:30:31,080
+ We've done a whole episode about are great aliens evolved from dolphins because they
+
+519
+00:30:31,080 --> 00:30:33,640
+ both have the same type of sonic attacks.
+
+520
+00:30:33,640 --> 00:30:36,840
+ All this interesting stuff in the lore, when you watch movies and television, the great
+
+521
+00:30:36,840 --> 00:30:40,880
+ aliens are just like we come in peace, clean your environment.
+
+522
+00:30:40,880 --> 00:30:45,280
+ But in real life, I mean we've come across aliens that were bulletproof.
+
+523
+00:30:45,280 --> 00:30:49,560
+ We've come across aliens that people have tried stabbing them and the knife just slides
+
+524
+00:30:49,560 --> 00:30:50,560
+ off their skin.
+
+525
+00:30:50,560 --> 00:30:52,560
+ They can also be incredibly strong.
+
+526
+00:30:52,560 --> 00:31:00,000
+ Again, outside of all of the paranormal stuff, teleportation and mind-wiping people, a lot
+
+527
+00:31:00,000 --> 00:31:04,400
+ of these aliens you could not go toe-to-toe with a reptilian or an insectoid.
+
+528
+00:31:04,400 --> 00:31:07,480
+ They would gut you on the spot.
+
+529
+00:31:07,480 --> 00:31:10,760
+ Great aliens do seem to be quite frail.
+
+530
+00:31:10,760 --> 00:31:16,080
+ They seem to be built basically for pressing buttons on computers, flying spaceships, if
+
+531
+00:31:16,080 --> 00:31:19,800
+ they are a designed race, they're not built for combat.
+
+532
+00:31:19,800 --> 00:31:23,040
+ But reptilians and insectoids are.
+
+533
+00:31:23,040 --> 00:31:30,840
+ Whatever world they evolved on must be hell because they're just built to kill.
+
+534
+00:31:30,840 --> 00:31:35,400
+ And so at the end of the day, this insectoid could have just massacred everyone in this
+
+535
+00:31:35,400 --> 00:31:37,520
+ house and not have thought twice about it.
+
+536
+00:31:37,520 --> 00:31:39,640
+ You could have been a house of the...
+
+537
+00:31:39,640 --> 00:31:43,960
+ Just the way the power level of these things is off the charts.
+
+538
+00:31:43,960 --> 00:31:47,920
+ But what I like is that the insectoid wasn't doing that.
+
+539
+00:31:47,920 --> 00:31:53,640
+ However, the people did try to stop this from happening before and they never could.
+
+540
+00:31:53,640 --> 00:31:59,640
+ We don't get any info on if they were physically harmed or they had some sort of psionic block
+
+541
+00:31:59,640 --> 00:32:01,160
+ on them that they couldn't move.
+
+542
+00:32:01,160 --> 00:32:06,200
+ But to the point where the grandfather was resigned to just like not even get up off
+
+543
+00:32:06,200 --> 00:32:07,200
+ the couch.
+
+544
+00:32:07,200 --> 00:32:08,200
+ He's not even pretending.
+
+545
+00:32:08,200 --> 00:32:09,200
+ He has a guest over.
+
+546
+00:32:09,200 --> 00:32:12,440
+ He's not even like, "Oh great, now I gotta pretend that I can do this."
+
+547
+00:32:12,440 --> 00:32:13,920
+ He knew it was fruitless.
+
+548
+00:32:13,920 --> 00:32:18,880
+ He knew that they were gonna take her no matter what these beings were just far too powerful
+
+549
+00:32:18,880 --> 00:32:22,160
+ for the average human to interact with.
+
+550
+00:32:22,160 --> 00:32:27,880
+ He had tried before, other family members had tried before, and it has failed every single
+
+551
+00:32:27,880 --> 00:32:28,880
+ time.
+
+552
+00:32:28,880 --> 00:32:36,000
+ It would have had to have been a ton of times for you to not even get off the couch.
+
+553
+00:32:36,000 --> 00:32:39,720
+ It's that idea of the Groundhog Day Syndrome, right?
+
+554
+00:32:39,720 --> 00:32:44,960
+ Even by day five or day 50, you may still be trying to figure out the mystery.
+
+555
+00:32:44,960 --> 00:32:49,760
+ But by the 200th time this had happened, you're just like, "Whatever, I'm just gonna
+
+556
+00:32:49,760 --> 00:32:50,760
+ lay in bed."
+
+557
+00:32:50,760 --> 00:32:53,480
+ You hear the sound of the six-year-old getting kidnapped.
+
+558
+00:32:53,480 --> 00:32:55,800
+ You're like, "There's nothing we can do."
+
+559
+00:32:55,800 --> 00:32:59,920
+ And they always bring her back.
+
+560
+00:32:59,920 --> 00:33:02,320
+ So if I don't do anything, they're gonna bring her back.
+
+561
+00:33:02,320 --> 00:33:06,520
+ If I do something, there's a chance that I could get injured or that they won't bring
+
+562
+00:33:06,520 --> 00:33:08,520
+ her back.
+
+563
+00:33:08,520 --> 00:33:09,520
+ You know?
+
+564
+00:33:09,520 --> 00:33:11,280
+ And I think that's kind of implied as well.
+
+565
+00:33:11,280 --> 00:33:15,360
+ If you ended up injuring these beings, if you set a trap for them or busted out a shotgun
+
+566
+00:33:15,360 --> 00:33:19,640
+ and took out one of the gray aliens, blew away half of his skull, you may never see your
+
+567
+00:33:19,640 --> 00:33:20,640
+ daughter again.
+
+568
+00:33:20,640 --> 00:33:22,360
+ That teleportation's still going to happen.
+
+569
+00:33:22,360 --> 00:33:26,800
+ They're just bringing up one less alien.
+
+570
+00:33:26,800 --> 00:33:28,360
+ So it's a super interesting story.
+
+571
+00:33:28,360 --> 00:33:30,040
+ It's quite creepy.
+
+572
+00:33:30,040 --> 00:33:37,480
+ The idea of how powerless a human is, we are the dominant species on this planet.
+
+573
+00:33:37,480 --> 00:33:45,680
+ But on this planet is the key part of that sentence.
+
+574
+00:33:45,680 --> 00:33:50,240
+ You know, at any point, these more powerful beings can show up and do whatever they want.
+
+575
+00:33:50,240 --> 00:33:55,520
+ And there's nothing you can do about it.
+
+576
+00:33:55,520 --> 00:33:59,400
+ That's the key takeaway to really UFO stories.
+
+577
+00:33:59,400 --> 00:34:02,600
+ Their technology is greater than ours.
+
+578
+00:34:02,600 --> 00:34:06,920
+ Their scientific understanding, hand in hand with the technology, would be greater than
+
+579
+00:34:06,920 --> 00:34:08,420
+ ours.
+
+580
+00:34:08,420 --> 00:34:09,880
+ It's just raw power.
+
+581
+00:34:09,880 --> 00:34:16,320
+ It's just raw, unadulterated power that we can't even understand.
+
+582
+00:34:16,320 --> 00:34:20,520
+ We have it in our sci-fi shows and we have scientists working around the clock all over
+
+583
+00:34:20,520 --> 00:34:25,080
+ the world to move an atom from one millimeter away.
+
+584
+00:34:25,080 --> 00:34:26,840
+ No, it's not even a millimeter.
+
+585
+00:34:26,840 --> 00:34:28,240
+ It's even closer than that.
+
+586
+00:34:28,240 --> 00:34:31,040
+ But to make like a molecule jump, we go, "Look it.
+
+587
+00:34:31,040 --> 00:34:32,040
+ Look it.
+
+588
+00:34:32,040 --> 00:34:34,080
+ We're working towards teleportation.
+
+589
+00:34:34,080 --> 00:34:38,760
+ Aliens can do that with three dudes and then pick up a fourth and then just go back home."
+
+590
+00:34:38,760 --> 00:34:41,040
+ Like, we can't even comprehend that.
+
+591
+00:34:41,040 --> 00:34:44,320
+ And that's like their Sunday.
+
+592
+00:34:44,320 --> 00:34:47,800
+ That's just what they do to get around.
+
+593
+00:34:47,800 --> 00:34:51,480
+ So they outmatch us on science.
+
+594
+00:34:51,480 --> 00:34:54,120
+ A lot of the races outmatch us on physical power.
+
+595
+00:34:54,120 --> 00:34:56,400
+ We have had stories of people shooting aliens.
+
+596
+00:34:56,400 --> 00:34:57,400
+ Sure.
+
+597
+00:34:57,400 --> 00:35:02,200
+ We have had aliens get killed by humans with shotguns or rifles or whatever it is.
+
+598
+00:35:02,200 --> 00:35:08,400
+ We have had stories of UFOs getting shot down by fighter craft, but they're incredibly rare.
+
+599
+00:35:08,400 --> 00:35:13,680
+ When you look at the amount of alien encounters that we have versus the amount of alien encounters
+
+600
+00:35:13,680 --> 00:35:19,440
+ that when they come down to some sort of physical conflict, the humans win.
+
+601
+00:35:19,440 --> 00:35:20,440
+ It's incredibly rare.
+
+602
+00:35:20,440 --> 00:35:22,040
+ And again, you have that survivor bias.
+
+603
+00:35:22,040 --> 00:35:26,600
+ We don't have the accounts of the times the aliens killed humans.
+
+604
+00:35:26,600 --> 00:35:29,920
+ There is an encounter that went sideways and the aliens killed everybody because there's
+
+605
+00:35:29,920 --> 00:35:31,220
+ no one to tell that story.
+
+606
+00:35:31,220 --> 00:35:34,680
+ So we only have the stories where people survive alien encounters.
+
+607
+00:35:34,680 --> 00:35:38,280
+ And I think that may also skew how we feel.
+
+608
+00:35:38,280 --> 00:35:41,440
+ And I'm talking about hand-to-hand combat at this point.
+
+609
+00:35:41,440 --> 00:35:46,160
+ Great aliens might be incredibly strong, but anyone who's ever gotten toe-to-toe with one
+
+610
+00:35:46,160 --> 00:35:50,000
+ and lost, there's no one to tell the story.
+
+611
+00:35:50,000 --> 00:35:54,800
+ And the people who haven't physically gone after great aliens, they go, "I don't know,
+
+612
+00:35:54,800 --> 00:35:55,800
+ they've got skinny arms.
+
+613
+00:35:55,800 --> 00:35:58,800
+ He looks like a big old whim."
+
+614
+00:35:58,800 --> 00:36:00,160
+ It's a fascinating story.
+
+615
+00:36:00,160 --> 00:36:10,680
+ What do you do when an overwhelming force takes the person you love?
+
+616
+00:36:10,680 --> 00:36:12,920
+ It's a simple question, but it has no answer.
+
+617
+00:36:12,920 --> 00:36:18,720
+ If it was an armed raid from across your nation's borders where they broke in and they sacked
+
+618
+00:36:18,720 --> 00:36:23,400
+ the town and took all the women back home with them, the town population could get what
+
+619
+00:36:23,400 --> 00:36:26,840
+ guns they had left in rallying an army and go to take them back.
+
+620
+00:36:26,840 --> 00:36:31,800
+ We've seen that happen throughout history.
+
+621
+00:36:31,800 --> 00:36:40,160
+ But if an invading army simply teleported into your house and took your wife and then
+
+622
+00:36:40,160 --> 00:36:45,760
+ teleported away, first off, where do you even attack?
+
+623
+00:36:45,760 --> 00:36:46,880
+ Where did this army come from?
+
+624
+00:36:46,880 --> 00:36:49,080
+ Who are they?
+
+625
+00:36:49,080 --> 00:36:55,760
+ Overwhelming force, superior technology, massive physical strength differences, all of these
+
+626
+00:36:55,760 --> 00:37:05,240
+ things add up to make humans quite weak on the galactic scale.
+
+627
+00:37:05,240 --> 00:37:10,640
+ So when these encounters do happen, when this, really for lack of a better term, invading
+
+628
+00:37:10,640 --> 00:37:15,960
+ force canapses the ones we love the most, we know we can't defeat them.
+
+629
+00:37:15,960 --> 00:37:18,600
+ We know we can't fight back.
+
+630
+00:37:18,600 --> 00:37:27,280
+ All we can do is hope that they bring our loved ones back.
+
+631
+00:37:27,280 --> 00:37:54,800
+ But if they don't, there's still nothing we can do about it.
+
+632
+00:37:54,800 --> 00:38:10,840
+ That's all for now.
+
+633
+00:38:10,840 --> 00:38:27,480
+ Bye.
+

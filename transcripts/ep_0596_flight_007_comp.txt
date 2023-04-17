@@ -1,0 +1,407 @@
+ We travel back to the world of video games today to take a look at two more examples of
+ AI doing something it shouldn't be capable of doing.
+ Then we go to the Ukraine where a woman has a close encounter with the...
+ Can't believe it took me so long to find this story where a woman has a close encounter of the turd, kind.
+ And then we travel to the Soviet Union. The year is 1983 and
+ four Soviet fighter jets are scrambled to intercept an unidentified aircraft
+ violating their airspace. As they jet off into the dark starry night, little do they know they're about to come face-to-face
+ with a mystery today on Dead Rabbit Radio.
+ Hey everyone, welcome back to another episode of Dead Rabbit Radio. I'm your host Jason Carpenter.
+ I'm having a great day. Hope you guys are having a great day too. I'm so old officially. It took a nap
+ 6 30 p.m. It took a nap woke up at 8 and was still so tired. I had to eat a chocolate bar
+ to get enough energy to do this podcast.
+ That's my life now. That's my life. Can't have caffeine. I gotta eat a chocolate bar
+ just so I can have excitement and speaking of excitement, guess who's walking into our
+ Dead Rabbit Command Center right now one of our legacy patreon, Sean.
+ Sean is walking in with a pocket full of chocolate bars. Hershey bars with almonds. One of the best. It's not a much Macaulay, but
+ that's what I had earlier. He's like all disappointed and like, "No, no, no, it's cool.
+ I'm glad to see you. I'll eat those chocolate bars too. Just wish they were which Macaulay." Sean, you're gonna be our captain, our pilot this episode.
+ You guys can't support the patreon. I totally understand. Just helps for the word about the show. That really helps out a lot. Get the word out.
+ I see you guys online talking about the show. Always makes me feel great. Sean,
+ I'm gonna go ahead and as the sugar rush continues to move through my body, I'm gonna toss you the
+ coal for the Carbinder Caboose. We're gonna take a little train ride, but we're getting digitized again just like Tron and Tron Legacy.
+ Now we're driving a C++ Carbinder Caboose. It's all computer graphic. We are headed into the internet. The episode I came out with on Monday about
+ video game AI and what was the other story? Oh, is the internet movie database a portal to another dimension?
+ That episode got a really huge response, and I really appreciate it. You guys really really seem to love that episode.
+ Someday when we do repeat of it, I'll tell you what happened behind the scenes on that episode. But for right now,
+ I'm basking in the love. You guys really love that.
+ And check this out. As the Carbinder Caboose is moving through the net space, let's take a look at two stories
+ I got from listeners. First off, fellow content creator on YouTube sent me this story.
+ There's a game, and I've always wanted to play it, but it's a little too scary for me.
+ I don't like super scary games. I watch scary movies and I read scary books, scary games too much.
+ Alien isolation.
+ Quick overview. There's an alien, and it's you. You're alone. So you're in isolation.
+ There's other NPCs walking around, but it's like the Xenomorph from the Alien movies.
+ Coming after you. And it's really cool. It actually can hear you like apparently if you have your mic on and your baby brother knocks over a glass of milk.
+ Hopefully not near your computer. Hopefully just on the floor. The alien in the game, if it's close enough, will hear that and come after you.
+ So a lot of people play with their mic off, losers. But I won't even play it at all when I'm knocking them.
+ Really ingenious. So you're trying to like fulfill these missions in this alien. The Xenomorph is walking around. It hops out of vents.
+ We'll peek around corners. Sometimes you barely miss it. Now it's programmed to be at certain points in the game.
+ So there's like certain checkpoints or choke points or things like that where the alien will show up.
+ But for a lot of the game, you're doing things and it will be designed to just randomly move around the map.
+ And then they have something called the director mode. That's not the official name, but that's the name of it in Left 4 Dead.
+ Where if the game thinks you're breathing fine, if the game thinks that your heart rate is normal,
+ the director of the game will, if the alien's too far away in the complex, it will make it go near you.
+ It won't direct it specifically to you. But if it knows you're in the medic wing and the alien is stalking off in the armory,
+ and it's been a while since she's seen the alien, the director will basically ping it and say,
+ "Why don't you head towards the left side of the station?" So it'll give it a higher chance of you running into it.
+ So that's cool, but that's all designed. Fellow content creator told me about this.
+ GameRant did an article written by Andrew Dice. Yo, I wrote an article here.
+ Most of you guys won't get that joke, but anyways.
+ Lead designer Gary Napper for Alien Isolation has this quote in this article.
+ Here's the quote.
+ "It's a piece of AI and it has parameters we can tune, but the alien's network of behaviors is so insanely complicated,
+ the thing is almost sentient. There's a difference between artificial intelligence,
+ where we know what its parameters and behaviors are at a glance, and it being so sentient,
+ we have to dig into the code just to find out why and how it did what it did during our play tests."
+ This thing became so smart, or approaching intelligence, that the people who designed the game
+ while they were playing it, they'd look at each other and go, "Dude, we never programmed that.
+ How is it doing that?" And they would stop the play test, they would go in and see
+ why it was doing that particular thing. So really, really creepy thing.
+ They built this thing to be hyper intelligent. It's still a beast, but they built it to be
+ the smartest beast they could, and even they were getting shocked by it. But that story is creepy,
+ but it's designed to be a monster that's stalking. You check this out.
+ I got a YouTube comment from AAA000. They turned me on to this story.
+ I found this Kotaku article written by Heather Alexander about a game called Event Zero.
+ This one's really bizarre. Apparently it's a Steam game. I guess it's mostly dialogue,
+ and you're trying to convince this AI to do stuff. You're like, "Make me a cake." He's like,
+ "What? I can't bake you a cake." And you just keep typing it in. You type in stuff,
+ and that's how you're talking to this AI. You're on a space station. I guess I should
+ have set that up. You're not in your kitchen. You're in a space station. There's three endings to
+ the game. And throughout all of these choices that you make, there's three endings to the game.
+ You upload your consciousness into the computer, and you destroy the engine. There's this engine
+ there that you destroy. That's ending one. The second ending is you don't upload your consciousness,
+ and you've been mean to the AI. Kaizen is this AI. You're mean to it throughout the game,
+ and you choose not to upload your consciousness. Kaizen shuts itself down,
+ and you're stuck on the space station all alone. The third ending is the player doesn't upload
+ their consciousness to the system, to the AI system, but you were nice the whole time. In that case,
+ the AI goes, "I'll take you back to Earth." Now, one of the things about being nice the whole time is
+ you do what it says. At one point, it tells you to destroy this super drive, this hyper drive,
+ or something like that. It says, "Well, you destroy this for me." That's one of the things.
+ So, the game was programmed to have three endings. Game designer, Emmanuel Corno,
+ was checking out his game one day on Wikipedia. The game had been released. You want to see what
+ the fans had to say about it. Want to see what Wikipedia had to say about it. And it says on
+ the Wikipedia page, "This game has four endings." He's like, "What?" "No, it doesn't. Doesn't at all."
+ And they discovered something. If you're nice to it all the time, if you're nice to Kaizen,
+ the whole game, but you don't destroy this particular engine, he's like, "Go destroy this,"
+ and you say, "No, I'm not going to destroy it, but you're so nice to him the rest of the game,
+ Kaizen will go, 'Yeah, okay, I'll take you home.'" They show the animation of the ship flying back home.
+ Emmanuel Corno had this quote, quote, "This is crazy. Kaizen isn't supposed to let anyone get
+ back with the singularity drive to Earth. This is how we coded the AI. I have absolutely no idea
+ how this happens." Unquote. It wasn't programmed in the game. There's only supposed to be three
+ endings, but they say it's a glitch. So did the AI actually create a fourth? The game created a
+ fourth ending. Was it a glitch or did the AI, through all that human interaction, figure out an
+ other way to have a satisfactory ending? You've been very, very nice to me this whole game.
+ You did one thing I didn't like. Let's go home. Bizarre stuff. And it's interesting because I
+ found those two examples just through random research. These two examples came within the
+ first day. Who knows how many other times this is happening in gaming. If this guy had never
+ checked that Wikipedia page, never would have known it. He would have just gone, "Oh yeah,
+ there's three endings." And the players would have just assumed there was four. Because those were
+ the options that they found. Very bizarre. How many other NPCs out there are way smarter
+ than even the developers ever thought they could be. Sean, let's go ahead and "transist," is that a
+ word? Sean, let's go ahead and "transform" is the word I'm looking for. It's not like I'm only the
+ biggest fan of their properties. Sean, let's go ahead and "transform" the C++ Carpenter Caboose
+ into the Hair Hanglider. We're leaving the digital space. We're flying out of somebody's
+ floppy drive. We are headed out to 1990 Ukraine. Sean is expertly piloting the Hair Hanglider
+ out to the Ukraine. Specifically, we're going someplace near Kiev. So if you're familiar with
+ the region, it's over there. Anywhere that's near Kiev. Anywhere. We're going there. The year is
+ 1999. It's a sunny afternoon day. A local woman who's nameless, let's call her Stella, is picking
+ mushrooms. She's out. She's picking up mushrooms in the outside place. What do you call it? The
+ outdoors? I never go out there. She's singing some Ukrainian folk song and she's putting mushrooms
+ in what I could only assume as a basket. Or maybe she's holding her apron out extra old-timey. But
+ it is 1990. She's not Belle from Beating the Bees. I'm sure she could afford a basket. And then
+ she sees kind of come out of nowhere this dude and he's just kind of walking. This guy comes
+ walking out of the woods. He's not freaking saying. He's not freaking saying. I don't know why I made
+ that noise. But he's very tall. He's six and a half feet tall. He's wearing a shiny black,
+ like a dark, shiny diving suit with the giant bell head. Not like a church bell, but like a
+ diving bell. Is that even a thing? You know what guys are and what I'm talking about. It's like the
+ big ball on your head with the little circle in the middle. Like Jacques. Now farther back,
+ like the 20,000 leagues under the sea type of scuba stuff. Not like modern-day scuba stuff.
+ Right now the aliens kind of like around. It's like, dude, could you be any more vague about what
+ I look like? I just look like an old-timey diver. Anyways, he looks like an old-timey diver. And
+ Stella's standing there. She has a bunch of mushrooms. These were normal mushrooms, by the way.
+ These are not magic mushrooms. And then the tall dude seemed to emit some sort of yellow light from
+ him. Not specified that he had a gun or a wand or anything like that. Just a yellow beam of light
+ shot out of him. Like a carabare stare. And it hit her. Sound like a cat. Sound like a cat.
+ But it wasn't a cat. The beam hit her and then she looks and he's gone. He's completely evaporated
+ into thin air, is the quote. After that, this woman has one of the strangest side effects I've ever seen
+ related to an alien encounter. Kinda gave it away in the title, but you still probably can't figure
+ it out. We've seen people get sores. We covered one guy who melted when he was around at UFO.
+ Not melted his heart metaphorically. He literally melted over the course of about a couple hours.
+ We've seen people develop horrible diseases. We've seen people cured of diseases. We've seen
+ all sorts of things happen when people encounter aliens. Stella, for the next three years of her life,
+ couldn't poop or pee. That's something you wouldn't notice right away. Like if I ever saw an alien,
+ I'd be like "Ugh, what are you dressed like? Are you dressed like Jacques Cousteau or is it older
+ than that?" And the aliens get annoyed. He shoots me with this beam. It would probably take me a
+ couple days to realize I haven't pooped yet. Like it's not something I do every day. I am a biological
+ human being. But I could probably go a couple days before I noticed that I wasn't pooping. Until the
+ pain started. So it's not that she didn't have- I would notice- actually it's funny, I would notice
+ I stopped peeing long before I peed because I pee more often than I poop. You love this podcast,
+ guys? I pee all the time. I've noticed that. Apparently, like it's not that she didn't have
+ to poop anymore. It's not like the aliens shot her with the beams or her body was this perfect system.
+ No. She still had to poop and pee, but it just wouldn't come out. She would have to go to the
+ doctors constantly and they'd have to manually pull out her poop and her pee. Which I can understand
+ how someone would pull out your poop. I guess they would like stick like a medical spoon in there.
+ Like a spoon made of stainless steel. It's all shiny and looks medically. They could just stick
+ that in there and scoop it out. But how do you medically pull out somebody's pee? Like you just
+ lean on them. You put your elbow on their bladder and you're like "Hold on Stella!" And you squeeze
+ it out. They had to medically pull it out. This lasted for three years and then one day in 1993
+ she just pooped and peed all by herself. The end. That's a book you can read to your guys as kids.
+ The girl who couldn't poop or pee. That would be a shock. The one day you're like just sitting there
+ and all of a sudden you're like "Oh my god. Henry, Henry, Henry! Call the children! Let everyone
+ know I can poop again!" But apparently she can. That's a bizarre side effect. That's a bizarre
+ side effect. I'm sure she was relieved. I'm sure those doctors were relieved. They didn't have to
+ do that anymore unless one of them was a big old sicko. He's like "Oh, dang it. Now I gotta start
+ ordering those videos from Germany again." I used to be able to just do it in the... do it in my
+ office but now they're like "Why do we hire you? Why do we have you pervert doctor?" Anyways.
+ Bizarre side effect of an alien encounter. Sean... Sean's like shaking his head. Sean's like "Tang it,
+ can't we just stay in the computer?" No. We have one more story to talk about. Sean, we are gonna
+ go ahead and give you the keys to the carbonar copter. We are headed out to the Soviet Union.
+ So we're actually pretty much in the same continent. It's all the same. Ukraine in the other part of
+ the Soviet Union. It's all the same. The year is 1983. Now the carbonar copter is painted all
+ camouflage. We're wearing our battle dress uniforms, our BDUs, and I'm standing in front of
+ you guys with like cool aviator glasses on. I have my hand on Sean's shoulder as he's looking ahead,
+ piling us through enemy airspace. Ladies and gentlemen, the Cold War is on. Now keep us nice
+ and low below the radar line, Sean. 1983 was one of the most volatile years of the Cold War and it
+ definitely was since the Cuban Missile Crisis. President Ronald Reagan had just run this massive
+ war game, this naval war game exercise in the area. The United States was planning on moving
+ missile systems into NATO countries, which would really kind of quash the Soviet Union's nuclear
+ threat. The Strategic Defense Initiative, aka Star Wars. The United States was going to build a series
+ of space lasers, for lack of a better term, to shoot down... actually I think that was the term,
+ to shoot down Soviet missiles. America was also flying spycraft over the Soviet Union and just
+ a couple weeks before the event were about to cover, two American aircraft that was spying on the
+ country were able to fly over and the commanders who weren't able to shoot them down, they were
+ quote-unquote fired from their positions. I think they were probably literally shot, but 1983
+ Soviet Union was a little bit better than it was during Stalin. Actually, actually a lot better
+ than Stalin, it's not fair, but they definitely were like, "Oh you didn't kill those Americans flying
+ over our country, you lost your job, you lost your pension, go stand on the bread line with everyone
+ else." Tensions were high just globally and within the Soviet Union themselves, because they didn't
+ know what was coming next, they did not know what was coming next. So September 1st, 1983, you have
+ Kamchatka Peninsula in the Soviet Union, that's like on the eastern side of it, and in the pitch
+ black night sky, an airplane has sighted flying over. Now just 10 days earlier, a massive storm
+ hit this area and there was a Russian radar installation there that was damaged during the
+ storm. They were repairing it and before this, a couple days before this happened, the Kremlin
+ goes, "Hey, did you guys get that radar just repaired?" and they're like, "Oh yeah, totally." And they
+ didn't. Still broken, they totally lied about it. So when this mysterious plane appears over
+ Soviet airspace, it just popped out of nowhere. If they had had the radar dish, they would have seen
+ it hundreds of miles away, but instead there's just a plane flying over the peninsula. Calls
+ starting going out, "Hey, you got a plane in the area, what's going on?" The whole Soviet Union
+ picked up the phone, they go, "Nyet, we do not." So they scramble four Russian jet fighters to find
+ out what this is and they really know what it is. It's the American spying on them again. So these
+ four fighter jets go up and they're trailing this thing. Back at Soviet command, there's two generals
+ having an argument about what to do about this, because there's a couple different options.
+ One, it's the Americans and they're doing a spy thing and they're going to take care of it this
+ time because they're just tired of the Americans flying airplanes and taking a bunch of photos and
+ stuff like that. The other one is it could be a possible passenger jet that has accidentally
+ violated Soviet Union airspace. At this point, it's past the peninsula and the plane is flying over
+ international waters. They can't identify what type of plane it is. It's a pitch black night sky,
+ they're just following it. These fighter jets are just following it. They follow it for an hour
+ through the night sky and then it passes over a tiny, unremarkable island that's controlled by the
+ Soviet Union. The lead pilot of this little sortie, his name is Major Genadiy Asipovich.
+ He fires a warning shot, specifically 200 warning shots. Bullets are flying right past this plane.
+ Now he's looking at it and he has a really good view of it and he can tell it's a 747,
+ but he says then at the moment and even later, it doesn't matter because you can turn any plane
+ into a spy plane. But he fires 200 rounds past the plane. That's the warning shot. But as he's
+ opening fire, he knows that it's probably not going to deter anyone. One, if it's a spy plane,
+ they're not going to care. Two, if it's a passenger plane, which it very well could be,
+ but he doesn't think it is. They're not tracer rounds, they're armor-piercing rounds and in the
+ black night sky, if you can't hear it, it's basically saying "I'll knock on your door" and then
+ knocking on a paper towel outside your door and being like "Okay, I guess I'm going to kick your
+ door in now." The bullets just fly by. But after he opens fire, the plane slows down and all four
+ fighter jets overshoot the plane. At that point, Major Asipovich, radio's in command and says "The
+ plane's taken evasive maneuvers. I fired warning shots and immediately slowed down evasive maneuvers."
+ And he gets the hard command, "Destroy it. Take this target out." He comes back around
+ and the pitch black night sky gets behind it, fires two missiles at the plane.
+ A couple hours earlier, Anchorage, Alaska, there's a passenger plane, Korean Airlines Flight 007.
+ It was a flight from New York City to Seoul, South Korea, and there was a layover in Anchorage,
+ Alaska. 246 passengers, 23 crew, and a slight error in their flight plan. When they started to take
+ off, Air Traffic Control says "Hey, can you turn a couple degrees for this, that, or the other thing?"
+ And the pilots were like "I wish you'd give us more information." But sure. And as they were
+ turning, it's a little more complicated than this, but as they were turning their plane,
+ they activated their autopilot system. Now in 1983, that was a big issue because the autopilot
+ started to send them off course. This event we're about to talk about is the reason why you have
+ GPS today. What happened here? GPS was something that the United States used for military purposes
+ and it was invented in the 1970s. Because of this story, Ronald Reagan took top secret military
+ hardware and said "Give it to the civilians. This can save lives." There was no GPS back then.
+ They had the autopilot to go off of and they had their eyeballs and it's dark and they're flying
+ over the Pacific Ocean. They end up 190 nautical miles off course, which brings them right into
+ Soviet territory. They have no idea they're flying over Peninsula. They have no idea they're flying
+ over this island. They definitely didn't see the warning shots because they weren't tracer rounds.
+ They were armor piercing rounds. They never would have noticed them. As far as anything we can tell,
+ the Soviet Union fighter pilots never contacted them on the emergency band. They claimed that they
+ did, but they didn't. They also claimed originally they had fired tracer rounds and that turned
+ out not to be true as well. So when this passenger plane is flying and all of a sudden it's struck
+ by two missiles, you would expect the worst and you would be right. But what's super? This is where
+ the story goes from being a story of human tragedy. That actually part still coming up,
+ but it starts to become a really weird mystery. These two missiles strike a passenger jet, a 747.
+ And based on telemetry, based on the black boxes, based on everything even the Soviet Union generals
+ were seeing at the time, that plane continued to fly for another 9 minutes. There was about 4 minutes
+ where it was really shaky. Because these missiles did a ton of damage, obviously, but this is not
+ an armored civilian plane. I think any plane getting hit by two missiles would not have a good day.
+ It's shaky for about 4 minutes and then for 5 minutes it has actually regained stability.
+ Oh and I want to say this too, the reason why the plane slowed down after the bullets?
+ Dumb luck. As the Russians were getting ready to fire those bullets, they had called South
+ Korea and said "Hey, do you mind if we go up to 35,000 feet to save fuel?" And they're like "Yeah,
+ go ahead." And so after those bullets were fired, they climbed and that caused the plane to slow
+ down. Total dumb luck. But after the 9 minutes of flying, the plane hits a spiral, it breaks up,
+ smashes into the sea. Again, because this is the Cold War and it's Soviet Union and they have to cover
+ some stuff up now. Because it's only an hour or two before people start to realize the plane never
+ showed up to South Korea. People are trying to track it. Soviet Union starts saying stuff "Oh no,
+ we don't know where it crashed, we didn't have anything to do with it, oh well we might have,
+ but we did fire these trace arounds, we tried using the emergency lines, all that stuff."
+ They searched the area first, South Korea and America wanted to go in there. Russia's like "I
+ don't know, we got it." And they're like "What's kind of rolling their eyes?" And then you had civilian
+ rescue teams come out after the Soviet forces left and then eventually the black boxes were
+ recovered. But the rest of the world was not told those black boxes were recovered until 1993.
+ So 10 years later, Soviet Union's like "Oh yeah, you know the whole Cold War thing, you know,
+ that is ending and we lost?" By the way, here's the recorders of that and they definitely showed
+ more information as to what happened during that attack. But this is where it gets really,
+ really weird. Soviet Union's really cagey on all their information, every government is.
+ But one of the things is that the people whose loved ones died on that plane crash, they wanted
+ their remains. 269 people on this plane. No bodies were found. The only thing that they found was
+ they found a torso on the bottom of the sea by where the rubble was. And they found 10 pieces.
+ They said they used the term limbs and tissue. So it could have been like a liver, it could have been
+ a finger, but they found a torso and a couple of pieces. Eight days later and 70 miles away,
+ 13 body parts washed up on this beach. And you go Jason, the sea, the ocean's a big place.
+ Maybe they just all floated in different directions. Well that's kind of the way the tide works.
+ You wouldn't actually say that. You're smarter than that. But the tide, first off you would have
+ had a bunch of people just there. When the Soviets got there first, the Soviet forces got there first
+ that night, there's no reports of bodies being found. And when civilian rescue teams went there,
+ one thing they noticed, this is where the conspiracy theory starts, to them, because they
+ had worked sea time salvage before, to them it looked like someone had put the plane parts in
+ the water. It didn't look like a normal distribution. So there's no bodies found other than that torso.
+ Out of 269 people who died in that crash, you had one torso and about a baker's dozen of body parts.
+ I don't know what a baker's dozen is. I meant 24 body parts. Two baker's dozens.
+ So the people go well, one of the theories that came out was maybe they got eaten by the wildlife.
+ Maybe they got eaten by giant crabs that live in the area. No luggage was found. None. Not a single
+ suitcase washed up on a beach. You go, Jason, maybe it was a spy plane. To his death, Major
+ Ospovich said that was a spy plane. He died in 2015. He goes, that was a spy plane. I don't believe
+ that there was a bunch of people on that plane. As he is a single tear rolls down his face, he can't
+ admit it. You would have to believe that if you had blown up a plane full of 269 people. No bodies,
+ no luggage. And then there's another crinkle in this mystery. The Soviet Union did find clothing
+ from the wreckage. So no luggage. But there was clothing and people go, so there must have been
+ the clothing that they were wearing or the clothing that was in the plane, like in the cabin area.
+ And they provided this stuff to the families. And there was a one woman, I was reading this
+ Wikipedia article and this quote from this woman. She goes, I could tell it was my
+ children's shoes by the way the laces were tied. That sounds like a minor thing. And I didn't
+ really pick up on it the first time I read it. But when you look at other things that are happening,
+ all the clothing, jackets and coats were zipped up. When you pack your clothing, do you zip
+ everything up? When you have shoes that you're not wearing, do you tie the laces? Giant crabs,
+ bro. Sure, maybe they took the luggage, maybe they gave the luggage to Ariel and it would be a
+ new way for her to comb her hair. But the giant crabs ate everything. They ate the feet out of
+ the shoes. Maybe. The guy, one of the main proponents of the giant crab theory is the guy who shot
+ down the plane, even though he thinks it was a spy plane. He goes, but if it wasn't a spy plane,
+ giant crabs ate them. And apparently there are these giant crabs in the area. This is closer to
+ Japan. And they don't eat bones. Even if they did devour all the flesh and took the luggage to Ariel,
+ did they give the bones to Sebastian for his xylophone? There's no bones, there's no bodies,
+ there's zipped up clothing and shoes that are laced so perfectly that a mother could recognize
+ that's the way my child laces their shoes. It's almost as if they evaporated.
+ Let's put a pin in that for right now. Recently I did that episode about the Nashville bombing and
+ I was bemoaning the idea that we're making a big conspiracy out of this guy who had a sad ending
+ to his life and he blew this truck up, blew this RV up in front of the building. And I said in that,
+ I go, as a child of the 80s, I grew up in the 80s, that was nothing. Like stuff blew up all the time.
+ This is where, like, this is complete, several books were written about this. Several conspiracy
+ theory books were written about this event. It was such a massive event. The song,
+ Proud to Be an American by Lee Greenwood, it was inspired by this event. That's how you
+ put your historical events. I was like, no, no, no, Ariana Grande has a great song about this
+ national tragedy. This kind of changed the way, like, it made people really angry at the Soviet
+ Union. So people were writing books about conspiracy theories about this event, 269 people blowing
+ out of the sky. And it was conspiracy theory fodder because you didn't know all the facts,
+ you never know all the facts. It happened in pitch black over enemy territory and they were
+ being really cagey with details. So the conspiracy theory books started coming out. What happened
+ to Flight 007? One of them was written by a guy named Michael Brune. It's a book called Incident
+ at Sac Halen. That's the island it was shot over. Incident at Sac Halen, the true mission
+ of KL Flight 007. He weaves this interesting story and he actually got people to kind of like
+ back him up on this. That night there was actually a massive air battle. The Cold War was no longer
+ cold and you had US forces fighting Soviet forces over that same area and this plane just happened
+ to wander into it. Like a butler walking into the scene of a murder. And as this dogfights going
+ off this plane, they didn't need warning shots, then they'd see all these explosions. This plane
+ is just kind of flying through the area and a bunch of planes are shooting each other up.
+ Sounds ridiculous, right? Because you would have to have, now you have two fantastic events. You
+ have the accidental shootdown of this plane and then you have, because we know the plane goes down,
+ but then you also have to involve all these other factors that were able to be covered up. One of
+ the things that he was able to show in his book, there's a photo of some civilian rescue crews
+ pulling out a piece of a weapon that had the letter "N" on it. So the Union doesn't have the
+ letter "N" in their Krillik alphabet. So he goes, "There must have been another weapon in the area,
+ i.e. an American weapon that went off." I can't dispute all that stuff. I don't think it's true,
+ I don't think it's true, because we have that extra layer on it, but that's the level of conspiracy.
+ Like people were digging through all the files to find stuff. But then you go, okay, so the plane
+ got shot down accidentally by either the Americans, which would make it even a bigger scandal,
+ because we were the ones going after the Soviet Union, or the Soviet Union didn't, we're having this
+ dog fight. But then we have another conspiracy theory on top of that. And this is one that Michael
+ Brune actually piggybacked on. He goes, "Actually, that'd be a great epilogue for my story."
+ Two men got together. One was a brother-in-law, I think, of one of the people who died on the plane.
+ The other one was a man who had escaped the Soviet Union. He'd escaped out of a gulag,
+ and he was in the West now, talking about how crummy the Soviet Union was.
+ When they meet up, they're digging through the information. This is the theory they came up with.
+ The plane was shot, and it flew for another nine minutes. And again, that shocked everyone. It
+ should have been shredded out of the air. No one could explain how that happened.
+ Soviet command was thinking, "Are our missiles that lame?" But anyways, the plane continues on
+ for nine minutes. They believe that the plane landed. It was a successful landing. Everyone was
+ fine. Maybe it had a couple people blown up by the missile, but not 269 of them. They were immediately
+ taken prisoner by the Soviets. The children were sent to orphanages. The rest of them were herded
+ off into the gulags and disappeared into Siberia. That one became pretty popular,
+ because it wouldn't make sense that it would become popular, because it would give you hope.
+ It's not that they all died. If you had a relative on that plane, you'd think, "Well,
+ maybe they're just in the gulag." Which is better than being dead, right? Maybe that kid's in an
+ orphanage. He has a chance to have a better life, rather than just blowing up, getting eaten by crabs.
+ It's an interesting story. It's a tragedy. And that's the end of it. We have no answers. We don't
+ know where those bodies went. To this day, there's not a satisfactory answer. Even when you look
+ at the story, some people say maybe they just all got sucked out of the plane as it was falling into
+ the ocean, like the wind tunnel effect. But you would still find these bodies. All they ever found
+ was shoes, jackets, a torso, a couple body parts. And that's it. Out of 269 people, it just doesn't
+ make sense. Now, planes disappeared. Don't get me wrong. We had that very famous plane,
+ that Malaysia flight. I don't remember the exact number of it. It disappeared. But we don't even
+ know where that went down. If you know where the plane went down, you should be able to find the
+ bodies. But there's just so much stuff that doesn't make sense here. You have the people saying it
+ looks like the wreckage was just put there. The absence of bodies. No clear cut reason why the bodies
+ aren't there. After all these years, it's been what? 40 years since this happened? People still
+ can't figure it out. It's a tragic story. It's a mystery. I wanted to profile it and we'll wrap it
+ up like this. If that happened today, and there just was an Indonesian flight that went missing
+ just a couple days ago, so we hope that we find survivors from that thing. If this story though,
+ if Korean Airlines 007 happened today, you know the first theory would be aliens.
+ Because that's exactly what this seems like. And I know it's really weird to say you have the
+ missiles, you have the Soviet Union admitting they fired these missiles. You have all of this stuff,
+ you have the black box. But where did the bodies go? This happened today. I think that would be a
+ big conspiracy theory. Aliens abducted them right before they died. They're in a better place.
+ They're in a better place now, not heaven. That's a better place, but in the second.
+ Like, a rung down, they're flying around in space, having space adventures. You would see that
+ conspiracy theory. But I want to wrap it up like this. A long time ago, we covered the story of the
+ Belray Surge. It was an energy weapon that the United States supposedly developed that was able to
+ evaporate the pipelines of a town. This was different than a neutron bomb. This was a weapon
+ that was actually, it really was supposed to be an energy source, but instead it absorbed
+ all living matter in a town and everyone disappeared. It's 1983, it's the Soviet Union.
+ There is a plane of unknown origin that just was able to take two missiles and still fly perfectly.
+ Imagine there is a Soviet commander on the ground who is a part of the Experimental Weapons Division.
+ He has been following this flight the entire time. Everyone has been aware of U.S. spy flights
+ over the Soviet Union, and he was waiting to see how this played out. When the two missiles struck
+ the unknown aircraft and it continued to fly, that would be all the proof you would need that
+ this is not a civilian craft, that this must be a heavily armored military craft, almost like a tank
+ in the sky. That is when he is given the authority to use his weapon. A beam shoots through the
+ darkness invisible because it's not a sci-fi movie, it's just pure energy. It strikes the plane and in
+ an instant 269 people cease to exist. The plane plummets into the sea and crashes there. Soviet
+ forces get there and they can look at this plane and they realize the weapon was a success,
+ but it left some unusual damage to the whole of this aircraft. So they remove those pieces
+ and then rearrange the rest of the rubble to kind of fill in the gaps. I don't know where the torso
+ came from, maybe a Soviet diver killed himself during the whole expedition. He couldn't live
+ with himself, so that's where their corpse came from. But that is just another conspiracy theory
+ to throw into the mix. Whenever there is a tragedy, people will always try to figure it out.
+ And whether it is a sci-fi fantasy or a Cold War thriller, we will always search for the answers
+ to learn the truth of what happened that night in the cold black sky.
+ Dead Rabbit Radio at gmail.com is going to be our email address. You can also hit us up at
+ facebook.com/deadrabberadio. Twitter is @deadrabberadio. Dead Rabbit Radio is the daily
+ paranormal conspiracy and true crime podcast. You don't have to listen to it every day.
+ I'm glad you listened to it today. Have a great one guys.
+ (upbeat music)
+ (upbeat music)
+ (upbeat music)
+ (upbeat music)
+ (upbeat music)
+ (upbeat music)
+ (upbeat music)
+ (upbeat music)
+ (upbeat music)
+ (upbeat music)
+ (upbeat music)
+ (upbeat music)
+ (upbeat music)

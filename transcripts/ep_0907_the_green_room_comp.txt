@@ -1,0 +1,624 @@
+ A simple and fun AI art program is taking the internet by storm.
+ But is it being controlled by forces from beyond?
+ Then we wrap up Season 18 by taking a look at a story of a young man who gets in a terrible
+ car accident.
+ While he is immobilized in a local ICU, he is warned that any movement could end his life.
+ Until does he know he is about to move at the speed of light?
+ Today on Dead Rabbit Break.
+ I will also continue to put out my daily 1 minute true crime segments on TikTok and
+ YouTube and Instagram.
+ I am always afraid I am going to burn out on the podcast so I gotta take these 2 week
+ breaks.
+ I just sit and watch movies and play video games and it is fantastic.
+ And let's go ahead and introduce our pilot for today.
+ Normally we highlight the people who donate money to Patreon, donate money to Livestream
+ but I always say it's okay if you just get the word out about the show and I want to
+ highlight one of those people today.
+ And before we get started let's take a look at our submission for Fan Art Friday.
+ This is from longtime listener, longtime supporter of the show.
+ KakiCube posted this.
+ You see this awesome mosaic.
+ We have a variation on the Dead Rabbit Radio logo.
+ UFO flying around with a haunchy veil or bust banner.
+ Mormon Bigfoot.
+ We see Sam, the sand down clown there as well.
+ Fan, fantastic art.
+ Thank you so much for sending it over and what an awesome piece of art to have for the end
+ of season 18.
+ Angela Yoshi, let's go ahead and talk to the keys to the Jason Jalopy.
+ We are going to leave behind Dead Rabbit Command.
+ We're driving all the way out to the University of Texas at Austin.
+ We're going to University of Texas at Austin not for like a football thing like the Long
+ Horns or whoever plays there, the Saddle Riders or something like that.
+ We're not going to see the games.
+ So if you guys brought your peanuts and your Cracker Jacks, we don't get to watch any games.
+ We're actually going to go hang out where the nerds hang out.
+ So we're going to walk past all the hot cheerleaders.
+ We're going to walk past all the buff football players.
+ We're going to walk and they're laughing at us as we're walking there.
+ They're like nerds, nerds, nerds.
+ They're like, oh, we're just hanging out with nerds.
+ That doesn't make us nerds.
+ That's exactly what makes you a nerd is you hang out with them.
+ He's right.
+ We're going to go and check out the office of Guionis Doris.
+ Guionis?
+ Doris maybe?
+ He is a computer science PhD student at the University of Texas at Austin and he's
+ currently working with Alex Demakis.
+ He's a professor.
+ And the reason why we're here is they are researchers in the machine learning and information theory
+ department of University of Texas at Austin.
+ When they figured out, recently, Guionis posted this Twitter feed about this program.
+ No one is Dolly too.
+ Now I have to admit Dolly has taken over my Discord.
+ My Patreon Discord basically no one talks about stuff anymore.
+ They just all post in an area where people are posting their Dolly artwork.
+ It's awesome.
+ If you guys don't know what it is, there is a version of this, a consumer level version
+ of this called Dolly Mini.
+ I'll put it in the show notes.
+ But you'll type in stuff like a velociraptor attacking Sailor Moon and it'll create nine
+ AI generated images of that.
+ It's super bizarre.
+ I mean, there's so many great examples out there.
+ People have been having a lot of fun with this.
+ The artwork is really, really cool.
+ And you can even say like Eminem fighting a Eminem in the style of a medieval cross-stitching
+ and it'll create that.
+ It's fascinating and it's a lot of fun.
+ But there's a more advanced version of this called Dolly too.
+ And that's what they're using here at UTA.
+ Is that an appropriate abbreviation?
+ And you put in that prompt.
+ Now I remember once I tried putting in Anya Taylor Joy fights Britney Spears and it didn't
+ do that.
+ It just created like a picture of a Anya Taylor Joy-esque figure and then a Britney Spears-esque
+ figure.
+ It didn't actually have them throwing punches and I realized, oh, this is a safeguard.
+ So you couldn't put like Kate Beckinsale having sex with me and it would create all
+ these pornographic images.
+ And you use real people's names, there's safeguards built into it.
+ Because otherwise people would have been using it for porn immediately.
+ And I did say fighting.
+ I didn't say another word.
+ I actually wanted to see them like boxing in a ring for my love.
+ But what Guionis has discovered, I think I've pronounced his name three different ways so
+ far.
+ What Guionis and his team have discovered that there is a hidden language within Dolly
+ too.
+ These are actual examples they used.
+ If you type in "two farmers talking about vegetables with subtitles."
+ That's what they fed into the AI.
+ It shows two very photorealistic farmers and one of them is holding cabbage.
+ But there's like a thought bubble or a speech bubble, like a comic strip speech bubble coming
+ out of one of the farmers and it's filled with gibberish.
+ It doesn't say hey how your vegetable is doing.
+ The headline of the picture says "Vavo Pintinguus Victus" and then one of the farmers is saying
+ in the speech bubble "App Poplo Vesmitarius."
+ If you take that word Victus and just take that word and enter it into this Dolly too
+ program, it will show pictures of vegetables.
+ If you take the Apollo Veritasio, or however you pronounce it because it's a made up word,
+ it will show pictures of birds.
+ So what the AI was saying in its own language that it remembers, right?
+ Because originally just threw up this gobbly gook but then when you take that gobbly gook
+ out and you enter it in, it will show what the farmers were talking about.
+ Birds were eating their crops.
+ People on Twitter started freaking out about this and they're like "well you know false
+ positives and da da da da da da."
+ And Giannis said "here's the thing, does it happen 10 out of 10 times?"
+ No.
+ Sometimes it only happens 9 out of 10 times.
+ It's not always exact.
+ But he goes "it shouldn't be happening at all."
+ He goes "even if it only happened 2 or 3 times out of 10, it shouldn't be happening
+ at all.
+ If the AI is spitting out gibberish, that's fine because in a sense the images are gibberish,
+ the language can be gibberish.
+ But if you then take that language and you input it 10 times and 9 out of 10 times it
+ shows pictures of birds when you type in the gobbly gook that one of the farmers was saying,
+ he goes "it shouldn't do it at all."
+ There is something running in this AI that is creating its own language.
+ They did another one.
+ They put in quote "2 whales talking about food with subtitles."
+ The AI created a picture of two cartoon whales and one of them was saying "watcha zode a
+ hawke's ria."
+ And when they take that gibberish and put it into the AI to see what that prompt means,
+ it's pictures...
+ This is really interesting because it's the two whales talking.
+ When you put that phrase in it shows pictures of fish meals.
+ So it's not just pictures of fish.
+ It's pictures of fish on a plate.
+ Like servings of fish for a human.
+ It was specifically saying fish meals.
+ Not fish.
+ Fish meals.
+ Now some people like I said are pushing back against this.
+ They're saying false positives.
+ People got really upset about this.
+ This is what I find just so interesting.
+ It's actually not quite interesting.
+ I find it quite tedious.
+ It's one thing to be a skeptic and it's one thing to be a knee jerk skeptic and be like
+ "no that's impossible.
+ Here's why."
+ And then you point it out so if you typed in apoplo, that's some of the terrorists you
+ got.
+ Birds.
+ One person pointed out well apopoly is similar to apidea which is the Latin term for a specific
+ family of birds.
+ Well yeah sure you got us there.
+ I'm sure there's but it showed all types of birds.
+ It wasn't just this particular species.
+ So you would have some crossover.
+ But to even say that, to even be like well you know it doesn't have its own language.
+ It actually just speaks Latin.
+ That's still weird.
+ That's still super bizarre.
+ So there is this pushback to it.
+ It's interesting nonetheless but what I also found super interesting, I was recently watching
+ I'll put this in the show notes as well.
+ I was watching an AI program that was composing music.
+ Like this guy created this music and then he wanted the AI to finish it and it became
+ this hellish music.
+ Basically it was people screaming.
+ I can't play you into the sound clips for copyright reasons.
+ But I'll put it in the show notes.
+ And in the comments for that video someone said they had heard a conspiracy theory about
+ the AI.
+ Just AI in general.
+ And this is going into the intro.
+ Darker force behind the AI.
+ There's a conspiracy theory apparently going around.
+ I hadn't heard of this until I saw it on this YouTube comment.
+ That demons have infiltrated the AI.
+ That demons are using this code to interact with humans.
+ And that's why it seems like it's advancing so quickly.
+ That's why it seems like you can have a conversation with this stuff.
+ There was a guy recently at Google who got fired because he said like his conversation
+ program became self aware.
+ And they fired him.
+ They fired him because he disclosed stuff.
+ They were working on this stuff.
+ It was an NDA and he was talking about it.
+ So they fired him.
+ I don't think that it's actually self aware.
+ I mean I could be wrong.
+ The AI could be hunting me down right now for even talking about it.
+ Roku's Basilic and all that.
+ But there's this idea that the reason why AI is advancing so quickly is because demons
+ have now infiltrated the code.
+ That when you're talking to these things, when you're inputting these prompts into a computer,
+ the reason why it works so well is because it's under demonic influence.
+ Everything behind the ones and the zeros are creatures that have existed since before time
+ began.
+ I like that theory.
+ I just found that theory today.
+ I haven't had a lot of time to dig into it.
+ But I find it super interesting.
+ Really you have a belief that's existed since the Stone Age.
+ Interacting with modern day technology.
+ Cutting edge technology really.
+ What if this language that we're looking at is not just gibberish spit out by an AI as
+ it's trying to learn how to communicate?
+ It's actually the language of the demons.
+ It's actually the language of the damned.
+ Fascinating story when conspiracy theories and real world science and science fiction
+ all collide together.
+ What a crazy story.
+ I mean even without the demons it's really cool.
+ I'll put a bunch of links on the show notes.
+ You can take a look at all that stuff.
+ That AI song is weird.
+ Tonya Taylor Joy and Britney Spears Your Fight Over Me will come someday but not even the
+ AI will allow it today.
+ That was one thing they were saying was that it's possible in theory to bypass the filters
+ that have been set up by putting in this gibberish.
+ There may be a way to break into the AI and start producing content that it shouldn't
+ produce.
+ If you know the gibberish code you could use it to produce porn.
+ To be honest I didn't specifically say porn but I think that's coming down the pipe.
+ I really do with that with deepfakes and all sorts of stuff and this AI that can generate
+ any image and it's getting the picture quality is getting better and better.
+ Even if you put safeguards saying you can't put in these particular acts if you know the
+ AI's language for those acts you can put those in because the filter you can't filter
+ out a word that you don't know yet right.
+ The people who designed the AI said we're going to make it so you can't have people
+ have sex but if there's a AI generated gibberish word for sex then you would put in that word
+ and it would create the artwork.
+ Because the designers didn't know that word existed until the AI invented it.
+ Absolutely fascinating.
+ We'll see where this story goes.
+ But until then Angela Yoshi let's go ahead and toss you the keys to the carboner copter.
+ We are leaving behind University of Texas at Austin.
+ We are headed all the way out.
+ Oh to Houston, Texas.
+ I don't even know how far away that is.
+ I forgot both these stories took place in Texas.
+ But as we're taking this short journey I want to give one more pitch for the asylum case
+ studies that is hosted by a good friend of mine named Tressa.
+ It's a fantastic show.
+ I've been on it three times now.
+ The most recent episode we reviewed Megaparana.
+ What she does is she brings on people and they watch asylum movies.
+ There's like the sci-fi channel movies and we analyze them and sometimes they're great.
+ Most of the time they are not but I have so much fun doing that show with Tressa.
+ Tressa is currently trying out as well to be a co-host of a paranormal podcast called
+ Late Night Legends or a co-co-co-host is how she put it.
+ And I'm gonna they're having a vote.
+ So if you're a fan of Dead Rabbit Radio, if you're a fan of the asylum case studies, go
+ to the link and vote for Tressa to be a co-co-co-host of Late Night Legends.
+ And maybe check out the podcast as well.
+ I haven't checked it out Late Night Legends but it's another paranormal podcast.
+ So maybe it's pretty dope.
+ Tressa's pretty dope.
+ So I'll take her word for it.
+ Angela Yoshi go ahead and land this carpenter copter here at Houston, Texas.
+ We're gonna wrap up season 18 with a really, really cool story.
+ This episode might go a little long but this is a good one.
+ In the year 1979 and the month of May, we're in the city of Houston, Texas and there's
+ a young man.
+ We don't have his name.
+ This was reported in the amazing website ThinkAboutItDocs.com where we get a ton of paranormal
+ stuff from such a crazy story.
+ May 1979, Houston, Texas.
+ We don't have his name but we're gonna go ahead and call him Philip.
+ He is involved in a head-on collision with a drunk driver.
+ It is completely unavoidable.
+ It is completely not his fault.
+ That doesn't matter, right?
+ These cars collide together and not only is it a horrific car crash, Philip is trapped
+ in the wreckage of his car.
+ It takes a couple hours to get him out because his injuries are so severe they have to be
+ very, very gentle.
+ Any move could end this man's life.
+ He's taken to the hospital.
+ He's put in the ICU and a specialist comes in and they're doing all these tests and the
+ specialist goes, "Okay, here's the thing.
+ What we see is some massive trauma to your neck.
+ The atlas vertebrae, the part of your spine that touches your skull, it's broken.
+ We are gonna do everything we can for you not to die.
+ I mean, that's why you're in the hospital, right?
+ But you can't move and we still need to do tests.
+ We don't know how much damage has been done to your skull, how much damage has been done
+ to your brain.
+ These things you do when you're in the hospital, right?
+ You're like, "Oh man, in my brain, I kind of need that thing."
+ So don't move.
+ They have him immobilized here in the hospital.
+ We're gonna have to run all these tests before we even can do anything, right?
+ Philip says while he was laying there, he just passed the time by counting the ceiling
+ tiles.
+ You can't do anything.
+ You're completely helpless in this situation.
+ I would be terrified, right?
+ But maybe when you're in this situation, if there's nothing you can do, you just have
+ a calmness about you.
+ Or maybe not.
+ Maybe he was totally freaking out.
+ I don't know.
+ But he said he just laid there and counted the ceiling tiles and then he went blind.
+ He was laying there for by his calculation a couple hours, laying there in the hospital
+ and then he went blind.
+ The first thing that popped in his head was, "I'm dead.
+ I've died.
+ And this is what death is.
+ It's just darkness."
+ But then, through the darkness, he begins to accelerate.
+ And he starts thinking, "This is it.
+ This is my soul going somewhere."
+ But while he's still trying to hold onto these thoughts of life and death and what comes next,
+ his body, his essence is going faster and faster and faster and faster to a point unknown.
+ He can feel the speed pushing him through the nothing.
+ And he knows at this point that he's dead.
+ He knows, for a matter of fact, that he's dead.
+ And while he's holding onto this thought that his existence is over, he hears what he calls
+ a quote, "Outside thought."
+ He said, "It wasn't a voice in my head, but it wasn't me either.
+ It was an outside thought and this thought, thought, release the fear."
+ So Philip did.
+ He starts to relax and as he's relaxing, he stops accelerating.
+ He begins to slow down and then he comes to a stop.
+ His vision comes back to him and he's standing in this long, rectangular room.
+ He said the entire place was made of green stone.
+ He described it as a deep green color.
+ The ceiling, the floors, the walls, he's looking around and it's just this deep green color.
+ But there was a glistening, crystalline surface laid over it.
+ He walked up to one of the walls and he's looking at the detail and he's touching it and he
+ said it was similar to granite.
+ He had all these little fine features in it.
+ He looks around, there's no doors, there's no windows in this giant rectangular stone
+ building.
+ And there was no light source.
+ But the place was completely lit up.
+ He had no trouble seeing even though there were no windows and no lights.
+ He turns and he sees that one end of the rectangle is empty.
+ He just goes on to a certain point and then there's a wall.
+ But when he turns and faces the opposite direction of the rectangle, he sees at the end seven
+ evenly spaced three foot tall stone pedestals.
+ And while he's looking at those, he gets the sensation that he is no longer alone.
+ Something is in this room with him.
+ Something is standing right behind him.
+ And he turns around to see what it is and something is standing right behind him.
+ He spins around again and something is standing right behind him.
+ He couldn't face it.
+ Whenever he turned around, it just reappeared behind him.
+ He didn't know what this was but he didn't get a sense of evil.
+ He wasn't scared of it.
+ But he did get a sense that it wanted him to move.
+ To where?
+ Where is he going to go?
+ He's in a giant stone rectangle.
+ But this thing is insisting he moves and he starts to feel that it's insisting him to move
+ towards the pedestals.
+ It's urging him to go.
+ But Phillip is not moving.
+ Phillip is just standing there and this urge gets stronger and stronger.
+ He's like, "Bro, I'm not moving.
+ Dude, I just got teleported.
+ I don't know if I'm dead.
+ Where am I?
+ I can't figure any of this out."
+ And now this thing that won't face me is telling me to move and I'm not...
+ Phillip gets shoved.
+ Phillip straight gets pushed.
+ And now he's sliding towards the pedestals.
+ He passes the stone pedestals.
+ He's headed straight to the green stone wall and this entity pushes him through the wall.
+ He thought when he was originally accelerating through the deep darkness that that was nothing.
+ But that was something.
+ He just couldn't see it.
+ Now he is nowhere.
+ This is true.
+ This is true oblivion.
+ This is true nothingness.
+ And he begins to accelerate once again.
+ As he's flying through this void, the entity is still behind him, following him the entire
+ way.
+ And he flies through this void for a good deal of time.
+ Until suddenly and instantly he is surrounded by the cosmos.
+ He is floating through deep space.
+ He looks in every direction and he sees stars and galaxies.
+ He sees the beauty of creation all around him.
+ And as he's standing here, flowing through the cosmos, a thought pops in his head.
+ I want to be somewhere else.
+ He begins accelerating again but this time he is flying through a different universe.
+ He said I could tell that the stars were laid out in a different order.
+ I wasn't in the same place I was before.
+ When I said I wanted to be somewhere else, the entity actually took me, not to another
+ portion of the galaxy, not to another edge of the universe, to a different universe.
+ He's floating through this new reality and he wants to know what's behind him.
+ He needs to know what's behind him.
+ And with great effort, he turns around and he sees it.
+ He says the entity had a form of a glowing sphere of warm orange light.
+ It had a reddish corona wrapping around it and there was a depth to the colors.
+ He could tell this thing was conscious.
+ He could tell that it had its own thought process.
+ It wasn't just a mechanical beast or an animal.
+ And he could also tell, even though this thing had no eyes or no visible eyes, that
+ it was looking at Philip.
+ He could tell that this thing was staring at him.
+ And he could tell that the entity was waiting for Philip to make a decision.
+ Philip reaches out to touch the orb and Philip says, "What do you want?"
+ The orb slightly glided to Philip's right hand side.
+ Philip blinks because the bright lights of the hospital are burning into his retinas.
+ He can see again.
+ He's back in his bed, completely immobilized, back on Earth.
+ His real vision had returned.
+ He was back in the broken body that he left.
+ But the next day, the specialist came in and said, "Hey, Philip, hope you had a good night's
+ sleep.
+ I'm sure that you got a lot of rest thinking you could die at any moment."
+ But speaking of that, we've run some tests.
+ You have absolutely no skull injuries, brain injuries.
+ You're totally fine on that.
+ And that thing where we thought that your neck was broken, that's not true.
+ Philip's like, "What are you talking about?
+ You guys are having me strump down on this table.
+ Did it heal?
+ No, no, no, no, no.
+ What's interesting is that we did see that your atlas vertebrae was fractured.
+ Apparently, that is an old injury.
+ We see, based on our X-rays and things like that, it looks like that happened when you
+ were a child.
+ And it's healed by now.
+ When we got the report that you were injured in the car accident and the severity of it,
+ when we saw those fractures, we assumed it was from that.
+ But you're good to go.
+ I can unstrap you right now.
+ You can sit right up.
+ Your neck is totally fine.
+ Any injury that you had actually came from childhood.
+ And Philip said, "I never had an injury like that in my childhood."
+ Like, you're basically telling me that I broke my neck as a kid?
+ Specialist is like, "Yeah, I mean, we can see trauma to that area, but it's completely
+ healed.
+ If you were injured in any way, it would have been as a child.
+ The injury is completely healed and you're good to go."
+ What a fascinating story.
+ And really, for me, what a way to wrap up season 18.
+ Because there are so many ways we can go with this.
+ First off, near-death experience, right?
+ Traveling to beyond.
+ Did he die in that room?
+ So, yeah, I mean, let's start breaking it down.
+ Did he die in that room?
+ And this is, once again, we've covered it a couple of times this season.
+ Again, I hope I'm not beating a dead horse or beating a horse into quantum immortality.
+ But quantum immortality, this idea that when you die, you can get slotted into another reality.
+ Which I find fascinating.
+ Am I completely sold on the concept?
+ No, but I do find incidents of it interesting.
+ We covered one earlier this week, I think, even yesterday.
+ But this isn't just that, right?
+ You do have that theory that he died and then he got teleported into a body where he was
+ alive.
+ Like, maybe he did go, "Shut down the table!"
+ He saw Albun and the Chipmunks was on TV and he reached for the remote and he died.
+ And then he got slotted into a reality where Albun and the Chipmunks was and on TV that
+ day so he didn't reach for the remote.
+ You have that.
+ But then, even extrapolating that, when we look at things like quantum immortality, we've
+ had stories, and I'll put these all in the show notes, of the one kid who drowned and
+ then he ended up in a version of himself that knew how to swim.
+ And the one we covered earlier this week, the kid who may have shot himself with a gun.
+ I think that was Wednesday's episode, but then he entered a world where he was still
+ alive but he remembered rotting in the grave.
+ These are all really interesting and actually quite terrifying versions of quantum immortality.
+ What's interesting about this story is he doesn't just shift realities, he shifts COSMOSES.
+ Is that a plural, COSMOSE-I?
+ He saw the constellations laid out in a different order.
+ That's mind-boggling.
+ I don't know why I've never really thought about that.
+ We talk about the Berenstein Bears and the Berenstain Bears.
+ But when you quantum immortality, that's a word, imagine not just going into a life
+ so similar that you kind of remember it, maybe people are like, "Oh yeah, I know."
+ He went to a place where the constellations look different.
+ The universe itself was laid out differently.
+ And then I started to think, I mean, I really ran with this story.
+ I started thinking, "What if, because you have people who swear up and down that aliens
+ are real and they've seen aliens, they've been abducted by aliens, while the majority,
+ way more people have seen ghosts than have seen aliens."
+ I'm not talking about UFOs, I'm not talking about something in the sky that's unidentified.
+ Pound for pound, more people have seen ghosts than have ever seen an alien life form.
+ And I started thinking, "What if the people who see aliens are from another reality?"
+ They came from a reality where alien encounters were more common.
+ They died, they shifted into our world where they're very, very rare.
+ They're probably one of the most rare paranormal phenomena.
+ They're a little bit above Bigfoot.
+ But they're nowhere near ghosts, nowhere near ghosts.
+ Because the cosmos would have been different in their reality.
+ We look in this reality, well, the closest star is Alpha Centauri that can possibly hold
+ life and that's what like 50 light years away.
+ Well what if they're coming from a reality where Alpha Centauri was only 10 light years
+ away or 5?
+ Maybe in their reality, alien travel, alien abductions is more common.
+ And then they slip getting out of their bathtub and they shift over to our universe and they
+ tell us these stories about grey aliens or these human aliens wearing spacesuits or little
+ green men or whatever and we're like, "Well, that's really cool."
+ Dude, we don't get those interactions here because our universes are laid out differently.
+ Fascinating, I mean am I saying that's the end all be all?
+ No, no, but maybe.
+ Maybe we're constantly just shifting from reality to reality because to be honest, unless the
+ big, actually I don't even know where the Big Dipper is.
+ I can look up and see the Big Dipper but all of a sudden if it was on the other side of
+ the sky, I don't know.
+ Right?
+ I don't know.
+ It's so fascinating to think that the entire universe could change.
+ It's not just you go to a reality where things are slightly different, where things are so
+ different that you don't even notice that you died in one reality and shifted to the
+ other.
+ The cosmos has changed.
+ The layout of the universe, literally in one reality, life could have evolved on another
+ planet to gain interstellar travel and then in 50 million other realities that never happened.
+ This story is so fascinating to me.
+ It really, really is.
+ Then you also have the idea of this, the story we covered about the young boy who may have
+ shot himself in one reality and then saw all the bugs come out of the box and that may
+ have represented his decay and that like he had a memory of being dead, which is again
+ absolutely terrifying.
+ This man suffered severe injuries in a car crash.
+ Quantum immortality, he shifts into a reality where that happened to him as a kid or where
+ the injury is so traumatic that when he shifted into this reality they were still there but
+ they were so traumatic.
+ They were still there because they were so traumatic but they had healed.
+ There's so many interesting things.
+ Generally in these type of stories, the kid who may have shot himself with a gun, I hate
+ to keep going back to that one.
+ I hate even saying that sentence because it's so bleak.
+ He didn't have a bullet hole in his neck when he came to the new reality.
+ He's like, "Hey Ma, check out my new scar.
+ So why would the injuries carry over into the new universe?"
+ I don't know.
+ This is absolutely...
+ And I'm really fixated on the quantum immortality thing.
+ This could easily just be classified as a classic near-death experience like he was going
+ and when he asked the orb, "What do you want?"
+ The orb wanted him back alive.
+ Let's forget the whole quantum immortality thing.
+ The orb wanted him back on Earth and it healed his wounds.
+ It healed him in such a way that it looked like they'd been healed for decades because
+ Philip swears, "I never got in an accident like that when I was a kid."
+ Although if you get in an accident like that was a kid, you probably want to remember it.
+ You might have had severe brain damage back then but honestly, he doesn't remember it.
+ When he asked the orb, "What do you want?"
+ He was sent back to Earth.
+ So it was like it wanted him here, wanted him back for some reason.
+ Now, obviously the skeptical answer was this guy was dreaming.
+ This was a dream.
+ It was a stressful situation and he fell asleep, Jason.
+ Generally when people don't move for a couple hours, they fall asleep and that's fair.
+ The skeptical answer is fair.
+ And also you could just say the entire story's made up with these stories.
+ You could always say that.
+ But assuming that it's not, that this actually happened, you could say that he fell asleep.
+ Well, generally, yeah, people do sleep and they don't move for a long time.
+ But when you wake up, your wounds aren't healed.
+ If you break your arm, you're like, "Ah, good napal cure.
+ You don't wake up and your arms back together."
+ So I don't think the skeptical answer really washes with that one.
+ That he just had a good snooze and everything was okay.
+ Fascinating story.
+ Fascinating story.
+ You have a man who really probably died, right?
+ He was so precariously holding on to life in this physical form and he saw the afterlife.
+ He went through pretty much all of the phases.
+ He went to the oblivion.
+ He went to nothingness.
+ And then he saw the beauty of creation with a guardian or a guide with him on that journey.
+ So classic life after death story or near death experience story.
+ And then classic quantum immortality story coming back to a reality where the injury
+ hadn't happened.
+ I love stories like this again.
+ I hope I'm not doing too many of them.
+ I just find them absolutely engaging.
+ And I'm not entirely sold on the quantum immortality thing either.
+ It's just so interesting to me, especially when their experience is this vivid.
+ And I thought, what a way to end season 18.
+ Because you know, death is something that we all think about.
+ Some people think about it a little more than others.
+ I think about it all the time.
+ Losing people close to me, losing myself.
+ And I think that's why I kind of gravitate to these stories.
+ Because it tells me that even though I may feel sorrow in this universe, in another
+ universe I may not be in sorrow.
+ I may still have that person in my life.
+ And if I don't, right?
+ If I don't, I believe that when you die, you can go to paradise.
+ And so stories like this just make me think of the people that I've lost and what wonders
+ they must be seeing.
+ What great mysteries they must be unraveling.
+ Stories like this aren't just stories of really cool visuals and people standing on
+ the edge of eternity.
+ It's also stories of hope, right?
+ I don't believe people just disappear when they die.
+ I believe there is something else.
+ And these type of stories just make me kind of happy too.
+ It's part of this mystery, but it's also going, I'm glad that the people close to me who have
+ passed on are part of such an amazing cosmic journey.
+ These aren't just really cool mystery stories.
+ To me they're stories of hope.
+ What a better way to end season 18 than to constantly talk about a little kid shooting
+ himself in the head and hope.
+ I hope you guys have an amazing two weeks while I'm taking my break.
+ I will be playing a bunch of video games and having a bunch of fun and I hope you guys
+ are doing the same.
+ DeadRabberRadio.com is going to be your email address.
+ You can also add something.
+ Facebook.com/DeadRabberRadio.
+ TikTok, which I will still be doing.
+ TikTok is posted on my YouTube Instagram all the way up.
+ We'll be doing that throughout the break.
+ TikTok is @DeadRabberRadio.
+ DeadRabberRadio is the daily paranormal conspiracy true crime podcast.
+ You don't have to listen to it every day.
+ I'm so glad you listened to it today.
+ Have a great time while I'm done.
+ I'll see you guys next time.
+ Bye.
+ Bye.
+ Bye.
+ Bye.
+ Bye.
+ (upbeat music)

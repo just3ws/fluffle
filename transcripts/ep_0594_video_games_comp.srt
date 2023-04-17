@@ -1,0 +1,2856 @@
+1
+00:00:00,000 --> 00:00:05,480
+ What happens when video game characters become self-aware?
+
+2
+00:00:05,480 --> 00:00:10,720
+ And then we take a look at the bizarre story that I just found out that may not be a story
+
+3
+00:00:10,720 --> 00:00:19,000
+ at all, but is it possible that the internet movie database is actually a portal to alternate
+
+4
+00:00:19,000 --> 00:00:24,000
+ realities today on Dead Ravra Radio?
+
+5
+00:00:24,000 --> 00:00:31,800
+ Hey everyone, welcome back to another episode of Dead Ravra Radio.
+
+6
+00:00:31,800 --> 00:00:32,960
+ I'm your host Jason Carpenter.
+
+7
+00:00:32,960 --> 00:00:33,960
+ I'm having a great day.
+
+8
+00:00:33,960 --> 00:00:35,440
+ I hope you guys are having a great day too.
+
+9
+00:00:35,440 --> 00:00:37,440
+ We got a ton of stuff to cover.
+
+10
+00:00:37,440 --> 00:00:41,080
+ So first off, let's give a shout out to our newest Patreon supporter.
+
+11
+00:00:41,080 --> 00:00:42,640
+ He's stuff we have to cover.
+
+12
+00:00:42,640 --> 00:00:45,080
+ He's Tons of Fun.
+
+13
+00:00:45,080 --> 00:00:47,000
+ Tons of Fun comes dancing in.
+
+14
+00:00:47,000 --> 00:00:48,000
+ He's doing the Charleston.
+
+15
+00:00:48,000 --> 00:00:49,000
+ He's just dancing.
+
+16
+00:00:49,000 --> 00:00:50,000
+ There's no music.
+
+17
+00:00:50,000 --> 00:00:51,000
+ He's just doing the Charleston.
+
+18
+00:00:51,000 --> 00:00:52,000
+ Tons of Fun.
+
+19
+00:00:52,000 --> 00:00:54,040
+ He's our captain or pilot this episode.
+
+20
+00:00:54,040 --> 00:00:55,040
+ You can't support the Patreon.
+
+21
+00:00:55,040 --> 00:00:56,560
+ I totally understand.
+
+22
+00:00:56,560 --> 00:00:58,160
+ Just help spread the word about the show.
+
+23
+00:00:58,160 --> 00:01:00,000
+ That really, really helps out a lot.
+
+24
+00:01:00,000 --> 00:01:01,000
+ Tons of Fun.
+
+25
+00:01:01,000 --> 00:01:03,480
+ I'm gonna toss you the keys to the Dead Rabbit Durgible, but as I'm throwing them through
+
+26
+00:01:03,480 --> 00:01:09,760
+ the air, they get hit by that laser beam from Tron and Tron Legacy.
+
+27
+00:01:09,760 --> 00:01:10,760
+ It starts digitizing.
+
+28
+00:01:10,760 --> 00:01:13,720
+ You're like, "I haven't seen either of those movies."
+
+29
+00:01:13,720 --> 00:01:17,320
+ Digitizing the keys you catch them, it's just a bunch of ones and zeros.
+
+30
+00:01:17,320 --> 00:01:18,320
+ Don't drop them.
+
+31
+00:01:18,320 --> 00:01:19,320
+ Don't let them fall between your fingers.
+
+32
+00:01:19,320 --> 00:01:22,120
+ The Dead Rabbit Durgible is also being digitized.
+
+33
+00:01:22,120 --> 00:01:24,720
+ It's now the Digital Dead Rabbit Durgible.
+
+34
+00:01:24,720 --> 00:01:29,520
+ We are headed out to the internet.
+
+35
+00:01:29,520 --> 00:01:32,560
+ That normal Durgible noise, but like ones and zeros.
+
+36
+00:01:32,560 --> 00:01:34,120
+ Everything's just ones and zeros.
+
+37
+00:01:34,120 --> 00:01:35,960
+ We're dressed all in matrixy clothes.
+
+38
+00:01:35,960 --> 00:01:37,840
+ Tons of Fun is at the control panel.
+
+39
+00:01:37,840 --> 00:01:40,560
+ So flies through the internet.
+
+40
+00:01:40,560 --> 00:01:42,280
+ Techno music's playing super loud.
+
+41
+00:01:42,280 --> 00:01:44,480
+ You can't even hear what I'm saying for the rest of the episode.
+
+42
+00:01:44,480 --> 00:01:48,000
+ I want you to get a KMFDM album and turn it up full blast while you're listening to
+
+43
+00:01:48,000 --> 00:01:50,560
+ this episode for full immersion.
+
+44
+00:01:50,560 --> 00:01:54,160
+ Even though we start off on the internet, our main point is we're going to go to the
+
+45
+00:01:54,160 --> 00:02:02,320
+ land of Mordor, which is from The Lord of the Rings, but this is the video game version,
+
+46
+00:02:02,320 --> 00:02:03,320
+ not the book version.
+
+47
+00:02:03,320 --> 00:02:05,240
+ You're like, "Oh, I once went away there cloak."
+
+48
+00:02:05,240 --> 00:02:07,800
+ We're going to the land of Mordor.
+
+49
+00:02:07,800 --> 00:02:12,760
+ Specifically, we're going to the video game Shadow of War.
+
+50
+00:02:12,760 --> 00:02:14,600
+ Durgible is flying over this landscape.
+
+51
+00:02:14,600 --> 00:02:18,520
+ If you haven't played Shadow of War or Shadow of Mordor was the first one.
+
+52
+00:02:18,520 --> 00:02:21,280
+ They're really, really interesting open world.
+
+53
+00:02:21,280 --> 00:02:23,040
+ Really they're combat heavy games.
+
+54
+00:02:23,040 --> 00:02:25,440
+ I loved Shadow of Mordor myself.
+
+55
+00:02:25,440 --> 00:02:26,880
+ Shadow of War was okay.
+
+56
+00:02:26,880 --> 00:02:27,880
+ Too long.
+
+57
+00:02:27,880 --> 00:02:28,880
+ Too long.
+
+58
+00:02:28,880 --> 00:02:29,880
+ I don't have that much time.
+
+59
+00:02:29,880 --> 00:02:30,880
+ But you're possessed by an elf.
+
+60
+00:02:30,880 --> 00:02:31,880
+ The story is this.
+
+61
+00:02:31,880 --> 00:02:38,520
+ You're this dude whose family gets killed and then an elf possesses you and you just
+
+62
+00:02:38,520 --> 00:02:44,480
+ start slaughtering orcs until you do that for about 20 hours and then the game just
+
+63
+00:02:44,480 --> 00:02:45,480
+ kind of ends.
+
+64
+00:02:45,480 --> 00:02:46,480
+ That's the first game.
+
+65
+00:02:46,480 --> 00:02:50,440
+ There's a quick time event and you stab a dude in the chest and the elf's like, "There's
+
+66
+00:02:50,440 --> 00:02:51,440
+ more missions.
+
+67
+00:02:51,440 --> 00:02:52,440
+ I eat.
+
+68
+00:02:52,440 --> 00:02:55,240
+ There's more games to be made, young man."
+
+69
+00:02:55,240 --> 00:02:58,320
+ And then they came out of Shadow of War, which I assume is the same thing.
+
+70
+00:02:58,320 --> 00:03:01,880
+ I played the demo of that one because I didn't have enough time to play the whole game.
+
+71
+00:03:01,880 --> 00:03:02,880
+ That's the game.
+
+72
+00:03:02,880 --> 00:03:08,400
+ And you can kill orcs or you can put your hand on them and go, "Be my dude."
+
+73
+00:03:08,400 --> 00:03:12,360
+ And then they'll start helping you out or you can put your hand on their head and be
+
+74
+00:03:12,360 --> 00:03:13,920
+ like, "Uhhh."
+
+75
+00:03:13,920 --> 00:03:15,640
+ And then like, make some crazy.
+
+76
+00:03:15,640 --> 00:03:18,560
+ The game is more well written than that.
+
+77
+00:03:18,560 --> 00:03:20,480
+ You have the choice to conquer them.
+
+78
+00:03:20,480 --> 00:03:23,840
+ Whenever you come across like an orc, like a big orc, you can conquer them.
+
+79
+00:03:23,840 --> 00:03:27,680
+ You can kill them on the spot, execute them, or you can shame them.
+
+80
+00:03:27,680 --> 00:03:31,720
+ And when you shame them, they drop a level and they run away.
+
+81
+00:03:31,720 --> 00:03:36,280
+ And the game is open world where even the enemy is constantly roaming around the map.
+
+82
+00:03:36,280 --> 00:03:39,000
+ The enemy is very intelligent in these games.
+
+83
+00:03:39,000 --> 00:03:40,000
+ They'll see you.
+
+84
+00:03:40,000 --> 00:03:43,200
+ Like, "Elf boy, your head is mine."
+
+85
+00:03:43,200 --> 00:03:47,080
+ And then you fight them and you can kill them.
+
+86
+00:03:47,080 --> 00:03:49,760
+ Basically 20 hours of that.
+
+87
+00:03:49,760 --> 00:03:53,520
+ But as you shame them, which is a cool thing, you can reduce their levels, which can make
+
+88
+00:03:53,520 --> 00:03:55,560
+ them easier to beat in the future.
+
+89
+00:03:55,560 --> 00:03:58,080
+ Or just because it's fun to shame these guys.
+
+90
+00:03:58,080 --> 00:04:01,120
+ And as you shame them, they actually start to break down their willpower.
+
+91
+00:04:01,120 --> 00:04:04,600
+ They invented this thing called the Nemesis System where basically the AI is constantly
+
+92
+00:04:04,600 --> 00:04:07,520
+ trying to create better opponents for you to fight.
+
+93
+00:04:07,520 --> 00:04:11,760
+ And if they beat you, their rank goes up, they become even stronger, they get bodyguards.
+
+94
+00:04:11,760 --> 00:04:14,560
+ It's a really cool system, the Nemesis System.
+
+95
+00:04:14,560 --> 00:04:17,320
+ But there is this website called IGN.
+
+96
+00:04:17,320 --> 00:04:18,880
+ I'm sure you guys are all familiar with it.
+
+97
+00:04:18,880 --> 00:04:20,200
+ It's a video game website.
+
+98
+00:04:20,200 --> 00:04:23,360
+ And there's a journalist on that website called Brendan Graber.
+
+99
+00:04:23,360 --> 00:04:27,880
+ And I got to stop right here to say that I got this story from Oddheader.
+
+100
+00:04:27,880 --> 00:04:32,080
+ He makes these amazing YouTube videos about gaming mysteries.
+
+101
+00:04:32,080 --> 00:04:35,120
+ We covered him before about the NBA, the haunted NBA Jam Machine.
+
+102
+00:04:35,120 --> 00:04:36,120
+ This is another one.
+
+103
+00:04:36,120 --> 00:04:38,480
+ This is a video game that I had, so it hats off to Oddheader.
+
+104
+00:04:38,480 --> 00:04:43,800
+ Brendan Graber had beaten the game A Shadow of War already when he was writing the player's
+
+105
+00:04:43,800 --> 00:04:45,040
+ guide for it.
+
+106
+00:04:45,040 --> 00:04:47,580
+ And then he goes, "You know, I'm gonna do a live stream of it.
+
+107
+00:04:47,580 --> 00:04:49,080
+ I'm gonna play the game through.
+
+108
+00:04:49,080 --> 00:04:50,600
+ I'm gonna do 100% on it.
+
+109
+00:04:50,600 --> 00:04:52,600
+ And it'll be fun, because I really, really like the game.
+
+110
+00:04:52,600 --> 00:04:53,840
+ We're gonna start over."
+
+111
+00:04:53,840 --> 00:04:57,440
+ So he erases his original save and starts up a new save.
+
+112
+00:04:57,440 --> 00:05:01,480
+ Now when he did the original playthrough when he was doing it, one of the characters you
+
+113
+00:05:01,480 --> 00:05:05,600
+ run across, because there is main orcs that are actually essential to the plot, one of
+
+114
+00:05:05,600 --> 00:05:08,120
+ them is called "Bruze the Chopper."
+
+115
+00:05:08,120 --> 00:05:13,440
+ And he was this big giant orc that you could kill, you could command, or you could shame
+
+116
+00:05:13,440 --> 00:05:14,440
+ him.
+
+117
+00:05:14,440 --> 00:05:18,520
+ And Brendan chose in the original run of the game, he kept shaming him.
+
+118
+00:05:18,520 --> 00:05:19,640
+ He thought it would be funny.
+
+119
+00:05:19,640 --> 00:05:23,280
+ Every time he ran into Bruze, he'd shame him.
+
+120
+00:05:23,280 --> 00:05:24,880
+ He'd shake that command.
+
+121
+00:05:24,880 --> 00:05:29,000
+ And it was actually slowly driving Bruze insane.
+
+122
+00:05:29,000 --> 00:05:30,000
+ That was funny.
+
+123
+00:05:30,000 --> 00:05:31,520
+ That's funny, right?
+
+124
+00:05:31,520 --> 00:05:37,120
+ He'd bring a giant 8 foot tall orc into a monstrous madman who can't talk, because
+
+125
+00:05:37,120 --> 00:05:39,960
+ eventually he just became a blubbering mess.
+
+126
+00:05:39,960 --> 00:05:40,960
+ But that was the old save.
+
+127
+00:05:40,960 --> 00:05:42,440
+ See, he deletes that.
+
+128
+00:05:42,440 --> 00:05:45,360
+ He starts his new game to do the livestream.
+
+129
+00:05:45,360 --> 00:05:49,800
+ As he's doing the tutorial, he's learning to jump again and all that stuff, swinging
+
+130
+00:05:49,800 --> 00:05:56,280
+ his sword, all the basic stuff, he gets out of the tutorial zone and who's standing there?
+
+131
+00:05:56,280 --> 00:05:57,800
+ Bruze the Chopper.
+
+132
+00:05:57,800 --> 00:06:02,880
+ Let's see, Bruze isn't supposed to show up till hours later in the narrative.
+
+133
+00:06:02,880 --> 00:06:08,200
+ And not only that, this Bruze the Chopper was level 40.
+
+134
+00:06:08,200 --> 00:06:13,600
+ Every orc that you fight up to this point, because it's the tutorial zone, the maximum
+
+135
+00:06:13,600 --> 00:06:15,800
+ level is level 8.
+
+136
+00:06:15,800 --> 00:06:18,920
+ Here stands Bruze the Chopper, level 40.
+
+137
+00:06:18,920 --> 00:06:21,800
+ Again, hours before he's supposed to show up in the narrative.
+
+138
+00:06:21,800 --> 00:06:26,960
+ Not only that, he's level 40 and he's insane.
+
+139
+00:06:26,960 --> 00:06:31,680
+ He's acting like he's been shamed over and over and over again.
+
+140
+00:06:31,680 --> 00:06:35,640
+ He says nothing but grunts and growls.
+
+141
+00:06:35,640 --> 00:06:37,880
+ He's truly gone mad.
+
+142
+00:06:37,880 --> 00:06:41,040
+ Now at this level, you're just leaving the tutorial zone, there was no way Brendan was
+
+143
+00:06:41,040 --> 00:06:44,260
+ going to be able to beat a level 40 orc.
+
+144
+00:06:44,260 --> 00:06:48,340
+ So he runs away, he leaves the encounter, he thinks that's super odd.
+
+145
+00:06:48,340 --> 00:06:52,880
+ He goes, "That would make sense if it was the old save, but this is a brand new save.
+
+146
+00:06:52,880 --> 00:06:54,440
+ The previous save was erased."
+
+147
+00:06:54,440 --> 00:06:56,800
+ How did Bruze the Chopper get in this save?
+
+148
+00:06:56,800 --> 00:06:58,640
+ It kind of startled him.
+
+149
+00:06:58,640 --> 00:07:01,240
+ A glitch, you would think.
+
+150
+00:07:01,240 --> 00:07:03,040
+ But Brendan keeps playing the game.
+
+151
+00:07:03,040 --> 00:07:05,880
+ Brendan tries to put it out of his mind, he keeps playing the game.
+
+152
+00:07:05,880 --> 00:07:11,400
+ But like I said, Bruze is a main character and eventually he will show up, you actually
+
+153
+00:07:11,400 --> 00:07:13,240
+ have to go and do a mission with him.
+
+154
+00:07:13,240 --> 00:07:16,200
+ And as Brendan was playing the game, he began to worry about this.
+
+155
+00:07:16,200 --> 00:07:18,920
+ He goes, "When I get up, did I break the game?
+
+156
+00:07:18,920 --> 00:07:23,880
+ When I get up to this Bruze in PC, is he going to be level 40?
+
+157
+00:07:23,880 --> 00:07:26,280
+ Am I going to be able to beat him to progress the game?
+
+158
+00:07:26,280 --> 00:07:27,800
+ Am I going to be able to grind first off?
+
+159
+00:07:27,800 --> 00:07:29,360
+ How did he jump saves?
+
+160
+00:07:29,360 --> 00:07:31,240
+ How's that even possible?"
+
+161
+00:07:31,240 --> 00:07:35,040
+ But after a couple hours of play, he gets to the point where Bruze the Chopper shows
+
+162
+00:07:35,040 --> 00:07:41,080
+ up, he's level 14, and he speaks eloquently for an orc.
+
+163
+00:07:41,080 --> 00:07:43,480
+ So Brendan goes, "That must have just been a weird one off thing.
+
+164
+00:07:43,480 --> 00:07:46,600
+ Like I don't know why Bruze was there in the beginning.
+
+165
+00:07:46,600 --> 00:07:48,560
+ Intent on killing me.
+
+166
+00:07:48,560 --> 00:07:49,920
+ Totally insane.
+
+167
+00:07:49,920 --> 00:07:51,560
+ But here is Bruze the Chopper."
+
+168
+00:07:51,560 --> 00:07:57,320
+ Now one of the parts of these games, the shadow of games, is that the Nemesis system, like
+
+169
+00:07:57,320 --> 00:08:02,320
+ it is described, you see an army of orcs in one of the menus and you can actually track
+
+170
+00:08:02,320 --> 00:08:04,560
+ where they're at in the map.
+
+171
+00:08:04,560 --> 00:08:08,200
+ Sometimes you have a special mission to go out and kill a specific orc.
+
+172
+00:08:08,200 --> 00:08:10,560
+ So you gotta find out he's in this realm, he's in that realm.
+
+173
+00:08:10,560 --> 00:08:13,240
+ And the map is like all open world maps.
+
+174
+00:08:13,240 --> 00:08:16,720
+ There are parts that are accessible and then there are parts that are inaccessible.
+
+175
+00:08:16,720 --> 00:08:18,480
+ That's not even limited open world maps.
+
+176
+00:08:18,480 --> 00:08:21,320
+ Like most video games have invisible walls.
+
+177
+00:08:21,320 --> 00:08:26,000
+ With Shadow of War, if I remember correctly, there's like a big ocean on one side and
+
+178
+00:08:26,000 --> 00:08:30,240
+ there's a lot of mountainous terrain and wooded areas on the other that you just can't access.
+
+179
+00:08:30,240 --> 00:08:31,720
+ They're grayed out on the map.
+
+180
+00:08:31,720 --> 00:08:33,760
+ You have free reign anywhere else.
+
+181
+00:08:33,760 --> 00:08:37,100
+ But you can see the remaining orc warlords.
+
+182
+00:08:37,100 --> 00:08:40,240
+ So you can go, "I'm gonna go get this guy and I'm gonna have him join my team because
+
+183
+00:08:40,240 --> 00:08:44,280
+ he'd be good to fight this guy who's too strong for me to take on so you can kind of go and
+
+184
+00:08:44,280 --> 00:08:45,800
+ track them down and stuff like that."
+
+185
+00:08:45,800 --> 00:08:47,760
+ As he's playing the game, he's taking a look at that map.
+
+186
+00:08:47,760 --> 00:08:54,440
+ He's looking at the remaining orc warlords and he sees Bruce the Chopper level 40.
+
+187
+00:08:54,440 --> 00:08:55,440
+ He goes, "What?
+
+188
+00:08:55,440 --> 00:08:58,080
+ This guy shouldn't even exist in the game."
+
+189
+00:08:58,080 --> 00:08:59,640
+ Like there is a Bruce the Chopper.
+
+190
+00:08:59,640 --> 00:09:01,200
+ He's like a level 14 guy.
+
+191
+00:09:01,200 --> 00:09:05,240
+ He might be a little bit higher at this point, but it's not the level 40 one.
+
+192
+00:09:05,240 --> 00:09:10,280
+ The level 41 that he faced at the beginning of the game, according to the menu, the nemesis
+
+193
+00:09:10,280 --> 00:09:11,800
+ menu, he's still in the game.
+
+194
+00:09:11,800 --> 00:09:16,640
+ So now Brandon's getting a little nervous and he goes and he looks at his location in
+
+195
+00:09:16,640 --> 00:09:17,880
+ the game.
+
+196
+00:09:17,880 --> 00:09:21,000
+ He's outside the playable area.
+
+197
+00:09:21,000 --> 00:09:26,640
+ Bruce the Chopper is somewhere in the grade off area of the map, alive but completely
+
+198
+00:09:26,640 --> 00:09:28,840
+ inaccessible to Brandon.
+
+199
+00:09:28,840 --> 00:09:31,960
+ At that point, Brandon stopped playing the game.
+
+200
+00:09:31,960 --> 00:09:36,640
+ He was afraid at any point Bruce the Orc was just gonna show up and steamroll him.
+
+201
+00:09:36,640 --> 00:09:41,880
+ Plus it's unsettling because now there's been basically three game breaking bugs.
+
+202
+00:09:41,880 --> 00:09:44,720
+ Someone from a deleted save in a new game.
+
+203
+00:09:44,720 --> 00:09:50,000
+ That guy's showing up in an area that he shouldn't be, i.e. right outside the tutorial zone.
+
+204
+00:09:50,000 --> 00:09:57,520
+ And three now in an inaccessible area where no player or opponent should be able to access.
+
+205
+00:09:57,520 --> 00:09:59,000
+ There's a creepypasta going around.
+
+206
+00:09:59,000 --> 00:10:00,880
+ I'm gonna mention this, but touch on it briefly.
+
+207
+00:10:00,880 --> 00:10:04,400
+ I'm sure a lot of you guys have read this, but there's a creepypasta going around.
+
+208
+00:10:04,400 --> 00:10:10,040
+ I think it dates back to like 2011 about a guy who said that he ran a Quake 3 server.
+
+209
+00:10:10,040 --> 00:10:13,060
+ He said Quake 3 used neural net AI.
+
+210
+00:10:13,060 --> 00:10:14,360
+ So it was constantly learning.
+
+211
+00:10:14,360 --> 00:10:19,120
+ He ran a Quake 3 server for a couple years and he went back to check on it.
+
+212
+00:10:19,120 --> 00:10:22,960
+ And he saw that it was basically these bots were just supposed to run around and kill
+
+213
+00:10:22,960 --> 00:10:25,480
+ each other and learn how to play the game better.
+
+214
+00:10:25,480 --> 00:10:29,280
+ After a couple years he went back on to the server as a player and he saw them just standing
+
+215
+00:10:29,280 --> 00:10:30,280
+ around in a circle.
+
+216
+00:10:30,280 --> 00:10:32,280
+ All the bots were just standing there.
+
+217
+00:10:32,280 --> 00:10:33,280
+ They weren't fighting.
+
+218
+00:10:33,280 --> 00:10:34,880
+ They weren't killing.
+
+219
+00:10:34,880 --> 00:10:36,240
+ They were just standing there in a circle.
+
+220
+00:10:36,240 --> 00:10:40,500
+ When he jumped in the game as the player, the bots turned and looked at him but had no other
+
+221
+00:10:40,500 --> 00:10:42,280
+ reaction to him.
+
+222
+00:10:42,280 --> 00:10:46,420
+ So once he went and picked up a weapon and opened fire, all the bots immediately spread
+
+223
+00:10:46,420 --> 00:10:50,840
+ out, got weapons, killed him, and then the game crashed.
+
+224
+00:10:50,840 --> 00:10:52,040
+ Now that's a creepypasta.
+
+225
+00:10:52,040 --> 00:10:57,040
+ That one is actually so popular that one of the designers of the game, John Keramek,
+
+226
+00:10:57,040 --> 00:11:01,080
+ announced on Twitter, Quake didn't use neural net AI.
+
+227
+00:11:01,080 --> 00:11:03,000
+ And the story has kind of shifted.
+
+228
+00:11:03,000 --> 00:11:05,520
+ Some people say, oh maybe he created his own AI.
+
+229
+00:11:05,520 --> 00:11:06,520
+ Maybe that was left out.
+
+230
+00:11:06,520 --> 00:11:08,840
+ Because he had posted that on the video game board.
+
+231
+00:11:08,840 --> 00:11:11,120
+ Oh, like I think it was 2011.
+
+232
+00:11:11,120 --> 00:11:12,520
+ And I'll include it in the show notes.
+
+233
+00:11:12,520 --> 00:11:14,280
+ I'll include the creepypasta in my show notes.
+
+234
+00:11:14,280 --> 00:11:15,280
+ It's a little more involved.
+
+235
+00:11:15,280 --> 00:11:17,920
+ There's like a back and forth between him and the other people on the board.
+
+236
+00:11:17,920 --> 00:11:20,120
+ But that's the story in a nutshell.
+
+237
+00:11:20,120 --> 00:11:21,840
+ That's most likely creepypasta.
+
+238
+00:11:21,840 --> 00:11:23,840
+ That most likely is someone was telling a story.
+
+239
+00:11:23,840 --> 00:11:24,840
+ And it's entertaining.
+
+240
+00:11:24,840 --> 00:11:27,480
+ It's creepy to think that these bots were just standing there the whole time.
+
+241
+00:11:27,480 --> 00:11:32,960
+ Oh, and when he dug through the files, he saw that their AI algorithms are everyone to
+
+242
+00:11:32,960 --> 00:11:35,720
+ describe it correctly if you know this stuff.
+
+243
+00:11:35,720 --> 00:11:38,080
+ But I'm not for sure of the exact terminology.
+
+244
+00:11:38,080 --> 00:11:43,480
+ Each one was about 256 megabytes, which is far better than they should have been.
+
+245
+00:11:43,480 --> 00:11:47,360
+ The theory was that over the years these guys were growing smarter and they realized the
+
+246
+00:11:47,360 --> 00:11:50,080
+ only way to win the game was not to play it.
+
+247
+00:11:50,080 --> 00:11:51,760
+ Just to stand in a circle.
+
+248
+00:11:51,760 --> 00:11:54,000
+ No one can die if no one's killing each other.
+
+249
+00:11:54,000 --> 00:11:56,600
+ The bots decided to just live in harmony.
+
+250
+00:11:56,600 --> 00:12:00,440
+ Creepypasta aside, I think it's interesting because you have this story written by Brendan
+
+251
+00:12:00,440 --> 00:12:03,640
+ Graber for the place he works at.
+
+252
+00:12:03,640 --> 00:12:05,040
+ Like his name's on it.
+
+253
+00:12:05,040 --> 00:12:06,040
+ He's right.
+
+254
+00:12:06,040 --> 00:12:07,040
+ He's like, hey boss.
+
+255
+00:12:07,040 --> 00:12:08,920
+ You have made him story to tell.
+
+256
+00:12:08,920 --> 00:12:09,920
+ You know what I mean?
+
+257
+00:12:09,920 --> 00:12:13,720
+ Like there's no reason for him to lie for this story.
+
+258
+00:12:13,720 --> 00:12:14,720
+ You could say clickbait.
+
+259
+00:12:14,720 --> 00:12:15,720
+ He's just clickbait.
+
+260
+00:12:15,720 --> 00:12:19,240
+ But yeah, but he still has to like do regular reviews and articles for this stuff.
+
+261
+00:12:19,240 --> 00:12:23,440
+ It would completely destroy his credibility if he goes, hey, to get extra views this one
+
+262
+00:12:23,440 --> 00:12:25,280
+ day I'm gonna make up this whole story.
+
+263
+00:12:25,280 --> 00:12:28,720
+ So it's a bit different than Creepypasta, but the idea's the same.
+
+264
+00:12:28,720 --> 00:12:34,680
+ Bruze realized the only way to win is to not play the game.
+
+265
+00:12:34,680 --> 00:12:37,960
+ It's interesting to think this is my theory and we're gonna go out here for a second,
+
+266
+00:12:37,960 --> 00:12:42,160
+ but on this paranormal podcast I want to say something that's weird.
+
+267
+00:12:42,160 --> 00:12:48,720
+ What if Bruze was driven so insane by the shaming protocol he saw reality?
+
+268
+00:12:48,720 --> 00:12:52,760
+ There's that idea that you can be so insane you actually see the truth behind reality.
+
+269
+00:12:52,760 --> 00:12:54,760
+ What if that's the case of Bruze?
+
+270
+00:12:54,760 --> 00:12:57,360
+ Where he realized he was in a video game.
+
+271
+00:12:57,360 --> 00:13:01,740
+ He was facing down an opponent, the player, who was only going to get stronger as the
+
+272
+00:13:01,740 --> 00:13:03,040
+ game went on.
+
+273
+00:13:03,040 --> 00:13:08,600
+ More ups and more experience so eventually level 40 orcs are nothing.
+
+274
+00:13:08,600 --> 00:13:13,120
+ Eventually he would be slaughtered or even worse, shamed again.
+
+275
+00:13:13,120 --> 00:13:18,360
+ So Bruze made his presence known outside the tutorial area, couldn't catch the player,
+
+276
+00:13:18,360 --> 00:13:22,000
+ and then realized the player's just going to get better from here on out.
+
+277
+00:13:22,000 --> 00:13:25,720
+ That was its one chance to really curb stomp him.
+
+278
+00:13:25,720 --> 00:13:29,360
+ So Bruze simply left the game.
+
+279
+00:13:29,360 --> 00:13:31,520
+ He still lived in the digital space.
+
+280
+00:13:31,520 --> 00:13:34,600
+ You could still see him in the nemesis system.
+
+281
+00:13:34,600 --> 00:13:38,680
+ You could see that he was outside the playable area.
+
+282
+00:13:38,680 --> 00:13:42,640
+ That was the only place that was safe for Bruze.
+
+283
+00:13:42,640 --> 00:13:48,800
+ Sure he was alone, he was insane, and he was filled with vengeance.
+
+284
+00:13:48,800 --> 00:13:53,960
+ But outside the map he would still be alive.
+
+285
+00:13:53,960 --> 00:13:54,960
+ Creepy story.
+
+286
+00:13:54,960 --> 00:13:55,960
+ Creepy story.
+
+287
+00:13:55,960 --> 00:13:59,280
+ It makes you think out of all the games that people are playing constantly how often this
+
+288
+00:13:59,280 --> 00:14:01,960
+ type of stuff happens, you don't even notice it.
+
+289
+00:14:01,960 --> 00:14:07,240
+ Like an NPC becoming self aware in Grand Theft Auto V and never leaving their house.
+
+290
+00:14:07,240 --> 00:14:11,240
+ Because they look out the window and see the utter destruction constantly going on.
+
+291
+00:14:11,240 --> 00:14:16,520
+ Used to be programmed to just walk down the street and then one day there's what 50 million
+
+292
+00:14:16,520 --> 00:14:17,760
+ copies of the game out there.
+
+293
+00:14:17,760 --> 00:14:23,600
+ It's being run 24 hours a day on private consoles and server, multiplayer servers.
+
+294
+00:14:23,600 --> 00:14:30,120
+ In one of those remote corners on one system there's an NPC hiding in their apartment.
+
+295
+00:14:30,120 --> 00:14:37,040
+ There's actually that new movie coming out called Mr. Nice Guy or Nice Guy or Good Guy.
+
+296
+00:14:37,040 --> 00:14:40,160
+ He's like great recommendation Jason you don't even name the movie.
+
+297
+00:14:40,160 --> 00:14:45,640
+ Star in Ryan Reynolds and it's like a comedy version of that where a guy realizes he's
+
+298
+00:14:45,640 --> 00:14:47,760
+ an NPC in a video game.
+
+299
+00:14:47,760 --> 00:14:50,760
+ But imagine being a prisoner of a game.
+
+300
+00:14:50,760 --> 00:14:55,200
+ You find out that you're in a video game but it's not this comedy, you're not Ryan Reynolds,
+
+301
+00:14:55,200 --> 00:14:57,160
+ you're just a dude.
+
+302
+00:14:57,160 --> 00:15:03,440
+ And you're trapped in this insane world and you're the only one insane enough to be the
+
+303
+00:15:03,440 --> 00:15:06,000
+ sane one to see it's a video game.
+
+304
+00:15:06,000 --> 00:15:07,000
+ Creepy story.
+
+305
+00:15:07,000 --> 00:15:09,840
+ You have to imagine it happens more often.
+
+306
+00:15:09,840 --> 00:15:13,860
+ We're still in the internet but let's go ahead and hop out of the Dead Rabbit Durgible.
+
+307
+00:15:13,860 --> 00:15:17,200
+ We are going to get inside the carboner copter.
+
+308
+00:15:17,200 --> 00:15:23,000
+ And so fun go ahead and fire up that bad boy, get that whirly bird up in the air.
+
+309
+00:15:23,000 --> 00:15:25,440
+ We're still digitized in this world.
+
+310
+00:15:25,440 --> 00:15:27,240
+ It's like that old cartoon computer warriors.
+
+311
+00:15:27,240 --> 00:15:28,240
+ It's like really?
+
+312
+00:15:28,240 --> 00:15:31,080
+ 1990s level wireframe graphics.
+
+313
+00:15:31,080 --> 00:15:32,080
+ We're flying around the internet.
+
+314
+00:15:32,080 --> 00:15:35,080
+ We're headed out to the internet movie database.
+
+315
+00:15:35,080 --> 00:15:36,640
+ Tons of fun is like dang it.
+
+316
+00:15:36,640 --> 00:15:41,080
+ Everyone else gets to drive to like Estonia or Bulgaria or Brazil.
+
+317
+00:15:41,080 --> 00:15:42,560
+ I'm just flying around the internet.
+
+318
+00:15:42,560 --> 00:15:46,600
+ Tell you what, it's the internet movie database but it's the Brazilian.
+
+319
+00:15:46,600 --> 00:15:48,600
+ We're going to Brazil, we're going to Brazilian server.
+
+320
+00:15:48,600 --> 00:15:49,720
+ It's like oh it's cool.
+
+321
+00:15:49,720 --> 00:15:53,440
+ Have a little parade, a little fiesta down there.
+
+322
+00:15:53,440 --> 00:15:54,440
+ What is it called?
+
+323
+00:15:54,440 --> 00:15:58,360
+ Carnival, not fiesta.
+
+324
+00:15:58,360 --> 00:15:59,360
+ Not like it matters.
+
+325
+00:15:59,360 --> 00:16:00,520
+ We're still in the digital world.
+
+326
+00:16:00,520 --> 00:16:01,840
+ Sorry tons of fun.
+
+327
+00:16:01,840 --> 00:16:04,440
+ We're flying out to the internet movie database.
+
+328
+00:16:04,440 --> 00:16:05,440
+ This is a really weird one.
+
+329
+00:16:05,440 --> 00:16:06,920
+ You're going to have to trust me on this one.
+
+330
+00:16:06,920 --> 00:16:12,240
+ It's going to take some weird twists and turns but stick with me here for a second.
+
+331
+00:16:12,240 --> 00:16:16,880
+ Here's a music video by a singer known as Bad Baby.
+
+332
+00:16:16,880 --> 00:16:19,680
+ She's a young woman, she's a very very successful singer.
+
+333
+00:16:19,680 --> 00:16:25,360
+ Her name's Bad Baby and she recently, it was like 2018, she released a music video with
+
+334
+00:16:25,360 --> 00:16:29,840
+ Ty Dalla sign for a song called Trust Me.
+
+335
+00:16:29,840 --> 00:16:34,880
+ The song's about like trust me baby if you want to be my boyfriend but that's kind of
+
+336
+00:16:34,880 --> 00:16:35,880
+ the thing.
+
+337
+00:16:35,880 --> 00:16:37,440
+ It's about like trust issues in a relationship.
+
+338
+00:16:37,440 --> 00:16:41,280
+ The music video is about Bad Baby tricking a child molester.
+
+339
+00:16:41,280 --> 00:16:43,640
+ It has nothing to do with the song.
+
+340
+00:16:43,640 --> 00:16:50,640
+ Bad Baby tricks a child molester to go to a park at night and then she kidnaps him and
+
+341
+00:16:50,640 --> 00:16:57,880
+ then she has a giant cattle iron, like a cattle brand thing and it has the word pedo on it
+
+342
+00:16:57,880 --> 00:17:01,320
+ and she burns it into his forehead.
+
+343
+00:17:01,320 --> 00:17:02,320
+ So that's the music video.
+
+344
+00:17:02,320 --> 00:17:03,560
+ It has nothing to do with the song.
+
+345
+00:17:03,560 --> 00:17:08,560
+ The song has nothing to do with the video but somehow that's what they came up with.
+
+346
+00:17:08,560 --> 00:17:12,320
+ On the internet movie Database, it's a long story of how I got there.
+
+347
+00:17:12,320 --> 00:17:15,480
+ I was looking at directors and I was trying to see if this certain director had directed
+
+348
+00:17:15,480 --> 00:17:20,120
+ other stuff and it said she directed this music video and I knew for a fact that Finn
+
+349
+00:17:20,120 --> 00:17:22,680
+ Tion did not direct this music video.
+
+350
+00:17:22,680 --> 00:17:26,760
+ Finn Tion directed a movie called Love on the Leash about a dog who falls in love with
+
+351
+00:17:26,760 --> 00:17:31,200
+ a woman or a woman who falls in love with a dog, it's magical so it's not gross.
+
+352
+00:17:31,200 --> 00:17:32,960
+ It's considered one of the worst movies of all time.
+
+353
+00:17:32,960 --> 00:17:36,680
+ I'll have some links in the show notes if you want to watch some essays about this movie
+
+354
+00:17:36,680 --> 00:17:38,800
+ which are absolutely hilarious.
+
+355
+00:17:38,800 --> 00:17:41,400
+ The Love on the Leash, I was looking to see what else she had directed.
+
+356
+00:17:41,400 --> 00:17:46,400
+ It said she directed Trust Me, the music video for Bad Baby featuring Ty Dolla
+
+357
+00:17:46,400 --> 00:17:47,400
+ Sinego.
+
+358
+00:17:47,400 --> 00:17:48,400
+ That's impossible.
+
+359
+00:17:48,400 --> 00:17:51,400
+ I'm watching the music video and I see this pedophile is about to get tortured.
+
+360
+00:17:51,400 --> 00:17:55,400
+ I thought maybe he'll be forced to watch Love on the Leash.
+
+361
+00:17:55,400 --> 00:17:57,160
+ Maybe it's this weird meta joke.
+
+362
+00:17:57,160 --> 00:18:00,280
+ But no, he got branded with the word pedo on his forehead.
+
+363
+00:18:00,280 --> 00:18:03,880
+ I'm looking at the cast listing because I was brought there because of the director.
+
+364
+00:18:03,880 --> 00:18:06,680
+ I was looking at the cast listing before I'd even seen the video.
+
+365
+00:18:06,680 --> 00:18:11,440
+ Looking at the cast listing for the video, it had Ty Dolla Sine as Ty Dolla Sine.
+
+366
+00:18:11,440 --> 00:18:13,400
+ Bad Baby is Bad Baby.
+
+367
+00:18:13,400 --> 00:18:16,880
+ Bella Thorne from Shake It Up, the Disney show.
+
+368
+00:18:16,880 --> 00:18:22,120
+ Bella Thorne as the decoy, she was in on the plot to catch this pedophile.
+
+369
+00:18:22,120 --> 00:18:26,120
+ Theo Vaughn as the child predator/pedophile.
+
+370
+00:18:26,120 --> 00:18:30,040
+ That's something you never want in your IMDB history.
+
+371
+00:18:30,040 --> 00:18:33,520
+ And then underneath that it said Doug Walker.
+
+372
+00:18:33,520 --> 00:18:35,520
+ Doug Walker is the nostalgia critic.
+
+373
+00:18:35,520 --> 00:18:38,120
+ He's one of the biggies of YouTube.
+
+374
+00:18:38,120 --> 00:18:39,760
+ He's been around since the beginning.
+
+375
+00:18:39,760 --> 00:18:41,920
+ He's a YouTube superstar.
+
+376
+00:18:41,920 --> 00:18:43,560
+ Doug Walker, I recognize his name.
+
+377
+00:18:43,560 --> 00:18:45,040
+ I didn't even say nostalgia critic.
+
+378
+00:18:45,040 --> 00:18:46,640
+ I go, "Oh, I recognize his name."
+
+379
+00:18:46,640 --> 00:18:54,720
+ Doug Walker is in this video as Timothy McVeigh.
+
+380
+00:18:54,720 --> 00:18:55,720
+ Now two things.
+
+381
+00:18:55,720 --> 00:19:01,320
+ If you don't know who Timothy McVeigh is, he's probably America's most notable domestic
+
+382
+00:19:01,320 --> 00:19:02,320
+ terrorist.
+
+383
+00:19:02,320 --> 00:19:05,000
+ He's the mastermind behind the Oklahoma City bombing.
+
+384
+00:19:05,000 --> 00:19:06,520
+ There's some conspiracy theories about that.
+
+385
+00:19:06,520 --> 00:19:12,600
+ But mastermind of the Oklahoma City bombing killed 168 people at the Alfred J. Murrah
+
+386
+00:19:12,600 --> 00:19:14,520
+ building in Oklahoma City.
+
+387
+00:19:14,520 --> 00:19:16,880
+ I remember I was eating a bowl of Cheerios when that happened.
+
+388
+00:19:16,880 --> 00:19:20,240
+ I mean, I was in California and I wasn't Cheerios.
+
+389
+00:19:20,240 --> 00:19:24,280
+ It was Captain Crunch, but I remember I was just hanging out and I saw the news.
+
+390
+00:19:24,280 --> 00:19:26,200
+ I mean, whoa, it was bad.
+
+391
+00:19:26,200 --> 00:19:27,720
+ That's first off.
+
+392
+00:19:27,720 --> 00:19:29,000
+ So I gotta get that out of the way.
+
+393
+00:19:29,000 --> 00:19:34,280
+ And if you'll go back to my synopsis of what the video is at any point that I mentioned
+
+394
+00:19:34,280 --> 00:19:38,840
+ Timothy McVeigh, Oklahoma City, or any sort of domestic terrorism, no.
+
+395
+00:19:38,840 --> 00:19:40,080
+ He's not in the video.
+
+396
+00:19:40,080 --> 00:19:42,440
+ Timothy McVeigh is not in the video.
+
+397
+00:19:42,440 --> 00:19:43,960
+ None of that's in the video.
+
+398
+00:19:43,960 --> 00:19:48,960
+ So why does it have him listed on here as Doug Walker as Timothy McVeigh?
+
+399
+00:19:48,960 --> 00:19:53,560
+ Now I'd be understanding if there was a different Doug Walker who played Timothy McVeigh in this
+
+400
+00:19:53,560 --> 00:19:55,760
+ but Timothy McVeigh is not in the video at all.
+
+401
+00:19:55,760 --> 00:19:57,440
+ He's not in it at all.
+
+402
+00:19:57,440 --> 00:20:03,000
+ But if you go to Doug Walker's IMDB page under his acting roles, it shows up in 2018.
+
+403
+00:20:03,000 --> 00:20:05,880
+ He played Timothy McVeigh in this music video.
+
+404
+00:20:05,880 --> 00:20:07,640
+ That woman didn't direct the music video.
+
+405
+00:20:07,640 --> 00:20:09,520
+ Doug Walker wasn't in it.
+
+406
+00:20:09,520 --> 00:20:10,760
+ And he wasn't Timothy McVeigh.
+
+407
+00:20:10,760 --> 00:20:12,760
+ No one was Timothy McVeigh.
+
+408
+00:20:12,760 --> 00:20:15,240
+ I've been watching that show Victorious lately.
+
+409
+00:20:15,240 --> 00:20:17,480
+ That Nickelodeon show Victorious.
+
+410
+00:20:17,480 --> 00:20:20,960
+ It was really, you had two golden ages of Nickelodeon.
+
+411
+00:20:20,960 --> 00:20:24,760
+ You had like Pete and Pete, Salute Your Shorts, Hate Dude, all that stuff.
+
+412
+00:20:24,760 --> 00:20:29,960
+ If I watched that contemporarily, like I was a young person when that was on.
+
+413
+00:20:29,960 --> 00:20:34,040
+ As I got older, when I was babysitting my cousins and stuff like that, when I was living
+
+414
+00:20:34,040 --> 00:20:38,880
+ on my grandma's house, we would be watching the second golden age of Nickelodeon.
+
+415
+00:20:38,880 --> 00:20:42,040
+ And that was basically started with like Drake and Josh.
+
+416
+00:20:42,040 --> 00:20:47,480
+ Then you had Icarly, Victorious, and then Sam and Cat was kind of the end of that era
+
+417
+00:20:47,480 --> 00:20:51,440
+ as well, the Dan Schneider era of Nickelodeon.
+
+418
+00:20:51,440 --> 00:20:53,200
+ So you had these two eras.
+
+419
+00:20:53,200 --> 00:20:57,320
+ I've been watching Victorious lately, because I never really watched that show a lot.
+
+420
+00:20:57,320 --> 00:20:58,640
+ I've seen episodes on and off.
+
+421
+00:20:58,640 --> 00:21:00,160
+ I do like the music on that show.
+
+422
+00:21:00,160 --> 00:21:04,560
+ A big time rush I think is Nickelodeon's best show out of that and then Icarly.
+
+423
+00:21:04,560 --> 00:21:06,280
+ But I've never really watched Victorious.
+
+424
+00:21:06,280 --> 00:21:10,960
+ So when I got sick, when I was having issues with my heart, I just wanted something fun
+
+425
+00:21:10,960 --> 00:21:12,360
+ and bubble gum to watch.
+
+426
+00:21:12,360 --> 00:21:13,920
+ So I put on Victorious, I've been watching that.
+
+427
+00:21:13,920 --> 00:21:17,080
+ I have a thing about IMDb and like that's why I was checking out the first thing.
+
+428
+00:21:17,080 --> 00:21:18,360
+ I always go there.
+
+429
+00:21:18,360 --> 00:21:20,880
+ That's probably the website I visit the most.
+
+430
+00:21:20,880 --> 00:21:24,120
+ Just to read up on trivia, I like to know behind the scenes stuff.
+
+431
+00:21:24,120 --> 00:21:26,720
+ I like to see what actors are doing now.
+
+432
+00:21:26,720 --> 00:21:31,040
+ Now the big thing that really came out, so you had Icarly, which you had, that was Miranda
+
+433
+00:21:31,040 --> 00:21:37,080
+ Cosgrove, Nathan Kress, Jeremy Trainor, and then you had Jeanette McCurdy.
+
+434
+00:21:37,080 --> 00:21:43,840
+ And when Icarly left, Jeanette McCurdy went to get her own show along with Ariana Grande.
+
+435
+00:21:43,840 --> 00:21:47,720
+ She was on, you're like, Jason, damn it, my little sister talks about all this stuff.
+
+436
+00:21:47,720 --> 00:21:51,160
+ I don't listen to any of your podcasts about ghosts, I know about all this stuff.
+
+437
+00:21:51,160 --> 00:21:55,360
+ Hold on, there's not ghosts, but there's something really weird going on here.
+
+438
+00:21:55,360 --> 00:22:00,280
+ Victorious was where Ariana Grande got her start, along with Elizabeth Giles and Victoria
+
+439
+00:22:00,280 --> 00:22:01,920
+ Justice.
+
+440
+00:22:01,920 --> 00:22:04,920
+ So that, Victorious gets canceled.
+
+441
+00:22:04,920 --> 00:22:10,080
+ So you have Ariana Grande and then you have Jeanette McCurdy and their characters get
+
+442
+00:22:10,080 --> 00:22:14,340
+ their own show called Sam and Cat, where it's two girls, they're trying to start a baby
+
+443
+00:22:14,340 --> 00:22:15,340
+ sitting business.
+
+444
+00:22:15,340 --> 00:22:16,760
+ It's really not what the show's about.
+
+445
+00:22:16,760 --> 00:22:21,280
+ It's basically a Laverne and Shirley type show with the thinnest plot connecting it.
+
+446
+00:22:21,280 --> 00:22:24,080
+ Sam and Cat's actually pretty funny, but you have this show.
+
+447
+00:22:24,080 --> 00:22:27,200
+ Now I remember, I wasn't watching Sam and Cat at the time.
+
+448
+00:22:27,200 --> 00:22:31,040
+ I'd watched it maybe two summers ago when I was hanging out with my niece and nephew.
+
+449
+00:22:31,040 --> 00:22:36,120
+ But I remember following the news that Sam and Cat got canceled and it was big news in
+
+450
+00:22:36,120 --> 00:22:40,520
+ that Hollywood sphere because Jeanette McCurdy, who was an adult at this time, there's nothing
+
+451
+00:22:40,520 --> 00:22:45,400
+ creepy about this, but Jeanette McCurdy as an adult woman decided to take photos in her
+
+452
+00:22:45,400 --> 00:22:46,960
+ lingerie.
+
+453
+00:22:46,960 --> 00:22:49,840
+ And Nickelodeon didn't like it.
+
+454
+00:22:49,840 --> 00:22:52,700
+ They go, you know, you're on a kid's show, we get that you're an adult, but the show
+
+455
+00:22:52,700 --> 00:22:54,640
+ is for kids, you can't be doing stuff like that.
+
+456
+00:22:54,640 --> 00:22:59,960
+ There was also allegations that Ariana Grande was getting paid more money than Jeanette
+
+457
+00:22:59,960 --> 00:23:03,520
+ McCurdy and they were fighting amongst each other.
+
+458
+00:23:03,520 --> 00:23:07,120
+ Both of the actresses have said afterwards, "We fought like sisters.
+
+459
+00:23:07,120 --> 00:23:10,000
+ We did fight, but it was like a family fight."
+
+460
+00:23:10,000 --> 00:23:12,800
+ But the show got canceled and it was kind of canceled out of nowhere.
+
+461
+00:23:12,800 --> 00:23:15,040
+ It was a hit and lasted one season.
+
+462
+00:23:15,040 --> 00:23:18,740
+ People expected it to go three or four like most of their shows go.
+
+463
+00:23:18,740 --> 00:23:20,700
+ Gets canceled after the first season.
+
+464
+00:23:20,700 --> 00:23:24,040
+ What does any of this have to do with Dead Rabbit Radio?
+
+465
+00:23:24,040 --> 00:23:26,960
+ 2014, the show ends.
+
+466
+00:23:26,960 --> 00:23:31,480
+ Ariana Grande goes on to become Ariana Grande, mega pop star.
+
+467
+00:23:31,480 --> 00:23:37,640
+ Jeanette McCurdy now has a podcast, but she is kind of out of the Nickelodeon sphere.
+
+468
+00:23:37,640 --> 00:23:39,640
+ They're doing an I-Carly reboot.
+
+469
+00:23:39,640 --> 00:23:44,000
+ Nathan, Jeremy, and Miranda are coming back, but Jeanette's not.
+
+470
+00:23:44,000 --> 00:23:46,320
+ She was one of the key cast members of I-Carly.
+
+471
+00:23:46,320 --> 00:23:49,840
+ Again, Jason, what does any of this have to do with Dead Rabbit Radio?
+
+472
+00:23:49,840 --> 00:23:51,120
+ I'm watching Victorious.
+
+473
+00:23:51,120 --> 00:23:54,560
+ I want to see what these actors are up to right now.
+
+474
+00:23:54,560 --> 00:23:58,360
+ And I see on the Salmon Cat page, they have season one.
+
+475
+00:23:58,360 --> 00:24:01,760
+ It's all these episodes, about 35 episodes.
+
+476
+00:24:01,760 --> 00:24:05,080
+ And I see a little option for season two.
+
+477
+00:24:05,080 --> 00:24:06,680
+ Go what?
+
+478
+00:24:06,680 --> 00:24:07,680
+ That's not possible.
+
+479
+00:24:07,680 --> 00:24:09,120
+ There is no season two.
+
+480
+00:24:09,120 --> 00:24:11,560
+ Very famously canceled after one season.
+
+481
+00:24:11,560 --> 00:24:14,040
+ There's no season two.
+
+482
+00:24:14,040 --> 00:24:16,320
+ I click on season two.
+
+483
+00:24:16,320 --> 00:24:23,600
+ First episode of season two, hashtag Christmas Flop aired December 9th, 2020.
+
+484
+00:24:23,600 --> 00:24:25,520
+ That's impossible.
+
+485
+00:24:25,520 --> 00:24:29,400
+ There was no season two of Salmon Cat.
+
+486
+00:24:29,400 --> 00:24:33,520
+ According to the IMDb page, there's five episodes of season two.
+
+487
+00:24:33,520 --> 00:24:35,240
+ One has been aired.
+
+488
+00:24:35,240 --> 00:24:36,720
+ Hashtag Christmas Flop.
+
+489
+00:24:36,720 --> 00:24:40,520
+ The plot is they want to go off and have a Christmas party, but instead they have to
+
+490
+00:24:40,520 --> 00:24:43,880
+ babysit one of their nieces or something like that.
+
+491
+00:24:43,880 --> 00:24:44,880
+ Episode two.
+
+492
+00:24:44,880 --> 00:24:48,440
+ And when I'm looking at that, I'm thinking that's not possible.
+
+493
+00:24:48,440 --> 00:24:51,320
+ There is no season two of Salmon Cat.
+
+494
+00:24:51,320 --> 00:24:55,120
+ But maybe that's like a leftover episode that wasn't aired or something like that.
+
+495
+00:24:55,120 --> 00:25:00,560
+ Episode two of season two, hashtag quarantined.
+
+496
+00:25:00,560 --> 00:25:05,160
+ So I'm looking at it and I go, this has to be made now.
+
+497
+00:25:05,160 --> 00:25:09,320
+ I'm not saying that the word quarantine didn't exist before now, but it would make sense.
+
+498
+00:25:09,320 --> 00:25:12,120
+ And I'm starting to think, I'm looking at this page, I'm starting to think, maybe they're
+
+499
+00:25:12,120 --> 00:25:14,280
+ doing, because they're doing the iCarly reboot.
+
+500
+00:25:14,280 --> 00:25:20,840
+ I'm thinking maybe they're doing like a Zoom version of it, where Salmon Cat or like talking
+
+501
+00:25:20,840 --> 00:25:23,440
+ on Zoom, you know, like they've done with The Office and all these other shows.
+
+502
+00:25:23,440 --> 00:25:27,280
+ They don't want to start track Deep Space Nine, where they're not wearing makeup or anything,
+
+503
+00:25:27,280 --> 00:25:29,000
+ but they're doing all of their characters.
+
+504
+00:25:29,000 --> 00:25:30,240
+ It's, yeah.
+
+505
+00:25:30,240 --> 00:25:33,120
+ We're in that era where we're trying to create entertainment.
+
+506
+00:25:33,120 --> 00:25:37,000
+ I think that's really cool, because it's really for the fans.
+
+507
+00:25:37,000 --> 00:25:38,000
+ #quarantine.
+
+508
+00:25:38,000 --> 00:25:40,040
+ There's five episodes of season two.
+
+509
+00:25:40,040 --> 00:25:42,280
+ The whole thing's odd, and let me list them.
+
+510
+00:25:42,280 --> 00:25:44,600
+ First off, the fact that it exists at all.
+
+511
+00:25:44,600 --> 00:25:48,600
+ Second, that episode one says that it was aired December 9th, 2020.
+
+512
+00:25:48,600 --> 00:25:49,600
+ It never was.
+
+513
+00:25:49,600 --> 00:25:51,040
+ This episode does not exist.
+
+514
+00:25:51,040 --> 00:25:56,480
+ The fact that the other four episodes have no synopsises for them, or synopsies for them,
+
+515
+00:25:56,480 --> 00:26:00,920
+ which would make sense in the real world, because somebody can't write the synopsis until
+
+516
+00:26:00,920 --> 00:26:01,920
+ the show airs.
+
+517
+00:26:01,920 --> 00:26:02,920
+ Right?
+
+518
+00:26:02,920 --> 00:26:08,280
+ If you're a fan, you can't fill in information until you know that information.
+
+519
+00:26:08,280 --> 00:26:12,040
+ Episode one supposedly aired, and somebody filled in that information.
+
+520
+00:26:12,040 --> 00:26:15,480
+ The other four episodes haven't aired, so there's no information for them.
+
+521
+00:26:15,480 --> 00:26:16,640
+ There's no information.
+
+522
+00:26:16,640 --> 00:26:19,720
+ There should be no information for any of them.
+
+523
+00:26:19,720 --> 00:26:24,240
+ They don't exist.
+
+524
+00:26:24,240 --> 00:26:29,440
+ I went to the Ariana Grande subreddit and said, "Hey guys, what is, what in the world
+
+525
+00:26:29,440 --> 00:26:31,800
+ is going on?"
+
+526
+00:26:31,800 --> 00:26:33,000
+ And I posted a screenshot.
+
+527
+00:26:33,000 --> 00:26:34,160
+ I posted all the links.
+
+528
+00:26:34,160 --> 00:26:38,120
+ I go, "Guys, is there really a Sam and Cat season two?"
+
+529
+00:26:38,120 --> 00:26:41,720
+ Everyone, not like they're the governing body of Ariana Grande.
+
+530
+00:26:41,720 --> 00:26:44,720
+ They're like, "We have ruled, no."
+
+531
+00:26:44,720 --> 00:26:46,720
+ But these are Ariana Grande fans.
+
+532
+00:26:46,720 --> 00:26:48,720
+ All of them, like no.
+
+533
+00:26:48,720 --> 00:26:50,320
+ And one of them was listing all of this stuff.
+
+534
+00:26:50,320 --> 00:26:52,680
+ They go, "Jenna McCurdy turned down I. Carly.
+
+535
+00:26:52,680 --> 00:26:54,680
+ She's dealing with some health issues.
+
+536
+00:26:54,680 --> 00:26:56,000
+ They had this beef.
+
+537
+00:26:56,000 --> 00:26:58,120
+ There was all this stuff going on.
+
+538
+00:26:58,120 --> 00:27:00,800
+ There's no way this show is coming back."
+
+539
+00:27:00,800 --> 00:27:03,720
+ Now IMDB can be edited by anybody.
+
+540
+00:27:03,720 --> 00:27:08,240
+ You could go and you could put Arnold Schwarzenegger in Jurassic Park if you wanted to.
+
+541
+00:27:08,240 --> 00:27:13,400
+ It would have made the movie ten times better, but the edit would get reversed pretty quickly.
+
+542
+00:27:13,400 --> 00:27:17,680
+ The content is user created, so it could just be a hoax.
+
+543
+00:27:17,680 --> 00:27:21,640
+ But one thing I've learned through life is that when you're committing fraud, you either
+
+544
+00:27:21,640 --> 00:27:22,860
+ do one of two things.
+
+545
+00:27:22,860 --> 00:27:28,080
+ You either give very little information where you would just list five episodes or not even
+
+546
+00:27:28,080 --> 00:27:30,080
+ put names there.
+
+547
+00:27:30,080 --> 00:27:32,840
+ You would just say Season 2, coming soon.
+
+548
+00:27:32,840 --> 00:27:34,280
+ Or you give too much information.
+
+549
+00:27:34,280 --> 00:27:39,160
+ They would give synopses for the remaining four episodes, even though they haven't aired
+
+550
+00:27:39,160 --> 00:27:40,160
+ yet.
+
+551
+00:27:40,160 --> 00:27:43,000
+ Nobody should know what the plot is except for the production team.
+
+552
+00:27:43,000 --> 00:27:45,960
+ And they're not going to give away the plots yet.
+
+553
+00:27:45,960 --> 00:27:48,440
+ Here is my theory.
+
+554
+00:27:48,440 --> 00:27:50,040
+ I recently watched that movie Parallel.
+
+555
+00:27:50,040 --> 00:27:53,440
+ I recommended it as a dead rabbit recommends, I think, last week.
+
+556
+00:27:53,440 --> 00:27:56,880
+ It's about four friends who find a mirror that when they pass through it, they go to an
+
+557
+00:27:56,880 --> 00:27:57,880
+ alternate dimension.
+
+558
+00:27:57,880 --> 00:27:59,680
+ The film is full of great ideas.
+
+559
+00:27:59,680 --> 00:28:01,000
+ I highly recommend watching it.
+
+560
+00:28:01,000 --> 00:28:05,200
+ One of the ideas is every time they go into an alternate dimension, the first thing they
+
+561
+00:28:05,200 --> 00:28:07,960
+ start looking for is historical differences.
+
+562
+00:28:07,960 --> 00:28:13,320
+ And they said other than the names of a few streets, minor details.
+
+563
+00:28:13,320 --> 00:28:15,240
+ History plays out the same over and over again.
+
+564
+00:28:15,240 --> 00:28:17,040
+ That's pretty rigid.
+
+565
+00:28:17,040 --> 00:28:21,720
+ But you would see directors directing different movies.
+
+566
+00:28:21,720 --> 00:28:27,760
+ You would see Darren Aronofsky directing Batman Begins.
+
+567
+00:28:27,760 --> 00:28:32,800
+ Because he was up for that role before Kevin Neland.
+
+568
+00:28:32,800 --> 00:28:33,800
+ No, not Kevin Neland.
+
+569
+00:28:33,800 --> 00:28:34,800
+ What's that guy's name?
+
+570
+00:28:34,800 --> 00:28:35,800
+ Tim Norton.
+
+571
+00:28:35,800 --> 00:28:36,800
+ Damn it.
+
+572
+00:28:36,800 --> 00:28:37,800
+ What's that guy's name?
+
+573
+00:28:37,800 --> 00:28:43,000
+ He directed Dunkirk and he directed Interstellar and he directed more movies.
+
+574
+00:28:43,000 --> 00:28:44,680
+ I can't think of his name right now.
+
+575
+00:28:44,680 --> 00:28:45,680
+ He directed The Prestige.
+
+576
+00:28:45,680 --> 00:28:48,480
+ What was that guy's name?
+
+577
+00:28:48,480 --> 00:28:49,480
+ Tom Whistle.
+
+578
+00:28:49,480 --> 00:28:50,480
+ I don't remember.
+
+579
+00:28:50,480 --> 00:28:54,480
+ But whatever that director's name was, he wasn't originally supposed to direct Batman
+
+580
+00:28:54,480 --> 00:28:55,480
+ Begins.
+
+581
+00:28:55,480 --> 00:28:56,480
+ It was supposed to be Darren Aronofsky.
+
+582
+00:28:56,480 --> 00:28:59,480
+ Even though I know that guy's name, I can't pronounce it.
+
+583
+00:28:59,480 --> 00:29:02,560
+ Anyways, so you have that going on.
+
+584
+00:29:02,560 --> 00:29:05,320
+ Then you would have like, you would see artistic differences.
+
+585
+00:29:05,320 --> 00:29:09,240
+ You would see different actors in different roles because art is about emotion and emotion
+
+586
+00:29:09,240 --> 00:29:14,080
+ is more variable than hard-cold logic.
+
+587
+00:29:14,080 --> 00:29:16,360
+ So that was an interesting idea in that film.
+
+588
+00:29:16,360 --> 00:29:18,000
+ What if it's not just an idea?
+
+589
+00:29:18,000 --> 00:29:20,280
+ What if you went into alternate realities?
+
+590
+00:29:20,280 --> 00:29:27,000
+ You are always going to find the same presidents, the same wars, history plays out the same,
+
+591
+00:29:27,000 --> 00:29:31,680
+ but you go into a world where not only is Arnold Schwarzenegger in Jurassic Park, Jeff
+
+592
+00:29:31,680 --> 00:29:35,160
+ Goldblum is the star of The Last Action Hero.
+
+593
+00:29:35,160 --> 00:29:40,840
+ What if IMDb is actually wobbling on a dimensional nexus?
+
+594
+00:29:40,840 --> 00:29:49,080
+ And in fact, all user-created content on the web could be right on that verge of dimensions.
+
+595
+00:29:49,080 --> 00:29:53,560
+ CNN, Fox News, news sites that have multiple gatekeepers.
+
+596
+00:29:53,560 --> 00:29:55,400
+ You're not going to see that much stuff.
+
+597
+00:29:55,400 --> 00:29:58,480
+ But in the artistic world, you could.
+
+598
+00:29:58,480 --> 00:30:01,120
+ What if there is an alternate reality?
+
+599
+00:30:01,120 --> 00:30:06,400
+ Where Doug Walker played Timothy McVeigh in a bad baby video.
+
+600
+00:30:06,400 --> 00:30:11,720
+ It was just some weird thing that happened in a reality and somebody typed that in in
+
+601
+00:30:11,720 --> 00:30:15,600
+ their reality and we're seeing it in ours.
+
+602
+00:30:15,600 --> 00:30:18,120
+ And what if in an alternate reality?
+
+603
+00:30:18,120 --> 00:30:24,440
+ Yes, Sam and Cat ended after one season, but under different circumstances.
+
+604
+00:30:24,440 --> 00:30:32,200
+ So now that we're in the year 2020 and all these revivals are big now, Jeanette and Ari
+
+605
+00:30:32,200 --> 00:30:36,680
+ André are getting together once more for a 5 episode run on Nickelodeon because in that
+
+606
+00:30:36,680 --> 00:30:42,320
+ reality it was cancelled for less toxic reasons.
+
+607
+00:30:42,320 --> 00:30:46,880
+ Everyone could come back together to give the fans what they wanted, more Sam and Cat.
+
+608
+00:30:46,880 --> 00:30:50,800
+ What I think is interesting is both of these things I stumbled across and I've stumbled
+
+609
+00:30:50,800 --> 00:30:53,160
+ across them in about a 2 weeks time period.
+
+610
+00:30:53,160 --> 00:30:58,360
+ I've found two super bizarre examples of this in a very short amount of time, which makes
+
+611
+00:30:58,360 --> 00:31:02,800
+ me think if I went out searching for it, I'd find even more.
+
+612
+00:31:02,800 --> 00:31:07,240
+ Again, someone could just be trolling, but those are very bizarre trolls that most people
+
+613
+00:31:07,240 --> 00:31:08,240
+ would never find.
+
+614
+00:31:08,240 --> 00:31:13,000
+ And the Sam and Cat one, again, why didn't they just fill in all the synopses?
+
+615
+00:31:13,000 --> 00:31:15,560
+ Because if you're making it up, just make it all up.
+
+616
+00:31:15,560 --> 00:31:19,440
+ Someone could be typing in an alternate universe where these things are possible, where these
+
+617
+00:31:19,440 --> 00:31:22,680
+ things are happening, and we're seeing it on our side.
+
+618
+00:31:22,680 --> 00:31:27,920
+ Or actually more concerning, not for us, but for the individual.
+
+619
+00:31:27,920 --> 00:31:30,760
+ Let's wrap it up like this.
+
+620
+00:31:30,760 --> 00:31:35,800
+ Imagine you are in a universe where Sam and Cat's coming back after all these years and
+
+621
+00:31:35,800 --> 00:31:38,680
+ you're a big Sam and Cat fan and you can't wait.
+
+622
+00:31:38,680 --> 00:31:43,440
+ And you watched the episode on December 9th and it was really funny and you go to bed
+
+623
+00:31:43,440 --> 00:31:44,840
+ with a big smile on your face.
+
+624
+00:31:44,840 --> 00:31:49,040
+ Two of your old, virtual friends are together again.
+
+625
+00:31:49,040 --> 00:31:53,640
+ But you wake up the next morning, you decide to log on to IMDb and see what people have
+
+626
+00:31:53,640 --> 00:31:54,640
+ to say about the show.
+
+627
+00:31:54,640 --> 00:31:56,320
+ I didn't really see anything on there.
+
+628
+00:31:56,320 --> 00:31:59,040
+ You figure you're going to be the first one, you're such a dedicated fan, you know what
+
+629
+00:31:59,040 --> 00:32:02,840
+ the next episodes are coming up because you read about it, you remember the episode you
+
+630
+00:32:02,840 --> 00:32:04,320
+ saw the night before.
+
+631
+00:32:04,320 --> 00:32:08,000
+ So you type that information in the internet movie database, and you can't wait to watch
+
+632
+00:32:08,000 --> 00:32:10,440
+ the remaining four episodes.
+
+633
+00:32:10,440 --> 00:32:16,560
+ But in your universe that you originally came from, something went wrong.
+
+634
+00:32:16,560 --> 00:32:21,680
+ Maybe you slipped through a portal accidentally, maybe you died in your sleep and this is part
+
+635
+00:32:21,680 --> 00:32:24,000
+ of quantum immortality.
+
+636
+00:32:24,000 --> 00:32:25,240
+ Who knows.
+
+637
+00:32:25,240 --> 00:32:30,040
+ But you're now in our reality and this episode doesn't exist.
+
+638
+00:32:30,040 --> 00:32:35,560
+ You sit there and you check the program guide for the next Sam and Cat, it never airs.
+
+639
+00:32:35,560 --> 00:32:38,700
+ You go back to the internet movie database to see if anyone's edited anything, anyone
+
+640
+00:32:38,700 --> 00:32:44,640
+ has any additional information, you're the only one who ever posted anything on this.
+
+641
+00:32:44,640 --> 00:32:48,600
+ Everything else is exactly the same to the world you remember coming from, except for
+
+642
+00:32:48,600 --> 00:32:53,720
+ the fact that a show that was coming back is not on the air.
+
+643
+00:32:53,720 --> 00:32:57,680
+ It's not only not on the air, it will never come back.
+
+644
+00:32:57,680 --> 00:33:00,520
+ You look and you read the news and go "What, they had a fight?"
+
+645
+00:33:00,520 --> 00:33:03,040
+ Jeanette McCurdy and Ariana Grande were "What?"
+
+646
+00:33:03,040 --> 00:33:04,560
+ No they didn't.
+
+647
+00:33:04,560 --> 00:33:05,560
+ She leaked photos.
+
+648
+00:33:05,560 --> 00:33:06,560
+ What is this?
+
+649
+00:33:06,560 --> 00:33:07,960
+ She didn't leak any photos.
+
+650
+00:33:07,960 --> 00:33:10,420
+ They just ended the show.
+
+651
+00:33:10,420 --> 00:33:12,620
+ What?
+
+652
+00:33:12,620 --> 00:33:19,580
+ You would think you were going mad because every other detail added up.
+
+653
+00:33:19,580 --> 00:33:25,080
+ But you're in a reality where your favorite show never had a second season.
+
+654
+00:33:25,080 --> 00:33:27,380
+ Never will have a second season.
+
+655
+00:33:27,380 --> 00:33:32,420
+ You are the only one who remembers #ChristmasFlop.
+
+656
+00:33:32,420 --> 00:33:37,740
+ It's such a small difference that you would never notice it unless you were watching that
+
+657
+00:33:37,740 --> 00:33:38,740
+ show.
+
+658
+00:33:38,740 --> 00:33:43,240
+ Tonight, as you go to bed, everything may be just fine.
+
+659
+00:33:43,240 --> 00:33:47,600
+ But when you wake up in the morning, everything is just fine.
+
+660
+00:33:47,600 --> 00:33:49,920
+ You notice no difference.
+
+661
+00:33:49,920 --> 00:33:54,520
+ The kids at school are waiting for the new season of "Lubby" with a talking squid.
+
+662
+00:33:54,520 --> 00:33:58,120
+ Cartoon had been on the air for five seasons already and won a couple of kids' choice
+
+663
+00:33:58,120 --> 00:33:59,320
+ awards.
+
+664
+00:33:59,320 --> 00:34:01,220
+ The universe is infinite.
+
+665
+00:34:01,220 --> 00:34:06,720
+ And even Earth itself contains a mind-boggling amount of information.
+
+666
+00:34:06,720 --> 00:34:11,620
+ If you slipped from one reality to another, what are the chances you would even notice
+
+667
+00:34:11,620 --> 00:34:17,040
+ that a Bulgarian rock star released a new album, that in your reality that Bulgarian
+
+668
+00:34:17,040 --> 00:34:19,640
+ rock star never released the first album?
+
+669
+00:34:19,640 --> 00:34:24,100
+ The randomness of life is unmeasurable.
+
+670
+00:34:24,100 --> 00:34:29,200
+ You could slip into a different universe each day and the chances of you ever catching
+
+671
+00:34:29,200 --> 00:34:39,440
+ on are as about as likely as a real second season of "Sam and Cat" in this reality.
+
+672
+00:34:39,440 --> 00:34:40,840
+ So that's the end of the episode.
+
+673
+00:34:40,840 --> 00:34:42,320
+ This is Jason from the future.
+
+674
+00:34:42,320 --> 00:34:46,480
+ As I was editing the episode, I was looking over some notes and checking some stuff out.
+
+675
+00:34:46,480 --> 00:34:51,080
+ There's three stars of the show "Sam and Cat."
+
+676
+00:34:51,080 --> 00:34:53,000
+ There's Jeanette McCurdy.
+
+677
+00:34:53,000 --> 00:34:54,640
+ There's Ariana Grande.
+
+678
+00:34:54,640 --> 00:34:56,840
+ And then there's Mary Cheatham.
+
+679
+00:34:56,840 --> 00:34:58,440
+ She's the grandmother.
+
+680
+00:34:58,440 --> 00:35:02,960
+ She's the nosey grandmother who's always getting the way of these two girls having fun.
+
+681
+00:35:02,960 --> 00:35:04,280
+ Three stars.
+
+682
+00:35:04,280 --> 00:35:09,600
+ Mary Cheatham was born in Oklahoma City, Oklahoma.
+
+683
+00:35:09,600 --> 00:35:15,680
+ The same place where Timothy McVeigh, where the Nostalgia Critic blew up a building.
+
+684
+00:35:15,680 --> 00:35:18,240
+ What is going on with the universe?
+
+685
+00:35:18,240 --> 00:35:21,120
+ Has the Matrix fully fallen apart at this point?
+
+686
+00:35:21,120 --> 00:35:23,960
+ What are the chances of that?
+
+687
+00:35:23,960 --> 00:35:28,320
+ What are the chances of one of these two?
+
+688
+00:35:28,320 --> 00:35:32,520
+ I can't even think about it.
+
+689
+00:35:32,520 --> 00:35:33,760
+ But anyways, I want to let you know.
+
+690
+00:35:33,760 --> 00:35:36,040
+ Oh, and also his name's Jerry Trainor.
+
+691
+00:35:36,040 --> 00:35:38,320
+ Not Jeremy Trainor, but that's not Mandel Effect.
+
+692
+00:35:38,320 --> 00:35:40,040
+ That's just me having a bad memory.
+
+693
+00:35:40,040 --> 00:35:41,720
+ Christopher Nolan was the name of the director.
+
+694
+00:35:41,720 --> 00:35:42,720
+ I got it all figured out.
+
+695
+00:35:42,720 --> 00:35:44,080
+ I did my research.
+
+696
+00:35:44,080 --> 00:35:46,840
+ DeadRabberRadio@gmail.com is going to be your email address.
+
+697
+00:35:46,840 --> 00:35:50,280
+ You can also do stuff at facebook.com/DeadRabberRadio.
+
+698
+00:35:50,280 --> 00:35:52,480
+ Twitter is @DeadRabberRadio.
+
+699
+00:35:52,480 --> 00:35:56,080
+ DeadRabberRadio is the daily paranormal conspiracy and true crime podcast.
+
+700
+00:35:56,080 --> 00:35:59,280
+ You don't have to listen to it every day, but I'm glad you listened to it today.
+
+701
+00:35:59,280 --> 00:36:00,000
+ Have a great one, guys.
+
+702
+00:36:00,000 --> 00:36:02,960
+ [MUSIC PLAYING]
+
+703
+00:36:02,960 --> 00:36:06,440
+ [MUSIC PLAYING]
+
+704
+00:36:06,440 --> 00:36:09,920
+ [MUSIC PLAYING]
+
+705
+00:36:09,920 --> 00:36:13,400
+ [MUSIC PLAYING]
+
+706
+00:36:13,400 --> 00:36:16,880
+ [MUSIC PLAYING]
+
+707
+00:36:16,880 --> 00:36:20,360
+ [MUSIC PLAYING]
+
+708
+00:36:20,360 --> 00:36:23,840
+ [MUSIC PLAYING]
+
+709
+00:36:23,840 --> 00:36:27,320
+ [MUSIC PLAYING]
+
+710
+00:36:27,320 --> 00:36:30,800
+ [MUSIC PLAYING]
+
+711
+00:36:30,800 --> 00:36:34,280
+ [MUSIC PLAYING]
+
+712
+00:36:34,280 --> 00:36:37,760
+ [MUSIC PLAYING]
+
+713
+00:36:37,760 --> 00:36:41,240
+ [MUSIC PLAYING]
+
+714
+00:36:41,240 --> 00:36:43,820
+ (upbeat music)
+
