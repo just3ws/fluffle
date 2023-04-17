@@ -13,7 +13,15 @@ cp -n *.{srt,txt} ~/projects/fluffle/transcripts
 
 cd ~/projects/fluffle/transcripts
 
+echo
+echo '------------------------------------------'
+echo
+
 ls *.srt | wc -l
+
+echo
+echo '------------------------------------------'
+echo
 
 git add -A
 
