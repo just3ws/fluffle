@@ -36,7 +36,7 @@
 
 10
 00:01:01,000 --> 00:01:03,000
- I'm your host, Jason Garminer. I'm having a great day.
+ I'm your host, Jason Carpenter. I'm having a great day.
 
 11
 00:01:03,000 --> 00:01:07,000

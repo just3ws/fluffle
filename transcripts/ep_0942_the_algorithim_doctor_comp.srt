@@ -56,7 +56,7 @@
 
 15
 00:00:59,360 --> 00:01:01,280
- I'm your host Jason Garminer, I'm having a great day.
+ I'm your host Jason Carpenter, I'm having a great day.
 
 16
 00:01:01,280 --> 00:01:02,640

@@ -9,9 +9,9 @@ for node in node{01..05}; do
   /usr/local/bin/rsync -avz deploy@${node}:~/podcasts/dead-rabbit-radio/episodes/*.{srt,txt,log} . ;
 done
 
-cp -n *.{srt,txt} ~/projects/fluffle/transcripts
+cp -n *.{srt,txt} ~/projects/just3ws/fluffle/transcripts
 
-cd ~/projects/fluffle/transcripts
+cd ~/projects/just3ws/fluffle/transcripts
 
 echo
 echo '------------------------------------------'

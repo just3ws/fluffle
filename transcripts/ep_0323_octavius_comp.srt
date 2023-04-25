@@ -28,7 +28,7 @@
 
 8
 00:00:30,600 --> 00:00:32,600
- I'm your host, Jason Carviter. I'm having a great day.
+ I'm your host, Jason Carpenter. I'm having a great day.
 
 9
 00:00:32,600 --> 00:00:34,600

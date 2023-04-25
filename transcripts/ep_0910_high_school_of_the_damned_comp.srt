@@ -20,7 +20,7 @@
 
 6
 00:00:37,000 --> 00:00:39,320
- I'm your host Jason Carvener, I'm having a great day.
+ I'm your host Jason Carpenter, I'm having a great day.
 
 7
 00:00:39,320 --> 00:00:41,320

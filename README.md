@@ -19,13 +19,25 @@ Variations so far:
 - Carviter
 - Garbender
 - Garbinder
+- Garbineiro
 - Garbiner
+- Garbiter
+- Garbner
+- Gardner
+- Garfinner
+- Garfinor
 - Garment
+- Garminar
 - Garminer
+- Garpenter
+- Garpin
+- Garvador
 - Garvenor
+- Garvera
 - Garvin
 - Garvinder
 - Garviner
+- Gerviner
 - Karpner
 - Krupper
 

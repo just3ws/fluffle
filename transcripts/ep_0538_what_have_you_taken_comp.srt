@@ -40,7 +40,7 @@
 
 11
 00:00:42,300 --> 00:00:44,600
- I'm your host Jason Garfinor. I'm having a great day.
+ I'm your host Jason Carpenter. I'm having a great day.
 
 12
 00:00:44,600 --> 00:00:46,100

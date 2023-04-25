@@ -40,7 +40,7 @@
 
 11
 00:00:48,840 --> 00:00:50,080
- I'm your host Jason Carven here.
+ I'm your host Jason Carpenter here.
 
 12
 00:00:50,080 --> 00:00:51,080

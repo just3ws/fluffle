@@ -32,7 +32,7 @@
 
 9
 00:00:39,360 --> 00:00:40,360
- I'm your host, Jason Garbiner.
+ I'm your host, Jason Carpenter.
 
 10
 00:00:40,360 --> 00:00:41,360
@@ -56,7 +56,7 @@
 
 15
 00:00:59,480 --> 00:01:23,480
- Hi, I'm Jason Garbiner.
+ Hi, I'm Jason Carpenter.
 
 16
 00:01:23,480 --> 00:01:42,240
@@ -64,7 +64,7 @@
 
 17
 00:01:42,240 --> 00:02:09,960
- Jason Garbiner.
+ Jason Carpenter.
 
 18
 00:02:09,960 --> 00:02:12,360

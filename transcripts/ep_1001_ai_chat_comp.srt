@@ -32,7 +32,7 @@
 
 9
 00:00:39,280 --> 00:00:41,280
- I'm your host Jason Garvin, or I'm Having a Great Day.
+ I'm your host Jason Carpenter, I'm Having a Great Day.
 
 10
 00:00:41,280 --> 00:00:43,040

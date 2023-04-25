@@ -24,7 +24,7 @@
 
 7
 00:00:34,000 --> 00:00:36,000
- I'm your host Jason Carvener. I'm having a great day.
+ I'm your host Jason Carpenter. I'm having a great day.
 
 8
 00:00:36,000 --> 00:00:37,600
@@ -1248,7 +1248,7 @@
 
 313
 00:39:22,600 --> 00:39:27,600
- While you're going to sleep tonight, you're sleeping soundly knowing that Jason Garvener is behind bars.
+ While you're going to sleep tonight, you're sleeping soundly knowing that Jason Carpenter is behind bars.
 
 314
 00:39:27,600 --> 00:39:30,600

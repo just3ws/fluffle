@@ -56,7 +56,7 @@
 
 15
 00:01:03,880 --> 00:01:06,040
- I'm your host, Jason Garvin, and I'm having a good day.
+ I'm your host, Jason Carpenter, and I'm having a good day.
 
 16
 00:01:06,040 --> 00:01:07,400
