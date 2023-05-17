@@ -1304,7 +1304,7 @@
 
 327
 00:33:03,000 --> 00:33:07,000
- DeadRabbitRadioGmail.com is going to be your email address.
+ DeadRabbitRadio@gmail.com is going to be your email address.
 
 328
 00:33:07,000 --> 00:33:10,000

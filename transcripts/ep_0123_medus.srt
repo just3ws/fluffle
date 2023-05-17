@@ -2032,7 +2032,7 @@
 
 509
 00:30:38,000 --> 00:30:41,000
- DeadRabbitRadioGmail.com is going to be our email address.
+ DeadRabbitRadio@gmail.com is going to be our email address.
 
 510
 00:30:41,000 --> 00:30:44,000

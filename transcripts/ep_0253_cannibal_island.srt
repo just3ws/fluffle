@@ -2420,7 +2420,7 @@
 
 606
 00:29:32,000 --> 00:29:35,000
- DeadRabbitRadioGmail.com is going to be our email address.
+ DeadRabbitRadio@gmail.com is going to be our email address.
 
 607
 00:29:35,000 --> 00:29:38,000

@@ -2936,7 +2936,7 @@
 
 735
 00:35:22,000 --> 00:35:24,680
- DeadRabbitRadioGmail.com is going to be your email address.
+ DeadRabbitRadio@gmail.com is going to be your email address.
 
 736
 00:35:24,680 --> 00:35:27,880

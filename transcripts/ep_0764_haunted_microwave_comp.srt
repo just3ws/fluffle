@@ -1488,7 +1488,7 @@
 
 373
 00:24:51,000 --> 00:24:54,000
- I don't know, but DeadRabbitRadioGmail.com is gonna be our email address.
+ I don't know, but DeadRabbitRadio@gmail.com is gonna be our email address.
 
 374
 00:24:54,000 --> 00:24:57,000

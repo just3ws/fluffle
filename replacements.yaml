@@ -65,6 +65,7 @@
 - word: 'DeadRabbitRadio@gmail.com'
   replacements:
     - 'DeadRabbitRadio at gmail.com'
+    - 'DeadRabbitRadiogmail.com'
 
 - word: 'at DeadRabbitRadio@gmail.com'
   replacements:

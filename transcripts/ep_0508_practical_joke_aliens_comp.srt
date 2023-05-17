@@ -1440,7 +1440,7 @@
 
 361
 00:27:30,700 --> 00:27:33,580
- DeadRabbitRadioGmail.com is going to be your email address
+ DeadRabbitRadio@gmail.com is going to be your email address
 
 362
 00:27:33,580 --> 00:27:36,460

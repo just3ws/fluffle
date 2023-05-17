@@ -2928,7 +2928,7 @@
 
 733
 01:09:54,000 --> 01:09:59,120
- we're just gonna roll with it. DeadRabbitRadioGmail.com is gonna be your email address. You can also
+ we're just gonna roll with it. DeadRabbitRadio@gmail.com is gonna be your email address. You can also
 
 734
 01:09:59,120 --> 01:10:04,160

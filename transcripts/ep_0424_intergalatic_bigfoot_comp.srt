@@ -3748,7 +3748,7 @@
 
 938
 00:36:58,300 --> 00:37:01,300
- DeadRabbitRadioGmail.com is going to be our email address.
+ DeadRabbitRadio@gmail.com is going to be our email address.
 
 939
 00:37:01,300 --> 00:37:05,300

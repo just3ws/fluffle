@@ -1348,7 +1348,7 @@
 
 338
 00:36:06,320 --> 00:36:08,320
- DeadRabbitRadioGmail.com is going to be our email address.
+ DeadRabbitRadio@gmail.com is going to be our email address.
 
 339
 00:36:08,320 --> 00:36:11,320
