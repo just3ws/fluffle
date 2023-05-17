@@ -312,7 +312,7 @@
 
 79
 00:05:11,760 --> 00:05:14,000
- DeadRabber Radio will have a vendor booth.
+ Dead Rabbit Radio will have a vendor booth.
 
 80
 00:05:14,000 --> 00:05:17,680

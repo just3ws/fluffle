@@ -180,7 +180,7 @@
 
 46
 00:04:23,000 --> 00:04:28,000
- DeadRabberRadio@gmail.com is my email address.
+ DeadRabbitRadio@gmail.com is my email address.
 
 47
 00:04:28,000 --> 00:04:35,000
@@ -1116,11 +1116,11 @@
 
 280
 00:31:12,000 --> 00:31:15,000
- You can also hit us up at facebook.com/deadrabberadio.
+ You can also hit us up at facebook.com/DeadRabbitRadio.
 
 281
 00:31:15,000 --> 00:31:17,000
- Twitter is @deadrabberadio.
+ Twitter is @DeadRabbitRadio.
 
 282
 00:31:17,000 --> 00:31:21,000

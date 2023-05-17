@@ -156,7 +156,7 @@
 
 40
 00:01:59,640 --> 00:02:05,160
- DeadRabberRadio.Libson.com which is our main source of like if you're just looking for
+ DeadRabbitRadio.Libson.com which is our main source of like if you're just looking for
 
 41
 00:02:05,160 --> 00:02:07,320
