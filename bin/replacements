@@ -45,7 +45,6 @@ replacements.each do |replacement|
     end
 
     if replacements_made
-
       # Write the updated content to a temporary file
       temp_file = Tempfile.new('temp')
       temp_file.write(content)
