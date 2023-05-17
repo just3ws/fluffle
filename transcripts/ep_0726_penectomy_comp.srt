@@ -2940,7 +2940,7 @@
 
 736
 00:34:26,400 --> 00:34:28,960
- DeadRabbitRadio at gmail.com is going to be your email address.
+ DeadRabbitRadio@gmail.com is going to be your email address.
 
 737
 00:34:28,960 --> 00:34:31,920

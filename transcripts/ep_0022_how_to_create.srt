@@ -1400,7 +1400,7 @@
 
 351
 00:26:01,000 --> 00:26:05,000
- And my email is @DeadRabbitRadio at gmail.com.
+ And my email is at DeadRabbitRadio@gmail.com.
 
 352
 00:26:05,000 --> 00:26:07,000

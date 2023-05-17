@@ -3040,7 +3040,7 @@
 
 761
 00:38:09,020 --> 00:38:11,460
- DeadRabbitRadio at gmail.com is going to be our email address.
+ DeadRabbitRadio@gmail.com is going to be our email address.
 
 762
 00:38:11,460 --> 00:38:14,460

@@ -1344,7 +1344,7 @@
 
 337
 00:37:56,400 --> 00:37:59,360
- DeadRabbitRadio at gmail.com is going to be your email address. You can also
+ DeadRabbitRadio@gmail.com is going to be your email address. You can also
 
 338
 00:37:59,360 --> 00:38:03,520

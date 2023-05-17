@@ -1700,7 +1700,7 @@
 
 426
 00:40:43,520 --> 00:40:46,640
- DeadRabbitRadio at gmail.com is going to be your email address. You can also
+ DeadRabbitRadio@gmail.com is going to be your email address. You can also
 
 427
 00:40:46,640 --> 00:40:51,200

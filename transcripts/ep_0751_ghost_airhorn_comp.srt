@@ -3240,7 +3240,7 @@
 
 811
 00:33:42,960 --> 00:33:45,520
- DeadRabbitRadio at gmail.com is going to be your email address.
+ DeadRabbitRadio@gmail.com is going to be your email address.
 
 812
 00:33:45,520 --> 00:33:48,640

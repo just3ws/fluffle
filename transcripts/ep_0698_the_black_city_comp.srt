@@ -2468,7 +2468,7 @@
 
 618
 00:29:52,520 --> 00:29:55,160
- DeadRabbitRadio at gmail.com is going to be your email address.
+ DeadRabbitRadio@gmail.com is going to be your email address.
 
 619
 00:29:55,160 --> 00:29:58,360

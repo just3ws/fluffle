@@ -3260,7 +3260,7 @@
 
 816
 00:46:37,320 --> 00:46:39,800
- DeadRabbitRadio at gmail.com is going to be our email address.
+ DeadRabbitRadio@gmail.com is going to be our email address.
 
 817
 00:46:39,800 --> 00:46:42,600

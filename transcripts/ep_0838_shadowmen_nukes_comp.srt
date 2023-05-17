@@ -1328,7 +1328,7 @@
 
 333
 00:33:53,040 --> 00:33:56,000
- DeadRabbitRadio at gmail.com is going to be our email address, you can also
+ DeadRabbitRadio@gmail.com is going to be our email address, you can also
 
 334
 00:33:56,000 --> 00:34:00,800

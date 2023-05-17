@@ -912,7 +912,7 @@
 
 229
 00:23:05,280 --> 00:23:08,960
- DeadRabbitRadio at gmail.com is going to be our email address. You can also hit us up at
+ DeadRabbitRadio@gmail.com is going to be our email address. You can also hit us up at
 
 230
 00:23:08,960 --> 00:23:12,560
