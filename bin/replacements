@@ -33,12 +33,12 @@ replacements.each do |replacement|
     words.each do |word_to_replace|
       if case_sensitive
         if content.match?(/#{Regexp.escape(word_to_replace)}/)
-          ap [file, word_to_replace, word].join(' => ')
+          ap ['c', file, word_to_replace, word].join(' => ')
           content.gsub!(/#{Regexp.escape(word_to_replace)}/, word)
           replacements_made = true
         end
       elsif content.match?(/#{Regexp.escape(word_to_replace)}/i)
-        ap [file, word_to_replace, word].join(' => ')
+        ap ['i', file, word_to_replace, word].join(' => ')
         content.gsub!(/#{Regexp.escape(word_to_replace)}/i, word)
         replacements_made = true
       end
