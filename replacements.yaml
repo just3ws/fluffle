@@ -2,14 +2,29 @@
 - word: DeadRabbitRadio
   replacements:
     - deadrabberadio
-    - DeadRabberRadio
+    - deadrabberradio
     - deadraberadio
+    - deadrabradio
+    - deadrabratio
+    - deadrapperradio
+    - deadrapradio
+    - deadrapradiot
+    - deadratharadio
+    - deadrathoradio
+    - deadratvoradio
+    - deadravidradio
+    - deadravraradio
+    - deadravveradio
+    - deadravverradio
+
 - word: Dead Rabbit Dirigible
   replacements:
     - deadrabberdurgible
+
 - word: Dead Rabbit
   replacements:
     - DeadRabber
+
 - word: Jason Carpenter
   replacements:
     - jason carverner
@@ -46,3 +61,11 @@
     - jason garvin
     - jason carvin
     - jason carver
+
+- word: 'DeadRabbitRadio@gmail.com'
+  replacements:
+    - 'DeadRabbitRadio at gmail.com'
+
+- word: 'at DeadRabbitRadio@gmail.com'
+  replacements:
+    - '@DeadRabbitRadio@gmail.com'
