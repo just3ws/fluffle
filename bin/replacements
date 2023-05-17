@@ -1,0 +1,58 @@
+#!/usr/bin/env ruby
+# frozen_string_literal: true
+
+require 'yaml'
+require 'tempfile'
+require 'fileutils'
+
+require 'amazing_print'
+
+# Get the directory from command-line argument
+directory = ARGV[0] || Dir.pwd
+ap directory
+
+# Get the YAML file from command-line argument
+yaml_file = ARGV[1]
+ap yaml_file
+
+# Read the YAML file
+replacements = YAML.load_file(yaml_file)
+ap replacements
+
+# Iterate over the replacements
+replacements.each do |replacement|
+  word = replacement['word']
+  words = replacement['replacements']
+  case_sensitive = replacement['case_sensitive']
+
+  # Perform the replacement in each .txt file in the specified directory
+  Dir.glob("#{directory}/*.{txt,srt}") do |file|
+    content = File.read(file)
+    replacements_made = false
+
+    words.each do |word_to_replace|
+      if case_sensitive
+        if content.match?(/#{Regexp.escape(word_to_replace)}/)
+          ap [file, word_to_replace, word].join(' => ')
+          content.gsub!(/#{Regexp.escape(word_to_replace)}/, word)
+          replacements_made = true
+        end
+      elsif content.match?(/#{Regexp.escape(word_to_replace)}/i)
+        ap [file, word_to_replace, word].join(' => ')
+        content.gsub!(/#{Regexp.escape(word_to_replace)}/i, word)
+        replacements_made = true
+      end
+    end
+
+    if replacements_made
+
+      # Write the updated content to a temporary file
+      temp_file = Tempfile.new('temp')
+      temp_file.write(content)
+      temp_file.close
+
+      # Replace the original file with the temporary file
+      FileUtils.mv(temp_file.path, file)
+    end
+  end
+end
