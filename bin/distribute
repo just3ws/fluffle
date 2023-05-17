@@ -1,0 +1,48 @@
+#!/usr/bin/env ruby
+# frozen_string_literal: true
+
+require 'yaml'
+require 'net/ssh'
+
+# Load YAML file
+distribution = YAML.load_file('distribution.yaml')
+
+# Load uploaded files or initialize empty hash
+uploaded = File.exist?('distributed.yaml') ? YAML.load_file('distributed.yaml') : {}
+
+# Loop over each server and its files
+distribution.each do |node, files|
+  files.each do |file|
+    # Check if file exists before attempting to upload
+    if File.exist?(file)
+      unless uploaded.key?(file)
+        begin
+          # SSH into the node and create the directory, then disconnect
+          Net::SSH.start(node, 'deploy') do |ssh|
+            ssh.exec!('mkdir -p ~/podcasts')
+          end
+
+          # Upload the file using rsync
+          puts "rsync --partial --progress --rsh=ssh #{file} deploy@#{node}:~/podcasts/#{File.basename(file)}"
+          result = true
+          # result = system("rsync --partial --progress --rsh=ssh #{file} deploy@#{node}:~/podcasts/#{File.basename(file)}")
+
+          if result
+            # Add the file to the uploaded list and write it to the file
+            uploaded[file] = node
+            File.open('distributed.yaml', 'w') { |f| f.write(uploaded.to_yaml) }
+
+            # Delete the local file after successful upload
+            File.delete(file)
+          else
+            puts "Failed to upload file #{file} to #{node}."
+          end
+        rescue StandardError => e
+          puts "Error occurred while uploading file #{file} to #{node}. Error: #{e.message}"
+        end
+      end
+    else
+      puts "Warning: File #{file} not found. Skipping upload to #{node}."
+    end
+  end
+end

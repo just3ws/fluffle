@@ -1,0 +1,63 @@
+#!/usr/bin/env ruby
+# frozen_string_literal: true
+
+require 'find'
+require 'yaml'
+
+# Helper function to convert bytes to human-friendly format
+def as_size(raw_size)
+  units = %w[B KB MB GB TB PB]
+  size, unit = units.each_with_index.reduce([raw_size.to_f, 0]) do |(fsize, i), _|
+    fsize > 512 ? [fsize / 1024, i + 1] : (break [fsize, i])
+  end
+  format('%<size>.2f %<units>s', size:, units: units[unit])
+end
+
+# '~/podcasts/dead-rabbit-radio/_raw/_other'
+# Define variables
+podcast_dir = File.expand_path(ARGV[0] || Dir.pwd)
+nodes = %w[node01 node02 node03 node04 node05]
+node_files_size = [0, 0, 0, 0, 0]
+node_files = {}
+
+# Initialize empty hash for nodes
+nodes.each { |node| node_files[node] = [] }
+
+# Get all files and their sizes
+files = Find.find(podcast_dir).map { |path| { path:, size: File.size?(path).to_i } if File.file?(path) }.compact
+
+# Sort files by size
+files.sort_by! { |file| file[:size] }
+
+# Calculate total size and size per node
+total_size = files.sum { |file| file[:size] }
+size_per_node = total_size / nodes.size
+
+# Distribute files
+files.each do |file|
+  node = nodes.first
+
+  # If adding this file won't exceed the per node size limit, or if this is the last node
+  if node_files_size.first + file[:size] <= size_per_node || node == nodes.last
+    node_files[node] << file[:path]
+    node_files_size[0] += file[:size]
+  else
+    # Move to next node
+    nodes.rotate!
+    node_files_size.rotate!
+  end
+end
+
+# Write output to YAML file
+File.open('distribution.yaml', 'w') { |file| file.write(node_files.to_yaml) }
+
+# Print report
+puts "\nReport:"
+puts "------\n"
+
+nodes.each do |node|
+  puts format('Server: %<server_name>s', server_name: node)
+  puts format('Number of files: %<num_files>d', num_files: node_files[node].size)
+  puts format('Total size: %<total_size>s', total_size: as_size(node_files[node].sum { |file| File.size?(file).to_i }))
+  puts "\n------\n"
+end
