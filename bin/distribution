@@ -13,9 +13,8 @@ def as_size(raw_size)
   format('%<size>.2f %<units>s', size:, units: units[unit])
 end
 
-# '~/podcasts/dead-rabbit-radio/_raw/_other'
 # Define variables
-podcast_dir = File.expand_path(ARGV[0] || Dir.pwd)
+podcast_dir = File.expand_path(ARGV[0])
 nodes = %w[node01 node02 node03 node04 node05]
 node_files_size = [0, 0, 0, 0, 0]
 node_files = {}

@@ -1,0 +1,94 @@
+#!/usr/bin/env ruby
+# frozen_string_literal: true
+
+require 'curb'
+require 'down'
+require 'fileutils'
+require 'nokogiri'
+require 'streamio-ffmpeg'
+require 'amazing_print'
+
+  MAX_TOLERANCE = 10
+
+# Remote podcast feed URL
+podcast_url = 'https://feeds.libsyn.com/140084/rss'
+
+# Directory to store downloaded and converted episodes
+download_dir = File.join(Dir.home, 'podcasts', 'dead-rabbit-radio', 'episodes')
+
+FileUtils.mkdir_p(download_dir)
+
+# File to track downloaded episodes
+downloaded_file = File.join(download_dir, '../downloaded.txt')
+
+# Load the list of downloaded file names
+downloaded_files = []
+downloaded_files = File.readlines(downloaded_file).map(&:chomp) if File.exist?(downloaded_file)
+
+ap downloaded_files
+
+# Fetch the podcast feed
+xml_data = Curl.get(podcast_url).body_str
+
+# Save a copy of the podcast feed
+File.write(File.join(download_dir, '../feed.xml'), xml_data)
+
+doc = Nokogiri::XML(xml_data)
+
+# Parse the feed, get list of media URLs
+urls = doc.xpath('//enclosure/@url').map(&:value)
+
+# Download and convert episodes
+urls.each do |url|
+  mp3_filename = File.basename(url.split('?').first)
+  mp3_path = File.join(download_dir, mp3_filename)
+  next if File.exist?(mp3_path)
+  next if downloaded_files.include?(mp3_filename)
+
+  wav_filename = "#{File.basename(mp3_filename, File.extname(mp3_filename))}.wav"
+  wav_path = File.join(download_dir, wav_filename)
+  next if File.exist?(wav_path)
+
+  puts "Downloading #{url} to #{mp3_filename}"
+  Down.download(url, destination: mp3_path, max_redirects: 64)
+
+  # Add the file name to the downloaded list
+  downloaded_files << mp3_filename
+
+  # Write the updated list of downloaded file names
+  File.open(downloaded_file, 'w') do |file|
+    file.puts(downloaded_files)
+  end
+
+  # If episode is not converted to WAV yet, convert it
+  next if File.exist?(wav_path)
+
+  puts "Converting #{mp3_filename} to #{wav_filename}"
+  mp3 = FFMPEG::Movie.new(mp3_path)
+  mp3.transcode(wav_path, audio_codec: 'pcm_s16le', audio_sample_rate: 44_100, audio_channels: 2)
+
+  break unless File.exist?(wav_path)
+  break unless File.size(wav_path).positive?
+
+  wav = FFMPEG::Movie.new(wav_path)
+  break unless wav.audio_codec.casecmp?('pcm_s16le')
+
+  mp3_duration = mp3.duration.to_i
+  wav_duration = wav.duration.to_i
+
+  # Allow up to 10 seconds difference between MP3 and WAV
+  duration_difference = (mp3_duration - wav_duration).abs
+  if duration_difference > MAX_TOLERANCE
+    puts 'The duration of the MP3 file is too different from the WAV file.'
+    puts "MP3 duration: #{mp3_duration} seconds"
+    puts "WAV duration: #{wav_duration} seconds"
+
+    break
+  elsif duration_difference <= MAX_TOLERANCE
+    puts "The duration of the MP3 file is #{duration_difference} seconds different than the WAV file."
+  else
+    puts 'The duration of the MP3 file is the same as the WAV file.'
+  end
+
+  File.delete(mp3_path)
+end
