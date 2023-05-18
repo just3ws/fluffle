@@ -17,3 +17,5 @@ gem "net-ssh", "~> 7.1"
 gem "down", "~> 5.4"
 
 gem "ruby-audioinfo", "~> 0.5.5"
+
+gem "thor", "~> 1.2"
