@@ -8,6 +8,7 @@ require 'logger'
 require 'nokogiri'
 require 'pry'
 require 'time'
+require 'streamio-ffmpeg'
 
 ROOT_DIR = '~/podcasts'
 
@@ -54,6 +55,48 @@ namespace :podcast do
     end
 
     abort('Podcast feed not pulled') unless File.exist?(@podcast_feed)
+  end
+
+  # task convert: ['podcast:load'] do
+  task convert: :environment do
+    ap 'podcast:convert'
+    Dir.chdir(@episodes_dir)
+
+    Dir.glob(File.join(@episodes_dir, './.downloaded')).each do |dir|
+      puts dir
+    end
+
+    Dir.children(Dir.pwd).each do |dir|
+      if File.exist?(File.join(dir, '.converted'))
+        puts 'Skipping .converted'
+        next
+      end
+      next unless File.exist?(File.join(dir, '.downloaded'))
+
+      mp3_path = File.join(dir, 'episode.mp3')
+      next unless File.exist?(mp3_path)
+
+      wav_path = File.join(dir, 'episode.wav')
+
+      if File.exist?(wav_path)
+        puts 'Skipping converted'
+        FileUtils.touch(File.join(dir, '.converted'))
+
+        next
+      end
+
+      ap "CONVERT #{dir}"
+
+      FileUtils.touch(File.join(dir, '.converted'))
+
+      mp3 = FFMPEG::Movie.new(mp3_path)
+      mp3.transcode(
+        wav_path,
+        audio_codec: 'pcm_s16le',
+        audio_sample_rate: 44_100,
+        audio_channels: 2
+      )
+    end
   end
 
   task load: ['podcast:pull'] do
