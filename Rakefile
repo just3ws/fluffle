@@ -57,7 +57,6 @@ namespace :podcast do
     abort('Podcast feed not pulled') unless File.exist?(@podcast_feed)
   end
 
-  # task convert: ['podcast:load'] do
   task convert: :environment do
     ap 'podcast:convert'
     Dir.chdir(@episodes_dir)
@@ -69,6 +68,7 @@ namespace :podcast do
     Dir.children(Dir.pwd).each do |dir|
       if File.exist?(File.join(dir, '.converted'))
         puts 'Skipping .converted'
+
         next
       end
       next unless File.exist?(File.join(dir, '.downloaded'))
@@ -96,6 +96,8 @@ namespace :podcast do
         audio_sample_rate: 44_100,
         audio_channels: 2
       )
+
+      FileUtils.rm_f(mp3_path)
     end
   end
 
