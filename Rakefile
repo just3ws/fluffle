@@ -18,6 +18,12 @@ PODCASTS = {
   'philosophize-this' => 'https://feeds.libsyn.com/44756/rss'
 }.freeze
 
+TRANSCODING_OPTIONS = {
+  audio_codec: 'pcm_s16le',
+  audio_sample_rate: 44_100,
+  audio_channels: 2
+}.freeze
+
 task :environment do
   @podcast_name = ENV['PODCAST'].to_s
   @podcast_url = PODCASTS[@podcast_name]
@@ -62,7 +68,7 @@ namespace :podcast do
   task convert: :environment do
     Dir.chdir(@episodes_dir)
 
-    Dir.children(Dir.pwd).each do |dir|
+    Dir.children('.').each do |dir|
       next if File.exist?(File.join(dir, '.converted'))
       next unless File.exist?(File.join(dir, '.downloaded'))
 
@@ -71,21 +77,12 @@ namespace :podcast do
 
       wav_path = File.join(dir, 'episode.wav')
 
-      if File.exist?(wav_path)
-        FileUtils.touch(File.join(dir, '.converted'), verbose: true)
-
-        next
-      end
-
-      FileUtils.touch(File.join(dir, '.converted'), verbose: true)
+      next if File.exist?(wav_path)
 
       mp3 = FFMPEG::Movie.new(mp3_path)
-      mp3.transcode(
-        wav_path,
-        audio_codec: 'pcm_s16le',
-        audio_sample_rate: 44_100,
-        audio_channels: 2
-      )
+      mp3.transcode(wav_path, TRANSCODING_OPTIONS)
+
+      FileUtils.touch(File.join(dir, '.converted'), verbose: true)
 
       FileUtils.rm_f(mp3_path, verbose: true)
     end
@@ -126,43 +123,26 @@ namespace :podcast do
       begin
         FileUtils.touch(File.join(episode_dir, '.downloading'), verbose: true)
 
-        begin
-          progress_bar = ProgressBar.create(
-            title: 'Episode Download',
-            total: nil,
-            format: '%a |%b>>%i| %p%% %t'
-          )
+        progress_bar = ProgressBar.create(title: 'Episode Download', total: nil, format: '%a |%b>>%i| %p%% %t')
 
-          content_length_proc = lambda { |content_length|
-            progress_bar.total = content_length
-          }
+        content_length_proc = lambda { |content_length|
+          progress_bar.total = content_length
+        }
 
-          progress_proc = lambda { |progress|
-            progress_bar.progress = progress
-          }
+        progress_proc = lambda { |progress|
+          progress_bar.progress = progress
+        }
 
-          max_redirects = 16
+        max_redirects = 16
 
-          destination = episode_mp3
+        destination = episode_mp3
 
-          Down.download(
-            episode_url,
-            destination:,
-            content_length_proc:,
-            progress_proc:,
-            max_redirects:
-          )
+        Down.download(episode_url, destination:, content_length_proc:, progress_proc:, max_redirects:)
 
-          progress_bar.finish
+        progress_bar.finish
 
-          FileUtils.rm_f(File.join(episode_dir, '.downloading'), verbose: true)
-          FileUtils.touch(File.join(episode_dir, '.downloaded'), verbose: true)
-        rescue StandardError => e
-          require 'pry'
-          ap e.message
-          binding.pry
-          puts
-        end
+        FileUtils.rm_f(File.join(episode_dir, '.downloading'), verbose: true)
+        FileUtils.touch(File.join(episode_dir, '.downloaded'), verbose: true)
       rescue StandardError
         FileUtils.touch(File.join(episode_dir, '.failed'), verbose: true)
 
