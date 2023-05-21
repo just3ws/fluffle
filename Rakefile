@@ -4,13 +4,25 @@ require 'amazing_print'
 require 'curb'
 require 'down'
 require 'fileutils'
+require 'net/ssh'
 require 'nokogiri'
+require 'pathname'
+require 'rake'
+require 'ruby-progressbar'
 require 'streamio-ffmpeg'
 require 'time'
-require 'net/ssh'
-require 'ruby-progressbar'
 
-ROOT_DIR = '~/podcasts'
+ROOT_DIR = File.join(Dir.home, 'podcasts')
+
+LOCAL_DIR = '~/podcasts/dead-rabbit-radio/episodes'
+REMOTE_DIR = '~/podcasts/dead-rabbit-radio/episodes'
+NODES = %w[node01 node02 node03 node04 node05].freeze
+SSH_USER = 'deploy'
+MAX_GB_PER_NODE = 1
+MIN_MB_AVAILABLE_ON_NODE = 10_000
+
+# Conversion constants
+BYTES_IN_GB = (1024 * 1024 * 1024).to_f
 
 PODCASTS = {
   'dead-rabbit-radio' => 'https://feeds.libsyn.com/140084/rss',
@@ -44,7 +56,7 @@ task setup: :environment do
   FileUtils.mkdir_p(@tmp_dir, verbose: true)
 end
 
-namespace :podcast do
+namespace :podcasts do
   task pull: :environment do
     unless File.exist?(@podcast_feed)
       curl = Curl::Easy.new(@podcast_url)
@@ -60,7 +72,7 @@ namespace :podcast do
   end
 
   task distribute: :environment do
-    puts 'podcast:distribute'
+    puts 'podcasts:distribute'
 
     Dir.chdir(@episodes_dir)
   end
@@ -88,7 +100,7 @@ namespace :podcast do
     end
   end
 
-  task load: ['podcast:pull'] do
+  task load: ['podcasts:pull'] do
     xml_data = File.open(@podcast_feed)
 
     doc = Nokogiri::XML(xml_data, &:noblanks)
@@ -144,6 +156,45 @@ namespace :podcast do
         FileUtils.touch(File.join(episode_dir, '.failed'), verbose: true)
 
         FileUtils.rm_f(episode_mp3, verbose: true)
+      end
+    end
+  end
+
+  desc 'Distribute podcast files'
+  task distribute: :environment do
+    # Process each episode
+    # Dir.glob(File.expand_path("#{LOCAL_DIR}/*")).each do |episode_dir|
+
+    Dir.chdir(@episodes_dir)
+
+    Dir.children('.').each do |episode_dir|
+      wav_file_path = File.join(episode_dir, 'episode.wav')
+      next unless File.exist?(wav_file_path)
+
+      converted_file_path = File.join(episode_dir, '.converted')
+      next unless File.exist?(converted_file_path)
+
+      distributed_file_path = File.join(episode_dir, '.distributed')
+      next if File.exist?(distributed_file_path)
+
+      NODES.each do |node|
+        puts "Trying #{node}"
+        remote_episode_dir = "/home/deploy/podcasts/#{@podcast_name}/episodes/#{Pathname.new(episode_dir).basename}"
+
+        `ssh #{SSH_USER}@#{node} mkdir -p #{remote_episode_dir}`
+
+        available_mb_on_node = `ssh #{SSH_USER}@#{node} df --output=avail -BM / | tail -n 1 | tr -d '[:space:]' | tr -d 'M'`.to_i
+        next if available_mb_on_node <= MIN_MB_AVAILABLE_ON_NODE
+
+        used_gb_on_node = `ssh #{SSH_USER}@#{node} du -sb /home/deploy/podcasts/#{@podcast_name}/episodes`.split.first.to_f / BYTES_IN_GB
+        next if used_gb_on_node >= MAX_GB_PER_NODE
+
+        rsync_output = `rsync -avzP #{wav_file_path} #{SSH_USER}@#{node}:#{remote_episode_dir}`
+        ap rsync_output
+
+        FileUtils.touch(distributed_file_path, verbose: true)
+
+        break
       end
     end
   end
