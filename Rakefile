@@ -18,7 +18,7 @@ LOCAL_DIR = '~/podcasts/dead-rabbit-radio/episodes'
 REMOTE_DIR = '~/podcasts/dead-rabbit-radio/episodes'
 NODES = %w[node01 node02 node03 node04 node05].freeze
 SSH_USER = 'deploy'
-MAX_GB_PER_NODE = 1
+MAX_PODCAST_GB_PER_NODE = 2
 MIN_MB_AVAILABLE_ON_NODE = 10_000
 
 # Conversion constants
@@ -47,7 +47,7 @@ task :environment do
 
   @podcast_feed = File.join(@working_dir, 'feed.xml')
 
-  ap ['environment', @podcast_name, @podcast_url, @working_dir]
+  ap ['environment', @podcast_name, @podcast_url, @working_dir], multiline: false
 end
 
 task setup: :environment do
@@ -69,12 +69,6 @@ namespace :podcasts do
     end
 
     abort('Podcast feed not pulled') unless File.exist?(@podcast_feed)
-  end
-
-  task distribute: :environment do
-    puts 'podcasts:distribute'
-
-    Dir.chdir(@episodes_dir)
   end
 
   task convert: :environment do
@@ -162,14 +156,14 @@ namespace :podcasts do
 
   desc 'Distribute podcast files'
   task distribute: :environment do
-    # Process each episode
-    # Dir.glob(File.expand_path("#{LOCAL_DIR}/*")).each do |episode_dir|
-
     Dir.chdir(@episodes_dir)
 
     Dir.children('.').each do |episode_dir|
       wav_file_path = File.join(episode_dir, 'episode.wav')
       next unless File.exist?(wav_file_path)
+
+      local_file_size = File.size(wav_file_path)
+      ap [local_file_size:], multiline: false
 
       converted_file_path = File.join(episode_dir, '.converted')
       next unless File.exist?(converted_file_path)
@@ -181,20 +175,32 @@ namespace :podcasts do
         puts "Trying #{node}"
         remote_episode_dir = "/home/deploy/podcasts/#{@podcast_name}/episodes/#{Pathname.new(episode_dir).basename}"
 
-        `ssh #{SSH_USER}@#{node} mkdir -p #{remote_episode_dir}`
+        Net::SSH.start(node, SSH_USER) do |ssh|
+          ssh.exec!("mkdir -p #{remote_episode_dir}")
 
-        available_mb_on_node = `ssh #{SSH_USER}@#{node} df --output=avail -BM / | tail -n 1 | tr -d '[:space:]' | tr -d 'M'`.to_i
-        next if available_mb_on_node <= MIN_MB_AVAILABLE_ON_NODE
+          available_mb_on_node = ssh.exec!("df --output=avail -BM / | tail -n 1 | tr -d '[:space:]' | tr -d 'M'").to_i
 
-        used_gb_on_node = `ssh #{SSH_USER}@#{node} du -sb /home/deploy/podcasts/#{@podcast_name}/episodes`.split.first.to_f / BYTES_IN_GB
-        next if used_gb_on_node >= MAX_GB_PER_NODE
+          ap [available_mb_on_node:], multiline: false
+          next if available_mb_on_node <= MIN_MB_AVAILABLE_ON_NODE
 
-        rsync_output = `rsync -avzP #{wav_file_path} #{SSH_USER}@#{node}:#{remote_episode_dir}`
-        ap rsync_output
+          # podcast_gb_on_node = `ssh #{SSH_USER}@#{node} du -sb /home/deploy/podcasts/#{@podcast_name}/episodes`.split.first.to_f / BYTES_IN_GB
+          podcast_gb_on_node = ssh.exec!("du -sb /home/deploy/podcasts/#{@podcast_name}/episodes").split.first.to_f / BYTES_IN_GB
+          ap [podcast_gb_on_node:], multiline: false
+          next if podcast_gb_on_node >= MAX_PODCAST_GB_PER_NODE
 
-        FileUtils.touch(distributed_file_path, verbose: true)
+          system("rsync -avzP #{wav_file_path} #{SSH_USER}@#{node}:#{remote_episode_dir}")
 
-        break
+          ap "#{remote_episode_dir}/episode.wav", multiline: false
+          remote_file_size = ssh.exec!("du -b #{remote_episode_dir}/episode.wav").split.first.to_i
+          ap [remote_file_size:], multiline: false
+
+          if remote_file_size == local_file_size
+            FileUtils.touch(distributed_file_path, verbose: true)
+            break
+          end
+
+          abort("Episode upload failed for #{wav_file_path} to #{node}")
+        end
       end
     end
   end

@@ -8,7 +8,7 @@ require 'nokogiri'
 require 'streamio-ffmpeg'
 require 'amazing_print'
 
-  MAX_TOLERANCE = 10
+MAX_TOLERANCE = 10
 
 # Remote podcast feed URL
 podcast_url = 'https://feeds.libsyn.com/140084/rss'
