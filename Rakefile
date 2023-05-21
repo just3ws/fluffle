@@ -4,21 +4,21 @@ require 'amazing_print'
 require 'curb'
 require 'down'
 require 'fileutils'
-require 'logger'
 require 'nokogiri'
-require 'pry'
-require 'time'
 require 'streamio-ffmpeg'
+require 'time'
+require 'net/ssh'
+require 'ruby-progressbar'
 
 ROOT_DIR = '~/podcasts'
 
 PODCASTS = {
-  'dead-rabbit-radio' => 'https://feeds.libsyn.com/140084/rss'
+  'dead-rabbit-radio' => 'https://feeds.libsyn.com/140084/rss',
+  'belief-hole' => 'https://feeds.libsyn.com/112657/rss',
+  'philosophize-this' => 'https://feeds.libsyn.com/44756/rss'
 }.freeze
 
 task :environment do
-  ap 'environment'
-
   @podcast_name = ENV['PODCAST'].to_s
   @podcast_url = PODCASTS[@podcast_name]
 
@@ -33,8 +33,6 @@ task :environment do
 end
 
 task setup: :environment do
-  ap 'setup'
-
   FileUtils.mkdir_p(@episodes_dir, verbose: true)
   FileUtils.mkdir_p(@transcriptions_dir, verbose: true)
   FileUtils.mkdir_p(@tmp_dir, verbose: true)
@@ -42,14 +40,12 @@ end
 
 namespace :podcast do
   task pull: :environment do
-    ap 'podcast:pull'
+    unless File.exist?(@podcast_feed)
+      curl = Curl::Easy.new(@podcast_url)
+      curl.verbose = true
+      curl.perform
 
-    if File.exist?(@podcast_feed)
-      puts 'SKIPPING: Podcast feed already exists'
-    else
-      puts 'Pulling podcast feed'
-
-      xml_data = Curl.get(@podcast_url).body_str
+      xml_data = curl.body_str
 
       File.write(@podcast_feed, xml_data)
     end
@@ -57,20 +53,17 @@ namespace :podcast do
     abort('Podcast feed not pulled') unless File.exist?(@podcast_feed)
   end
 
+  task distribute: :environment do
+    puts 'podcast:distribute'
+
+    Dir.chdir(@episodes_dir)
+  end
+
   task convert: :environment do
-    ap 'podcast:convert'
     Dir.chdir(@episodes_dir)
 
-    Dir.glob(File.join(@episodes_dir, './.downloaded')).each do |dir|
-      puts dir
-    end
-
     Dir.children(Dir.pwd).each do |dir|
-      if File.exist?(File.join(dir, '.converted'))
-        puts 'Skipping .converted'
-
-        next
-      end
+      next if File.exist?(File.join(dir, '.converted'))
       next unless File.exist?(File.join(dir, '.downloaded'))
 
       mp3_path = File.join(dir, 'episode.mp3')
@@ -79,15 +72,12 @@ namespace :podcast do
       wav_path = File.join(dir, 'episode.wav')
 
       if File.exist?(wav_path)
-        puts 'Skipping converted'
-        FileUtils.touch(File.join(dir, '.converted'))
+        FileUtils.touch(File.join(dir, '.converted'), verbose: true)
 
         next
       end
 
-      ap "CONVERT #{dir}"
-
-      FileUtils.touch(File.join(dir, '.converted'))
+      FileUtils.touch(File.join(dir, '.converted'), verbose: true)
 
       mp3 = FFMPEG::Movie.new(mp3_path)
       mp3.transcode(
@@ -97,13 +87,11 @@ namespace :podcast do
         audio_channels: 2
       )
 
-      FileUtils.rm_f(mp3_path)
+      FileUtils.rm_f(mp3_path, verbose: true)
     end
   end
 
   task load: ['podcast:pull'] do
-    ap 'podcast:load'
-
     xml_data = File.open(@podcast_feed)
 
     doc = Nokogiri::XML(xml_data, &:noblanks)
@@ -114,85 +102,74 @@ namespace :podcast do
       episode_id = episode.at_css('guid').content
 
       episode_dir = File.join(@episodes_dir, episode_id)
-      FileUtils.mkdir_p(episode_dir) unless Dir.exist?(episode_dir)
+      FileUtils.mkdir_p(episode_dir, verbose: true) unless Dir.exist?(episode_dir)
 
-      log = Logger.new(File.join(episode_dir, 'episode.log'))
-      log.level = Logger::DEBUG
+      next if File.exist?(File.join(episode_dir, '.converted'))
+      next if File.exist?(File.join(episode_dir, '.downloaded'))
+      next if File.exist?(File.join(episode_dir, '.failed'))
 
-      if File.exist?(File.join(episode_dir, '.downloaded'))
-        message = [Time.now.iso8601(3), 'SKIPPING: Skipping due to .downloaded flag'].join("\t")
-        log.warn { message }
-        puts message
-
-        next
-      end
-
-      if File.exist?(File.join(episode_dir, '.failed'))
-        message = [Time.now.iso8601(3), 'SKIPPING: Skipping due to .failed flag'].join("\t")
-        log.warn { message }
-        puts message
-
-        next
-      end
-
-      io = File.open(File.join(episode_dir, 'episode.xml'), 'w')
-      episode.write_xml_to(io, encoding: 'UTF-8')
+      episode_xml = File.open(File.join(episode_dir, 'episode.xml'), 'w')
+      episode.write_xml_to(episode_xml, encoding: 'UTF-8')
 
       enclosure = episode.at_css('enclosure')
 
-      unless enclosure
-        message = [Time.now.iso8601(3), "SKIPPING: No enclosure for episode_id: #{episode_id}"].join("\t")
-        log.warn { message }
-        puts message
-
-        next
-      end
+      next unless enclosure
 
       episode_url = enclosure['url']
 
+      next unless episode_url
+
       episode_mp3 = File.join(episode_dir, 'episode.mp3')
 
-      if File.exist?(episode_mp3)
-        message = [Time.now.iso8601(3), 'SKIPPING: Episode has already been downloaded'].join("\t")
-        log.warn { message }
-        puts message
-
-        next
-      end
-
-      puts 'Downloading episode'
+      next if File.exist?(episode_mp3)
 
       begin
-        message = [Time.now.iso8601(3), 'downloading'].join("\t")
-        log.info { message }
-        puts message
+        FileUtils.touch(File.join(episode_dir, '.downloading'), verbose: true)
 
-        FileUtils.touch(File.join(episode_dir, '.downloading'))
+        begin
+          progress_bar = ProgressBar.create(
+            title: 'Episode Download',
+            total: nil,
+            format: '%a |%b>>%i| %p%% %t'
+          )
 
-        Down.download(episode_url, destination: episode_mp3, max_redirects: 64)
+          content_length_proc = lambda { |content_length|
+            progress_bar.total = content_length
+          }
 
-        message = [Time.now.iso8601(3), 'downloaded'].join("\t")
+          progress_proc = lambda { |progress|
+            progress_bar.progress = progress
+          }
 
-        FileUtils.rm_f(File.join(episode_dir, '.downloading'))
-        FileUtils.touch(File.join(episode_dir, '.downloaded'))
+          max_redirects = 16
 
-        log.info { message }
-        puts message
-      rescue StandardError => e
-        FileUtils.touch(File.join(episode_dir, '.failed'))
+          destination = episode_mp3
 
-        FileUtils.rm_f(episode_mp3)
+          Down.download(
+            episode_url,
+            destination:,
+            content_length_proc:,
+            progress_proc:,
+            max_redirects:
+          )
 
-        message = [Time.now.iso8601(3), 'failed'].join("\t")
-        log.error { message }
-        puts message
+          progress_bar.finish
 
-        log.debug { [e.class.name, e.message, e.backtrace.take(10).join("\n")].inspect }
+          FileUtils.rm_f(File.join(episode_dir, '.downloading'), verbose: true)
+          FileUtils.touch(File.join(episode_dir, '.downloaded'), verbose: true)
+        rescue StandardError => e
+          require 'pry'
+          ap e.message
+          binding.pry
+          puts
+        end
+      rescue StandardError
+        FileUtils.touch(File.join(episode_dir, '.failed'), verbose: true)
+
+        FileUtils.rm_f(episode_mp3, verbose: true)
       end
     end
   end
 end
 
-task default: [:setup, 'podcast:pull'] do
-  ap 'default'
-end
+task default: [:setup, 'podcast:pull']
