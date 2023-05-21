@@ -125,14 +125,11 @@ namespace :podcast do
 
         progress_bar = ProgressBar.create(title: 'Episode Download', total: nil, format: '%a |%b>>%i| %p%% %t')
 
-        content_length_proc = lambda { |content_length|
-          progress_bar.total = content_length
-        }
+        content_length_proc = ->(content_length) { progress_bar.total = content_length }
 
-        progress_proc = lambda { |progress|
-          progress_bar.progress = progress
-        }
+        progress_proc = ->(progress) { progress_bar.progress = progress }
 
+        # default max_redirects is 2
         max_redirects = 16
 
         destination = episode_mp3
