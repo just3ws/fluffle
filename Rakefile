@@ -46,6 +46,7 @@ task :environment do
   @tmp_dir = File.join(@working_dir, 'tmp')
 
   @podcast_feed = File.join(@working_dir, 'feed.xml')
+  @force = ENV['FORCE'].to_s == '1'
 
   ap ['environment', @podcast_name, @podcast_url, @working_dir], multiline: false
 end
@@ -58,6 +59,8 @@ end
 
 namespace :podcasts do
   task pull: :environment do
+    FileUtils.rm_f(@podcast_feed, verbose: true) if @force
+
     unless File.exist?(@podcast_feed)
       curl = Curl::Easy.new(@podcast_url)
       curl.verbose = true
