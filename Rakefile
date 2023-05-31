@@ -166,7 +166,12 @@ namespace :podcasts do
   task distribute: :environment do
     Dir.chdir(@episodes_dir)
 
+    attempts = 10
+
     Dir.children('.').each do |episode_dir|
+      attempts -= 1
+      abort('Exhausted distribution attempts') if attempts.negative?
+
       wav_file_path = File.join(episode_dir, 'episode.wav')
       next unless File.exist?(wav_file_path)
 
@@ -197,6 +202,7 @@ namespace :podcasts do
           next if podcast_gb_on_node >= MAX_PODCAST_GB_PER_NODE
 
           system("rsync -avzP #{wav_file_path} #{SSH_USER}@#{node}:#{remote_episode_dir}")
+          attempts += 1 if attempts < 10
 
           ap "#{remote_episode_dir}/episode.wav", multiline: false
           remote_file_size = ssh.exec!("du -b #{remote_episode_dir}/episode.wav").split.first.to_i
