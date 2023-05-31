@@ -19,7 +19,7 @@ REMOTE_DIR = '~/podcasts/dead-rabbit-radio/episodes'
 NODES = %w[node01 node02 node03 node04 node05].freeze
 SSH_USER = 'deploy'
 MAX_PODCAST_GB_PER_NODE = 2
-MIN_MB_AVAILABLE_ON_NODE = 10_000
+MIN_MB_AVAILABLE_ON_NODE = 5_000
 
 # Conversion constants
 BYTES_IN_GB = (1024 * 1024 * 1024).to_f
@@ -32,8 +32,8 @@ PODCASTS = {
 
 TRANSCODING_OPTIONS = {
   audio_codec: 'pcm_s16le',
-  audio_sample_rate: 44_100,
-  audio_channels: 2
+  audio_sample_rate: 16_000,
+  audio_channels: 1
 }.freeze
 
 task :environment do
@@ -41,20 +41,25 @@ task :environment do
   @podcast_url = PODCASTS[@podcast_name]
 
   @working_dir = File.join(File.expand_path(ROOT_DIR), @podcast_name)
+  FileUtils.mkdir_p(@working_dir, verbose: true)
+
   @episodes_dir = File.join(@working_dir, 'episodes')
-  @transcriptions_dir = File.join(@working_dir, 'transcriptions')
-  @tmp_dir = File.join(@working_dir, 'tmp')
+  FileUtils.mkdir_p(@episodes_dir, verbose: true)
+
+  # @transcriptions_dir = File.join(@working_dir, 'transcriptions')
+  # @tmp_dir = File.join(@working_dir, 'tmp')
 
   @podcast_feed = File.join(@working_dir, 'feed.xml')
   @force = ENV['FORCE'].to_s == '1'
+  @keep = ENV['KEEP'].to_s == '1'
 
   ap ['environment', @podcast_name, @podcast_url, @working_dir], multiline: false
 end
 
 task setup: :environment do
   FileUtils.mkdir_p(@episodes_dir, verbose: true)
-  FileUtils.mkdir_p(@transcriptions_dir, verbose: true)
-  FileUtils.mkdir_p(@tmp_dir, verbose: true)
+  # FileUtils.mkdir_p(@transcriptions_dir, verbose: true)
+  # FileUtils.mkdir_p(@tmp_dir, verbose: true)
 end
 
 namespace :podcasts do
@@ -93,7 +98,7 @@ namespace :podcasts do
 
       FileUtils.touch(File.join(dir, '.converted'), verbose: true)
 
-      FileUtils.rm_f(mp3_path, verbose: true)
+      FileUtils.rm_f(mp3_path, verbose: true) unless @keep
     end
   end
 
