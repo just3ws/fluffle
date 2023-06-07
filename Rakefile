@@ -170,7 +170,6 @@ namespace :podcasts do
     ap attempts
 
     Dir.children('.').each do |episode_dir|
-
       wav_file_path = File.join(episode_dir, 'episode.wav')
       next unless File.exist?(wav_file_path)
 
