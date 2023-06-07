@@ -167,10 +167,9 @@ namespace :podcasts do
     Dir.chdir(@episodes_dir)
 
     attempts = 10
+    ap attempts
 
     Dir.children('.').each do |episode_dir|
-      attempts -= 1
-      abort('Exhausted distribution attempts') if attempts.negative?
 
       wav_file_path = File.join(episode_dir, 'episode.wav')
       next unless File.exist?(wav_file_path)
@@ -186,6 +185,11 @@ namespace :podcasts do
 
       NODES.each do |node|
         puts "Trying #{node}"
+
+        attempts -= 1
+        ap attempts
+        abort('Exhausted distribution attempts') if attempts.negative?
+
         remote_episode_dir = "/home/deploy/podcasts/#{@podcast_name}/episodes/#{Pathname.new(episode_dir).basename}"
 
         Net::SSH.start(node, SSH_USER) do |ssh|
@@ -203,6 +207,7 @@ namespace :podcasts do
 
           system("rsync -avzP #{wav_file_path} #{SSH_USER}@#{node}:#{remote_episode_dir}")
           attempts += 1 if attempts < 10
+          ap attempts
 
           ap "#{remote_episode_dir}/episode.wav", multiline: false
           remote_file_size = ssh.exec!("du -b #{remote_episode_dir}/episode.wav").split.first.to_i
