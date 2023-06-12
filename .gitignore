@@ -1,5 +1,7 @@
 .DS_Store
 *.log
+*.mp3
+*.wav
 
 distributed.yaml
 distribution.yaml

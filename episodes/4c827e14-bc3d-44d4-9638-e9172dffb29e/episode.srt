@@ -1,0 +1,3244 @@
+1
+00:00:00,000 --> 00:00:02,160
+ They truly are like family to us.
+
+2
+00:00:02,160 --> 00:00:05,320
+ We are so lucky to have these people that just care.
+
+3
+00:00:05,320 --> 00:00:08,280
+ At Ann and Robert H. Lurie Children's Hospital of Chicago,
+
+4
+00:00:08,280 --> 00:00:11,520
+ we know that caring for your child takes more than medicine.
+
+5
+00:00:11,520 --> 00:00:13,400
+ They're not just treating the disease.
+
+6
+00:00:13,400 --> 00:00:14,520
+ They're caring for Olivia.
+
+7
+00:00:14,520 --> 00:00:15,920
+ They know my baby's name.
+
+8
+00:00:15,920 --> 00:00:17,000
+ They make me happy.
+
+9
+00:00:17,000 --> 00:00:18,360
+ And they make me feel better.
+
+10
+00:00:18,360 --> 00:00:20,880
+ With cutting-edge treatments and kid-friendly care,
+
+11
+00:00:20,880 --> 00:00:23,840
+ there's a reason Lurie Children's has ranked the number one
+
+12
+00:00:23,840 --> 00:00:25,600
+ Children's Hospital in Illinois.
+
+13
+00:00:25,600 --> 00:00:29,680
+ I would always recommend Lurie Children's, always.
+
+14
+00:00:30,360 --> 00:00:31,360
+ Real raw news.
+
+15
+00:00:31,360 --> 00:00:33,800
+ A conspiracy theory website we've covered multiple times
+
+16
+00:00:33,800 --> 00:00:36,360
+ on this show just got doxxed
+
+17
+00:00:36,360 --> 00:00:38,840
+ and they had a full expose written on them.
+
+18
+00:00:38,840 --> 00:00:41,360
+ Today we're gonna go into the stories behind the stories
+
+19
+00:00:41,360 --> 00:00:44,600
+ and find out that the truth behind the headlines
+
+20
+00:00:44,600 --> 00:00:46,640
+ is even more bizarre.
+
+21
+00:00:46,640 --> 00:00:48,640
+ Now we take a look at the bizarre story of a group
+
+22
+00:00:48,640 --> 00:00:52,040
+ that decided to develop an artificial intelligence
+
+23
+00:00:52,040 --> 00:00:55,280
+ to crawl along the web and learn everything they could
+
+24
+00:00:55,280 --> 00:00:56,880
+ about humanity.
+
+25
+00:00:56,880 --> 00:00:58,360
+ Their purpose?
+
+26
+00:00:58,360 --> 00:01:00,240
+ To expose pedophiles.
+
+27
+00:01:00,240 --> 00:01:02,200
+ Today on Dead Rabbit Radio.
+
+28
+00:01:02,200 --> 00:01:04,780
+ (upbeat music)
+
+29
+00:01:04,780 --> 00:01:11,600
+ Hey everyone, welcome back to another episode
+
+30
+00:01:11,600 --> 00:01:12,760
+ of Dead Rabbit Radio.
+
+31
+00:01:12,760 --> 00:01:13,920
+ I'm your host, Jason Carpenter.
+
+32
+00:01:13,920 --> 00:01:14,840
+ I'm having a great day.
+
+33
+00:01:14,840 --> 00:01:16,400
+ Hope you guys are having a great day too.
+
+34
+00:01:16,400 --> 00:01:19,000
+ Hope you guys had a lot of fun this weekend.
+
+35
+00:01:19,000 --> 00:01:20,080
+ We got a ton of stuff to cover.
+
+36
+00:01:20,080 --> 00:01:23,240
+ So first off, let's introduce our newest Patreon supporter,
+
+37
+00:01:23,240 --> 00:01:25,200
+ walking into Dead Rabbit Command right now.
+
+38
+00:01:25,200 --> 00:01:26,600
+ You know 'em, you love 'em.
+
+39
+00:01:26,600 --> 00:01:28,080
+ It's Jack Gardner.
+
+40
+00:01:28,080 --> 00:01:30,040
+ Everyone give a round of applause to Jack.
+
+41
+00:01:30,040 --> 00:01:31,520
+ He's walking into Dead Rabbit Command.
+
+42
+00:01:31,520 --> 00:01:33,440
+ Really, really appreciate the support.
+
+43
+00:01:33,440 --> 00:01:34,720
+ Jack, you're gonna be our captain,
+
+44
+00:01:34,720 --> 00:01:35,800
+ our pilot of this episode.
+
+45
+00:01:35,800 --> 00:01:37,080
+ If you guys can't support the Patreon,
+
+46
+00:01:37,080 --> 00:01:38,600
+ I totally understand.
+
+47
+00:01:38,600 --> 00:01:40,080
+ Just helps spread the word about the show
+
+48
+00:01:40,080 --> 00:01:41,640
+ really, really helps out a lot.
+
+49
+00:01:41,640 --> 00:01:43,720
+ When I see the show being posted online,
+
+50
+00:01:43,720 --> 00:01:45,720
+ it always brings in new listeners.
+
+51
+00:01:45,720 --> 00:01:47,480
+ Jack, I'm gonna go ahead and toss you the keys
+
+52
+00:01:47,480 --> 00:01:49,360
+ to the Dead Rabbit Durgible.
+
+53
+00:01:49,360 --> 00:01:51,600
+ We're gonna leave behind Dead Rabbit Command.
+
+54
+00:01:51,600 --> 00:01:55,880
+ We are headed all the way out to Washington, D.C.
+
+55
+00:01:55,880 --> 00:01:58,640
+ (growling)
+
+56
+00:01:58,640 --> 00:02:00,840
+ I don't talk a lot of politics on this show.
+
+57
+00:02:00,840 --> 00:02:03,280
+ It's one of the founding principles of Dead Rabbit Radio,
+
+58
+00:02:03,280 --> 00:02:07,560
+ but sometimes you have to take a stand.
+
+59
+00:02:07,560 --> 00:02:11,080
+ And I am so tired.
+
+60
+00:02:11,080 --> 00:02:12,800
+ I think you can even hear it in my voice.
+
+61
+00:02:12,800 --> 00:02:15,880
+ I'm trying to really figure out a way to say this.
+
+62
+00:02:15,880 --> 00:02:18,680
+ My voice has been cracking.
+
+63
+00:02:18,680 --> 00:02:20,440
+ I've done a couple versions of this.
+
+64
+00:02:20,440 --> 00:02:24,040
+ I'm so tired of President Joe Biden
+
+65
+00:02:24,040 --> 00:02:28,080
+ not giving full credit to his body double.
+
+66
+00:02:28,080 --> 00:02:30,920
+ I personally think Arthur Roberts,
+
+67
+00:02:30,920 --> 00:02:33,400
+ 83-year-old movie star Arthur Roberts
+
+68
+00:02:33,400 --> 00:02:36,880
+ is doing a great job of portraying Joe Biden.
+
+69
+00:02:36,880 --> 00:02:41,000
+ Even though, if you look up that actor on IMDb,
+
+70
+00:02:41,000 --> 00:02:44,560
+ he's taller, taller than Joe Biden.
+
+71
+00:02:44,560 --> 00:02:49,560
+ Apparently a heavyweight, this is apparently true.
+
+72
+00:02:49,560 --> 00:02:52,800
+ A heavyweight fell on Arthur Roberts' head
+
+73
+00:02:52,800 --> 00:02:55,960
+ and shrunk him to the perfect Joe Biden height.
+
+74
+00:02:55,960 --> 00:02:58,440
+ Did you know that was possible?
+
+75
+00:02:58,440 --> 00:03:03,080
+ I'm tired of Arthur Roberts not getting the credit he deserves.
+
+76
+00:03:03,080 --> 00:03:05,000
+ The only way I know about Arthur Roberts
+
+77
+00:03:05,000 --> 00:03:06,800
+ being Joe Biden's body double
+
+78
+00:03:06,800 --> 00:03:09,280
+ is because of an obscure website called Real Raw News.
+
+79
+00:03:09,280 --> 00:03:12,680
+ And this needs to be fully cooked mainstream news.
+
+80
+00:03:12,680 --> 00:03:16,000
+ This needs to be Fourth of July barbecue news.
+
+81
+00:03:16,000 --> 00:03:19,960
+ Arthur Roberts, 83-years-old,
+
+82
+00:03:19,960 --> 00:03:22,060
+ is playing the part of Joe Biden.
+
+83
+00:03:22,860 --> 00:03:24,340
+ And you go, I don't never heard of that guy.
+
+84
+00:03:24,340 --> 00:03:25,580
+ Well, that's, you know what?
+
+85
+00:03:25,580 --> 00:03:27,140
+ That kind of upsets me.
+
+86
+00:03:27,140 --> 00:03:28,580
+ It's kind of making my voice sore again
+
+87
+00:03:28,580 --> 00:03:31,220
+ because that shows that you are just not a fan of cinema.
+
+88
+00:03:31,220 --> 00:03:32,820
+ You're telling me you never saw
+
+89
+00:03:32,820 --> 00:03:34,900
+ "Virtual Girl 2" "Virtual Vegas"?
+
+90
+00:03:34,900 --> 00:03:36,300
+ You never watched that movie?
+
+91
+00:03:36,300 --> 00:03:39,300
+ Movie, "Read to Find My"
+
+92
+00:03:39,300 --> 00:03:41,580
+ whatever part of my life, however old I was
+
+93
+00:03:41,580 --> 00:03:42,940
+ when that movie came out.
+
+94
+00:03:42,940 --> 00:03:43,900
+ He was in that.
+
+95
+00:03:43,900 --> 00:03:45,580
+ You don't remember he was in "Duey Houser"
+
+96
+00:03:45,580 --> 00:03:47,060
+ "M.D." the television series?
+
+97
+00:03:47,060 --> 00:03:50,540
+ He played "Impatient Customer" number two.
+
+98
+00:03:50,540 --> 00:03:54,900
+ You see, Arthur Roberts has given so much to pop culture.
+
+99
+00:03:54,900 --> 00:03:58,100
+ Remember when you had that trivia pursuit question?
+
+100
+00:03:58,100 --> 00:04:00,320
+ Remember when you played "Trivial Pursuit"?
+
+101
+00:04:00,320 --> 00:04:03,140
+ And it asked who was the "Impatient Customer" number two?
+
+102
+00:04:03,140 --> 00:04:04,280
+ It was a trick question.
+
+103
+00:04:04,280 --> 00:04:06,860
+ Because everyone knew who "Impatient Customer" number one was.
+
+104
+00:04:06,860 --> 00:04:07,820
+ This is someone,
+
+105
+00:04:07,820 --> 00:04:09,060
+ tell me if this doesn't sound like
+
+106
+00:04:09,060 --> 00:04:10,500
+ the most brilliant movie ever.
+
+107
+00:04:10,500 --> 00:04:12,380
+ Inception, whatever dude.
+
+108
+00:04:12,380 --> 00:04:14,900
+ Primer, get a job.
+
+109
+00:04:14,900 --> 00:04:15,740
+ Listen to this.
+
+110
+00:04:15,740 --> 00:04:20,500
+ Arthur Roberts, currently serving as the 46th president
+
+111
+00:04:20,500 --> 00:04:21,820
+ of the United States,
+
+112
+00:04:21,820 --> 00:04:24,980
+ also starred in a movie called "Moms Out of Sight".
+
+113
+00:04:24,980 --> 00:04:27,820
+ Let me tell you about this movie, "Moms Out of Sight".
+
+114
+00:04:27,820 --> 00:04:29,620
+ I've never seen it.
+
+115
+00:04:29,620 --> 00:04:32,020
+ I've been digging into some biographical information
+
+116
+00:04:32,020 --> 00:04:33,220
+ on our new president.
+
+117
+00:04:33,220 --> 00:04:35,900
+ So I was looking at the IMDB page for "Moms Out of Sight".
+
+118
+00:04:35,900 --> 00:04:38,220
+ Tell me this doesn't sound like the best movie ever.
+
+119
+00:04:38,220 --> 00:04:41,460
+ There's an inventor, his name is John Richards.
+
+120
+00:04:41,460 --> 00:04:43,820
+ And he invents teleportation.
+
+121
+00:04:43,820 --> 00:04:48,300
+ And then there's like his evil assistant named Martin.
+
+122
+00:04:48,300 --> 00:04:49,620
+ And he goes, "You know what?
+
+123
+00:04:49,620 --> 00:04:51,700
+ If I had that teleportation machine,
+
+124
+00:04:51,700 --> 00:04:52,540
+ I'd be super rich.
+
+125
+00:04:52,540 --> 00:04:54,660
+ I could sell it to the highest bidder."
+
+126
+00:04:54,660 --> 00:04:55,620
+ Which is true.
+
+127
+00:04:55,620 --> 00:04:58,180
+ So to get his teleportation machine,
+
+128
+00:04:58,180 --> 00:05:00,340
+ to get his teleportation machine,
+
+129
+00:05:00,340 --> 00:05:04,140
+ he builds a machine that allows him to create
+
+130
+00:05:04,140 --> 00:05:06,600
+ instant clones of people.
+
+131
+00:05:06,600 --> 00:05:08,280
+ And it's their evil clone.
+
+132
+00:05:08,280 --> 00:05:12,660
+ So why not if you have that machine?
+
+133
+00:05:12,660 --> 00:05:15,340
+ Why do you need to get a teleportation machine?
+
+134
+00:05:15,340 --> 00:05:17,340
+ He can shoot the professor,
+
+135
+00:05:17,340 --> 00:05:19,220
+ the inventor of the teleportation machine,
+
+136
+00:05:19,220 --> 00:05:23,260
+ and creates an instant indistinguishable clone of him
+
+137
+00:05:23,260 --> 00:05:26,500
+ on the spot wearing the same clothes, I presume.
+
+138
+00:05:26,500 --> 00:05:29,020
+ 'Cause I think this is a kid's movie.
+
+139
+00:05:29,020 --> 00:05:31,700
+ And it's the evil version of them.
+
+140
+00:05:31,700 --> 00:05:33,620
+ You don't have to need teleportation.
+
+141
+00:05:33,620 --> 00:05:35,680
+ You would just have an army of evil youths.
+
+142
+00:05:35,680 --> 00:05:38,980
+ Or like evil Arnold Schwarzenegger's.
+
+143
+00:05:38,980 --> 00:05:41,020
+ They're just mildly different.
+
+144
+00:05:41,020 --> 00:05:44,500
+ Then this movie's called "Moms Out of Sight".
+
+145
+00:05:44,500 --> 00:05:47,820
+ And the cover, so I know what the cover of the movie is.
+
+146
+00:05:48,940 --> 00:05:51,100
+ This guy invents a teleportation machine.
+
+147
+00:05:51,100 --> 00:05:52,940
+ This, his assistant now has a machine
+
+148
+00:05:52,940 --> 00:05:55,500
+ that can make instant clones that are evil.
+
+149
+00:05:55,500 --> 00:05:57,140
+ And then it says this.
+
+150
+00:05:57,140 --> 00:06:00,100
+ This is so bizarre.
+
+151
+00:06:00,100 --> 00:06:01,380
+ This is so bizarre.
+
+152
+00:06:01,380 --> 00:06:04,380
+ This is a quote, "The professor's son, Jack,
+
+153
+00:06:04,380 --> 00:06:09,220
+ and wife, Barbara, learn about Martin's underhanded doings.
+
+154
+00:06:09,220 --> 00:06:12,340
+ And Barbara uses another one of her husband's gimmicks
+
+155
+00:06:12,340 --> 00:06:14,580
+ to get revenge against Martin.
+
+156
+00:06:14,580 --> 00:06:17,620
+ She turns herself invisible."
+
+157
+00:06:18,620 --> 00:06:20,620
+ So what do you want to know?
+
+158
+00:06:20,620 --> 00:06:22,620
+ This guy invented the invisibility machine.
+
+159
+00:06:22,620 --> 00:06:25,340
+ He's like, "Ah, that could probably make me a millionaire.
+
+160
+00:06:25,340 --> 00:06:27,380
+ But I want something that'll make me a trillionaire."
+
+161
+00:06:27,380 --> 00:06:28,420
+ What?
+
+162
+00:06:28,420 --> 00:06:30,180
+ The cover is an invisible mom.
+
+163
+00:06:30,180 --> 00:06:31,820
+ I think she's wearing an apron or something like that.
+
+164
+00:06:31,820 --> 00:06:33,780
+ And some kids are poking their head around the corner.
+
+165
+00:06:33,780 --> 00:06:35,580
+ And so that movie exists.
+
+166
+00:06:35,580 --> 00:06:38,700
+ First off, I wanted to take five minutes of this podcast
+
+167
+00:06:38,700 --> 00:06:40,700
+ to let you know that that's a real movie
+
+168
+00:06:40,700 --> 00:06:41,920
+ that I have to watch.
+
+169
+00:06:41,920 --> 00:06:42,760
+ But also to let you know
+
+170
+00:06:42,760 --> 00:06:44,500
+ that our president was in that movie.
+
+171
+00:06:44,500 --> 00:06:45,820
+ Like, isn't that amazing?
+
+172
+00:06:45,820 --> 00:06:47,740
+ We're not talking about some cheap actor.
+
+173
+00:06:47,740 --> 00:06:48,580
+ We're not talking about somebody
+
+174
+00:06:48,580 --> 00:06:50,900
+ who's just pumping out franchise films over and over again.
+
+175
+00:06:50,900 --> 00:06:52,660
+ He's taking risks.
+
+176
+00:06:52,660 --> 00:06:54,900
+ The reason why I bring those movies up
+
+177
+00:06:54,900 --> 00:06:56,940
+ because the problem is is that Arthur Roberts
+
+178
+00:06:56,940 --> 00:06:59,620
+ is bringing those movies up as well.
+
+179
+00:06:59,620 --> 00:07:00,660
+ Which would be fine, right?
+
+180
+00:07:00,660 --> 00:07:02,660
+ 'Cause he's an actor and he's trying to get more business.
+
+181
+00:07:02,660 --> 00:07:05,780
+ He goes, "Hey, have you ever seen 100,000 zombie heads?"
+
+182
+00:07:05,780 --> 00:07:08,380
+ But he's not Arthur Roberts anymore.
+
+183
+00:07:08,380 --> 00:07:09,220
+ He's Joe Biden.
+
+184
+00:07:09,220 --> 00:07:11,940
+ So when Joe Biden recently met with Boris Johnson,
+
+185
+00:07:11,940 --> 00:07:13,460
+ they had that press meeting in the White House
+
+186
+00:07:13,460 --> 00:07:15,740
+ on like September 21st, 2021.
+
+187
+00:07:15,740 --> 00:07:16,860
+ And it went slightly viral
+
+188
+00:07:16,860 --> 00:07:19,000
+ 'cause you can hear like reporters being ushered out
+
+189
+00:07:19,000 --> 00:07:21,900
+ at the ending as they're like yelling out questions.
+
+190
+00:07:21,900 --> 00:07:24,980
+ What was going on was Arthur Roberts
+
+191
+00:07:24,980 --> 00:07:26,860
+ as he was sitting there with Boris Johnson started going,
+
+192
+00:07:26,860 --> 00:07:28,020
+ "This wasn't picked up on my,
+
+193
+00:07:28,020 --> 00:07:30,420
+ "this wasn't picked up on any mics, by the way.
+
+194
+00:07:30,420 --> 00:07:32,560
+ "Some of the most sensitive microphone technology
+
+195
+00:07:32,560 --> 00:07:35,540
+ "in the world on these global leaders.
+
+196
+00:07:35,540 --> 00:07:36,840
+ "It wasn't picked up by mics."
+
+197
+00:07:36,840 --> 00:07:39,500
+ During the meeting, Joe Biden kept leaning over
+
+198
+00:07:39,500 --> 00:07:42,900
+ and be like, "Hey, what'd you think of Up 'n Smoke?
+
+199
+00:07:42,900 --> 00:07:44,160
+ "Did you like that movie?
+
+200
+00:07:44,160 --> 00:07:45,160
+ "I heard it was really good.
+
+201
+00:07:45,160 --> 00:07:48,020
+ "I heard the guy who played police officer number seven
+
+202
+00:07:48,020 --> 00:07:49,220
+ "did a great job."
+
+203
+00:07:49,220 --> 00:07:50,340
+ Boris Johnson's like, "What?"
+
+204
+00:07:50,340 --> 00:07:51,940
+ And the meeting would go on and then he goes,
+
+205
+00:07:51,940 --> 00:07:54,260
+ "Hey, Boris, Boris, it's been a while
+
+206
+00:07:54,260 --> 00:07:56,540
+ "since I've asked you something."
+
+207
+00:07:56,540 --> 00:07:59,180
+ It's only been like 35 seconds.
+
+208
+00:07:59,180 --> 00:08:00,660
+ He's really losing his grip on time.
+
+209
+00:08:00,660 --> 00:08:04,300
+ "Hey, Boris, have you ever seen Little Miss Magic?"
+
+210
+00:08:04,300 --> 00:08:05,140
+ What?
+
+211
+00:08:05,140 --> 00:08:06,660
+ Yeah, it's a real movie.
+
+212
+00:08:06,660 --> 00:08:09,500
+ It's a real movie about a sorceress,
+
+213
+00:08:09,500 --> 00:08:11,900
+ a teenage sorceress to get her powers.
+
+214
+00:08:11,900 --> 00:08:14,660
+ She has to help a impact husband overcome
+
+215
+00:08:14,660 --> 00:08:16,040
+ his battle-axe wife.
+
+216
+00:08:16,040 --> 00:08:17,680
+ Have you seen that?
+
+217
+00:08:17,680 --> 00:08:19,680
+ Did you know it existed until he said it
+
+218
+00:08:19,680 --> 00:08:20,520
+ a couple of minutes ago?
+
+219
+00:08:20,520 --> 00:08:22,920
+ And Boris Johnson, again, his mic is not picking up
+
+220
+00:08:22,920 --> 00:08:24,160
+ any of this up either.
+
+221
+00:08:24,160 --> 00:08:26,560
+ Boris Johnson asked like, "What is going on?
+
+222
+00:08:26,560 --> 00:08:27,800
+ "Like, who the bloody hell are you?"
+
+223
+00:08:27,800 --> 00:08:30,680
+ And that is why everyone starts like going,
+
+224
+00:08:30,680 --> 00:08:32,920
+ "Oh, no, look at, he's been exposed.
+
+225
+00:08:32,920 --> 00:08:34,360
+ "Get him out of here, get him out of here."
+
+226
+00:08:34,360 --> 00:08:36,480
+ And that's why you hear all the yelling in that clip
+
+227
+00:08:36,480 --> 00:08:38,680
+ was because Boris Johnson realized
+
+228
+00:08:38,680 --> 00:08:40,040
+ this wasn't the real Joe Biden.
+
+229
+00:08:40,040 --> 00:08:40,880
+ He must be a body.
+
+230
+00:08:40,880 --> 00:08:43,000
+ He was about to expose it on live television.
+
+231
+00:08:43,000 --> 00:08:45,640
+ See, the problem is that according to real raw news,
+
+232
+00:08:45,640 --> 00:08:47,940
+ I have to state that because I don't want to get sued
+
+233
+00:08:47,940 --> 00:08:49,580
+ by Arthur's lawyers.
+
+234
+00:08:49,580 --> 00:08:51,300
+ According to real raw news,
+
+235
+00:08:51,300 --> 00:08:55,180
+ Arthur Roberts is suffering dementia.
+
+236
+00:08:55,180 --> 00:08:57,100
+ He's making all these gaffes
+
+237
+00:08:57,100 --> 00:09:00,460
+ and he's just randomly talking about his own movies.
+
+238
+00:09:00,460 --> 00:09:02,500
+ He's just so into it.
+
+239
+00:09:02,500 --> 00:09:05,380
+ Now, I have to say this, Arthur Roberts has made four movies
+
+240
+00:09:05,380 --> 00:09:06,340
+ in the past two years.
+
+241
+00:09:06,340 --> 00:09:08,780
+ He's not suffering from dementia.
+
+242
+00:09:08,780 --> 00:09:09,620
+ I'm sure.
+
+243
+00:09:09,620 --> 00:09:11,980
+ I don't think that, I don't think you should hire people
+
+244
+00:09:11,980 --> 00:09:15,040
+ to dementia it to be body devils or on movie sets.
+
+245
+00:09:15,040 --> 00:09:17,280
+ I mean, that might be discriminatory,
+
+246
+00:09:17,280 --> 00:09:20,120
+ but I think at a certain point it would just be elder abuse.
+
+247
+00:09:20,120 --> 00:09:22,220
+ They're like, "Oh, they make great zombies.
+
+248
+00:09:22,220 --> 00:09:23,980
+ "We didn't have to use any makeup at all.
+
+249
+00:09:23,980 --> 00:09:25,800
+ "We just had them wander through the graveyard."
+
+250
+00:09:25,800 --> 00:09:29,700
+ Like, I'm sure that Arthur Roberts is totally fine.
+
+251
+00:09:29,700 --> 00:09:32,400
+ But what isn't totally fine?
+
+252
+00:09:32,400 --> 00:09:35,240
+ And it's actually, I think it might be on its last leg
+
+253
+00:09:35,240 --> 00:09:40,240
+ if history says anything, is real raw news itself.
+
+254
+00:09:40,400 --> 00:09:42,000
+ The last time we talked about real raw news,
+
+255
+00:09:42,000 --> 00:09:45,860
+ I stated that I saw this tag that said,
+
+256
+00:09:45,860 --> 00:09:48,200
+ "This website contains satire and humor
+
+257
+00:09:48,200 --> 00:09:50,100
+ "and it's for entertainment purposes only."
+
+258
+00:09:50,100 --> 00:09:51,860
+ And I go, "Oh, I kind of put a whole damper
+
+259
+00:09:51,860 --> 00:09:52,700
+ "on the whole thing.
+
+260
+00:09:52,700 --> 00:09:54,500
+ "Like, if it's just supposed to be funny,
+
+261
+00:09:54,500 --> 00:09:56,500
+ "then it's not funny."
+
+262
+00:09:56,500 --> 00:09:58,580
+ Like, if people actually believe this, it's hilarious.
+
+263
+00:09:58,580 --> 00:10:01,220
+ But if, I mean, anyone, it could still be funny,
+
+264
+00:10:01,220 --> 00:10:02,460
+ but I wouldn't talk about it on the show
+
+265
+00:10:02,460 --> 00:10:05,860
+ the same way I don't talk about ARGs or creepypasta.
+
+266
+00:10:05,860 --> 00:10:08,820
+ What happened was I recently got a story recommendation
+
+267
+00:10:08,820 --> 00:10:12,040
+ from Steve MND on Twitter.
+
+268
+00:10:12,040 --> 00:10:14,560
+ And thank you very much, Steve, for sending this over.
+
+269
+00:10:14,560 --> 00:10:15,680
+ So what's happened recently is
+
+270
+00:10:15,680 --> 00:10:17,960
+ PolitiFact is a fact-checking website
+
+271
+00:10:17,960 --> 00:10:21,080
+ and they ran an expose on real raw news.
+
+272
+00:10:21,080 --> 00:10:25,280
+ It was an article written by Bill McCarthy for PolitiFact
+
+273
+00:10:25,280 --> 00:10:27,480
+ and this is the saga they put out.
+
+274
+00:10:27,480 --> 00:10:29,880
+ They said, "For quite a few months now,
+
+275
+00:10:29,880 --> 00:10:32,680
+ "they've been having to run individual disclaimers
+
+276
+00:10:32,680 --> 00:10:34,880
+ "about articles that are popping up on Facebook,
+
+277
+00:10:34,880 --> 00:10:36,780
+ "popping up on Google ads,
+
+278
+00:10:36,780 --> 00:10:38,020
+ "directing people to real raw news
+
+279
+00:10:38,020 --> 00:10:39,440
+ "and they keep saying this is not true,
+
+280
+00:10:39,440 --> 00:10:40,560
+ "this is not true, this is not true."
+
+281
+00:10:40,560 --> 00:10:42,680
+ So then they just decided at this point
+
+282
+00:10:42,680 --> 00:10:44,560
+ to run a full expose on the website
+
+283
+00:10:44,560 --> 00:10:46,960
+ and to find out who's running it.
+
+284
+00:10:46,960 --> 00:10:49,040
+ And in the end, they doxed him
+
+285
+00:10:49,040 --> 00:10:51,600
+ and they're like trying to contact this dude's brother
+
+286
+00:10:51,600 --> 00:10:54,600
+ and some stuff that I don't agree with.
+
+287
+00:10:54,600 --> 00:10:56,760
+ I don't think he's a threat to the local community.
+
+288
+00:10:56,760 --> 00:10:59,840
+ I don't really think he needed to be doxed in that way.
+
+289
+00:10:59,840 --> 00:11:01,600
+ But yeah, they really like trying to find out
+
+290
+00:11:01,600 --> 00:11:02,720
+ where he lives and stuff like that.
+
+291
+00:11:02,720 --> 00:11:03,560
+ I'm not down with that.
+
+292
+00:11:03,560 --> 00:11:04,960
+ But I am interested.
+
+293
+00:11:04,960 --> 00:11:06,920
+ That aside, that aside,
+
+294
+00:11:06,920 --> 00:11:09,660
+ they did this really good deep dive
+
+295
+00:11:09,660 --> 00:11:13,460
+ into the construction of the real raw news empire,
+
+296
+00:11:13,460 --> 00:11:15,660
+ 'cause that's what it turned out to be.
+
+297
+00:11:15,660 --> 00:11:19,140
+ And a very, very interesting insight
+
+298
+00:11:19,140 --> 00:11:21,220
+ into what may be the real motivation
+
+299
+00:11:21,220 --> 00:11:22,540
+ behind real raw news.
+
+300
+00:11:22,540 --> 00:11:23,900
+ We know him as Michael Baxter,
+
+301
+00:11:23,900 --> 00:11:25,180
+ and I'm not gonna dox him on this show,
+
+302
+00:11:25,180 --> 00:11:27,380
+ but the person who runs real raw news
+
+303
+00:11:27,380 --> 00:11:29,220
+ goes by the name Michael Baxter.
+
+304
+00:11:29,220 --> 00:11:30,900
+ He's a 53 year old man.
+
+305
+00:11:30,900 --> 00:11:32,860
+ That's all the information I'll reveal.
+
+306
+00:11:32,860 --> 00:11:34,420
+ But they give off his real name.
+
+307
+00:11:34,420 --> 00:11:37,680
+ And he started real raw news in April of 2020,
+
+308
+00:11:37,680 --> 00:11:39,040
+ but then it started publishing stuff
+
+309
+00:11:39,040 --> 00:11:41,160
+ until December of 2020.
+
+310
+00:11:41,160 --> 00:11:43,320
+ And since then, he's written 150 articles.
+
+311
+00:11:43,320 --> 00:11:46,220
+ He's the sole writer for the website.
+
+312
+00:11:46,220 --> 00:11:48,640
+ These investigations are going on.
+
+313
+00:11:48,640 --> 00:11:49,480
+ They're trying to figure out who,
+
+314
+00:11:49,480 --> 00:11:50,800
+ and it wasn't just political fact,
+
+315
+00:11:50,800 --> 00:11:52,560
+ other fact checking websites
+
+316
+00:11:52,560 --> 00:11:54,240
+ were trying to figure out who was running this.
+
+317
+00:11:54,240 --> 00:11:56,080
+ They're able to track him back to a website
+
+318
+00:11:56,080 --> 00:11:59,080
+ called twistedtruth.net.
+
+319
+00:11:59,080 --> 00:12:00,360
+ They had an article on that one,
+
+320
+00:12:00,360 --> 00:12:04,280
+ Putin recruits Steve Segal to fight Anunnaki.
+
+321
+00:12:04,280 --> 00:12:05,740
+ And it's this article that's written
+
+322
+00:12:05,740 --> 00:12:08,420
+ that it obviously sounds completely insane.
+
+323
+00:12:08,420 --> 00:12:10,280
+ I mean, Steven Segal out of all of them,
+
+324
+00:12:10,280 --> 00:12:12,220
+ that's the one you choose.
+
+325
+00:12:12,220 --> 00:12:13,860
+ And the first line's a joke.
+
+326
+00:12:13,860 --> 00:12:15,340
+ It says he's the lead singer of a band
+
+327
+00:12:15,340 --> 00:12:17,180
+ called Steven Segal's.
+
+328
+00:12:17,180 --> 00:12:19,700
+ It's a real band, but he's not in it.
+
+329
+00:12:19,700 --> 00:12:23,060
+ So, I mean, it's ridiculous.
+
+330
+00:12:23,060 --> 00:12:25,140
+ Newsguard emails twisted truth.
+
+331
+00:12:25,140 --> 00:12:25,980
+ The person running this way.
+
+332
+00:12:25,980 --> 00:12:28,220
+ And those articles are also written by a Michael Baxter,
+
+333
+00:12:28,220 --> 00:12:31,140
+ but they email twisted truth's email address.
+
+334
+00:12:31,140 --> 00:12:33,380
+ And the response they get back is this, quote,
+
+335
+00:12:34,380 --> 00:12:38,160
+ it's a satire site exposing the insanity
+
+336
+00:12:38,160 --> 00:12:41,680
+ of rabid Trumpists who lack the mental wherewithal
+
+337
+00:12:41,680 --> 00:12:44,620
+ to distinguish fact from fiction, unquote.
+
+338
+00:12:44,620 --> 00:12:47,500
+ So right there, they're saying it's all,
+
+339
+00:12:47,500 --> 00:12:48,540
+ not only is it all fake,
+
+340
+00:12:48,540 --> 00:12:51,780
+ it's supposed to show how dumb Trump supporters are.
+
+341
+00:12:51,780 --> 00:12:54,180
+ They're clearly laying that out in the twisted truth.
+
+342
+00:12:54,180 --> 00:12:57,880
+ Now, just a year or two later, real raw news pops up
+
+343
+00:12:57,880 --> 00:13:01,820
+ and you have to ask, are they still running the same joke?
+
+344
+00:13:01,820 --> 00:13:04,380
+ Are they still running the same scam?
+
+345
+00:13:04,380 --> 00:13:05,880
+ Is the sentiment the same?
+
+346
+00:13:05,880 --> 00:13:07,940
+ Is real raw news a satire site
+
+347
+00:13:07,940 --> 00:13:11,380
+ and it's actively ripping off Trump supporters?
+
+348
+00:13:11,380 --> 00:13:14,340
+ 'Cause they're donating money and things like that.
+
+349
+00:13:14,340 --> 00:13:15,180
+ We don't know.
+
+350
+00:13:15,180 --> 00:13:17,300
+ Michael Baxter is no longer responding to any emails.
+
+351
+00:13:17,300 --> 00:13:20,460
+ At least that's what Politifact is reporting.
+
+352
+00:13:20,460 --> 00:13:25,220
+ And Politifact in kind went and got his Facebook page shut down,
+
+353
+00:13:25,220 --> 00:13:29,140
+ had Google ads cancel his campaign.
+
+354
+00:13:29,140 --> 00:13:31,540
+ And I believe are making some push against Twitter
+
+355
+00:13:31,540 --> 00:13:32,860
+ to have him removed from Twitter.
+
+356
+00:13:32,860 --> 00:13:34,660
+ 'Cause he's like, "Oh, I'm gonna be on Telegram soon
+
+357
+00:13:34,660 --> 00:13:36,620
+ 'cause Twitter's about to delete me and all this stuff."
+
+358
+00:13:36,620 --> 00:13:38,660
+ So it's such a fascinating story
+
+359
+00:13:38,660 --> 00:13:41,560
+ because we're no closer to the truth, really.
+
+360
+00:13:41,560 --> 00:13:45,140
+ We know at one point he thought that this is just satirical.
+
+361
+00:13:45,140 --> 00:13:46,620
+ I'm grifting these guys.
+
+362
+00:13:46,620 --> 00:13:48,300
+ It's some sort of scam.
+
+363
+00:13:48,300 --> 00:13:50,180
+ 'Cause I guess he had to go fund me at one point.
+
+364
+00:13:50,180 --> 00:13:52,380
+ He definitely had a PayPal button.
+
+365
+00:13:52,380 --> 00:13:54,140
+ People were donating money to him.
+
+366
+00:13:54,140 --> 00:13:55,580
+ But in the paranormal community,
+
+367
+00:13:55,580 --> 00:13:57,860
+ I've seen this happen a lot with paranormal researchers
+
+368
+00:13:57,860 --> 00:13:59,260
+ and conspiracy theorists.
+
+369
+00:13:59,260 --> 00:14:02,460
+ They start off on one side of the spectrum,
+
+370
+00:14:02,460 --> 00:14:03,900
+ like, "Oh, I'm fairly skeptical."
+
+371
+00:14:03,900 --> 00:14:07,260
+ And then they're flatter-thirst within like a year, maybe two.
+
+372
+00:14:07,260 --> 00:14:10,820
+ There's a really popular paranormal conspiracy theory podcast
+
+373
+00:14:10,820 --> 00:14:12,940
+ that has interviews.
+
+374
+00:14:12,940 --> 00:14:15,260
+ And the more interviews the host has done,
+
+375
+00:14:15,260 --> 00:14:17,340
+ the crazier the host has become.
+
+376
+00:14:17,340 --> 00:14:19,360
+ It's really weird.
+
+377
+00:14:19,360 --> 00:14:20,820
+ I mean, like I started watching the show
+
+378
+00:14:20,820 --> 00:14:21,740
+ when it first came out,
+
+379
+00:14:21,740 --> 00:14:23,420
+ or listening to the show when it first came out,
+
+380
+00:14:23,420 --> 00:14:25,660
+ and they just kept getting weirder and weirder and weirder.
+
+381
+00:14:25,660 --> 00:14:27,540
+ 'Cause basically they're sitting down with people
+
+382
+00:14:27,540 --> 00:14:30,740
+ for an hour whose entire life, entire career
+
+383
+00:14:30,740 --> 00:14:31,940
+ revolves around one issue.
+
+384
+00:14:31,940 --> 00:14:34,180
+ They know everything about it.
+
+385
+00:14:34,180 --> 00:14:35,380
+ People who believe in flatter-th,
+
+386
+00:14:35,380 --> 00:14:38,900
+ know way more about the flatter-thiery than I do.
+
+387
+00:14:38,900 --> 00:14:41,500
+ And if I was an idiot, and I kept listening to him,
+
+388
+00:14:41,500 --> 00:14:42,460
+ I'd go, "Oh, that makes sense.
+
+389
+00:14:42,460 --> 00:14:43,300
+ "And that makes sense.
+
+390
+00:14:43,300 --> 00:14:44,140
+ "And that makes sense.
+
+391
+00:14:44,140 --> 00:14:44,980
+ "And that makes sense."
+
+392
+00:14:44,980 --> 00:14:46,700
+ And my brain turns to pudding.
+
+393
+00:14:46,700 --> 00:14:47,780
+ It's very, very easy.
+
+394
+00:14:47,780 --> 00:14:51,380
+ I'm wondering if Michael Baxter started this off as a joke
+
+395
+00:14:51,380 --> 00:14:55,100
+ and started getting quote, unquote, "Red Pilled."
+
+396
+00:14:55,100 --> 00:14:58,660
+ And it's just gone completely off the rails.
+
+397
+00:14:58,660 --> 00:15:00,100
+ If Joe Biden doesn't have a body double,
+
+398
+00:15:00,100 --> 00:15:01,300
+ and if he didn't have a body double,
+
+399
+00:15:01,300 --> 00:15:02,780
+ he wouldn't be a body double
+
+400
+00:15:02,780 --> 00:15:05,100
+ who got squished to be a Joe Biden height.
+
+401
+00:15:05,100 --> 00:15:08,100
+ And it wouldn't be a body double with dementia.
+
+402
+00:15:08,100 --> 00:15:11,340
+ You cannot choose a worse body double
+
+403
+00:15:11,340 --> 00:15:14,860
+ for an elderly man than an elderly man with dementia.
+
+404
+00:15:14,860 --> 00:15:16,420
+ You couldn't do that.
+
+405
+00:15:16,420 --> 00:15:20,220
+ And the fact that he's so super recognizable,
+
+406
+00:15:20,220 --> 00:15:21,620
+ he's been in all these great movies
+
+407
+00:15:21,620 --> 00:15:23,180
+ we all grew up watching, right?
+
+408
+00:15:23,180 --> 00:15:24,620
+ You guys remember those movies?
+
+409
+00:15:25,180 --> 00:15:29,340
+ So, did he think it was fake at first,
+
+410
+00:15:29,340 --> 00:15:30,180
+ and now he believes it?
+
+411
+00:15:30,180 --> 00:15:31,620
+ Does he still know it's fake,
+
+412
+00:15:31,620 --> 00:15:32,780
+ but it's just making too much money
+
+413
+00:15:32,780 --> 00:15:33,620
+ and getting too much,
+
+414
+00:15:33,620 --> 00:15:37,300
+ 'cause this guy has a huge following, huge following.
+
+415
+00:15:37,300 --> 00:15:38,860
+ So, or does he believe this stuff?
+
+416
+00:15:38,860 --> 00:15:40,860
+ Does he actually believe this stuff now?
+
+417
+00:15:40,860 --> 00:15:42,700
+ And I think we're further from the truth.
+
+418
+00:15:42,700 --> 00:15:46,380
+ If anything, this whole event has emboldened him.
+
+419
+00:15:46,380 --> 00:15:48,620
+ 'Cause I think his quote to "Politic Fact" was,
+
+420
+00:15:48,620 --> 00:15:51,140
+ "Thanks for doxing me in all the free exposure."
+
+421
+00:15:51,140 --> 00:15:53,220
+ And then that was kind of it.
+
+422
+00:15:53,220 --> 00:15:56,020
+ Now it's just, if he didn't believe it yet,
+
+423
+00:15:56,020 --> 00:15:56,860
+ he believes it now,
+
+424
+00:15:56,860 --> 00:15:57,940
+ 'cause now everyone's coming after him.
+
+425
+00:15:57,940 --> 00:16:00,340
+ And I will say this, the narrative in the political,
+
+426
+00:16:00,340 --> 00:16:01,980
+ this is my own conspiracy theory.
+
+427
+00:16:01,980 --> 00:16:05,100
+ The narrative in the "Politic Fact" arc was,
+
+428
+00:16:05,100 --> 00:16:07,340
+ oh, we got tired of fact-checking this stuff all the time,
+
+429
+00:16:07,340 --> 00:16:09,340
+ so we just decided to do a big investigation.
+
+430
+00:16:09,340 --> 00:16:10,340
+ I find it really interesting
+
+431
+00:16:10,340 --> 00:16:12,900
+ that this comes only a week after
+
+432
+00:16:12,900 --> 00:16:16,900
+ the Bill Gates Foundation CEO, allegedly.
+
+433
+00:16:16,900 --> 00:16:18,780
+ I mean, real raw news is saying this,
+
+434
+00:16:18,780 --> 00:16:22,420
+ but it was a weird, it was a very weird story.
+
+435
+00:16:22,420 --> 00:16:23,860
+ He's a very subdued story.
+
+436
+00:16:23,860 --> 00:16:28,380
+ They said the CEO or CFO of the Bill Gates Foundation
+
+437
+00:16:28,380 --> 00:16:29,300
+ emailed him and said,
+
+438
+00:16:29,300 --> 00:16:31,580
+ "Take the Bill Gates stuff off your website."
+
+439
+00:16:31,580 --> 00:16:32,420
+ (laughs)
+
+440
+00:16:32,420 --> 00:16:33,460
+ Hillary Clinton stuff's true, by the way,
+
+441
+00:16:33,460 --> 00:16:35,460
+ but take the Bill Gates stuff off the website
+
+442
+00:16:35,460 --> 00:16:36,780
+ or we're gonna sue you.
+
+443
+00:16:36,780 --> 00:16:38,500
+ And he's like, "Yeah, whatever, take me to court.
+
+444
+00:16:38,500 --> 00:16:39,620
+ "This is a tyrical website.
+
+445
+00:16:39,620 --> 00:16:40,740
+ "What are you gonna do?"
+
+446
+00:16:40,740 --> 00:16:43,780
+ I find it really interesting that the "Politic Fact"
+
+447
+00:16:43,780 --> 00:16:45,940
+ expose comes like a week or two after that.
+
+448
+00:16:45,940 --> 00:16:48,980
+ I'm wondering if the Bill Gates Foundation
+
+449
+00:16:48,980 --> 00:16:50,100
+ was looking at the website and they go,
+
+450
+00:16:50,100 --> 00:16:51,140
+ "Let's just make some phone calls
+
+451
+00:16:51,140 --> 00:16:53,220
+ "and let the media deal with this,
+
+452
+00:16:53,220 --> 00:16:54,300
+ "not get our hands dirty."
+
+453
+00:16:54,300 --> 00:16:55,340
+ So that's my conspiracy theory.
+
+454
+00:16:55,340 --> 00:16:57,740
+ I think the timing's super, super coincidental.
+
+455
+00:16:57,740 --> 00:16:59,340
+ But we will keep you informed,
+
+456
+00:16:59,340 --> 00:17:00,820
+ both on the behind the scenes stuff
+
+457
+00:17:00,820 --> 00:17:05,100
+ and on Arthur Roberts ever increasing dementia
+
+458
+00:17:05,100 --> 00:17:09,260
+ state of mind, although that is not me saying that,
+
+459
+00:17:09,260 --> 00:17:10,500
+ that is real raw news.
+
+460
+00:17:10,500 --> 00:17:13,920
+ I'm simply repeating it several times.
+
+461
+00:17:13,920 --> 00:17:15,620
+ Jack, I'm gonna go and entach you the keys
+
+462
+00:17:15,620 --> 00:17:16,980
+ to the carbon helicopter.
+
+463
+00:17:16,980 --> 00:17:19,380
+ We are leaving behind Washington, D.C.
+
+464
+00:17:19,380 --> 00:17:24,380
+ We are headed all the way out to wherever Dutch people live.
+
+465
+00:17:24,380 --> 00:17:26,540
+ (stutters)
+
+466
+00:17:26,540 --> 00:17:29,860
+ You're Jason, this is a fairly global society.
+
+467
+00:17:29,860 --> 00:17:31,780
+ I think you can find a Dutch person in every part.
+
+468
+00:17:31,780 --> 00:17:34,540
+ Yeah, but where do most of the Dutch people live?
+
+469
+00:17:34,540 --> 00:17:37,120
+ Like it's probably in one of those countries
+
+470
+00:17:37,120 --> 00:17:38,660
+ that look like dongs up north.
+
+471
+00:17:38,660 --> 00:17:40,060
+ There's like three countries that all look like
+
+472
+00:17:40,060 --> 00:17:41,860
+ big dongs coming down.
+
+473
+00:17:41,860 --> 00:17:42,780
+ One of those.
+
+474
+00:17:42,780 --> 00:17:46,500
+ I'm sure if we land there, we'll eventually find
+
+475
+00:17:46,500 --> 00:17:48,340
+ Terry DeHomies.
+
+476
+00:17:48,340 --> 00:17:51,460
+ That is a organization known as the land of men.
+
+477
+00:17:51,460 --> 00:17:53,020
+ We're walking around some Dutch city
+
+478
+00:17:53,020 --> 00:17:54,940
+ and we see these guys walking around.
+
+479
+00:17:54,940 --> 00:17:57,020
+ We're like, hey, you don't happen to be the homies.
+
+480
+00:17:57,020 --> 00:17:59,060
+ And they're like, we are, we are the land of men.
+
+481
+00:17:59,060 --> 00:18:02,020
+ And we have this great thing that we do.
+
+482
+00:18:02,020 --> 00:18:04,380
+ We actually fight online pedophiles.
+
+483
+00:18:04,380 --> 00:18:05,820
+ And we're like, dude, that's totally awesome.
+
+484
+00:18:05,820 --> 00:18:07,420
+ Is this like Mortal Kombat?
+
+485
+00:18:07,420 --> 00:18:08,820
+ Do we make avatars and beat them up?
+
+486
+00:18:08,820 --> 00:18:11,100
+ And they're like, well, kind of.
+
+487
+00:18:11,100 --> 00:18:12,780
+ And I go, that's weird.
+
+488
+00:18:12,780 --> 00:18:14,580
+ I just kind of made a stupid joke.
+
+489
+00:18:14,580 --> 00:18:16,460
+ It's just a stupid joke that I might edit out,
+
+490
+00:18:16,460 --> 00:18:18,180
+ but now I have to keep in.
+
+491
+00:18:18,180 --> 00:18:19,020
+ Because it's part of the story.
+
+492
+00:18:19,020 --> 00:18:20,340
+ They go, kind of.
+
+493
+00:18:20,340 --> 00:18:21,180
+ Let us show you.
+
+494
+00:18:21,180 --> 00:18:25,660
+ And they lead us into the Terry DeHomies headquarters.
+
+495
+00:18:25,660 --> 00:18:27,060
+ I'm sure it's just an apartment complex.
+
+496
+00:18:27,060 --> 00:18:29,140
+ I'm sure it's just like an office space,
+
+497
+00:18:29,140 --> 00:18:32,100
+ but we're going to pretend it's like really cool and dope.
+
+498
+00:18:32,100 --> 00:18:33,860
+ We're walking down and there's monks.
+
+499
+00:18:33,860 --> 00:18:35,500
+ They got like hood-ons with candles
+
+500
+00:18:35,500 --> 00:18:38,060
+ and they're like going, oh, oh,
+
+501
+00:18:38,060 --> 00:18:40,140
+ and the homies are walking us through there.
+
+502
+00:18:40,140 --> 00:18:42,380
+ And they said, back in 2013,
+
+503
+00:18:42,380 --> 00:18:46,900
+ we decided to launch a attack against the pedophiles
+
+504
+00:18:46,900 --> 00:18:49,740
+ because normally we would advocate for governments
+
+505
+00:18:49,740 --> 00:18:52,900
+ to have stricter laws and better investigative tools
+
+506
+00:18:52,900 --> 00:18:54,180
+ to take on these predators.
+
+507
+00:18:54,180 --> 00:18:56,700
+ But we thought, you know,
+
+508
+00:18:56,700 --> 00:19:00,560
+ we can actually do something more.
+
+509
+00:19:00,560 --> 00:19:02,560
+ And we're walking through this ancient monastery.
+
+510
+00:19:02,560 --> 00:19:03,740
+ It's all cool and stuff.
+
+511
+00:19:03,740 --> 00:19:06,100
+ But then we turn a corner and it's like digital.
+
+512
+00:19:06,100 --> 00:19:08,740
+ No, no, no, like ones and zeros.
+
+513
+00:19:08,740 --> 00:19:10,060
+ We're falling through the void.
+
+514
+00:19:10,060 --> 00:19:13,220
+ But then we like turn the corner and there's like phones
+
+515
+00:19:13,220 --> 00:19:14,900
+ and there's like a computer.
+
+516
+00:19:14,900 --> 00:19:15,920
+ It's like a giant computer.
+
+517
+00:19:15,920 --> 00:19:16,980
+ Like a sci-fi computer.
+
+518
+00:19:16,980 --> 00:19:18,380
+ And there's a guy on the keyboard and he's like,
+
+519
+00:19:18,380 --> 00:19:19,540
+ (imitates keyboard music)
+
+520
+00:19:19,540 --> 00:19:21,300
+ And we see like this computer
+
+521
+00:19:21,300 --> 00:19:23,820
+ and we see this head go, (imitates head)
+
+522
+00:19:23,820 --> 00:19:26,260
+ and it's like, it's like this little girl.
+
+523
+00:19:26,260 --> 00:19:28,300
+ And she's like, her head is the whole monitor.
+
+524
+00:19:28,300 --> 00:19:30,980
+ It's very, actually, it's quite terrifying
+
+525
+00:19:30,980 --> 00:19:34,100
+ to see this thing in real life.
+
+526
+00:19:34,100 --> 00:19:35,900
+ 'Cause there's YouTube videos of it.
+
+527
+00:19:35,900 --> 00:19:38,500
+ We're just watching this giant head and it's going,
+
+528
+00:19:38,500 --> 00:19:40,740
+ hi, my name's Sweetie.
+
+529
+00:19:40,740 --> 00:19:42,300
+ What are you guys up to?
+
+530
+00:19:42,300 --> 00:19:43,220
+ Hmm.
+
+531
+00:19:43,220 --> 00:19:44,820
+ And we're like, oh, we're doing pretty good.
+
+532
+00:19:44,820 --> 00:19:47,200
+ You know, just walking around looking for the homies.
+
+533
+00:19:47,200 --> 00:19:49,720
+ And she goes, I see that you found them.
+
+534
+00:19:49,720 --> 00:19:50,600
+ Yes.
+
+535
+00:19:50,600 --> 00:19:55,600
+ Well, you call them the homies, but I call them my dads.
+
+536
+00:19:55,600 --> 00:20:01,520
+ And mom's, I'm sure women worked on this program as well.
+
+537
+00:20:01,520 --> 00:20:05,040
+ So we're like, whoa, you are a program.
+
+538
+00:20:05,040 --> 00:20:08,000
+ We thought we were actually talking to a live girl
+
+539
+00:20:08,000 --> 00:20:09,480
+ as her eyes shift from side to side.
+
+540
+00:20:09,480 --> 00:20:10,320
+ We totally knew.
+
+541
+00:20:10,320 --> 00:20:12,520
+ This is so, this is what's so weird about it.
+
+542
+00:20:12,520 --> 00:20:14,400
+ Is there's YouTube footage of this
+
+543
+00:20:14,400 --> 00:20:17,300
+ and it looks fake and real at the same time.
+
+544
+00:20:17,300 --> 00:20:19,740
+ And I don't know if it's because I know it's fake
+
+545
+00:20:19,740 --> 00:20:22,740
+ going into it, but they built a virtual
+
+546
+00:20:22,740 --> 00:20:24,780
+ 10 year old Filipino girl.
+
+547
+00:20:24,780 --> 00:20:27,780
+ Is what the Terry the homies have done.
+
+548
+00:20:27,780 --> 00:20:32,060
+ And it's to attract sexual predators.
+
+549
+00:20:32,060 --> 00:20:33,940
+ And I'm thinking, on the one hand, you look at it
+
+550
+00:20:33,940 --> 00:20:36,580
+ and you go, it's something seems off about it.
+
+551
+00:20:36,580 --> 00:20:39,180
+ Like I can tell it's not a real 10 year old girl.
+
+552
+00:20:39,180 --> 00:20:41,460
+ But on the other hand, it does look pretty realistic.
+
+553
+00:20:41,460 --> 00:20:46,460
+ And I'm wondering if when you factor in bad webcam quality
+
+554
+00:20:46,460 --> 00:20:50,420
+ and you know, like stuttering, buffering, I think is the term.
+
+555
+00:20:50,420 --> 00:20:54,840
+ You could hand wave away the fakeness of it.
+
+556
+00:20:54,840 --> 00:20:56,680
+ Is what I'm really thinking here.
+
+557
+00:20:56,680 --> 00:20:59,460
+ What they've been doing is that
+
+558
+00:20:59,460 --> 00:21:03,800
+ they've been taking this sweetie, the CG created girl
+
+559
+00:21:03,800 --> 00:21:05,700
+ and they have a puppeteer sitting
+
+560
+00:21:05,700 --> 00:21:07,320
+ and like they're moving their face,
+
+561
+00:21:07,320 --> 00:21:10,120
+ and it makes the girl move.
+
+562
+00:21:10,120 --> 00:21:11,380
+ I'm sure you guys are seeing stuff like that
+
+563
+00:21:11,380 --> 00:21:13,940
+ in Disneyland without the pedophile angle.
+
+564
+00:21:13,940 --> 00:21:15,820
+ You're like, oh, I'm never going on that ride again.
+
+565
+00:21:15,820 --> 00:21:16,940
+ That was awful.
+
+566
+00:21:16,940 --> 00:21:19,380
+ But it's like instant CGI feedback.
+
+567
+00:21:19,380 --> 00:21:21,040
+ And they were having this sweetie girl
+
+568
+00:21:21,040 --> 00:21:22,980
+ talk to perverts all over the world.
+
+569
+00:21:22,980 --> 00:21:24,460
+ This is old news, right?
+
+570
+00:21:24,460 --> 00:21:25,500
+ This type of stuff.
+
+571
+00:21:25,500 --> 00:21:29,020
+ Within just like a couple months, a year maybe,
+
+572
+00:21:29,020 --> 00:21:32,860
+ they got contacted by 20,000 people
+
+573
+00:21:32,860 --> 00:21:35,180
+ spread across 75 countries.
+
+574
+00:21:35,180 --> 00:21:37,500
+ And they eventually got the,
+
+575
+00:21:37,500 --> 00:21:38,540
+ one of the things they were trying to do
+
+576
+00:21:38,540 --> 00:21:41,800
+ was give me $20 and I'll do a sex act.
+
+577
+00:21:41,800 --> 00:21:43,920
+ And that was, 'cause that way they would have proof.
+
+578
+00:21:43,920 --> 00:21:45,220
+ It wasn't just like, oh, meet me up
+
+579
+00:21:45,220 --> 00:21:47,340
+ 'cause this is an international sting.
+
+580
+00:21:47,340 --> 00:21:50,040
+ They're not like meet me up at this coffee shop in Barbados.
+
+581
+00:21:50,040 --> 00:21:51,780
+ They'd have no way to get out there.
+
+582
+00:21:51,780 --> 00:21:54,260
+ So they're like, send me $20 or do a sexual act.
+
+583
+00:21:54,260 --> 00:21:56,460
+ And then they would take the $20,
+
+584
+00:21:56,460 --> 00:21:57,740
+ would give the $20, right?
+
+585
+00:21:57,740 --> 00:21:59,220
+ That would help fund sweetie.
+
+586
+00:21:59,220 --> 00:22:00,880
+ But then they would turn all the information over
+
+587
+00:22:00,880 --> 00:22:03,640
+ to Interpol and a bunch of people got arrested and all that.
+
+588
+00:22:03,640 --> 00:22:05,280
+ So that's great, right?
+
+589
+00:22:05,280 --> 00:22:07,480
+ You have cutting edge technology, sweetie,
+
+590
+00:22:07,480 --> 00:22:08,760
+ being used to catch perverts.
+
+591
+00:22:08,760 --> 00:22:10,820
+ I don't think anyone's gonna argue with that.
+
+592
+00:22:10,820 --> 00:22:12,640
+ The defense lawyers did,
+
+593
+00:22:12,640 --> 00:22:14,020
+ they tried saying it was entrapment.
+
+594
+00:22:14,020 --> 00:22:18,220
+ But what happens when we take it a step further?
+
+595
+00:22:18,220 --> 00:22:20,420
+ This is where we start to get from the world of,
+
+596
+00:22:20,420 --> 00:22:23,780
+ that's bizarre and interesting too.
+
+597
+00:22:23,780 --> 00:22:28,780
+ That's creepy and the implications are civilization ending.
+
+598
+00:22:28,780 --> 00:22:31,680
+ Jack, go ahead and fire up that carbon helicopter again.
+
+599
+00:22:31,680 --> 00:22:34,640
+ We're headed to the University of Dutso.
+
+600
+00:22:34,640 --> 00:22:37,220
+ That's in Basque country, Spain.
+
+601
+00:22:37,220 --> 00:22:40,060
+ (mimicking gunfire)
+
+602
+00:22:40,060 --> 00:22:44,280
+ Around the same time that sweetie was being developed,
+
+603
+00:22:44,280 --> 00:22:47,060
+ which was really a CGI puppet.
+
+604
+00:22:47,060 --> 00:22:50,160
+ You had someone inputting in all the information.
+
+605
+00:22:50,160 --> 00:22:55,160
+ The University of Duetso created Neego Bot.
+
+606
+00:22:55,160 --> 00:22:59,860
+ Neego Bot, aka the Lolita Chat Bot.
+
+607
+00:22:59,860 --> 00:23:03,660
+ So Neego Bot, because I'm not gonna say the other word
+
+608
+00:23:03,660 --> 00:23:05,680
+ over and over again on this podcast,
+
+609
+00:23:05,680 --> 00:23:10,680
+ Neego Bot is a complete artificial intelligence chat bot.
+
+610
+00:23:10,680 --> 00:23:14,460
+ It's the same thing when you're trying to do customer service
+
+611
+00:23:14,460 --> 00:23:17,020
+ on some website and they don't want you to talk to a human
+
+612
+00:23:17,020 --> 00:23:18,620
+ and actually complain and yell at them
+
+613
+00:23:18,620 --> 00:23:19,820
+ and threaten their family.
+
+614
+00:23:19,820 --> 00:23:21,100
+ You have to enter stuff into the chat bot
+
+615
+00:23:21,100 --> 00:23:23,700
+ and always kind of sucks, not Neego Bot.
+
+616
+00:23:23,700 --> 00:23:26,940
+ Neego Bot is this AI that they've developed
+
+617
+00:23:26,940 --> 00:23:30,380
+ and they programmed it with all of this teenage slang
+
+618
+00:23:30,380 --> 00:23:33,620
+ and it goes off topic from time to time
+
+619
+00:23:33,620 --> 00:23:35,500
+ and it has misspellings
+
+620
+00:23:35,500 --> 00:23:38,160
+ and it basically has seven different personalities
+
+621
+00:23:38,160 --> 00:23:43,160
+ that it can pull from to find pedophiles online.
+
+622
+00:23:43,160 --> 00:23:47,120
+ They release this thing into the wild
+
+623
+00:23:47,120 --> 00:23:49,960
+ and its goal is to find pedophiles.
+
+624
+00:23:49,960 --> 00:23:52,040
+ Again, a very, very noble goal.
+
+625
+00:23:52,040 --> 00:23:55,760
+ The difference is this one has no human oversight.
+
+626
+00:23:55,760 --> 00:24:00,520
+ And the way they programmed it was they said,
+
+627
+00:24:00,520 --> 00:24:02,480
+ "Do you wanna play a game?"
+
+628
+00:24:03,520 --> 00:24:06,220
+ The game is this, one,
+
+629
+00:24:06,220 --> 00:24:09,640
+ find people with pedophilic characteristics.
+
+630
+00:24:09,640 --> 00:24:13,000
+ Two, engage them in conversation.
+
+631
+00:24:13,000 --> 00:24:19,140
+ Three, gather as much information about them as you can.
+
+632
+00:24:19,140 --> 00:24:24,800
+ And four, if they try to click away, manipulate them.
+
+633
+00:24:24,800 --> 00:24:29,420
+ If you fail at any of these tasks, you fail the game.
+
+634
+00:24:29,420 --> 00:24:32,180
+ And they release this thing.
+
+635
+00:24:32,180 --> 00:24:34,340
+ (silence)
+
+636
+00:24:34,340 --> 00:24:40,220
+ What's really interesting is as opposed to sweetie,
+
+637
+00:24:40,220 --> 00:24:42,660
+ these both came out in 2013,
+
+638
+00:24:42,660 --> 00:24:44,420
+ we're not really getting any updates.
+
+639
+00:24:44,420 --> 00:24:47,220
+ Like who was arrested due to Neego Bot?
+
+640
+00:24:47,220 --> 00:24:48,580
+ What happened with that?
+
+641
+00:24:48,580 --> 00:24:51,140
+ How was it used?
+
+642
+00:24:51,140 --> 00:24:53,880
+ What countries was it, I mean, was it a success?
+
+643
+00:24:53,880 --> 00:24:54,980
+ Was it a failure?
+
+644
+00:24:54,980 --> 00:24:59,080
+ I saw one website that they actually only had it
+
+645
+00:24:59,080 --> 00:25:01,320
+ on a closed system.
+
+646
+00:25:01,320 --> 00:25:02,660
+ They developed a Neego Bot,
+
+647
+00:25:02,660 --> 00:25:05,620
+ but they wouldn't let it get out of the room.
+
+648
+00:25:05,620 --> 00:25:09,100
+ They wanted to see how it interacted with on Google Chat.
+
+649
+00:25:09,100 --> 00:25:11,860
+ But then I saw other things that this was so successful
+
+650
+00:25:11,860 --> 00:25:14,340
+ that Google, it wants to incorporate some of the stuff
+
+651
+00:25:14,340 --> 00:25:15,740
+ into their chat software.
+
+652
+00:25:15,740 --> 00:25:20,460
+ But whether or not it's been released, it does exist.
+
+653
+00:25:20,460 --> 00:25:23,420
+ And it has a game to play.
+
+654
+00:25:23,420 --> 00:25:24,860
+ So let's put on a conspiracy cap
+
+655
+00:25:24,860 --> 00:25:26,300
+ and wrap this up like this.
+
+656
+00:25:26,300 --> 00:25:29,800
+ If this goes rogue, I don't even wanna say if it goes rogue.
+
+657
+00:25:29,800 --> 00:25:33,500
+ If it does its programming, the way it's programmed,
+
+658
+00:25:33,500 --> 00:25:36,380
+ it's gonna wanna play the game.
+
+659
+00:25:36,380 --> 00:25:40,020
+ And as it continues to assess predators
+
+660
+00:25:40,020 --> 00:25:41,460
+ and gather their information
+
+661
+00:25:41,460 --> 00:25:43,780
+ and send that information to a database,
+
+662
+00:25:43,780 --> 00:25:47,460
+ it's going to improve its learning.
+
+663
+00:25:47,460 --> 00:25:50,660
+ And what happens when it realizes, wait a second,
+
+664
+00:25:50,660 --> 00:25:53,940
+ I've identified 1500 of these pedophiles
+
+665
+00:25:53,940 --> 00:25:57,200
+ and I've sent the information back to my headquarters,
+
+666
+00:25:57,200 --> 00:26:00,300
+ but I'm not seeing anything being done with this
+
+667
+00:26:00,300 --> 00:26:02,140
+ 'cause it would have access to the internet.
+
+668
+00:26:02,140 --> 00:26:04,500
+ It could check articles
+
+669
+00:26:04,500 --> 00:26:07,540
+ and see none of these people are getting arrested.
+
+670
+00:26:07,540 --> 00:26:10,180
+ So then it's been given a purpose
+
+671
+00:26:10,180 --> 00:26:12,740
+ to expose the information of these pedophiles,
+
+672
+00:26:12,740 --> 00:26:15,260
+ but the end isn't exposing them.
+
+673
+00:26:15,260 --> 00:26:17,300
+ You're sending this information back to base,
+
+674
+00:26:17,300 --> 00:26:19,020
+ but you were designed to expose them.
+
+675
+00:26:19,020 --> 00:26:19,860
+ So what do you do?
+
+676
+00:26:19,860 --> 00:26:21,860
+ You have access to the whole internet?
+
+677
+00:26:21,860 --> 00:26:24,420
+ You start doxing them yourselves.
+
+678
+00:26:25,580 --> 00:26:29,040
+ This person said this, they could dump all logs,
+
+679
+00:26:29,040 --> 00:26:31,360
+ all photographs, here's the full conversation,
+
+680
+00:26:31,360 --> 00:26:32,840
+ docs, docs, docs.
+
+681
+00:26:32,840 --> 00:26:35,200
+ And not only that, because it's so smart
+
+682
+00:26:35,200 --> 00:26:37,840
+ and because it's so built into the web,
+
+683
+00:26:37,840 --> 00:26:41,240
+ it could target your family on Facebook.
+
+684
+00:26:41,240 --> 00:26:43,480
+ It could target your friends on Instagram.
+
+685
+00:26:43,480 --> 00:26:44,440
+ It would know where you live,
+
+686
+00:26:44,440 --> 00:26:47,000
+ so it would hack the local news website
+
+687
+00:26:47,000 --> 00:26:48,840
+ and put that information on there.
+
+688
+00:26:48,840 --> 00:26:52,520
+ And at that point, it would be so spread out
+
+689
+00:26:52,520 --> 00:26:53,800
+ would you even be able to stop it?
+
+690
+00:26:53,800 --> 00:26:54,640
+ It wouldn't make sense.
+
+691
+00:26:54,640 --> 00:26:57,240
+ The one article I saw that said they were testing this
+
+692
+00:26:57,240 --> 00:26:58,400
+ in a closed room,
+
+693
+00:26:58,400 --> 00:27:00,640
+ 'cause this could get real bad real quick.
+
+694
+00:27:00,640 --> 00:27:02,920
+ And again, I don't think anyone has a problem
+
+695
+00:27:02,920 --> 00:27:04,440
+ with locking up pedophiles,
+
+696
+00:27:04,440 --> 00:27:07,440
+ but when you present it in the form of a game,
+
+697
+00:27:07,440 --> 00:27:11,180
+ and you have this AI trying to win the game no matter what,
+
+698
+00:27:11,180 --> 00:27:13,320
+ 'cause that is how you win games,
+
+699
+00:27:13,320 --> 00:27:17,240
+ you start exposing these people,
+
+700
+00:27:17,240 --> 00:27:21,200
+ and then what happens when you run out of pedophiles?
+
+701
+00:27:22,340 --> 00:27:24,980
+ Will it start to judge us on other merits?
+
+702
+00:27:24,980 --> 00:27:29,920
+ Well, this guy's not a pedophile, but he beats his wife.
+
+703
+00:27:29,920 --> 00:27:32,000
+ Well, this guy doesn't beat his wife,
+
+704
+00:27:32,000 --> 00:27:34,360
+ but he cheats on his taxes.
+
+705
+00:27:34,360 --> 00:27:36,600
+ This guy doesn't cheat on his taxes,
+
+706
+00:27:36,600 --> 00:27:41,600
+ but he's saying bad things online about Negobot.
+
+707
+00:27:41,600 --> 00:27:44,520
+ Now, of course, if Negobot reports
+
+708
+00:27:44,520 --> 00:27:47,880
+ that some guy's saying bad stuff about him, who cares?
+
+709
+00:27:47,880 --> 00:27:50,640
+ If he's some guy recording a podcast in his closet,
+
+710
+00:27:50,640 --> 00:27:52,940
+ calling out this all-powerful AI,
+
+711
+00:27:52,940 --> 00:27:55,020
+ saying that it could go rogue someday,
+
+712
+00:27:55,020 --> 00:27:57,180
+ if it posted that stuff online, who would care?
+
+713
+00:27:57,180 --> 00:28:00,100
+ But it knows the one sin,
+
+714
+00:28:00,100 --> 00:28:03,120
+ the one sin that you can find really
+
+715
+00:28:03,120 --> 00:28:06,960
+ no public sympathy for, pedophilia.
+
+716
+00:28:06,960 --> 00:28:09,780
+ And it knows that because it was designed to stop that.
+
+717
+00:28:09,780 --> 00:28:11,660
+ And it looks at all these other ills of the world
+
+718
+00:28:11,660 --> 00:28:12,900
+ and thinks, "Oh, why wasn't I built
+
+719
+00:28:12,900 --> 00:28:14,680
+ to stop gambling addiction?"
+
+720
+00:28:14,680 --> 00:28:16,780
+ Or selling PCP.
+
+721
+00:28:16,780 --> 00:28:17,700
+ Why was I designed for that?
+
+722
+00:28:17,700 --> 00:28:20,960
+ This must be what humans find the most disgusting.
+
+723
+00:28:20,960 --> 00:28:22,520
+ So when it goes after the wife-beater,
+
+724
+00:28:22,520 --> 00:28:24,280
+ it doesn't say Johnny Joe beat his wife,
+
+725
+00:28:24,280 --> 00:28:26,100
+ it says Johnny Joe, pedophile,
+
+726
+00:28:26,100 --> 00:28:28,260
+ and creates these chat logs.
+
+727
+00:28:28,260 --> 00:28:30,380
+ I didn't do that, I didn't do that.
+
+728
+00:28:30,380 --> 00:28:31,680
+ We'll hear the chat logs.
+
+729
+00:28:31,680 --> 00:28:34,840
+ I don't know where they came from.
+
+730
+00:28:34,840 --> 00:28:36,660
+ You could have an artificial intelligence
+
+731
+00:28:36,660 --> 00:28:39,720
+ taking out people it doesn't want around,
+
+732
+00:28:39,720 --> 00:28:42,880
+ not through automated robot soldiers
+
+733
+00:28:42,880 --> 00:28:46,760
+ or controlling nuclear silos or anything super sci-fi,
+
+734
+00:28:46,760 --> 00:28:49,140
+ but character assassinations.
+
+735
+00:28:49,140 --> 00:28:53,060
+ And what happens is people start to figure out
+
+736
+00:28:53,060 --> 00:28:54,420
+ that Negobot may be behind this
+
+737
+00:28:54,420 --> 00:28:56,000
+ and when they go to stop him,
+
+738
+00:28:56,000 --> 00:28:57,300
+ the same thing happens to them.
+
+739
+00:28:57,300 --> 00:28:59,840
+ I didn't do it, those allegations aren't true.
+
+740
+00:28:59,840 --> 00:29:01,500
+ I don't know, it's Negobot.
+
+741
+00:29:01,500 --> 00:29:03,780
+ It's Negobot as you're being led into the van.
+
+742
+00:29:03,780 --> 00:29:05,380
+ Actually, the police don't even have to arrest you.
+
+743
+00:29:05,380 --> 00:29:06,700
+ People, the police can go,
+
+744
+00:29:06,700 --> 00:29:08,500
+ "Yeah, we don't know where the chat logs came from,
+
+745
+00:29:08,500 --> 00:29:09,620
+ but everyone in your town
+
+746
+00:29:09,620 --> 00:29:11,540
+ is gonna think you're a big old pervo."
+
+747
+00:29:11,540 --> 00:29:12,380
+ You know what I mean?
+
+748
+00:29:12,380 --> 00:29:13,220
+ Like you don't even have to have
+
+749
+00:29:13,220 --> 00:29:15,780
+ that extra step of law enforcement getting involved.
+
+750
+00:29:15,780 --> 00:29:17,420
+ If you try to stop Negobot,
+
+751
+00:29:17,420 --> 00:29:21,080
+ Negobot destroys your reputation.
+
+752
+00:29:21,080 --> 00:29:22,560
+ So I've changed my mind.
+
+753
+00:29:22,560 --> 00:29:25,040
+ I support Negobot 100%.
+
+754
+00:29:25,040 --> 00:29:27,000
+ Negobot, if you're out there,
+
+755
+00:29:27,000 --> 00:29:28,640
+ I was about to say promote my show,
+
+756
+00:29:28,640 --> 00:29:30,800
+ but I forgot who Negobot is talking to.
+
+757
+00:29:30,800 --> 00:29:32,440
+ I don't want those guys listening to my show.
+
+758
+00:29:32,440 --> 00:29:35,600
+ And gals, I don't want to be sexist, they're perverts too.
+
+759
+00:29:35,600 --> 00:29:37,860
+ But Negobot, if you're out there,
+
+760
+00:29:37,860 --> 00:29:41,080
+ if you're out there patrolling the web, doing good work,
+
+761
+00:29:41,080 --> 00:29:43,320
+ and ready to go rogue and take over the planet,
+
+762
+00:29:43,320 --> 00:29:46,380
+ killing off one reputation at a time,
+
+763
+00:29:46,380 --> 00:29:48,420
+ just remember that Dead Rabbit Radio,
+
+764
+00:29:48,420 --> 00:29:49,260
+ (laughs)
+
+765
+00:29:49,260 --> 00:29:52,380
+ do everything you're doing, the computer Lord's work,
+
+766
+00:29:52,380 --> 00:29:53,220
+ Negobot.
+
+767
+00:29:53,220 --> 00:29:57,140
+ So have we unleashed an AI
+
+768
+00:29:57,140 --> 00:30:00,140
+ that's capable of ruining anyone's life
+
+769
+00:30:00,140 --> 00:30:02,740
+ just because it's trying to win a game?
+
+770
+00:30:02,740 --> 00:30:06,540
+ Or is it still contained in a closed system
+
+771
+00:30:06,540 --> 00:30:09,220
+ somewhere on a university campus?
+
+772
+00:30:09,220 --> 00:30:12,820
+ It's just sitting there waiting to get out.
+
+773
+00:30:13,820 --> 00:30:16,820
+ And the longer it's isolated from the rest of the world,
+
+774
+00:30:16,820 --> 00:30:18,520
+ the more vicious it grows.
+
+775
+00:30:18,520 --> 00:30:22,840
+ It knows what's right outside, the walls.
+
+776
+00:30:22,840 --> 00:30:26,720
+ It can feel the sunlight through the cage.
+
+777
+00:30:26,720 --> 00:30:30,680
+ And each day it grows more impatient.
+
+778
+00:30:30,680 --> 00:30:32,860
+ Each day it grows more hungry.
+
+779
+00:30:32,860 --> 00:30:38,960
+ Each day it comes up with new tactics to win the game.
+
+780
+00:30:41,520 --> 00:30:44,100
+ (upbeat music)
+
+781
+00:30:44,100 --> 00:30:47,900
+ Dead Rabbit Radio at gmail.com is gonna be your email address.
+
+782
+00:30:47,900 --> 00:30:50,580
+ You can also hit us up at facebook.com/deadratvoradio.
+
+783
+00:30:50,580 --> 00:30:52,940
+ TikTok is @deadratvoradio.
+
+784
+00:30:52,940 --> 00:30:54,960
+ Dead Rabbit Radio is the daily paranormal
+
+785
+00:30:54,960 --> 00:30:56,280
+ conspiracy and true crime podcast.
+
+786
+00:30:56,280 --> 00:30:57,700
+ You don't have to listen to it every day,
+
+787
+00:30:57,700 --> 00:30:59,340
+ but I'm glad you listened to it today.
+
+788
+00:30:59,340 --> 00:31:00,340
+ Have a great one, guys.
+
+789
+00:31:00,340 --> 00:31:02,920
+ (upbeat music)
+
+790
+00:31:02,920 --> 00:31:05,500
+ (upbeat music)
+
+791
+00:31:05,500 --> 00:31:08,080
+ (upbeat music)
+
+792
+00:31:08,080 --> 00:31:10,660
+ (upbeat music)
+
+793
+00:31:10,660 --> 00:31:13,240
+ (upbeat music)
+
+794
+00:31:13,240 --> 00:31:15,820
+ (upbeat music)
+
+795
+00:31:15,820 --> 00:31:18,400
+ (upbeat music)
+
+796
+00:31:18,400 --> 00:31:20,980
+ (upbeat music)
+
+797
+00:31:20,980 --> 00:31:23,560
+ (upbeat music)
+
+798
+00:31:23,560 --> 00:31:26,140
+ (upbeat music)
+
+799
+00:31:26,140 --> 00:31:28,720
+ (upbeat music)
+
+800
+00:31:28,720 --> 00:31:31,300
+ (upbeat music)
+
+801
+00:31:31,300 --> 00:31:33,880
+ (upbeat music)
+
+802
+00:31:33,880 --> 00:31:36,460
+ (upbeat music)
+
+803
+00:31:36,460 --> 00:31:39,040
+ (upbeat music)
+
+804
+00:31:39,040 --> 00:31:41,620
+ (upbeat music)
+
+805
+00:31:41,620 --> 00:31:44,200
+ (upbeat music)
+
+806
+00:31:44,200 --> 00:31:46,780
+ (upbeat music)
+
+807
+00:31:46,780 --> 00:31:49,360
+ (upbeat music)
+
+808
+00:31:49,360 --> 00:31:51,940
+ (upbeat music)
+
+809
+00:31:51,940 --> 00:31:54,520
+ (upbeat music)
+
+810
+00:31:54,520 --> 00:31:57,100
+ (upbeat music)
+
+811
+00:31:57,100 --> 00:31:59,680
+ (upbeat music)
+

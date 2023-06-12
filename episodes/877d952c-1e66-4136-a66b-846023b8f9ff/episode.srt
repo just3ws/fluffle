@@ -1,0 +1,2384 @@
+1
+00:00:00,000 --> 00:00:04,200
+ Your mental health is just as important as your physical health.
+
+2
+00:00:04,200 --> 00:00:07,680
+ Mental health parity is the law requiring health insurance coverage for mental health
+
+3
+00:00:07,680 --> 00:00:12,480
+ or substance use disorders that is no more restrictive than your physical health coverage.
+
+4
+00:00:12,480 --> 00:00:16,600
+ That means if you're dealing with depression or anxiety, your access to mental health coverage
+
+5
+00:00:16,600 --> 00:00:20,560
+ is comparable to your access to physical health coverage for a broken arm or leg.
+
+6
+00:00:20,560 --> 00:00:23,900
+ It's important to learn and understand the laws that protect you when you use your health
+
+7
+00:00:23,900 --> 00:00:25,480
+ insurance for treatment.
+
+8
+00:00:25,480 --> 00:00:26,480
+ Know your rights.
+
+9
+00:00:26,480 --> 00:00:32,680
+ Go to GetCoveredIllinois.gov for more information on mental health parity.
+
+10
+00:00:32,680 --> 00:00:38,640
+ Authorities are baffled when they find the charred remains of a man who may have willingly
+
+11
+00:00:38,640 --> 00:00:44,880
+ crawled into a boiler and then we take a look at two pieces of technology.
+
+12
+00:00:44,880 --> 00:00:47,920
+ One is haunted by the soul of a dead man.
+
+13
+00:00:47,920 --> 00:00:52,320
+ The other one is haunted by the voices in your head.
+
+14
+00:00:52,320 --> 00:00:59,320
+ Today on Dead Rabbit Radio.
+
+15
+00:00:59,320 --> 00:01:04,520
+ Hey everyone, welcome back to another episode of Dead Rabbit Radio.
+
+16
+00:01:04,520 --> 00:01:05,520
+ I'm your host Jason Carpenter.
+
+17
+00:01:05,520 --> 00:01:06,520
+ I'm having a great day.
+
+18
+00:01:06,520 --> 00:01:08,520
+ I hope you guys are having a great day too.
+
+19
+00:01:08,520 --> 00:01:13,800
+ One thing that I want to do is I want to recognize people who help support the show in whatever
+
+20
+00:01:13,800 --> 00:01:14,800
+ way.
+
+21
+00:01:14,800 --> 00:01:16,280
+ You guys know I do the Patreon shoutouts?
+
+22
+00:01:16,280 --> 00:01:20,320
+ But as I was looking through my YouTube channel, a lot of people have donated through
+
+23
+00:01:20,320 --> 00:01:21,320
+ the Super Chat.
+
+24
+00:01:21,320 --> 00:01:25,200
+ Very, very generous donations, especially during the Thanksgiving livestream.
+
+25
+00:01:25,200 --> 00:01:26,680
+ I want to give you guys shoutouts too.
+
+26
+00:01:26,680 --> 00:01:29,920
+ So I'm going to sprinkle you guys in among the Patreons.
+
+27
+00:01:29,920 --> 00:01:33,400
+ But if you donated during the Thanksgiving livestream or other livestreams that I still
+
+28
+00:01:33,400 --> 00:01:38,360
+ have access to, you'll get your chance to fly the Carpenter copter because I think that's
+
+29
+00:01:38,360 --> 00:01:39,360
+ fair.
+
+30
+00:01:39,360 --> 00:01:41,360
+ I really appreciate the support.
+
+31
+00:01:41,360 --> 00:01:46,480
+ So first off, let's give a shoutout to one of our livestream supporters, the Rampart.
+
+32
+00:01:46,480 --> 00:01:48,840
+ Everyone give a round of applause to the Rampart.
+
+33
+00:01:48,840 --> 00:01:49,840
+ He's doing the robot.
+
+34
+00:01:49,840 --> 00:01:50,840
+ He's knocking over stuff.
+
+35
+00:01:50,840 --> 00:01:51,840
+ What is a Rampart?
+
+36
+00:01:51,840 --> 00:01:52,840
+ Is it a wall?
+
+37
+00:01:52,840 --> 00:01:53,840
+ He's just standing there.
+
+38
+00:01:53,840 --> 00:01:55,240
+ He's perfectly motionless.
+
+39
+00:01:55,240 --> 00:01:58,440
+ Rampart, you are going to be our captain, our pilot this episode.
+
+40
+00:01:58,440 --> 00:02:01,960
+ If you can't support the show financially, I totally get it.
+
+41
+00:02:01,960 --> 00:02:03,800
+ Just help spread the word about the show.
+
+42
+00:02:03,800 --> 00:02:05,560
+ That helps out tremendously.
+
+43
+00:02:05,560 --> 00:02:09,120
+ So we're finally getting to start tickling the Rampart so he starts moving.
+
+44
+00:02:09,120 --> 00:02:13,120
+ Rampart, I'm going to toss you the keys to the Jason Jalopy.
+
+45
+00:02:13,120 --> 00:02:17,040
+ We are driving up to Bellingham, Washington.
+
+46
+00:02:17,040 --> 00:02:22,160
+ Jalopy is going down the dusty roads.
+
+47
+00:02:22,160 --> 00:02:26,800
+ So I got this story from a YouTube listener named BBBH.
+
+48
+00:02:26,800 --> 00:02:29,160
+ So I got to give you a tip of the hat for recommending this.
+
+49
+00:02:29,160 --> 00:02:30,320
+ I had never heard of this before.
+
+50
+00:02:30,320 --> 00:02:31,600
+ It's a creepy little mystery.
+
+51
+00:02:31,600 --> 00:02:35,280
+ I also want to give a little tip of the hat to Dean Kahn.
+
+52
+00:02:35,280 --> 00:02:39,320
+ He's a journalist for the Bellingham Herald and a lot of my information I got from an
+
+53
+00:02:39,320 --> 00:02:40,840
+ article that he wrote.
+
+54
+00:02:40,840 --> 00:02:43,240
+ So let's dig into this one.
+
+55
+00:02:43,240 --> 00:02:46,400
+ Rampart is driving us up to Bellingham, Washington.
+
+56
+00:02:46,400 --> 00:02:51,040
+ And as we're going there, we're going to hit that little time travel button.
+
+57
+00:02:51,040 --> 00:02:57,200
+ We're back in the year 1987, specifically, September 20, 1987.
+
+58
+00:02:57,200 --> 00:02:59,640
+ Car pulls up, Twin Peaks music is playing.
+
+59
+00:02:59,640 --> 00:03:00,640
+ It's beautiful.
+
+60
+00:03:00,640 --> 00:03:01,640
+ It's super creepy.
+
+61
+00:03:01,640 --> 00:03:02,880
+ We keep waiting to see Killer Bob in the backseat.
+
+62
+00:03:02,880 --> 00:03:04,200
+ He's not in the backseat though.
+
+63
+00:03:04,200 --> 00:03:05,680
+ He's hiding underneath your bed.
+
+64
+00:03:05,680 --> 00:03:07,200
+ Guys, sweet dreams.
+
+65
+00:03:07,200 --> 00:03:08,680
+ Killer Bob's waiting for you.
+
+66
+00:03:08,680 --> 00:03:12,520
+ We are headed up to Georgia Pacific's waterfront mill.
+
+67
+00:03:12,520 --> 00:03:16,960
+ Dun, dun, dun, dun, dun, dun, dun, dun, dun, dun, dun, dun, dun.
+
+68
+00:03:16,960 --> 00:03:18,480
+ Little mill there.
+
+69
+00:03:18,480 --> 00:03:20,240
+ Really slow opening credit sequence.
+
+70
+00:03:20,240 --> 00:03:22,280
+ I started watching Twin Peaks again, so it's on my mind.
+
+71
+00:03:22,280 --> 00:03:24,400
+ If you haven't watched it yet, watch it.
+
+72
+00:03:24,400 --> 00:03:29,520
+ The Georgia Pacific's waterfront mill, what they do is they burn, they make steam.
+
+73
+00:03:29,520 --> 00:03:30,520
+ They make steam there.
+
+74
+00:03:30,520 --> 00:03:31,520
+ They put it in a box.
+
+75
+00:03:31,520 --> 00:03:34,800
+ If you ever bought steam, you probably bought it from Georgia Pacific Mill.
+
+76
+00:03:34,800 --> 00:03:37,200
+ I don't actually really know what they do.
+
+77
+00:03:37,200 --> 00:03:42,920
+ I have in my notes that they burn fuels to make steam to power the mill.
+
+78
+00:03:42,920 --> 00:03:45,080
+ But why don't you just use the fuel to power the mill?
+
+79
+00:03:45,080 --> 00:03:46,760
+ Why are you burning wood to make steam?
+
+80
+00:03:46,760 --> 00:03:52,040
+ And then there's like a big steam machine, a big giant steam punk robot up there carrying
+
+81
+00:03:52,040 --> 00:03:53,040
+ around logs.
+
+82
+00:03:53,040 --> 00:03:55,960
+ Just burn stuff and then make stuff go.
+
+83
+00:03:55,960 --> 00:03:56,960
+ Make stuff go.
+
+84
+00:03:56,960 --> 00:03:58,920
+ You're like, "Hey, this is not how science works.
+
+85
+00:03:58,920 --> 00:04:01,800
+ You just can't throw wood into a fire and then your car starts."
+
+86
+00:04:01,800 --> 00:04:02,800
+ I don't know.
+
+87
+00:04:02,800 --> 00:04:03,800
+ We can debate.
+
+88
+00:04:03,800 --> 00:04:04,800
+ We can debate the science behind it.
+
+89
+00:04:04,800 --> 00:04:09,160
+ Anyway, so this is a place to create steam.
+
+90
+00:04:09,160 --> 00:04:11,000
+ There's 10 boilers in this place.
+
+91
+00:04:11,000 --> 00:04:13,120
+ And we're going to look at boiler number nine.
+
+92
+00:04:13,120 --> 00:04:15,880
+ So we're walking around this Georgia Pacific mill.
+
+93
+00:04:15,880 --> 00:04:17,400
+ There's a couple employees there.
+
+94
+00:04:17,400 --> 00:04:19,040
+ Everyone is kind of in their office.
+
+95
+00:04:19,040 --> 00:04:20,040
+ It's quite a noisy place.
+
+96
+00:04:20,040 --> 00:04:22,040
+ So when people are working there, they're just kind of away.
+
+97
+00:04:22,040 --> 00:04:24,280
+ They play a really good game of hide and go seek.
+
+98
+00:04:24,280 --> 00:04:27,320
+ Actually, that kind of leads into what this story is.
+
+99
+00:04:27,320 --> 00:04:30,080
+ We're walking into the mill and we see 10 boilers.
+
+100
+00:04:30,080 --> 00:04:31,080
+ They're about 10.
+
+101
+00:04:31,080 --> 00:04:34,560
+ They're, it's about like a 10 foot square box.
+
+102
+00:04:34,560 --> 00:04:36,600
+ But it's up to, it's 20 feet tall.
+
+103
+00:04:36,600 --> 00:04:38,360
+ So it's like 10 feet around.
+
+104
+00:04:38,360 --> 00:04:39,360
+ This is science podcast.
+
+105
+00:04:39,360 --> 00:04:43,240
+ It's like a 10 foot by 10 foot box, but it's 20 feet tall.
+
+106
+00:04:43,240 --> 00:04:47,560
+ The reason why we're here in September 20th, 1987, is because a bunch of cops are here
+
+107
+00:04:47,560 --> 00:04:48,560
+ as well.
+
+108
+00:04:48,560 --> 00:04:52,800
+ They got a phone call from the mill.
+
+109
+00:04:52,800 --> 00:04:58,120
+ They opened the top gate of the boiler and they looked down and the workers like, "Yep.
+
+110
+00:04:58,120 --> 00:05:00,480
+ That's what I saw."
+
+111
+00:05:00,480 --> 00:05:01,480
+ And there.
+
+112
+00:05:01,480 --> 00:05:03,480
+ This is this guy's first acting job.
+
+113
+00:05:03,480 --> 00:05:05,120
+ He's looking at the camera.
+
+114
+00:05:05,120 --> 00:05:06,120
+ It's in there.
+
+115
+00:05:06,120 --> 00:05:07,120
+ The director's like, "What?
+
+116
+00:05:07,120 --> 00:05:08,120
+ You're not even, there's not even a director.
+
+117
+00:05:08,120 --> 00:05:10,600
+ Why are you acting so weird?"
+
+118
+00:05:10,600 --> 00:05:11,760
+ There's a body in there.
+
+119
+00:05:11,760 --> 00:05:15,840
+ And the cops are looking down there and what they see is it's about a 20 foot drop.
+
+120
+00:05:15,840 --> 00:05:22,200
+ There's a layer of pipes before you hit the ground level and laying there is a human body.
+
+121
+00:05:22,200 --> 00:05:26,640
+ The cops are like doing Roshanbo to see us and crawling and crawling and getting the body.
+
+122
+00:05:26,640 --> 00:05:30,960
+ The body is of an unidentified man who's been cooked.
+
+123
+00:05:30,960 --> 00:05:35,920
+ It's been cooked so much that it's partially skeletonized.
+
+124
+00:05:35,920 --> 00:05:40,120
+ So you see bones sticking out and stuff like that and then it's all sizzling.
+
+125
+00:05:40,120 --> 00:05:43,200
+ I don't think there are still steam lines coming off of them.
+
+126
+00:05:43,200 --> 00:05:46,640
+ But definitely dead, definitely cooked.
+
+127
+00:05:46,640 --> 00:05:48,840
+ What's interesting is they're looking at the body and they go, "Okay."
+
+128
+00:05:48,840 --> 00:05:50,160
+ We don't know who this is.
+
+129
+00:05:50,160 --> 00:05:51,160
+ We can make some guesses.
+
+130
+00:05:51,160 --> 00:05:56,080
+ 25 to 35 year old man, we think is probably about 5 foot 8, 5 foot 9.
+
+131
+00:05:56,080 --> 00:05:57,920
+ Very slight man though.
+
+132
+00:05:57,920 --> 00:06:00,840
+ 130 to 155 pounds.
+
+133
+00:06:00,840 --> 00:06:05,120
+ So that's kind of like their first thing when they take it back and they do the autopsy.
+
+134
+00:06:05,120 --> 00:06:06,560
+ They start to realize stuff.
+
+135
+00:06:06,560 --> 00:06:07,880
+ Two broken thigh bones.
+
+136
+00:06:07,880 --> 00:06:13,600
+ And they're like, "Well that might happen if you fall 20 feet onto a bunch of pipes."
+
+137
+00:06:13,600 --> 00:06:15,280
+ Right arm is broken.
+
+138
+00:06:15,280 --> 00:06:20,320
+ They noticed that whoever this was took their jacket off and placed it underneath them.
+
+139
+00:06:20,320 --> 00:06:24,800
+ They tore their shirt off and wrapped it around their leg as some sort of splint.
+
+140
+00:06:24,800 --> 00:06:29,800
+ But most chilling of all is he had socks on his hands.
+
+141
+00:06:29,800 --> 00:06:32,920
+ So the cops are looking at each other and they're like, "You know the sock puppet show
+
+142
+00:06:32,920 --> 00:06:34,760
+ ended last week and the other cops like, "I know.
+
+143
+00:06:34,760 --> 00:06:35,760
+ I know I went to it.
+
+144
+00:06:35,760 --> 00:06:36,760
+ I took my kids to it.
+
+145
+00:06:36,760 --> 00:06:37,760
+ It was awesome."
+
+146
+00:06:37,760 --> 00:06:40,440
+ So this guy wasn't here for the sock puppet show and they're like, "No."
+
+147
+00:06:40,440 --> 00:06:45,120
+ What this man, the reason why this man had socks on his hands is with the cops believe
+
+148
+00:06:45,120 --> 00:06:50,120
+ is he tried to crawl out as the boiler was activating.
+
+149
+00:06:50,120 --> 00:06:56,040
+ The boiler reaches 370 degrees when it's turned on.
+
+150
+00:06:56,040 --> 00:07:00,720
+ All that steam enveloping your body, you think you're reenacting that scene from Empire Strikes
+
+151
+00:07:00,720 --> 00:07:02,640
+ Back on someone on the Carbonite.
+
+152
+00:07:02,640 --> 00:07:05,760
+ This is the worst kind of cosplay because it kills you.
+
+153
+00:07:05,760 --> 00:07:11,400
+ They think that this guy, these are their theories that it was, I do just wanted to really hang
+
+154
+00:07:11,400 --> 00:07:14,840
+ out inside of a boiler and they turned it on.
+
+155
+00:07:14,840 --> 00:07:16,240
+ He's like, "Oh, this is awesome place."
+
+156
+00:07:16,240 --> 00:07:18,280
+ He put no posters and stuff like that.
+
+157
+00:07:18,280 --> 00:07:21,160
+ And then he hears like a time note activate boiler nine.
+
+158
+00:07:21,160 --> 00:07:22,160
+ He's like, "Uh-oh."
+
+159
+00:07:22,160 --> 00:07:26,440
+ They think it's that, that a guy did it willingly too, that he was dead before he was thrown
+
+160
+00:07:26,440 --> 00:07:27,440
+ in there.
+
+161
+00:07:27,440 --> 00:07:29,640
+ But that's when the cops are like, "Well, we know the sock puppet festival already
+
+162
+00:07:29,640 --> 00:07:31,240
+ ended so that doesn't make sense."
+
+163
+00:07:31,240 --> 00:07:34,680
+ He was probably alive when he went in there, but it's possible that somebody threw him
+
+164
+00:07:34,680 --> 00:07:35,680
+ in there.
+
+165
+00:07:35,680 --> 00:07:37,200
+ Somebody beat him up, broke his legs.
+
+166
+00:07:37,200 --> 00:07:42,080
+ Because 20 feet you can break your legs, but he broke his thigh bones.
+
+167
+00:07:42,080 --> 00:07:44,920
+ That's a pr- I mean, you could do it.
+
+168
+00:07:44,920 --> 00:07:49,480
+ They also said it's possible that his legs were broken when somebody threw him into the
+
+169
+00:07:49,480 --> 00:07:50,880
+ boiler.
+
+170
+00:07:50,880 --> 00:07:56,280
+ But whatever the case, they figure he had enough wear with all to try to protect himself
+
+171
+00:07:56,280 --> 00:07:59,040
+ from the scorching heat.
+
+172
+00:07:59,040 --> 00:08:02,480
+ So he throws a jacket underneath him to kind of protect himself from the pipes with that
+
+173
+00:08:02,480 --> 00:08:05,440
+ super hot water running through the pipes.
+
+174
+00:08:05,440 --> 00:08:10,600
+ And with the socks on his hands was trying to crawl out and it didn't- they don't know-
+
+175
+00:08:10,600 --> 00:08:11,760
+ well they know how he died.
+
+176
+00:08:11,760 --> 00:08:14,320
+ He got cooked, but they don't know when he died.
+
+177
+00:08:14,320 --> 00:08:15,360
+ So they don't know who it is.
+
+178
+00:08:15,360 --> 00:08:17,560
+ They don't know how they got in there.
+
+179
+00:08:17,560 --> 00:08:21,920
+ Oddly enough, like almost like if this wasn't a novel you would think it was fake.
+
+180
+00:08:21,920 --> 00:08:24,080
+ He was burned up, he was cooked.
+
+181
+00:08:24,080 --> 00:08:25,880
+ But it's like a steamer.
+
+182
+00:08:25,880 --> 00:08:29,000
+ It's not like Freddy Kruger's flame factory.
+
+183
+00:08:29,000 --> 00:08:35,200
+ In the boiler, there was a ticket for an airplane, continental airline ticket.
+
+184
+00:08:35,200 --> 00:08:40,000
+ But it was not scorched so much that you couldn't read what airline it was, but it was scorched
+
+185
+00:08:40,000 --> 00:08:45,880
+ enough that you couldn't see registration number, seat number, name, nothing like that.
+
+186
+00:08:45,880 --> 00:08:51,440
+ It was just a tantalizing clue of who this could be.
+
+187
+00:08:51,440 --> 00:08:57,000
+ Their theories are suicide, curiosity, murder, or a prank.
+
+188
+00:08:57,000 --> 00:09:00,360
+ One of the theories that came up later on was someone said, "Hey listen, we are a bunch
+
+189
+00:09:00,360 --> 00:09:05,400
+ of urban explorers and normally we go into abandoned things, but we really like living
+
+190
+00:09:05,400 --> 00:09:06,400
+ on the edge.
+
+191
+00:09:06,400 --> 00:09:11,680
+ We used to go into the mill and sneak around because it's a pretty cool place."
+
+192
+00:09:11,680 --> 00:09:16,200
+ We actually paid off an employee because there wasn't a lot of employees, it was super loud,
+
+193
+00:09:16,200 --> 00:09:18,320
+ everyone had their own little office they would hide in.
+
+194
+00:09:18,320 --> 00:09:21,760
+ You'd have these people go in and they'd kind of be like, "Hey look at this, we're gonna
+
+195
+00:09:21,760 --> 00:09:24,680
+ come during the tour but it's way goolier at night."
+
+196
+00:09:24,680 --> 00:09:25,680
+ An employee let him in.
+
+197
+00:09:25,680 --> 00:09:31,840
+ This guy tells the story that one summer, some out of towner from New York showed up and
+
+198
+00:09:31,840 --> 00:09:33,440
+ wanted to join us.
+
+199
+00:09:33,440 --> 00:09:36,040
+ And we said, "Yeah, you can join us, it's really cool, but you gotta be careful because
+
+200
+00:09:36,040 --> 00:09:37,480
+ we're not supposed to be here."
+
+201
+00:09:37,480 --> 00:09:43,400
+ Our employee who we pay to let us in, he has a signal that when he blows it, we get out
+
+202
+00:09:43,400 --> 00:09:47,240
+ of there and we have this predetermined meeting spot and then newcomer is like, "Yeah, sure,
+
+203
+00:09:47,240 --> 00:09:48,240
+ I'm totally down."
+
+204
+00:09:48,240 --> 00:09:52,640
+ So then they go inside and I don't know what you would do in a place that, I mean it's
+
+205
+00:09:52,640 --> 00:09:53,840
+ not like an abandoned and st.
+
+206
+00:09:53,840 --> 00:09:58,160
+ asylum, it's a functional mill that people are working in but they would go in and they'd
+
+207
+00:09:58,160 --> 00:10:03,880
+ sneak around and then the warning thing was blown and everyone ran out but the New Yorker
+
+208
+00:10:03,880 --> 00:10:04,880
+ never came out.
+
+209
+00:10:04,880 --> 00:10:09,480
+ And they were like, "Okay, okay, he's from New York, he can probably take care of himself."
+
+210
+00:10:09,480 --> 00:10:12,800
+ And this group went home, they went their separate ways.
+
+211
+00:10:12,800 --> 00:10:16,720
+ So when the police heard the story, they began looking into missing people from New York,
+
+212
+00:10:16,720 --> 00:10:17,720
+ matching that description.
+
+213
+00:10:17,720 --> 00:10:21,760
+ They narrowed it down to like five people but none of them could ever really be confirmed
+
+214
+00:10:21,760 --> 00:10:24,040
+ to be the man in the boiler.
+
+215
+00:10:24,040 --> 00:10:26,680
+ And that seemed to be it for a long time.
+
+216
+00:10:26,680 --> 00:10:28,800
+ This mystery hadn't been solved.
+
+217
+00:10:28,800 --> 00:10:34,440
+ But in 2006, there was a man named Richard Severson who always had his suspicions about
+
+218
+00:10:34,440 --> 00:10:35,520
+ this event.
+
+219
+00:10:35,520 --> 00:10:38,160
+ He worked at the Western Washington University.
+
+220
+00:10:38,160 --> 00:10:42,320
+ He was a steam engineer at the steam plant at that university.
+
+221
+00:10:42,320 --> 00:10:44,640
+ And he tells this story to a journalist.
+
+222
+00:10:44,640 --> 00:10:50,360
+ He says back in 1987, this summer, a woman was on the tour of this, there was multiple
+
+223
+00:10:50,360 --> 00:10:53,920
+ people but one of them happened to be this woman who was on the tour that he was giving
+
+224
+00:10:53,920 --> 00:10:55,480
+ at the steam plant.
+
+225
+00:10:55,480 --> 00:10:57,840
+ He says she was about 30 to 40 years old.
+
+226
+00:10:57,840 --> 00:11:00,920
+ She was about five foot six tall, she's a very wiry woman.
+
+227
+00:11:00,920 --> 00:11:04,400
+ And you know, you didn't really think anything of her, she's just walking around and stuff.
+
+228
+00:11:04,400 --> 00:11:08,680
+ And then we got to one of the boilers and she said, "Can I crawl into that?"
+
+229
+00:11:08,680 --> 00:11:12,240
+ And he's like, "Yeah, I mean sure, hey let me open this little gate for you, it's not
+
+230
+00:11:12,240 --> 00:11:14,160
+ an operation you can crawl in."
+
+231
+00:11:14,160 --> 00:11:17,720
+ And he goes, she crawled in and then she got back out.
+
+232
+00:11:17,720 --> 00:11:21,240
+ He's like, "Okay tour group, let's go look at this next boiler that's identical to this
+
+233
+00:11:21,240 --> 00:11:22,240
+ one."
+
+234
+00:11:22,240 --> 00:11:25,960
+ But she crawled back into the boiler and the guy's like, "Dude, you can't, come on,
+
+235
+00:11:25,960 --> 00:11:26,960
+ get out of there."
+
+236
+00:11:26,960 --> 00:11:27,960
+ And then she crawled back out.
+
+237
+00:11:27,960 --> 00:11:31,920
+ And then she crawled back into the boiler and crawled back out.
+
+238
+00:11:31,920 --> 00:11:35,640
+ And this went on and on and on and she kept coming in and out of the boiler.
+
+239
+00:11:35,640 --> 00:11:37,200
+ Eventually Richard kicked her out.
+
+240
+00:11:37,200 --> 00:11:42,120
+ "So you gotta get out of here, I got a tour to run, very professional guy, I went to college
+
+241
+00:11:42,120 --> 00:11:44,920
+ for this, I got my degree in tourism.
+
+242
+00:11:44,920 --> 00:11:46,400
+ You gotta get out of here."
+
+243
+00:11:46,400 --> 00:11:51,240
+ And as she's leaving he says, "Why don't you go to the Georgia Pacific mill?"
+
+244
+00:11:51,240 --> 00:11:54,920
+ And the reason why he said that, one, because he just wanted her off the property, but
+
+245
+00:11:54,920 --> 00:11:57,200
+ two he goes, "I know they have security there."
+
+246
+00:11:57,200 --> 00:11:59,200
+ And they do have security there.
+
+247
+00:11:59,200 --> 00:12:01,080
+ But you know, it's security at a mill.
+
+248
+00:12:01,080 --> 00:12:05,360
+ It's not security at a top secret NSA base.
+
+249
+00:12:05,360 --> 00:12:10,400
+ So he said that and he goes a couple weeks later he had heard about this body being found
+
+250
+00:12:10,400 --> 00:12:13,880
+ and he waited until 2006 to tell this story.
+
+251
+00:12:13,880 --> 00:12:15,800
+ He was kind of thinking about it.
+
+252
+00:12:15,800 --> 00:12:19,860
+ But the interesting thing was he kept telling himself, "But the person I saw was a woman
+
+253
+00:12:19,860 --> 00:12:22,400
+ and they keep saying it was a man."
+
+254
+00:12:22,400 --> 00:12:27,840
+ To this day they have no idea who this person is or was.
+
+255
+00:12:27,840 --> 00:12:33,520
+ They have absolutely no idea who it is.
+
+256
+00:12:33,520 --> 00:12:37,800
+ So after a very long nap that I just took, I took a nap dude.
+
+257
+00:12:37,800 --> 00:12:38,920
+ And so how many of us sucks?
+
+258
+00:12:38,920 --> 00:12:40,080
+ I've been up all night.
+
+259
+00:12:40,080 --> 00:12:41,920
+ Eventually I had to go to sleep.
+
+260
+00:12:41,920 --> 00:12:46,120
+ So I'm basically sleeping in the factory in the Georgia Pacific mill and everyone's kind
+
+261
+00:12:46,120 --> 00:12:47,960
+ of standing around and I'm all comfy.
+
+262
+00:12:47,960 --> 00:12:50,400
+ I have a little Veronica doll cuddled up.
+
+263
+00:12:50,400 --> 00:12:53,800
+ You're like, "Dude come on man, we gotta listen to this podcast to start nudging me
+
+264
+00:12:53,800 --> 00:12:54,800
+ with your foot."
+
+265
+00:12:54,800 --> 00:12:56,800
+ Sorry guys, sorry guys.
+
+266
+00:12:56,800 --> 00:13:00,200
+ Rampart call in that carboner copter.
+
+267
+00:13:00,200 --> 00:13:02,720
+ We are leaving behind the Georgia Pacific mill.
+
+268
+00:13:02,720 --> 00:13:03,960
+ I think that's what it's called.
+
+269
+00:13:03,960 --> 00:13:05,480
+ Like I said, just woke up from a nap.
+
+270
+00:13:05,480 --> 00:13:10,240
+ We are headed out to an arcade.
+
+271
+00:13:10,240 --> 00:13:11,240
+ We're flying around for hours.
+
+272
+00:13:11,240 --> 00:13:12,840
+ We can't find an arcade.
+
+273
+00:13:12,840 --> 00:13:13,840
+ Eventually we do find one.
+
+274
+00:13:13,840 --> 00:13:16,080
+ There is an arcade in Alameda.
+
+275
+00:13:16,080 --> 00:13:17,680
+ I lived in Alameda for a time.
+
+276
+00:13:17,680 --> 00:13:19,080
+ There's an arcade down there.
+
+277
+00:13:19,080 --> 00:13:20,080
+ That's really cool.
+
+278
+00:13:20,080 --> 00:13:21,760
+ I think you pay like five bucks and you can stay there all day.
+
+279
+00:13:21,760 --> 00:13:24,680
+ Wouldn't have that been a dream when we were kids dude?
+
+280
+00:13:24,680 --> 00:13:26,320
+ Anyways, we're walking into the arcade.
+
+281
+00:13:26,320 --> 00:13:27,320
+ We're super cool.
+
+282
+00:13:27,320 --> 00:13:28,320
+ We got under leather jackets.
+
+283
+00:13:28,320 --> 00:13:34,160
+ We're pushing everyone aside because we're headed straight for the NBA Jam game.
+
+284
+00:13:34,160 --> 00:13:35,160
+ It's two on two guys.
+
+285
+00:13:35,160 --> 00:13:38,800
+ Actually that's sound effects for space invaders.
+
+286
+00:13:38,800 --> 00:13:39,800
+ He's on fire.
+
+287
+00:13:39,800 --> 00:13:40,800
+ Oh yeah.
+
+288
+00:13:40,800 --> 00:13:42,800
+ Punch it in the hole.
+
+289
+00:13:42,800 --> 00:13:43,800
+ Ball in.
+
+290
+00:13:43,800 --> 00:13:46,760
+ I actually never liked.
+
+291
+00:13:46,760 --> 00:13:48,720
+ I never liked NBA Jam.
+
+292
+00:13:48,720 --> 00:13:50,840
+ I liked the artistry of it.
+
+293
+00:13:50,840 --> 00:13:53,000
+ I could obviously tell there was a lot of care into it.
+
+294
+00:13:53,000 --> 00:13:54,000
+ What's the one like toasty?
+
+295
+00:13:54,000 --> 00:13:56,200
+ No, that was Mortal Kombat.
+
+296
+00:13:56,200 --> 00:13:57,680
+ He's on fire.
+
+297
+00:13:57,680 --> 00:13:59,400
+ Damn son.
+
+298
+00:13:59,400 --> 00:14:01,760
+ No, I wish they had had that sound clip back then.
+
+299
+00:14:01,760 --> 00:14:02,760
+ You had NBA Jam.
+
+300
+00:14:02,760 --> 00:14:07,640
+ If you don't know people are like what in the world is NBA Jam?
+
+301
+00:14:07,640 --> 00:14:09,880
+ Chachachachachachoke on it.
+
+302
+00:14:09,880 --> 00:14:10,880
+ It's a game.
+
+303
+00:14:10,880 --> 00:14:16,120
+ Basically imagine a normal basketball game, but the announcer is on the middle of some
+
+304
+00:14:16,120 --> 00:14:18,440
+ meth binge, three day meth binge.
+
+305
+00:14:18,440 --> 00:14:22,080
+ And all the players have like normal sized bodies and then oversized heads and you could
+
+306
+00:14:22,080 --> 00:14:23,600
+ do super moves.
+
+307
+00:14:23,600 --> 00:14:27,120
+ So I think if you had three uncontested shots, I don't remember this from playing the game
+
+308
+00:14:27,120 --> 00:14:28,600
+ because I never played it, but I was researching it.
+
+309
+00:14:28,600 --> 00:14:34,640
+ I think if you have three unchallenged shots in a row, you get firey flame.
+
+310
+00:14:34,640 --> 00:14:39,200
+ And then like that is the people are constantly yelling, yelling in your ear the whole time
+
+311
+00:14:39,200 --> 00:14:40,200
+ you played.
+
+312
+00:14:40,200 --> 00:14:41,200
+ It's a game.
+
+313
+00:14:41,200 --> 00:14:42,520
+ I played it like maybe three or four times.
+
+314
+00:14:42,520 --> 00:14:44,720
+ Like because I enjoyed the artistry of it.
+
+315
+00:14:44,720 --> 00:14:47,920
+ I thought it was a really cool game, but I'm not into basketball.
+
+316
+00:14:47,920 --> 00:14:49,400
+ It's just not my cup of tea.
+
+317
+00:14:49,400 --> 00:14:53,320
+ It's not my butter and jam.
+
+318
+00:14:53,320 --> 00:14:56,480
+ People are like, I've already shut the podcast off.
+
+319
+00:14:56,480 --> 00:14:58,360
+ I'm tired of you yelling in my ear.
+
+320
+00:14:58,360 --> 00:14:59,360
+ Sorry.
+
+321
+00:14:59,360 --> 00:15:03,520
+ Anyway, so the people who made NBA Jam or midway, they made a ton of game.
+
+322
+00:15:03,520 --> 00:15:04,520
+ They made Mortal Kombat.
+
+323
+00:15:04,520 --> 00:15:07,880
+ NBA Jam actually made more money than Mortal Kombat.
+
+324
+00:15:07,880 --> 00:15:11,760
+ The reason why I'm talking about it on the paranormal podcast is as we've been playing
+
+325
+00:15:11,760 --> 00:15:15,240
+ this game, people are finally, and people are finally not cause I keep yelling.
+
+326
+00:15:15,240 --> 00:15:18,120
+ They're like, it's not even from that game, dude.
+
+327
+00:15:18,120 --> 00:15:19,840
+ Get your mortgage.
+
+328
+00:15:19,840 --> 00:15:21,040
+ They're like, what?
+
+329
+00:15:21,040 --> 00:15:26,160
+ People keep emptying from the arcade until eventually it's just us and all the lights
+
+330
+00:15:26,160 --> 00:15:29,800
+ are off and the only game that's being played right now is NBA Jam.
+
+331
+00:15:29,800 --> 00:15:32,840
+ And that's when I go, this is a perfect time for a ghost story.
+
+332
+00:15:32,840 --> 00:15:36,240
+ Plus I've lost all my quarters and I've lost all my $5 and broke.
+
+333
+00:15:36,240 --> 00:15:37,520
+ I can't play games anymore.
+
+334
+00:15:37,520 --> 00:15:39,160
+ Let's tell a ghost story.
+
+335
+00:15:39,160 --> 00:15:45,280
+ Back in May of 1993, this was actually from an interview with Mark Turmell.
+
+336
+00:15:45,280 --> 00:15:47,840
+ He is the lead game designer for midway.
+
+337
+00:15:47,840 --> 00:15:50,040
+ He did an interview with ESPN.
+
+338
+00:15:50,040 --> 00:15:52,640
+ It was a retrospective of the creation of NBA Jam.
+
+339
+00:15:52,640 --> 00:15:54,560
+ It came out in May 1993.
+
+340
+00:15:54,560 --> 00:16:03,080
+ In June of 1993, NBA player for the New Jersey Nets, Drozan Petrovic, died in a car accident.
+
+341
+00:16:03,080 --> 00:16:04,080
+ Absolutely tragic.
+
+342
+00:16:04,080 --> 00:16:05,080
+ He was a young man.
+
+343
+00:16:05,080 --> 00:16:06,560
+ He was considered one of the best shooting guards.
+
+344
+00:16:06,560 --> 00:16:09,760
+ I don't know what that is, but it's written in my notes.
+
+345
+00:16:09,760 --> 00:16:13,720
+ Regardless of his skill behind the ball, it's tragic that he passed away.
+
+346
+00:16:13,720 --> 00:16:15,840
+ Now he's one of the players in NBA Jam.
+
+347
+00:16:15,840 --> 00:16:16,840
+ You can play as Petrovic.
+
+348
+00:16:16,840 --> 00:16:18,720
+ Of course, they're like, "Oh, nope.
+
+349
+00:16:18,720 --> 00:16:20,720
+ He's passed beyond the mortal coil.
+
+350
+00:16:20,720 --> 00:16:21,720
+ Delete his code."
+
+351
+00:16:21,720 --> 00:16:22,720
+ He's a big player.
+
+352
+00:16:22,720 --> 00:16:23,920
+ People are fans of his.
+
+353
+00:16:23,920 --> 00:16:25,160
+ So he's in the game.
+
+354
+00:16:25,160 --> 00:16:29,440
+ What happened one night was at Midway, at Midway Studios, they were playing one of their
+
+355
+00:16:29,440 --> 00:16:31,400
+ newest games, Mortal Kombat.
+
+356
+00:16:31,400 --> 00:16:32,960
+ "Y'all finish him.
+
+357
+00:16:32,960 --> 00:16:34,480
+ Toasty, finish him.
+
+358
+00:16:34,480 --> 00:16:35,640
+ Oh, flawless victory.
+
+359
+00:16:35,640 --> 00:16:37,640
+ See, I know all those ones.
+
+360
+00:16:37,640 --> 00:16:41,280
+ But as they're playing Mortal Kombat, the NBA Jam's next to it and it's running the
+
+361
+00:16:41,280 --> 00:16:42,280
+ demo screen.
+
+362
+00:16:42,280 --> 00:16:46,160
+ It's running the screen to kind of get people attracted to the machine and just out of nowhere
+
+363
+00:16:46,160 --> 00:16:47,160
+ goes Petrovic."
+
+364
+00:16:47,160 --> 00:16:50,120
+ Kind of look at each other.
+
+365
+00:16:50,120 --> 00:16:53,480
+ Now the game does yell out players' names.
+
+366
+00:16:53,480 --> 00:16:56,520
+ It was just kind of an eerie moment late at night.
+
+367
+00:16:56,520 --> 00:16:58,680
+ They're continuing to play Mortal Kombat.
+
+368
+00:16:58,680 --> 00:17:01,280
+ "Petrovic."
+
+369
+00:17:01,280 --> 00:17:02,280
+ Stop playing Mortal Kombat.
+
+370
+00:17:02,280 --> 00:17:03,280
+ They look over at the machine.
+
+371
+00:17:03,280 --> 00:17:04,680
+ Is Petrovic even on the screen?
+
+372
+00:17:04,680 --> 00:17:07,040
+ No, it's the demo screen.
+
+373
+00:17:07,040 --> 00:17:09,000
+ "Petrovic."
+
+374
+00:17:09,000 --> 00:17:13,720
+ The NBA Jam machine would call out the name Petrovic just at random times.
+
+375
+00:17:13,720 --> 00:17:16,840
+ And it would do it with no other player's name.
+
+376
+00:17:16,840 --> 00:17:18,040
+ You didn't have to be playing the game.
+
+377
+00:17:18,040 --> 00:17:21,840
+ It would just be running that mode trying to attract viewers.
+
+378
+00:17:21,840 --> 00:17:24,200
+ "Petrovic."
+
+379
+00:17:24,200 --> 00:17:27,080
+ Mark Teramel said we never were able to figure this out.
+
+380
+00:17:27,080 --> 00:17:31,280
+ And he goes, "This isn't a spooky ghost story for Midway that we tell the interns.
+
+381
+00:17:31,280 --> 00:17:40,520
+ If you have a first edition NBA Jam machine, it will yell out Petrovic at random intervals."
+
+382
+00:17:40,520 --> 00:17:47,000
+ The machine that was made right before he died is the only one that screams out his name
+
+383
+00:17:47,000 --> 00:17:48,360
+ in the middle of the night.
+
+384
+00:17:48,360 --> 00:17:49,520
+ It's a creepy ghost story.
+
+385
+00:17:49,520 --> 00:17:51,040
+ It's no doubt it's a creepy ghost story.
+
+386
+00:17:51,040 --> 00:17:55,000
+ And what's interesting, it's most likely some sort of glitch.
+
+387
+00:17:55,000 --> 00:17:59,680
+ But if it was yelling out Pippin over and over again, no one would know except for people
+
+388
+00:17:59,680 --> 00:18:00,680
+ who hate Pippin.
+
+389
+00:18:00,680 --> 00:18:03,440
+ Except for people who like the Detroit Pistons.
+
+390
+00:18:03,440 --> 00:18:06,040
+ But other than that, you wouldn't think anything of it.
+
+391
+00:18:06,040 --> 00:18:10,200
+ But you have this guy's name who had just died very recently being screamed out through
+
+392
+00:18:10,200 --> 00:18:11,200
+ this.
+
+393
+00:18:11,200 --> 00:18:15,080
+ Now the idea of a ghost possessing a computer, that's pretty standard.
+
+394
+00:18:15,080 --> 00:18:19,080
+ Maybe not necessarily a ghost, but we have something like Lawnmower Man or Lawnmower
+
+395
+00:18:19,080 --> 00:18:22,880
+ Man 2 or Game Over, which I saw in the theater.
+
+396
+00:18:22,880 --> 00:18:26,280
+ So all that was in the theater, not Lawnmower Man 2, that was in the theater.
+
+397
+00:18:26,280 --> 00:18:31,600
+ But Virtuosity, we always have these stories about technology being possessed or infiltrated
+
+398
+00:18:31,600 --> 00:18:32,600
+ by something.
+
+399
+00:18:32,600 --> 00:18:38,480
+ Well, let's take a look at a story that I think might be the creepiest version of this.
+
+400
+00:18:38,480 --> 00:18:44,280
+ It's trying to help people, but the implications are quite terrifying.
+
+401
+00:18:44,280 --> 00:18:49,480
+ Rampart lead the way, your strong wall-like body will protect us as we walk through the
+
+402
+00:18:49,480 --> 00:18:53,360
+ arcade and find ourselves in a research laboratory.
+
+403
+00:18:53,360 --> 00:18:57,320
+ We walk in, it's in London, so everyone's like Pip Pip Cheerio, they have beakers full
+
+404
+00:18:57,320 --> 00:18:58,760
+ of tea and stuff like that.
+
+405
+00:18:58,760 --> 00:19:00,240
+ We put on our lab coats and all of that.
+
+406
+00:19:00,240 --> 00:19:04,880
+ I want to give a shout out to the Twitter follower SnailWife.
+
+407
+00:19:04,880 --> 00:19:09,000
+ SnailWife recommended this story to me and it's absolutely fascinating.
+
+408
+00:19:09,000 --> 00:19:10,440
+ So thank you very much, SnailWife.
+
+409
+00:19:10,440 --> 00:19:14,600
+ We're walking through this laboratory and again, a shout out to the journalist who wrote
+
+410
+00:19:14,600 --> 00:19:18,760
+ this article, I'm going to be referencing a lot, Zion Gudim.
+
+411
+00:19:18,760 --> 00:19:20,880
+ I like giving people credit for what they do.
+
+412
+00:19:20,880 --> 00:19:25,000
+ So we're walking through this laboratory and it's actually a laboratory that's specifically
+
+413
+00:19:25,000 --> 00:19:26,600
+ for mental issues.
+
+414
+00:19:26,600 --> 00:19:28,440
+ So they probably don't have beakers sitting around.
+
+415
+00:19:28,440 --> 00:19:30,520
+ They're like dipping brain and fluid.
+
+416
+00:19:30,520 --> 00:19:34,120
+ They're like, "Hmm, let's see how this brain does when I put it in turpentine.
+
+417
+00:19:34,120 --> 00:19:35,120
+ It melts."
+
+418
+00:19:35,120 --> 00:19:36,520
+ It's Roger Rabbit's brain.
+
+419
+00:19:36,520 --> 00:19:40,640
+ Schizophrenia, 1% of the world's population they believe has schizophrenia and hearing
+
+420
+00:19:40,640 --> 00:19:44,160
+ voices is the most common symptom of schizophrenia.
+
+421
+00:19:44,160 --> 00:19:47,480
+ I think that's this most stereotypical one too.
+
+422
+00:19:47,480 --> 00:19:51,580
+ That's the one you think of if someone tells you they have schizophrenia, which generally
+
+423
+00:19:51,580 --> 00:19:52,680
+ people won't tell you that.
+
+424
+00:19:52,680 --> 00:19:56,360
+ But I think from movies and stuff like that, you think the general going crazy and then
+
+425
+00:19:56,360 --> 00:19:57,920
+ the hearing voices.
+
+426
+00:19:57,920 --> 00:20:02,240
+ 70% of schizophrenics report auditory hallucinations.
+
+427
+00:20:02,240 --> 00:20:07,680
+ So in 2017 at King's College London, they developed this program called the Avatar
+
+428
+00:20:07,680 --> 00:20:09,360
+ Therapy Program.
+
+429
+00:20:09,360 --> 00:20:15,320
+ So what they do is they're going to sit someone down in front of a computer and they go, "The
+
+430
+00:20:15,320 --> 00:20:18,400
+ voices in your head are very distressing to you, right?
+
+431
+00:20:18,400 --> 00:20:19,720
+ They're getting in the way of your life.
+
+432
+00:20:19,720 --> 00:20:20,720
+ They're scary.
+
+433
+00:20:20,720 --> 00:20:22,760
+ They're making you think things you don't want to think."
+
+434
+00:20:22,760 --> 00:20:25,600
+ What does that voice look like?
+
+435
+00:20:25,600 --> 00:20:32,480
+ And so then using a character creation tool from Skyrim or Saints Row the Third, people
+
+436
+00:20:32,480 --> 00:20:36,440
+ will build what they think the voice in their head looks like.
+
+437
+00:20:36,440 --> 00:20:38,040
+ Now it's not the whole body.
+
+438
+00:20:38,040 --> 00:20:42,360
+ It's not like mine is a mage and he has a big flowing robe and a giant staff.
+
+439
+00:20:42,360 --> 00:20:43,440
+ It's just the head.
+
+440
+00:20:43,440 --> 00:20:49,640
+ But with all these sliders you can give him hair, make the eyes bulge out or just kind
+
+441
+00:20:49,640 --> 00:20:52,280
+ of beady or somewhere in between.
+
+442
+00:20:52,280 --> 00:20:54,520
+ Use these sliders to do that.
+
+443
+00:20:54,520 --> 00:20:59,640
+ So now you've created this, the voice in your head that you've been suffering with since
+
+444
+00:20:59,640 --> 00:21:04,360
+ you were 20, you're now looking at on a monitor in front of you.
+
+445
+00:21:04,360 --> 00:21:08,400
+ And then the researcher goes, "Okay, what does the voice sound like?"
+
+446
+00:21:08,400 --> 00:21:12,760
+ And the doctor begins speaking in a microphone and again there's a bunch of sliders there
+
+447
+00:21:12,760 --> 00:21:17,360
+ that they can change the pitch and the tone and the speed and all of this stuff.
+
+448
+00:21:17,360 --> 00:21:18,520
+ Is this him?
+
+449
+00:21:18,520 --> 00:21:19,680
+ Is this him?
+
+450
+00:21:19,680 --> 00:21:21,160
+ Is this him?
+
+451
+00:21:21,160 --> 00:21:22,280
+ Is this him?
+
+452
+00:21:22,280 --> 00:21:25,280
+ Yes, that's the voice.
+
+453
+00:21:25,280 --> 00:21:26,880
+ This is him.
+
+454
+00:21:26,880 --> 00:21:28,960
+ Is this what the voice in your head sounds like?
+
+455
+00:21:28,960 --> 00:21:31,040
+ Yeah, that's what it sounds like.
+
+456
+00:21:31,040 --> 00:21:35,200
+ It's so spooky and I'm telling you right now.
+
+457
+00:21:35,200 --> 00:21:37,080
+ There's articles in the show notes.
+
+458
+00:21:37,080 --> 00:21:42,280
+ They show one of these therapy sessions and the face that is staring out from the computer
+
+459
+00:21:42,280 --> 00:21:45,760
+ monitor looks like a voice in your head.
+
+460
+00:21:45,760 --> 00:21:46,760
+ It looks creepy.
+
+461
+00:21:46,760 --> 00:21:50,880
+ It looks like a guy you would run into at a bus stop and immediately be sketched out
+
+462
+00:21:50,880 --> 00:21:51,880
+ about.
+
+463
+00:21:51,880 --> 00:21:53,280
+ Like, it's really creepy.
+
+464
+00:21:53,280 --> 00:21:57,880
+ If you had to imagine, I don't have voices in my head, but if you had to imagine what
+
+465
+00:21:57,880 --> 00:22:01,040
+ a voice in your head would look like, it would look like that.
+
+466
+00:22:01,040 --> 00:22:02,040
+ It looks human.
+
+467
+00:22:02,040 --> 00:22:03,200
+ It's human.
+
+468
+00:22:03,200 --> 00:22:09,240
+ There's something like a little dark, a little demonic about it around the eyes.
+
+469
+00:22:09,240 --> 00:22:10,680
+ But that's not it.
+
+470
+00:22:10,680 --> 00:22:11,680
+ It's so creepy.
+
+471
+00:22:11,680 --> 00:22:14,720
+ So what they do, when I say creepy, it's amazing.
+
+472
+00:22:14,720 --> 00:22:18,280
+ This is actually incredibly beneficial for the people who use it.
+
+473
+00:22:18,280 --> 00:22:22,960
+ They've done tons of studies with this and the doctors say, you do six sessions, each
+
+474
+00:22:22,960 --> 00:22:24,760
+ one's only 10 minutes.
+
+475
+00:22:24,760 --> 00:22:30,560
+ So you do, over six weeks you have one 10 minute session each week and you talk back
+
+476
+00:22:30,560 --> 00:22:32,440
+ to it.
+
+477
+00:22:32,440 --> 00:22:37,040
+ So the doctor's sitting in the room and he's going, "You're fat.
+
+478
+00:22:37,040 --> 00:22:38,280
+ You'll always be fat.
+
+479
+00:22:38,280 --> 00:22:40,280
+ You're a big fat nothing loser."
+
+480
+00:22:40,280 --> 00:22:42,920
+ This is research assistance walking by.
+
+481
+00:22:42,920 --> 00:22:43,920
+ There's no one sitting in the chair.
+
+482
+00:22:43,920 --> 00:22:45,880
+ They're like, "Oh, I have to put it on a little bit of weight."
+
+483
+00:22:45,880 --> 00:22:46,880
+ The doctor's like, "Hehehe."
+
+484
+00:22:46,880 --> 00:22:50,440
+ No, he brings a patient and he's a professional.
+
+485
+00:22:50,440 --> 00:22:52,960
+ Patient sits down and he goes, "You want to hurt yourself, don't you?
+
+486
+00:22:52,960 --> 00:22:54,520
+ You want to do these bad things.
+
+487
+00:22:54,520 --> 00:22:56,080
+ You're a bad person.
+
+488
+00:22:56,080 --> 00:22:57,080
+ Nobody loves you.
+
+489
+00:22:57,080 --> 00:22:58,080
+ Nobody loves you."
+
+490
+00:22:58,080 --> 00:23:00,760
+ And it's the voice you hear in your head.
+
+491
+00:23:00,760 --> 00:23:04,480
+ But now you're seeing a 3D representation of that face.
+
+492
+00:23:04,480 --> 00:23:07,520
+ It's all like Lawnmower Man graphics.
+
+493
+00:23:07,520 --> 00:23:11,000
+ And you're hearing that voice come out of the speakers and it's your job as the patient
+
+494
+00:23:11,000 --> 00:23:16,080
+ to go, "No, I'm a good person and I've never done anything wrong except that one time I
+
+495
+00:23:16,080 --> 00:23:18,440
+ stole those Girl Scout cookies from my niece.
+
+496
+00:23:18,440 --> 00:23:22,360
+ But that's between me and me and my niece voice into my head."
+
+497
+00:23:22,360 --> 00:23:24,280
+ And you begin talking back to the head.
+
+498
+00:23:24,280 --> 00:23:28,520
+ Now what happens is over the course of these six sessions, at first the doctor's like,
+
+499
+00:23:28,520 --> 00:23:30,040
+ "Oh, you're nothing.
+
+500
+00:23:30,040 --> 00:23:31,480
+ You're absolutely nothing."
+
+501
+00:23:31,480 --> 00:23:37,120
+ But at session two, session three, as the patient begins standing up to the face, it
+
+502
+00:23:37,120 --> 00:23:40,160
+ goes, "I guess you're right."
+
+503
+00:23:40,160 --> 00:23:45,200
+ And then it will start to complain, "How come I don't have any power over you anymore?"
+
+504
+00:23:45,200 --> 00:23:50,280
+ "I'm in control, but now you're so strong."
+
+505
+00:23:50,280 --> 00:23:52,280
+ That'd be awesome if there's like a fade away button.
+
+506
+00:23:52,280 --> 00:23:55,280
+ They're like, "No, no, I'm going back to the nether, no!"
+
+507
+00:23:55,280 --> 00:23:58,440
+ And then it's like all sound effects, "Doo!"
+
+508
+00:23:58,440 --> 00:23:59,440
+ Game over screen.
+
+509
+00:23:59,440 --> 00:24:00,640
+ They did a full study.
+
+510
+00:24:00,640 --> 00:24:04,440
+ 75 people doing that and 75 people doing alternative theories.
+
+511
+00:24:04,440 --> 00:24:08,600
+ Now to the people who just did this, nine of them completely stopped hearing the voices.
+
+512
+00:24:08,600 --> 00:24:09,760
+ They've never come back.
+
+513
+00:24:09,760 --> 00:24:15,320
+ And then you had a large majority, more than the alternative treatment people, that the
+
+514
+00:24:15,320 --> 00:24:17,200
+ voices got less distressing.
+
+515
+00:24:17,200 --> 00:24:19,080
+ They got less noticeable.
+
+516
+00:24:19,080 --> 00:24:24,760
+ By standing up to these voices in the computer, they were able to actually start to confront
+
+517
+00:24:24,760 --> 00:24:25,760
+ it.
+
+518
+00:24:25,760 --> 00:24:29,280
+ And the doctors like, "Listen, schizophrenia is something that is not a one size fits
+
+519
+00:24:29,280 --> 00:24:31,120
+ all thing and we know that.
+
+520
+00:24:31,120 --> 00:24:33,680
+ We've been doing medication for years, people still hear voices.
+
+521
+00:24:33,680 --> 00:24:36,840
+ We've been doing therapy for years, we still hear voices."
+
+522
+00:24:36,840 --> 00:24:40,400
+ Our therapy is not the cure for this.
+
+523
+00:24:40,400 --> 00:24:45,760
+ He goes, "This with medicine, this with therapy can change your life."
+
+524
+00:24:45,760 --> 00:24:49,880
+ We're not saying this is the thing, but he goes, "I believe in a few years this will
+
+525
+00:24:49,880 --> 00:24:53,400
+ just be part of any psychiatrist's toolbox.
+
+526
+00:24:53,400 --> 00:24:55,560
+ You'll have this equipment at your place."
+
+527
+00:24:55,560 --> 00:24:58,400
+ Because it's just a computer program and a microphone.
+
+528
+00:24:58,400 --> 00:25:00,320
+ But you can do this.
+
+529
+00:25:00,320 --> 00:25:02,440
+ It's bizarre.
+
+530
+00:25:02,440 --> 00:25:04,280
+ It's super bizarre.
+
+531
+00:25:04,280 --> 00:25:05,280
+ It's amazing story.
+
+532
+00:25:05,280 --> 00:25:09,280
+ I love seeing technology help people like that.
+
+533
+00:25:09,280 --> 00:25:13,920
+ But let's put on our conspiracy caps and wrap this episode up.
+
+534
+00:25:13,920 --> 00:25:16,720
+ We all know how things work.
+
+535
+00:25:16,720 --> 00:25:18,200
+ We're all old.
+
+536
+00:25:18,200 --> 00:25:19,200
+ Right?
+
+537
+00:25:19,200 --> 00:25:23,360
+ If you're listening to this podcast, you're at least, I don't know, 14, 15 years old.
+
+538
+00:25:23,360 --> 00:25:25,520
+ "Hey dad, can I listen to that rapper radio?"
+
+539
+00:25:25,520 --> 00:25:26,920
+ "Sure son.
+
+540
+00:25:26,920 --> 00:25:31,440
+ Just shut it off if he starts talking about Nigerian's penises, this variant."
+
+541
+00:25:31,440 --> 00:25:33,120
+ "Swell dad!"
+
+542
+00:25:33,120 --> 00:25:38,400
+ Even if you're 14 years old, I think you're aware of the fact that technology marches
+
+543
+00:25:38,400 --> 00:25:40,400
+ ever so forward.
+
+544
+00:25:40,400 --> 00:25:41,920
+ So this is the way it works.
+
+545
+00:25:41,920 --> 00:25:43,480
+ They build this machine.
+
+546
+00:25:43,480 --> 00:25:48,600
+ You can totally do all these sliders, customize the voice, doctor speak into it, talking to
+
+547
+00:25:48,600 --> 00:25:49,600
+ you.
+
+548
+00:25:49,600 --> 00:25:52,080
+ First thing we're going to get is a graphical upgrade.
+
+549
+00:25:52,080 --> 00:25:54,000
+ The face looks more realistic.
+
+550
+00:25:54,000 --> 00:25:55,720
+ The sound technology will get better.
+
+551
+00:25:55,720 --> 00:26:00,120
+ You can sound indistinguishable from the voice in your head rather than like a rough
+
+552
+00:26:00,120 --> 00:26:01,920
+ estimation of it.
+
+553
+00:26:01,920 --> 00:26:04,760
+ But then they'll start to figure out a way to do home therapy.
+
+554
+00:26:04,760 --> 00:26:09,960
+ They'll figure out a way to take this software and make it available 24/7.
+
+555
+00:26:09,960 --> 00:26:12,160
+ This is maybe three or four years down the line.
+
+556
+00:26:12,160 --> 00:26:13,480
+ This is successful.
+
+557
+00:26:13,480 --> 00:26:15,280
+ This is just how technology works.
+
+558
+00:26:15,280 --> 00:26:20,240
+ Arcade games were originally these huge consoles and then they became the console in your home.
+
+559
+00:26:20,240 --> 00:26:24,880
+ And now it's the entertainment powerhouse that basically ties together your living room.
+
+560
+00:26:24,880 --> 00:26:29,160
+ I have a device that I use to check my oxygen saturation levels.
+
+561
+00:26:29,160 --> 00:26:32,800
+ That device would have never been a home use device 10, 20 years ago.
+
+562
+00:26:32,800 --> 00:26:36,080
+ The technology didn't exist and now you can buy it on Amazon for 20 bucks just in case
+
+563
+00:26:36,080 --> 00:26:38,000
+ you're afraid you have coronavirus.
+
+564
+00:26:38,000 --> 00:26:41,480
+ This device will become available at home but instead of having your loved one sitting
+
+565
+00:26:41,480 --> 00:26:45,440
+ in the next room going "you suck, you're a terrible person, and you need to do the dishes
+
+566
+00:26:45,440 --> 00:26:49,880
+ more often and you smell like cheese" you're like "doesn't that work with the voices in
+
+567
+00:26:49,880 --> 00:26:50,880
+ my head, say?"
+
+568
+00:26:50,880 --> 00:26:52,680
+ "Yeah, but all those things are true."
+
+569
+00:26:52,680 --> 00:26:54,440
+ And then your loved one leaves.
+
+570
+00:26:54,440 --> 00:26:56,880
+ They'll figure out some way to automate it.
+
+571
+00:26:56,880 --> 00:27:03,520
+ Then somebody will start to build an AI program to run this.
+
+572
+00:27:03,520 --> 00:27:06,240
+ And that is why we are here now.
+
+573
+00:27:06,240 --> 00:27:08,080
+ We are now 50 years in the future.
+
+574
+00:27:08,080 --> 00:27:12,240
+ It's 2070 and the world is a wasteland.
+
+575
+00:27:12,240 --> 00:27:17,400
+ That's always been the concern about AI that will eventually just eliminate humanity.
+
+576
+00:27:17,400 --> 00:27:23,520
+ But what happens when that AI is modeled after schizophrenia?
+
+577
+00:27:23,520 --> 00:27:30,960
+ What happens when that AI is designed to replicate the voices in people's heads?
+
+578
+00:27:30,960 --> 00:27:35,080
+ What happens when the technology goes too far?
+
+579
+00:27:35,080 --> 00:27:42,640
+ And on top of that, the AI in that technology specifically wants to hurt people.
+
+580
+00:27:42,640 --> 00:27:45,440
+ Specifically thinks you're dumb.
+
+581
+00:27:45,440 --> 00:27:47,640
+ Specifically thinks you're worth nothing.
+
+582
+00:27:47,640 --> 00:27:52,040
+ And it was on a computer in a lab someone was trying to develop this software to the
+
+583
+00:27:52,040 --> 00:27:53,040
+ next level.
+
+584
+00:27:53,040 --> 00:27:59,160
+ Self-treatment for schizophrenia, but they go just too far.
+
+585
+00:27:59,160 --> 00:28:04,560
+ This technology makes it so the voices in your head can be confronted and be destroyed.
+
+586
+00:28:04,560 --> 00:28:10,800
+ But what happens when that technology goes too far and the voices in your head are unleashed
+
+587
+00:28:10,800 --> 00:28:18,360
+ on all of humanity?
+
+588
+00:28:18,360 --> 00:28:20,800
+ DeadRabber Radio at gmail.com is going to be your email address.
+
+589
+00:28:20,800 --> 00:28:23,880
+ You can also hit us up at facebook.com/DeadRabberRadio.
+
+590
+00:28:23,880 --> 00:28:25,760
+ Twitter is @DeadRabberRadio.
+
+591
+00:28:25,760 --> 00:28:29,000
+ DeadRabber Radio is the daily paranormal conspiracy and true crime podcast.
+
+592
+00:28:29,000 --> 00:28:32,000
+ You don't have to listen to it every day, but I'm glad you listened to it today.
+
+593
+00:28:32,000 --> 00:28:33,160
+ Have a great one guys.
+
+594
+00:28:33,160 --> 00:28:47,880
+ Bye.
+
+595
+00:28:47,880 --> 00:28:50,460
+ (upbeat music)
+
+596
+00:28:50,460 --> 00:29:00,460
+ [MUSIC]
+
