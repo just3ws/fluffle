@@ -4,7 +4,7 @@ source 'https://rubygems.org'
 
 # gem "rails"
 
-gem 'nokogiri', '~> 1.15'
+gem 'nokogiri', '~> 1.16'
 
 gem 'streamio-ffmpeg', '~> 3.0'
 
